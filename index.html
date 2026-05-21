@@ -424,6 +424,10 @@
             
             const platformClass = getPlatformClass(deal.platform);
             const saved = isSaved(deal.link);
+            const displayPrice = deal.currentPrice || 'FREE';
+            const isFreeDeal = displayPrice.toUpperCase().includes('FREE') || displayPrice === '$0' || displayPrice === '0';
+            const actionText = isFreeDeal ? 'Claim' : 'View Deal';
+            const discountBadge = deal.discountPct ? `<span class="bg-emerald-600/20 text-emerald-400 border border-emerald-600/30 text-[9px] px-2 py-0.5 rounded font-black uppercase tracking-wider mt-2 inline-block">${deal.discountPct}</span>` : '';
             
             // Add Subscription Required badge if needed
             let subBadge = '';
@@ -453,6 +457,7 @@
                 <div class="p-6 flex-grow flex flex-col">
                     <h3 class="text-base font-black leading-tight mb-4 h-12 line-clamp-2 uppercase tracking-tight">${deal.title}</h3>
                     ${subBadge}
+                    ${discountBadge}
                     <div class="mt-auto space-y-4">
                         ${deal.expiryDate ? `
                         <div class="flex items-center justify-between bg-slate-950/50 p-2 rounded-lg border border-slate-800/50">
@@ -463,9 +468,9 @@
                         <div class="flex items-center justify-between">
                             <div class="flex flex-col">
                                 <span class="text-[10px] text-slate-500 line-through font-bold">${deal.originalPrice || 'N/A'}</span>
-                                <span class="text-xl font-black text-yellow-500 italic tracking-tighter">FREE</span>
+                                <span class="text-xl font-black text-yellow-500 italic tracking-tighter">${displayPrice}</span>
                             </div>
-                            <a href="${deal.link}" target="_blank" class="bg-yellow-500 hover:bg-yellow-400 text-slate-950 px-6 py-2 rounded-lg font-black uppercase text-[10px] tracking-widest transition-all active:scale-95">Claim</a>
+                            <a href="${deal.link}" target="_blank" class="bg-yellow-500 hover:bg-yellow-400 text-slate-950 px-6 py-2 rounded-lg font-black uppercase text-[10px] tracking-widest transition-all active:scale-95">${actionText}</a>
                         </div>
                     </div>
                 </div>
