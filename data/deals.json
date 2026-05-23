@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T23:37:11.210Z",
+  "lastUpdated": "2026-05-23T01:08:55.756Z",
   "deals": [
     {
       "title": "Down in Bermuda",
@@ -47,15 +47,6 @@
       "category": "Game",
       "expiryDate": "2026-05-25T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
-    },
-    {
-      "title": "Night Clerk",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
-      "category": "Game",
-      "expiryDate": "2026-05-23T00:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Red Margins",
@@ -148,24 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Follower",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/follower",
-      "category": "Game",
-      "expiryDate": "2026-05-23T00:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
-    },
-    {
-      "title": "Late Stops",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/late-stops",
-      "category": "Game",
-      "expiryDate": "2026-05-23T00:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Storefront",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/storefront",
-      "category": "Game",
-      "expiryDate": "2026-05-23T00:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
       "title": "Fractured: Roadwood Stop",
@@ -283,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-05-25T02:37:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
-    },
-    {
       "title": "Rogeria Escape",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -308,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-05-31T22:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-05-24T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
     },
     {
       "title": "Bunny Guys!",
@@ -344,15 +308,6 @@
       "category": "Mobile",
       "expiryDate": "2026-05-28T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a0f239f0fb4e.jpg"
-    },
-    {
-      "title": "Tower of Time",
-      "platform": "Steam",
-      "originalPrice": "$24.99",
-      "link": "https://www.fanatical.com/en/game/tower-of-time",
-      "category": "Game",
-      "expiryDate": "2026-05-22T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a0d9f96c5207.jpg"
     },
     {
       "title": "Dino running from a FURRY: GAMESFORFARM",
