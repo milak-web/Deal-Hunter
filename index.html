@@ -176,6 +176,91 @@
         const isGitHubPages = window.location.hostname.includes('github.io');
         let isStaticMode = isGitHubPages || window.location.protocol === 'file:';
         let lastDealsPayload = null;
+        const claimedDealsStorageKey = 'dealhunter_claimed_deals_v1';
+        let claimedDeals = JSON.parse(localStorage.getItem(claimedDealsStorageKey) || '{}');
+
+        function saveClaimedDeals() {
+            localStorage.setItem(claimedDealsStorageKey, JSON.stringify(claimedDeals));
+        }
+
+        function normalizeDealLink(link) {
+            if (!link || typeof link !== 'string') return null;
+            const trimmed = link.trim();
+            if (!trimmed) return null;
+            try {
+                const url = new URL(trimmed);
+                url.search = '';
+                url.hash = '';
+                return url.toString().replace(/\/$/, '');
+            } catch (_) {
+                return trimmed.split('?')[0].replace(/\/$/, '');
+            }
+        }
+
+        function isClaimed(link) {
+            const key = normalizeDealLink(link);
+            return Boolean(key && claimedDeals[key]);
+        }
+
+        function showUiToast(message, tone = 'info') {
+            let toast = document.getElementById('appToast');
+            if (!toast) {
+                toast = document.createElement('div');
+                toast.id = 'appToast';
+                toast.className = 'fixed bottom-6 left-1/2 -translate-x-1/2 z-[100] px-4 py-2 rounded-lg text-xs font-black uppercase tracking-widest shadow-2xl border transition-all duration-200';
+                document.body.appendChild(toast);
+            }
+
+            const toneClass =
+                tone === 'success'
+                    ? 'bg-emerald-600 text-white border-emerald-400'
+                    : tone === 'warn'
+                        ? 'bg-amber-500 text-slate-950 border-amber-300'
+                        : 'bg-slate-800 text-slate-100 border-slate-600';
+            toast.className = `fixed bottom-6 left-1/2 -translate-x-1/2 z-[100] px-4 py-2 rounded-lg text-xs font-black uppercase tracking-widest shadow-2xl border transition-all duration-200 ${toneClass}`;
+            toast.textContent = message;
+            toast.classList.remove('opacity-0', 'pointer-events-none');
+            toast.classList.add('opacity-100');
+
+            clearTimeout(toast._hideTimer);
+            toast._hideTimer = setTimeout(() => {
+                toast.classList.add('opacity-0', 'pointer-events-none');
+            }, 2200);
+        }
+
+        function markDealAsClaimed(link) {
+            const normalized = normalizeDealLink(link);
+            if (!normalized) return;
+
+            const sourceDeal = allDeals.find(d => normalizeDealLink(d.link) === normalized) ||
+                               watchlist.find(d => normalizeDealLink(d.link) === normalized);
+            claimedDeals[normalized] = {
+                claimedAt: new Date().toISOString(),
+                title: sourceDeal?.title || ''
+            };
+            saveClaimedDeals();
+        }
+
+        function handleClaimClick(event, encodedLink) {
+            event.preventDefault();
+            const link = decodeURIComponent(encodedLink || '');
+            if (!link) return;
+
+            if (isClaimed(link)) {
+                showUiToast('Already Claimed', 'warn');
+                return;
+            }
+
+            markDealAsClaimed(link);
+            filterAndDisplay();
+            if (!watchlistSection.classList.contains('hidden')) updateWatchlistUI();
+
+            const sourceDeal = allDeals.find(d => normalizeDealLink(d.link) === normalizeDealLink(link)) ||
+                               watchlist.find(d => normalizeDealLink(d.link) === normalizeDealLink(link));
+            const title = sourceDeal?.title ? sourceDeal.title : 'Deal';
+            showUiToast(`Claimed: ${title}`, 'success');
+            window.open(link, '_blank', 'noopener,noreferrer');
+        }
 
         function parseDealExpiry(value) {
             if (!value || typeof value !== 'string') return null;
@@ -426,9 +511,14 @@
             
             const platformClass = getPlatformClass(deal.platform);
             const saved = isSaved(deal.link);
+            const claimed = isClaimed(deal.link);
             const displayPrice = deal.currentPrice || 'FREE';
             const isFreeDeal = displayPrice.toUpperCase().includes('FREE') || displayPrice === '$0' || displayPrice === '0';
-            const actionText = isFreeDeal ? 'Claim' : 'View Deal';
+            const actionText = claimed ? 'Claimed' : (isFreeDeal ? 'Claim' : 'View Deal');
+            const claimBtnClass = claimed
+                ? 'bg-emerald-700 text-white cursor-not-allowed opacity-90'
+                : 'bg-yellow-500 hover:bg-yellow-400 text-slate-950 active:scale-95';
+            const encodedLink = encodeURIComponent(deal.link);
             const discountBadge = deal.discountPct ? `<span class="bg-emerald-600/20 text-emerald-400 border border-emerald-600/30 text-[9px] px-2 py-0.5 rounded font-black uppercase tracking-wider mt-2 inline-block">${deal.discountPct}</span>` : '';
             
             // Add Subscription Required badge if needed
@@ -472,7 +562,11 @@
                                 <span class="text-[10px] text-slate-500 line-through font-bold">${deal.originalPrice || 'N/A'}</span>
                                 <span class="text-xl font-black text-yellow-500 italic tracking-tighter">${displayPrice}</span>
                             </div>
-                            <a href="${deal.link}" target="_blank" class="bg-yellow-500 hover:bg-yellow-400 text-slate-950 px-6 py-2 rounded-lg font-black uppercase text-[10px] tracking-widest transition-all active:scale-95">${actionText}</a>
+                            <button
+                                onclick="handleClaimClick(event, '${encodedLink}')"
+                                ${claimed ? 'disabled' : ''}
+                                class="${claimBtnClass} px-6 py-2 rounded-lg font-black uppercase text-[10px] tracking-widest transition-all"
+                            >${actionText}</button>
                         </div>
                     </div>
                 </div>
