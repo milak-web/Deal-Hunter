@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T18:35:08.530Z",
+  "lastUpdated": "2026-05-24T20:00:56.871Z",
   "deals": [
     {
       "title": "Down in Bermuda",
@@ -47,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-05-31T23:34:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NDEwMzU4LnBuZw==/315x250%23c/0dwMwc.png"
+    },
+    {
+      "title": "The Bigfoot: Snow Massacre",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+      "category": "Game",
+      "expiryDate": "2026-05-28T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
       "title": "Red Margins",
