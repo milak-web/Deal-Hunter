@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T15:59:27.928Z",
+  "lastUpdated": "2026-05-24T17:07:51.379Z",
   "deals": [
     {
       "title": "Down in Bermuda",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "The Bigfoot: Snow Massacre",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
-      "category": "Game",
-      "expiryDate": "2026-05-25T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
-    },
-    {
       "title": "The Cleaning Incident",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -67,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-06-01T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
       "title": "Svoboda 1945: Liberation",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +65,15 @@
       "category": "Game",
       "expiryDate": "2026-05-25T21:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzc5MjkwNzUuanBn/315x250%23c/6z7n1A.jpg"
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-06-01T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Larger Than Light",
@@ -229,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "OctoMech Survivors",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://arkhamsoft.itch.io/octomech-survivors",
-      "category": "Game",
-      "expiryDate": "2026-06-01T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzg4NDIwLnBuZw==/315x250%23c/RF0FLF.png"
-    },
-    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-05-25T02:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
+    },
+    {
+      "title": "OctoMech Survivors",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://arkhamsoft.itch.io/octomech-survivors",
+      "category": "Game",
+      "expiryDate": "2026-06-01T06:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzg4NDIwLnBuZw==/315x250%23c/RF0FLF.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
