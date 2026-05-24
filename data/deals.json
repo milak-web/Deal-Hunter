@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T23:51:24.904Z",
+  "lastUpdated": "2026-05-24T02:34:15.674Z",
   "deals": [
     {
       "title": "Down in Bermuda",
@@ -58,13 +58,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
     },
     {
-      "title": "Larger Than Light",
+      "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://1010meha.itch.io/larger-than-light",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
       "category": "Game",
-      "expiryDate": "2026-06-01T00:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
+      "expiryDate": "2026-06-01T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Wasteland Alone",
@@ -74,6 +74,24 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Larger Than Light",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://1010meha.itch.io/larger-than-light",
+      "category": "Game",
+      "expiryDate": "2026-06-01T00:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
+    },
+    {
+      "title": "Svoboda 1945: Liberation",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://charlesgames.itch.io/svoboda1945",
+      "category": "Game",
+      "expiryDate": "2026-05-25T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc5MjkwNzUuanBn/315x250%23c/6z7n1A.jpg"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -94,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-06-03T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "The Cleaning Incident",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NDEwMzU4LnBuZw==/315x250%23c/0dwMwc.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-06-01T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
       "title": "Metanet Hunter G4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,15 +128,6 @@
       "category": "Game",
       "expiryDate": "2026-05-31T04:24:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzM4MTYxMjkuanBn/315x250%23c/7%2ByvvW.jpg"
-    },
-    {
-      "title": "Svoboda 1945: Liberation",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://charlesgames.itch.io/svoboda1945",
-      "category": "Game",
-      "expiryDate": "2026-05-25T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzc5MjkwNzUuanBn/315x250%23c/6z7n1A.jpg"
     },
     {
       "title": "Cherophobia",
@@ -157,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-06-03T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Terminal Descent",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -166,24 +166,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
     },
     {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-05-28T09:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "Fractured: Roadwood Stop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
-    },
-    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,33 +173,6 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Fractured: The Cast",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-05-28T09:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
-      "title": "Rose and Cross",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zv-games.itch.io/roseandcross",
-      "category": "Game",
-      "expiryDate": "2026-05-31T15:18:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYyNzA4LnBuZw==/315x250%23c/r0UrdV.png"
     },
     {
       "title": "Worst Wifey (ワル嫁)",
@@ -238,13 +193,40 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NDI1NTcwLnBuZw==/315x250%23c/srmjWs.png"
     },
     {
-      "title": "Static Voice",
+      "title": "Fractured: The Cast",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
+      "link": "https://fenixapple.itch.io/fractured",
       "category": "Game",
-      "expiryDate": "2026-05-29T07:47:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
+    },
+    {
+      "title": "Fractured: Roadwood Stop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
+      "title": "Rose and Cross",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zv-games.itch.io/roseandcross",
+      "category": "Game",
+      "expiryDate": "2026-05-31T15:18:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYyNzA4LnBuZw==/315x250%23c/r0UrdV.png"
+    },
+    {
+      "title": "OctoMech Survivors",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://arkhamsoft.itch.io/octomech-survivors",
+      "category": "Game",
+      "expiryDate": "2026-06-01T06:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzg4NDIwLnBuZw==/315x250%23c/RF0FLF.png"
     },
     {
       "title": "Eternal Night",
@@ -263,15 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-05-25T02:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
-    },
-    {
-      "title": "OctoMech Survivors",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://arkhamsoft.itch.io/octomech-survivors",
-      "category": "Game",
-      "expiryDate": "2026-06-01T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzg4NDIwLnBuZw==/315x250%23c/RF0FLF.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
