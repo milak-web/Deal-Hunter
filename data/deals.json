@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T23:59:15.965Z",
+  "lastUpdated": "2026-05-26T03:53:55.151Z",
   "deals": [
     {
       "title": "Down in Bermuda",
@@ -112,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-06-03T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Rose and Cross",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-05-31T15:18:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYyNzA4LnBuZw==/315x250%23c/r0UrdV.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-06-01T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Cherophobia",
@@ -148,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-06-03T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Terminal Descent",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,13 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
+      "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
       "category": "Game",
       "expiryDate": "2026-06-01T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Metanet Hunter G4",
@@ -175,40 +166,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzM4MTYxMjkuanBn/315x250%23c/7%2ByvvW.jpg"
     },
     {
-      "title": "Fractured: Roadwood Stop",
+      "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
       "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
-    },
-    {
-      "title": "Fractured: The Cast",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
-    },
-    {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-05-28T09:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-05-28T09:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+      "expiryDate": "2026-06-01T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Worst Wifey (ワル嫁)",
@@ -229,13 +193,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
-      "title": "Eternal Night",
+      "title": "Fractured: Roadwood Stop",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
       "category": "Game",
-      "expiryDate": "2026-05-31T22:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
+      "title": "Fractured: The Cast",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -247,6 +220,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-05-31T22:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-05-28T09:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
       "title": "First Person Stapler",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -256,31 +247,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2MTQxNjgzLnBuZw==/315x250%23c/ntsdWD.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-05-28T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
-    },
-    {
-      "title": "Static Voice",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
-      "category": "Game",
-      "expiryDate": "2026-05-29T07:47:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
-    },
-    {
-      "title": "OctoMech Survivors",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://arkhamsoft.itch.io/octomech-survivors",
-      "category": "Game",
-      "expiryDate": "2026-06-01T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzg4NDIwLnBuZw==/315x250%23c/RF0FLF.png"
+      "expiryDate": "2026-05-28T09:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "DON’T DO IT",
@@ -292,6 +265,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-05-31T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
       "title": "Sonambula",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -299,24 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
-      "title": "Exit Only",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/exit-only",
-      "category": "Game",
-      "expiryDate": "2026-05-31T22:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
-    },
-    {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-06-21T07:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "ChoronosCityAİDetective",
@@ -328,6 +292,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2Mzg0OTA1LnBuZw==/315x250%23c/8y2Wow.png"
     },
     {
+      "title": "Late Stops",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/late-stops",
+      "category": "Game",
+      "expiryDate": "2026-05-30T18:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
       "title": "BoxShift (Offical)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -335,6 +308,15 @@
       "category": "Game",
       "expiryDate": "2026-06-01T06:25:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODQ2NTMyLnBuZw==/315x250%23c/MZTd7Z.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-05-28T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
     },
     {
       "title": "Bunny Guys!",
