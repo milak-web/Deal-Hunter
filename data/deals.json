@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-28T14:32:04.582Z",
+  "lastUpdated": "2026-05-28T17:58:39.548Z",
   "deals": [
     {
-      "title": "Down in Bermuda",
+      "title": "LONESTAR",
       "platform": "Epic Games",
       "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/down-in-bermuda",
+      "link": "https://store.epicgames.com/en-US/p/lonestar-83f143",
       "category": "Game",
-      "startDate": "2026-05-21T15:00:00.000Z",
-      "expiryDate": "2026-05-28T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-5314b15510b84a82971afea207658297"
+      "startDate": "2026-05-28T15:00:00.000Z",
+      "expiryDate": "2026-06-04T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-c6a104de10c14d33854d3018ccf8cc75"
     },
     {
-      "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+      "title": "Calico",
       "platform": "Epic Games",
       "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640",
+      "link": "https://store.epicgames.com/en-US/p/calico",
       "category": "Game",
-      "startDate": "2026-05-21T15:00:00.000Z",
-      "expiryDate": "2026-05-28T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-8d4d3759851d462299fc4c6cf13643b2"
+      "startDate": "2026-05-28T15:00:00.000Z",
+      "expiryDate": "2026-06-04T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-79182ef9c56c44af95ab38b0a2c46329"
     },
     {
       "title": "Open House",
@@ -37,16 +37,7 @@
       "link": "https://chodex-productions.itch.io/the-cleaning-incident",
       "category": "Game",
       "expiryDate": "2026-05-31T23:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NTMzNzA5LnBuZw==/315x250%23c/CwPk02.png"
-    },
-    {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-06-01T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NTM1NjcyLnBuZw==/315x250%23c/qE4twu.png"
     },
     {
       "title": "Night Clerk",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-05-30T18:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-06-01T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Larger Than Light",
@@ -139,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Red Margins",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
-      "category": "Game",
-      "expiryDate": "2026-05-31T22:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
-    },
-    {
       "title": "Follower",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-06-03T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Red Margins",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
+      "category": "Game",
+      "expiryDate": "2026-05-31T22:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
+      "title": "Fractured: The Cast",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
+    },
+    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,15 +227,6 @@
       "category": "Game",
       "expiryDate": "2026-05-31T20:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
-    },
-    {
-      "title": "Fractured: The Cast",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
       "title": "Sonambula",
@@ -292,6 +292,33 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
+      "title": "The Dark Retributionist",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://al3cs71.itch.io/the-dark-retributionist",
+      "category": "Game",
+      "expiryDate": "2026-06-14T23:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
+    },
+    {
+      "title": "Drift86",
+      "platform": "Steam",
+      "originalPrice": "$1.99",
+      "link": "https://store.steampowered.com/app/1070580/Drift86",
+      "category": "Game",
+      "expiryDate": "2026-06-03T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a18680e56754.jpg"
+    },
+    {
+      "title": "Northgard",
+      "platform": "Mobile",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-06-04T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a185cc43a9e0.jpg"
+    },
+    {
       "title": "Bunny Guys!",
       "platform": "Steam",
       "originalPrice": "$4.99",
@@ -299,24 +326,6 @@
       "category": "Game",
       "expiryDate": "2026-05-29T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a109043243f5.jpg"
-    },
-    {
-      "title": "Warhammer 40,000: Gladius - Relics of War",
-      "platform": "Steam",
-      "originalPrice": "$39.99",
-      "link": "https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War",
-      "category": "Game",
-      "expiryDate": "2026-05-28T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/646f9975b9fea.jpg"
-    },
-    {
-      "title": "Monument Valley 3",
-      "platform": "Mobile",
-      "originalPrice": "$5.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-05-28T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a0f239f0fb4e.jpg"
     },
     {
       "title": "Dino running from a FURRY: GAMESFORFARM",
