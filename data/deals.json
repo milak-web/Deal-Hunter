@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T13:08:16.419Z",
+  "lastUpdated": "2026-05-30T14:50:50.812Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Metanet Hunter G4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://nightkawata.itch.io/metanet-hunter-g4",
-      "category": "Game",
-      "expiryDate": "2026-05-31T04:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzM4MTYxMjkuanBn/315x250%23c/7%2ByvvW.jpg"
-    },
-    {
       "title": "Late Stops",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -121,13 +112,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
+      "title": "Storefront",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "link": "https://grantrimi.itch.io/storefront",
       "category": "Game",
-      "expiryDate": "2026-06-01T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+      "expiryDate": "2026-05-30T18:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
+    },
+    {
+      "title": "Metanet Hunter G4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://nightkawata.itch.io/metanet-hunter-g4",
+      "category": "Game",
+      "expiryDate": "2026-05-31T04:24:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzM4MTYxMjkuanBn/315x250%23c/7%2ByvvW.jpg"
     },
     {
       "title": "Follower",
@@ -137,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-05-30T18:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-01T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -166,13 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Storefront",
+      "title": "Not A Customer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/storefront",
+      "link": "https://opvgame-studio.itch.io/notacustomer",
       "category": "Game",
-      "expiryDate": "2026-05-30T18:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
+      "expiryDate": "2026-06-01T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
     },
     {
       "title": "Red Margins",
@@ -220,13 +229,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
-      "title": "Not A Customer",
+      "title": "Fractured: The Cast",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://opvgame-studio.itch.io/notacustomer",
+      "link": "https://fenixapple.itch.io/fractured",
       "category": "Game",
-      "expiryDate": "2026-06-01T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
       "title": "Silent Still 3",
@@ -238,24 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
-      "title": "Duskoryx",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://steelward-studio.itch.io/duskoryx",
-      "category": "Game",
-      "expiryDate": "2026-06-04T15:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NDk0MTA0LnBuZw==/315x250%23c/mWB9Gp.png"
-    },
-    {
-      "title": "Fractured: The Cast",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,6 +254,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Duskoryx",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://steelward-studio.itch.io/duskoryx",
+      "category": "Game",
+      "expiryDate": "2026-06-04T15:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NDk0MTA0LnBuZw==/315x250%23c/mWB9Gp.png"
     },
     {
       "title": "Fractured: Roadwood Stop",
