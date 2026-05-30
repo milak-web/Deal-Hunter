@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T17:15:21.207Z",
+  "lastUpdated": "2026-05-30T18:37:05.199Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/open-house",
       "category": "Game",
-      "expiryDate": "2026-05-30T18:30:00.000Z",
+      "expiryDate": "2026-06-03T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
@@ -63,7 +63,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/night-clerk",
       "category": "Game",
-      "expiryDate": "2026-05-30T18:30:00.000Z",
+      "expiryDate": "2026-06-03T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
@@ -103,6 +103,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
+      "title": "Late Stops",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/late-stops",
+      "category": "Game",
+      "expiryDate": "2026-06-03T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
       "title": "Metanet Hunter G4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,21 +121,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzM4MTYxMjkuanBn/315x250%23c/7%2ByvvW.jpg"
     },
     {
-      "title": "Late Stops",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/late-stops",
-      "category": "Game",
-      "expiryDate": "2026-05-30T18:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
-    },
-    {
       "title": "Storefront",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/storefront",
       "category": "Game",
-      "expiryDate": "2026-05-30T18:30:00.000Z",
+      "expiryDate": "2026-06-03T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/follower",
       "category": "Game",
-      "expiryDate": "2026-05-30T18:30:00.000Z",
+      "expiryDate": "2026-06-03T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
@@ -166,31 +166,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Rose and Cross",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://zv-games.itch.io/roseandcross",
       "category": "Game",
-      "expiryDate": "2026-05-31T16:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
-      "title": "Not A Customer",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://opvgame-studio.itch.io/notacustomer",
-      "category": "Game",
-      "expiryDate": "2026-06-01T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
-    },
-    {
-      "title": "Red Margins",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
-      "category": "Game",
-      "expiryDate": "2026-05-31T22:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
+      "expiryDate": "2026-05-31T15:18:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYyNzA4LnBuZw==/315x250%23c/r0UrdV.png"
     },
     {
       "title": "Lord of Chaos",
@@ -198,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-06-01T17:00:00.000Z",
+      "expiryDate": "2026-06-03T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
     },
     {
@@ -211,13 +193,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Rose and Cross",
+      "title": "Red Margins",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://zv-games.itch.io/roseandcross",
+      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
       "category": "Game",
-      "expiryDate": "2026-05-31T15:18:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYyNzA4LnBuZw==/315x250%23c/r0UrdV.png"
+      "expiryDate": "2026-05-31T22:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
     },
     {
       "title": "Gamers Club Repeat",
@@ -227,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-06-09T02:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-06-26T23:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Fractured: The Cast",
@@ -245,15 +236,6 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-06-26T23:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Duskoryx",
@@ -283,6 +265,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-05-31T22:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -292,13 +283,40 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
-      "title": "Eternal Night",
+      "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
-      "expiryDate": "2026-05-31T22:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+      "expiryDate": "2026-05-31T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
+      "title": "Evertrust Life And Beyond (Full Game)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
+      "category": "Game",
+      "expiryDate": "2026-06-21T07:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
+    },
+    {
+      "title": "Moonrise Fall",
+      "platform": "Steam",
+      "originalPrice": "$9.99",
+      "link": "https://store.steampowered.com/app/1035110/Moonrise_Fall",
+      "category": "Game",
+      "expiryDate": "2026-06-02T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a1b24ffbbc52.jpg"
+    },
+    {
+      "title": "IQ Under Construction",
+      "platform": "Steam",
+      "originalPrice": "$2.99",
+      "link": "https://store.steampowered.com/app/3771740/IQ_Under_Construction",
+      "category": "Game",
+      "expiryDate": "2026-06-01T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a1b241f224c6.jpg"
     },
     {
       "title": "Bunny Guys!",
