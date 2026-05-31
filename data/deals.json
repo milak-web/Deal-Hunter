@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T09:44:41.489Z",
+  "lastUpdated": "2026-05-31T11:29:37.165Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -220,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Sonambula",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
       "title": "NIGHT PUMP: A Horror Game Remake",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-05-31T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzM5ODI1LnBuZw==/315x250%23c/Pr5oZB.png"
+    },
+    {
+      "title": "Sonambula",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/sonambula",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
       "title": "The Uninvited",
