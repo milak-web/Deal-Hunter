@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T18:01:50.893Z",
+  "lastUpdated": "2026-06-02T21:28:33.767Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -37,7 +37,7 @@
       "link": "https://chodex-productions.itch.io/the-cleaning-incident",
       "category": "Game",
       "expiryDate": "2026-06-10T23:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NTM1NjcyLnBuZw==/315x250%23c/qE4twu.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NjM4NTU1LnBuZw==/315x250%23c/hrVn5y.png"
     },
     {
       "title": "Fear Assessment",
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://opvgame-studio.itch.io/notacustomer",
       "category": "Game",
-      "expiryDate": "2026-06-02T23:00:00.000Z",
+      "expiryDate": "2026-06-09T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
     },
     {
@@ -112,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Fractured: The Cast",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,6 +119,15 @@
       "category": "Game",
       "expiryDate": "2026-06-03T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Fractured: The Cast",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
       "title": "Wasteland Alone",
