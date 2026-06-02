@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T00:13:37.225Z",
+  "lastUpdated": "2026-06-02T05:08:42.943Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -20,6 +20,15 @@
       "startDate": "2026-05-28T15:00:00.000Z",
       "expiryDate": "2026-06-04T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-79182ef9c56c44af95ab38b0a2c46329"
+    },
+    {
+      "title": "Open House",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/open-house",
+      "category": "Game",
+      "expiryDate": "2026-06-03T03:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
       "title": "The Cleaning Incident",
@@ -49,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MTY2LnBuZw==/315x250%23c/5gHhAZ.png"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-06-04T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
-    },
-    {
       "title": "Terminal Descent",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,6 +65,15 @@
       "category": "Game",
       "expiryDate": "2026-06-08T16:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-06-04T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
     },
     {
       "title": "Not A Customer",
@@ -85,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-06-12T02:37:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,13 +112,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
       "category": "Game",
-      "expiryDate": "2026-06-08T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-06-15T14:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
       "title": "Fractured: The Cast",
@@ -112,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
-      "title": "Gamers Club Repeat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-      "category": "Game",
-      "expiryDate": "2026-06-12T02:37:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,13 +139,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-06-15T14:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
+      "expiryDate": "2026-06-08T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Sonambula",
@@ -182,24 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-06-10T20:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzY3MTU4NDUucG5n/315x250%23c/nT6ruI.png"
-    },
-    {
-      "title": "Five Nights at Freddy’s",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://leonardinoska.itch.io/five-nights-at-freddys",
-      "category": "Game",
-      "expiryDate": "2026-06-07T20:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDc3ODM4LmpwZw==/315x250%23c/5iQLSD.jpg"
-    },
-    {
-      "title": "Project: Reborn - Extraction",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-      "category": "Game",
-      "expiryDate": "2026-06-05T13:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
       "title": "Tell Me Why",
