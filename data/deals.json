@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T09:46:28.694Z",
+  "lastUpdated": "2026-06-02T13:54:37.636Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
     },
     {
-      "title": "Not A Customer",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://opvgame-studio.itch.io/notacustomer",
-      "category": "Game",
-      "expiryDate": "2026-06-02T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
-    },
-    {
       "title": "Fractured: Roadwood Stop",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,13 +85,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
+      "title": "Not A Customer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "link": "https://opvgame-studio.itch.io/notacustomer",
       "category": "Game",
-      "expiryDate": "2026-06-03T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+      "expiryDate": "2026-06-02T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
+    },
+    {
+      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
+      "category": "Game",
+      "expiryDate": "2026-06-15T14:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -121,6 +121,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-06-03T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-06-12T02:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
-      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
-      "category": "Game",
-      "expiryDate": "2026-06-15T14:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
       "title": "Wasteland Alone",
@@ -166,15 +166,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
-      "title": "Calmed by the Dark Neon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
-      "category": "Game",
-      "expiryDate": "2026-06-29T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
-    },
-    {
       "title": "Calmed by the Dark Aftermath",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -182,6 +173,15 @@
       "category": "Game",
       "expiryDate": "2026-06-29T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
+    },
+    {
+      "title": "Calmed by the Dark Neon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
+      "category": "Game",
+      "expiryDate": "2026-06-29T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
     },
     {
       "title": "Violetti Goottii",
