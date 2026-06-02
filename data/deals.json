@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T13:54:37.636Z",
+  "lastUpdated": "2026-06-02T18:01:50.893Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Gamers Club Repeat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-      "category": "Game",
-      "expiryDate": "2026-06-12T02:37:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,6 +139,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-06-12T02:37:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
       "title": "Sonambula",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
+    },
+    {
+      "title": "Calmed by the Dark Neon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
+      "category": "Game",
+      "expiryDate": "2026-06-29T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
     },
     {
       "title": "Evertrust Life And Beyond (Full Game)",
@@ -175,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
     },
     {
-      "title": "Calmed by the Dark Neon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
-      "category": "Game",
-      "expiryDate": "2026-06-29T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
-    },
-    {
       "title": "Violetti Goottii",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-06-10T20:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzY3MTU4NDUucG5n/315x250%23c/nT6ruI.png"
+    },
+    {
+      "title": "Winexy",
+      "platform": "Steam",
+      "originalPrice": "$4.99",
+      "link": "https://store.steampowered.com/app/577740/Winexy",
+      "category": "Game",
+      "expiryDate": "2026-06-05T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a1f0e8473e5d.jpg"
     },
     {
       "title": "Tell Me Why",
@@ -209,15 +218,6 @@
       "category": "Game",
       "expiryDate": "2026-06-14T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a1dbddf722cd.jpg"
-    },
-    {
-      "title": "Moonrise Fall",
-      "platform": "Steam",
-      "originalPrice": "$9.99",
-      "link": "https://store.steampowered.com/app/1035110/Moonrise_Fall",
-      "category": "Game",
-      "expiryDate": "2026-06-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a1b24ffbbc52.jpg"
     },
     {
       "title": "Bunny Guys!",
