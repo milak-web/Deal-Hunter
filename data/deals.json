@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T07:19:47.238Z",
+  "lastUpdated": "2026-06-03T12:17:49.476Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -117,17 +117,8 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-06-03T20:40:00.000Z",
+      "expiryDate": "2026-06-17T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Gamers Club Repeat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-      "category": "Game",
-      "expiryDate": "2026-06-12T02:37:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
       "title": "Wasteland Alone",
@@ -137,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-06-12T02:37:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
       "title": "Sonambula",
@@ -173,6 +173,15 @@
       "category": "Game",
       "expiryDate": "2026-06-29T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
+    },
+    {
+      "title": "Transfixed",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sinisterbyte-games.itch.io/transfixed",
+      "category": "Game",
+      "expiryDate": "2026-06-10T07:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
       "title": "Winexy",
