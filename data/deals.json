@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T17:25:08.022Z",
+  "lastUpdated": "2026-06-03T20:33:58.288Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -76,6 +76,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
+      "title": "Fractured: Roadwood Stop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -92,15 +101,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Fractured: Roadwood Stop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-06-17T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Fractured: The Cast",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-06-17T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Wasteland Alone",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
     },
     {
+      "title": "Annotopia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cachecarti.itch.io/annotopia",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
+    },
+    {
       "title": "Transfixed",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,15 +254,6 @@
       "category": "Game",
       "expiryDate": "2026-06-05T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a199f7d977ec.jpg"
-    },
-    {
-      "title": "Drift86",
-      "platform": "Steam",
-      "originalPrice": "$1.99",
-      "link": "https://store.steampowered.com/app/1070580/Drift86",
-      "category": "Game",
-      "expiryDate": "2026-06-03T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a18680e56754.jpg"
     },
     {
       "title": "Northgard",
