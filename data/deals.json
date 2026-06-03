@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T20:33:58.288Z",
+  "lastUpdated": "2026-06-03T22:59:34.469Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -49,24 +49,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MTY2LnBuZw==/315x250%23c/5gHhAZ.png"
     },
     {
-      "title": "Terminal Descent",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://roxicaro.itch.io/terminal-descent",
-      "category": "Game",
-      "expiryDate": "2026-06-08T16:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-06-06T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
-    },
-    {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -76,13 +58,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
-      "title": "Fractured: Roadwood Stop",
+      "title": "Terminal Descent",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "link": "https://roxicaro.itch.io/terminal-descent",
       "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+      "expiryDate": "2026-06-08T16:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -94,6 +76,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-06-06T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
+    },
+    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Fractured: Roadwood Stop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -175,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
-      "title": "Calmed by the Dark Neon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
-      "category": "Game",
-      "expiryDate": "2026-06-29T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
-    },
-    {
       "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,13 +184,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
-      "title": "Calmed by the Dark Aftermath",
+      "title": "Transfixed",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-aftermath",
+      "link": "https://sinisterbyte-games.itch.io/transfixed",
+      "category": "Game",
+      "expiryDate": "2026-06-10T07:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
+    },
+    {
+      "title": "Calmed by the Dark Neon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
       "category": "Game",
       "expiryDate": "2026-06-29T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
     },
     {
       "title": "Annotopia",
@@ -211,13 +211,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
     },
     {
-      "title": "Transfixed",
+      "title": "Calmed by the Dark Aftermath",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://sinisterbyte-games.itch.io/transfixed",
+      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-aftermath",
       "category": "Game",
-      "expiryDate": "2026-06-10T07:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
+      "expiryDate": "2026-06-29T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
     },
     {
       "title": "Winexy",
