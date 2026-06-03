@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T23:16:03.212Z",
+  "lastUpdated": "2026-06-03T02:05:10.329Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
       "title": "Not A Customer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-06-26T23:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
-    },
-    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-06-12T02:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-06-26T23:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Sonambula",
@@ -182,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-06-29T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzM5OTA0MTYucG5n/315x250%23c/hFXacP.png"
-    },
-    {
-      "title": "Violetti Goottii",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewgreen.itch.io/violetti-goottii",
-      "category": "Game",
-      "expiryDate": "2026-06-10T20:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzY3MTU4NDUucG5n/315x250%23c/nT6ruI.png"
     },
     {
       "title": "Winexy",
