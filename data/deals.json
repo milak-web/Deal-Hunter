@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T12:17:49.476Z",
+  "lastUpdated": "2026-06-03T17:25:08.022Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -76,6 +76,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
       "title": "Fractured: Roadwood Stop",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +101,24 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -94,13 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Not A Customer",
+      "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://opvgame-studio.itch.io/notacustomer",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-06-09T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
+      "expiryDate": "2026-06-17T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Fractured: The Cast",
@@ -110,15 +146,6 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-06-17T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Wasteland Alone",
