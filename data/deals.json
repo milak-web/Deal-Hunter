@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T06:30:18.329Z",
+  "lastUpdated": "2026-06-04T10:26:57.455Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
-      "category": "Game",
-      "expiryDate": "2026-06-15T14:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
-    },
-    {
       "title": "MATILDA",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-06-10T22:17:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NjYyNjU0LnBuZw==/315x250%23c/3EJUTr.png"
+    },
+    {
+      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
+      "category": "Game",
+      "expiryDate": "2026-06-15T14:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
       "title": "Terminal Descent",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
