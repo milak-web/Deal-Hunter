@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T10:26:57.455Z",
+  "lastUpdated": "2026-06-04T13:39:00.335Z",
   "deals": [
     {
       "title": "LONESTAR",
@@ -20,15 +20,6 @@
       "startDate": "2026-05-28T15:00:00.000Z",
       "expiryDate": "2026-06-04T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-79182ef9c56c44af95ab38b0a2c46329"
-    },
-    {
-      "title": "The Cleaning Incident",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/the-cleaning-incident",
-      "category": "Game",
-      "expiryDate": "2026-06-10T23:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjQ3NzQ4LnBuZw==/315x250%23c/UsuOP0.png"
     },
     {
       "title": "Fear Assessment",
@@ -103,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
