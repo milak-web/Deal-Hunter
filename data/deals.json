@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-04T13:39:00.335Z",
+  "lastUpdated": "2026-06-04T16:47:53.451Z",
   "deals": [
     {
-      "title": "LONESTAR",
+      "title": "Rogue Waters",
       "platform": "Epic Games",
       "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/lonestar-83f143",
+      "link": "https://store.epicgames.com/en-US/p/rogue-waters-9764d6",
       "category": "Game",
-      "startDate": "2026-05-28T15:00:00.000Z",
-      "expiryDate": "2026-06-04T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-c6a104de10c14d33854d3018ccf8cc75"
+      "startDate": "2026-06-04T15:00:00.000Z",
+      "expiryDate": "2026-06-11T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-673011871d1a462292f9ff38cc0e3410"
     },
     {
-      "title": "Calico",
+      "title": "Songs of Conquest",
       "platform": "Epic Games",
       "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/calico",
+      "link": "https://store.epicgames.com/en-US/p/songs-of-conquest",
       "category": "Game",
-      "startDate": "2026-05-28T15:00:00.000Z",
-      "expiryDate": "2026-06-04T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-79182ef9c56c44af95ab38b0a2c46329"
+      "startDate": "2026-06-04T15:00:00.000Z",
+      "expiryDate": "2026-06-11T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-fd360f5c7abe499d90327b6999884e23"
     },
     {
       "title": "Fear Assessment",
@@ -37,7 +37,7 @@
       "link": "https://redcap-games.itch.io/matilda",
       "category": "Game",
       "expiryDate": "2026-06-10T22:17:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjYyNjU0LnBuZw==/315x250%23c/3EJUTr.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:12:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -175,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-06-21T07:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
-    },
-    {
       "title": "Annotopia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,6 +184,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
     },
     {
+      "title": "Evertrust Life And Beyond (Full Game)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
+      "category": "Game",
+      "expiryDate": "2026-06-21T07:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
+    },
+    {
+      "title": "One Bad Hot Dog",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://figerox.itch.io/one-bad-hot-dog",
+      "category": "Game",
+      "expiryDate": "2026-07-01T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
       "title": "Calmed by the Dark Neon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-06-29T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
+    },
+    {
+      "title": "Wytchwood",
+      "platform": "Mobile",
+      "originalPrice": "$4.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-06-11T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a2196c653557.jpg"
     },
     {
       "title": "Winexy",
@@ -236,15 +254,6 @@
       "category": "Game",
       "expiryDate": "2026-06-05T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a199f7d977ec.jpg"
-    },
-    {
-      "title": "Northgard",
-      "platform": "Mobile",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-06-04T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a185cc43a9e0.jpg"
     }
   ]
 }
