@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T16:47:53.451Z",
+  "lastUpdated": "2026-06-04T19:15:23.957Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-fd360f5c7abe499d90327b6999884e23"
     },
     {
-      "title": "Fear Assessment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/fear-assessment",
-      "category": "Game",
-      "expiryDate": "2026-06-11T18:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
       "title": "MATILDA",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-06-10T22:17:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
+    },
+    {
+      "title": "Fear Assessment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "category": "Game",
+      "expiryDate": "2026-06-11T18:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
@@ -209,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-06-29T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
+    },
+    {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-06-19T07:47:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
       "title": "Wytchwood",
