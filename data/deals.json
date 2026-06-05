@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T14:30:15.932Z",
+  "lastUpdated": "2026-06-05T17:00:24.938Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -281,15 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-06-14T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a1dbddf722cd.jpg"
-    },
-    {
-      "title": "Bunny Guys!",
-      "platform": "Epic Games",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/p/bunny-guys-b325b1",
-      "category": "Game",
-      "expiryDate": "2026-06-05T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a199f7d977ec.jpg"
     }
   ]
 }
