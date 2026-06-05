@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T11:43:33.609Z",
+  "lastUpdated": "2026-06-05T14:30:15.932Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,13 +112,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
+      "title": "Family Secrets 1 : Empty Plate",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "link": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
       "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+      "expiryDate": "2026-06-09T09:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Njg2MzU0LnBuZw==/315x250%23c/T3ipaq.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -121,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-06-17T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-06-17T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Fractured: The Cast",
@@ -166,24 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
-      "title": "Family Secrets 1 : Empty Plate",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
-      "category": "Game",
-      "expiryDate": "2026-06-09T09:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Njg2MzU0LnBuZw==/315x250%23c/T3ipaq.png"
-    },
-    {
-      "title": "Annotopia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cachecarti.itch.io/annotopia",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
-    },
-    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,6 +193,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
+      "title": "Annotopia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cachecarti.itch.io/annotopia",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
+    },
+    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,15 +209,6 @@
       "category": "Game",
       "expiryDate": "2026-07-01T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
-    },
-    {
-      "title": "Project: Reborn - Extraction",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-      "category": "Game",
-      "expiryDate": "2026-06-05T13:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
       "title": "Burnt",
@@ -245,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-06-19T07:47:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
+      "title": "Calmed by the Dark Neon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
+      "category": "Game",
+      "expiryDate": "2026-06-29T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
     },
     {
       "title": "Wytchwood",
