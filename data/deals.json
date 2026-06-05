@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T04:19:36.768Z",
+  "lastUpdated": "2026-06-05T08:29:36.814Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
+      "title": "Project: Reborn - Extraction",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
+      "category": "Game",
+      "expiryDate": "2026-06-05T13:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
+    },
+    {
       "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,6 +220,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-06-19T07:47:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,15 +236,6 @@
       "category": "Game",
       "expiryDate": "2026-06-09T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
-    },
-    {
-      "title": "Calmed by the Dark Neon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
-      "category": "Game",
-      "expiryDate": "2026-06-29T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTM4ODYucG5n/315x250%23c/6YLlGM.png"
     },
     {
       "title": "Wytchwood",
