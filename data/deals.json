@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T08:29:36.814Z",
+  "lastUpdated": "2026-06-05T11:43:33.609Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -166,6 +166,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
+      "title": "Family Secrets 1 : Empty Plate",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
+      "category": "Game",
+      "expiryDate": "2026-06-09T09:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Njg2MzU0LnBuZw==/315x250%23c/T3ipaq.png"
+    },
+    {
       "title": "Annotopia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -175,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
     },
     {
-      "title": "Sonambula",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-06-12T02:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
+      "title": "Sonambula",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/sonambula",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
       "title": "One Bad Hot Dog",
@@ -211,6 +220,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-06-09T21:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
       "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,15 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-06-19T07:47:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
-    },
-    {
-      "title": "Burnt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
-      "category": "Game",
-      "expiryDate": "2026-06-09T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Wytchwood",
