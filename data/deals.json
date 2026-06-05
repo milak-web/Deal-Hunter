@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T21:03:38.393Z",
+  "lastUpdated": "2026-06-05T22:39:31.757Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -31,15 +31,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
-      "title": "The Cleaning Incident",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/the-cleaning-incident",
-      "category": "Game",
-      "expiryDate": "2026-06-10T23:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjQ3NzQ4LnBuZw==/315x250%23c/UsuOP0.png"
-    },
-    {
       "title": "Fear Assessment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,6 +38,15 @@
       "category": "Game",
       "expiryDate": "2026-06-11T18:08:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+    },
+    {
+      "title": "The Cleaning Incident",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://chodex-productions.itch.io/the-cleaning-incident",
+      "category": "Game",
+      "expiryDate": "2026-06-10T23:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NjQ3NzQ4LnBuZw==/315x250%23c/UsuOP0.png"
     },
     {
       "title": "Family Secrets 1 : Empty Plate",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Fractured: The Cast",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-06-08T11:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -184,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
-      "title": "Sonambula",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,13 +193,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
-      "title": "Annotopia",
+      "title": "Sonambula",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://cachecarti.itch.io/annotopia",
+      "link": "https://fenixapple.itch.io/sonambula",
       "category": "Game",
-      "expiryDate": "2026-06-30T19:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
       "title": "Burnt",
@@ -218,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-06-09T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
+      "title": "Annotopia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cachecarti.itch.io/annotopia",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
     },
     {
       "title": "Evertrust Life And Beyond (Full Game)",
