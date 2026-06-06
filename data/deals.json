@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T17:02:36.259Z",
+  "lastUpdated": "2026-06-06T18:46:14.470Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
-      "title": "Terminal Descent",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://roxicaro.itch.io/terminal-descent",
-      "category": "Game",
-      "expiryDate": "2026-06-08T16:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
+      "title": "Terminal Descent",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://roxicaro.itch.io/terminal-descent",
+      "category": "Game",
+      "expiryDate": "2026-06-08T16:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -112,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,6 +119,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Lord of Chaos",
@@ -184,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
-      "title": "Sonambula",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Sonambula",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/sonambula",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
       "title": "RE: Evil Lurks",
@@ -211,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
-      "title": "Annotopia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cachecarti.itch.io/annotopia",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
-    },
-    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +218,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
+      "title": "Annotopia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cachecarti.itch.io/annotopia",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDI0MDgyLnBuZw==/315x250%23c/L5Qcox.png"
     },
     {
       "title": "Project: Reborn - Extraction",
@@ -245,15 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-06-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "Tarotro",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/tarotro",
-      "category": "Game",
-      "expiryDate": "2026-06-18T06:17:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzYwOTQ4LnBuZw==/315x250%23c/c8iNp6.png"
     },
     {
       "title": "Wytchwood",
