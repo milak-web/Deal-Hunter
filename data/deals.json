@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T11:22:59.437Z",
+  "lastUpdated": "2026-06-06T12:49:39.323Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -209,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
+      "title": "Project: Reborn - Extraction",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
+      "category": "Game",
+      "expiryDate": "2026-06-20T16:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
       "title": "Tarotro",
