@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T20:05:15.119Z",
+  "lastUpdated": "2026-06-06T21:35:53.877Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Fractured: Roadwood Stop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
-    },
-    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Fractured: Roadwood Stop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "category": "Game",
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -236,15 +236,6 @@
       "category": "Game",
       "expiryDate": "2026-06-20T16:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
-    },
-    {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-06-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Wytchwood",
