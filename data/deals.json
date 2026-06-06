@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T15:48:56.467Z",
+  "lastUpdated": "2026-06-06T17:02:36.259Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -245,6 +245,15 @@
       "category": "Game",
       "expiryDate": "2026-06-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+    },
+    {
+      "title": "Tarotro",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/tarotro",
+      "category": "Game",
+      "expiryDate": "2026-06-18T06:17:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzYwOTQ4LnBuZw==/315x250%23c/c8iNp6.png"
     },
     {
       "title": "Wytchwood",
