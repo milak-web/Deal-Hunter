@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T21:35:53.877Z",
+  "lastUpdated": "2026-06-06T22:57:05.132Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -166,6 +166,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-06-26T23:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
       "title": "frin2",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -182,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-06-10T07:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
-    },
-    {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-06-26T23:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Sonambula",
@@ -236,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-06-20T16:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-06-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Wytchwood",
