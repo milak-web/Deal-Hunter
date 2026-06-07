@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T08:33:30.007Z",
+  "lastUpdated": "2026-06-07T11:02:56.125Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -85,6 +85,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxODA4NzExLnBuZw==/315x250%23c/WprMWe.png"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-06-11T17:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -166,24 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
-      "title": "RE: Evil Lurks",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mal98s.itch.io/evil-lurks",
-      "category": "Game",
-      "expiryDate": "2026-06-12T12:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
-    },
-    {
-      "title": "Sonambula",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
-      "category": "Game",
-      "expiryDate": "2026-06-08T11:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
       "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T16:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
+    },
+    {
+      "title": "RE: Evil Lurks",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mal98s.itch.io/evil-lurks",
+      "category": "Game",
+      "expiryDate": "2026-06-12T12:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
       "title": "frin2",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NjQ2ODEyLnBuZw==/315x250%23c/0Kvopo.png"
     },
     {
+      "title": "Transfixed",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sinisterbyte-games.itch.io/transfixed",
+      "category": "Game",
+      "expiryDate": "2026-06-10T07:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
+    },
+    {
       "title": "Room 310: Face to Face (2025)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
     },
     {
-      "title": "Transfixed",
+      "title": "Sonambula",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://sinisterbyte-games.itch.io/transfixed",
+      "link": "https://fenixapple.itch.io/sonambula",
       "category": "Game",
-      "expiryDate": "2026-06-10T07:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
+      "expiryDate": "2026-06-08T11:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
       "title": "Wasteland Alone",
