@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T19:09:41.443Z",
+  "lastUpdated": "2026-06-07T20:43:54.282Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -254,6 +254,24 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Remothered: Tormented Fathers",
+      "platform": "Steam",
+      "originalPrice": "$19.99",
+      "link": "https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers",
+      "category": "Game",
+      "expiryDate": "2026-06-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a25ced022820.jpg"
+    },
+    {
+      "title": "Relaxing Simulator",
+      "platform": "Epic Games",
+      "originalPrice": "$7.99",
+      "link": "https://store.epicgames.com/p/relaxing-simulator-4cca47",
+      "category": "Game",
+      "expiryDate": "2026-06-14T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a25c2413d322.jpg"
     },
     {
       "title": "Remothered: Broken Porcelain",
