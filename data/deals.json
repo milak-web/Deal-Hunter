@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T17:46:30.535Z",
+  "lastUpdated": "2026-06-08T20:04:28.506Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-06-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+    },
+    {
       "title": "Windows 11 SE PLUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,15 +227,6 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
-    },
-    {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-06-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "One Bad Hot Dog",
@@ -247,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
-      "title": "Remothered: Tormented Fathers",
-      "platform": "Steam",
-      "originalPrice": "$19.99",
-      "link": "https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers",
-      "category": "Game",
-      "expiryDate": "2026-06-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a25ced022820.jpg"
-    },
-    {
       "title": "Relaxing Simulator",
       "platform": "Epic Games",
       "originalPrice": "$7.99",
@@ -263,15 +254,6 @@
       "category": "Game",
       "expiryDate": "2026-06-14T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a25c2413d322.jpg"
-    },
-    {
-      "title": "Remothered: Broken Porcelain",
-      "platform": "GOG",
-      "originalPrice": "$29.99",
-      "link": "https://www.gog.com/en/game/remothered_broken_porcelain",
-      "category": "Game",
-      "expiryDate": "2026-06-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a25bfb499a3c.jpg"
     },
     {
       "title": "Wytchwood",
