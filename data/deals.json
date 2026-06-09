@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T16:17:08.096Z",
+  "lastUpdated": "2026-06-09T18:29:00.154Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
       "title": "Fragments of Fear: The Late Shift",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Another World Adventures",
@@ -139,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Room 310: The Awakening (2024)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dareint.itch.io/room-310-the-awakening",
-      "category": "Game",
-      "expiryDate": "2026-06-26T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,22 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Windows 11 SE PLUS",
+      "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://tsubasagames.itch.io/windows11seplus",
-      "category": "Game",
-      "expiryDate": "2026-06-09T17:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMTM2NDYyLmpwZWc=/315x250%23c/nZEGVr.jpeg"
-    },
-    {
-      "title": "Room 310: Face to Face (2025)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dareint.itch.io/room-310",
+      "link": "https://dareint.itch.io/room-310-the-awakening",
       "category": "Game",
       "expiryDate": "2026-06-26T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
       "title": "Burnt",
@@ -193,6 +175,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-06-12T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
+    },
+    {
+      "title": "Room 310: Face to Face (2025)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dareint.itch.io/room-310",
+      "category": "Game",
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
+    },
+    {
       "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-06-12T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MDc3Njg2LnBuZw==/315x250%23c/H8FO0W.png"
-    },
-    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +218,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
       "title": "Evertrust Life And Beyond (Full Game)",
@@ -238,13 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
-      "title": "Eternal Night",
+      "title": "Emily_",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "link": "https://tetrabyte.itch.io/emily",
       "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+      "expiryDate": "2026-06-11T06:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMDkwODA1LnBuZw==/315x250%23c/rAZ8rJ.png"
     },
     {
       "title": "Relaxing Simulator",
