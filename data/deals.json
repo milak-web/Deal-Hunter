@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T13:24:59.109Z",
+  "lastUpdated": "2026-06-09T16:17:08.096Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -76,24 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Fragments of Fear: The Late Shift",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
-      "category": "Game",
-      "expiryDate": "2026-06-12T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,6 +94,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Fragments of Fear: The Late Shift",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
+      "category": "Game",
+      "expiryDate": "2026-06-12T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-15T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Another World Adventures",
@@ -139,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-06-15T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
       "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
-      "title": "Windows 11 SE PLUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tsubasagames.itch.io/windows11seplus",
-      "category": "Game",
-      "expiryDate": "2026-06-09T17:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMTM2NDYyLmpwZWc=/315x250%23c/nZEGVr.jpeg"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Windows 11 SE PLUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tsubasagames.itch.io/windows11seplus",
+      "category": "Game",
+      "expiryDate": "2026-06-09T17:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMTM2NDYyLmpwZWc=/315x250%23c/nZEGVr.jpeg"
     },
     {
       "title": "Room 310: Face to Face (2025)",
@@ -193,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
-      "title": "RE: Evil Lurks",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mal98s.itch.io/evil-lurks",
-      "category": "Game",
-      "expiryDate": "2026-06-12T12:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
-    },
-    {
       "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-06-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+    },
+    {
+      "title": "RE: Evil Lurks",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mal98s.itch.io/evil-lurks",
+      "category": "Game",
+      "expiryDate": "2026-06-12T12:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
       "title": "Lord of Chaos",
@@ -236,15 +236,6 @@
       "category": "Game",
       "expiryDate": "2026-06-15T07:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
-    },
-    {
-      "title": "Red Margins",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
     },
     {
       "title": "Eternal Night",
