@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T11:07:28.437Z",
+  "lastUpdated": "2026-06-10T14:33:39.939Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Flufftopia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://smokesomefrogs.itch.io/flufftopia",
-      "category": "Game",
-      "expiryDate": "2026-06-14T12:39:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/315x250%23c/gouCrG.gif"
-    },
-    {
       "title": "CALLUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-06-11T19:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
+    },
+    {
+      "title": "Flufftopia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://smokesomefrogs.itch.io/flufftopia",
+      "category": "Game",
+      "expiryDate": "2026-06-14T12:39:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/315x250%23c/gouCrG.gif"
     },
     {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
-      "title": "Wurst Case Scenario",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://davidbrowne.itch.io/wurst-case-scenario",
-      "category": "Game",
-      "expiryDate": "2026-06-11T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-06-17T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Wurst Case Scenario",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://davidbrowne.itch.io/wurst-case-scenario",
+      "category": "Game",
+      "expiryDate": "2026-06-11T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "One Bad Hot Dog",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://figerox.itch.io/one-bad-hot-dog",
+      "category": "Game",
+      "expiryDate": "2026-07-01T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
       "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -220,15 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
-      "title": "One Bad Hot Dog",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://figerox.itch.io/one-bad-hot-dog",
-      "category": "Game",
-      "expiryDate": "2026-07-01T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
-    },
-    {
       "title": "RE: Evil Lurks",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-06-12T12:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
+    },
+    {
+      "title": "Microcrawl",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zpjinteractive.itch.io/microcrawl",
+      "category": "Game",
+      "expiryDate": "2026-06-13T02:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
     },
     {
       "title": "Room 310: Face to Face (2025)",
@@ -247,13 +256,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
     },
     {
-      "title": "Microcrawl",
+      "title": "Emily_",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://zpjinteractive.itch.io/microcrawl",
+      "link": "https://tetrabyte.itch.io/emily",
       "category": "Game",
-      "expiryDate": "2026-06-13T02:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
+      "expiryDate": "2026-06-11T06:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMDkwODA1LnBuZw==/315x250%23c/rAZ8rJ.png"
     },
     {
       "title": "Relaxing Simulator",
