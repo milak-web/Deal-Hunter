@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T07:02:49.309Z",
+  "lastUpdated": "2026-06-10T11:07:28.437Z",
   "deals": [
     {
       "title": "Rogue Waters",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/315x250%23c/gouCrG.gif"
     },
     {
+      "title": "CALLUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://emika-games.itch.io/callus",
+      "category": "Game",
+      "expiryDate": "2026-06-11T19:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
+    },
+    {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Fragments of Fear: The Late Shift",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
-      "category": "Game",
-      "expiryDate": "2026-06-12T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Fragments of Fear: The Late Shift",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
+      "category": "Game",
+      "expiryDate": "2026-06-12T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
     },
     {
       "title": "Another World Adventures",
@@ -157,15 +166,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "CALLUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://emika-games.itch.io/callus",
-      "category": "Game",
-      "expiryDate": "2026-06-11T19:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
-    },
-    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-06-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "Transfixed",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sinisterbyte-games.itch.io/transfixed",
-      "category": "Game",
-      "expiryDate": "2026-06-10T07:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODEzODU2LnBuZw==/315x250%23c/KpnB5u.png"
     },
     {
       "title": "Lord of Chaos",
