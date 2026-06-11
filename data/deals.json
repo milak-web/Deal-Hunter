@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T15:40:15.704Z",
+  "lastUpdated": "2026-06-11T18:42:33.542Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -20,15 +20,6 @@
       "startDate": "2026-06-11T15:00:00.000Z",
       "expiryDate": "2026-06-18T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png"
-    },
-    {
-      "title": "Fear Assessment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/fear-assessment",
-      "category": "Game",
-      "expiryDate": "2026-06-11T18:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
       "title": "DIRE ECHO",
@@ -90,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://davidbrowne.itch.io/wurst-case-scenario",
       "category": "Game",
-      "expiryDate": "2026-06-11T23:00:00.000Z",
+      "expiryDate": "2026-06-12T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
     },
     {
@@ -157,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Microcrawl",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zpjinteractive.itch.io/microcrawl",
+      "category": "Game",
+      "expiryDate": "2026-06-13T02:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
+    },
+    {
       "title": "Fragments of Fear: The Late Shift",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,15 +173,6 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
-    },
-    {
-      "title": "Microcrawl",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zpjinteractive.itch.io/microcrawl",
-      "category": "Game",
-      "expiryDate": "2026-06-13T02:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
     },
     {
       "title": "Not A Customer",
@@ -211,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
+      "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "link": "https://figerox.itch.io/one-bad-hot-dog",
       "category": "Game",
-      "expiryDate": "2026-06-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+      "expiryDate": "2026-07-01T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
       "title": "Lord of Chaos",
@@ -229,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "One Bad Hot Dog",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://figerox.itch.io/one-bad-hot-dog",
-      "category": "Game",
-      "expiryDate": "2026-07-01T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
-    },
-    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-06-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -272,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T16:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
+    },
+    {
+      "title": "Eets",
+      "platform": "Steam",
+      "originalPrice": "$9.99",
+      "link": "https://store.steampowered.com/app/6100/Eets",
+      "category": "Game",
+      "expiryDate": "2026-06-15T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a2aebf9e069c.jpg"
     },
     {
       "title": "Guild of Dungeoneering Ultimate Edition",
