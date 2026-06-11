@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-11T11:53:43.965Z",
+  "lastUpdated": "2026-06-11T15:40:15.704Z",
   "deals": [
     {
-      "title": "Rogue Waters",
+      "title": "The Ouroboros King",
       "platform": "Epic Games",
-      "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/rogue-waters-9764d6",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
       "category": "Game",
-      "startDate": "2026-06-04T15:00:00.000Z",
-      "expiryDate": "2026-06-11T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-673011871d1a462292f9ff38cc0e3410"
+      "startDate": "2026-06-11T15:00:00.000Z",
+      "expiryDate": "2026-06-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1f4ei.jpg"
     },
     {
-      "title": "Songs of Conquest",
+      "title": "Warhammer 40K Speed Freeks",
       "platform": "Epic Games",
-      "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/songs-of-conquest",
+      "originalPrice": "$19.99",
+      "link": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
       "category": "Game",
-      "startDate": "2026-06-04T15:00:00.000Z",
-      "expiryDate": "2026-06-11T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-fd360f5c7abe499d90327b6999884e23"
+      "startDate": "2026-06-11T15:00:00.000Z",
+      "expiryDate": "2026-06-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png"
     },
     {
       "title": "Fear Assessment",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/315x250%23c/gouCrG.gif"
     },
     {
-      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
-      "category": "Game",
-      "expiryDate": "2026-06-15T14:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -76,13 +67,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Wurst Case Scenario",
+      "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://davidbrowne.itch.io/wurst-case-scenario",
+      "link": "https://aspsyxia.itch.io/ashioto-kyofu",
       "category": "Game",
-      "expiryDate": "2026-06-11T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
+      "expiryDate": "2026-06-15T14:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
       "title": "Static Voice",
@@ -92,6 +83,15 @@
       "category": "Game",
       "expiryDate": "2026-06-19T07:47:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
+      "title": "Wurst Case Scenario",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://davidbrowne.itch.io/wurst-case-scenario",
+      "category": "Game",
+      "expiryDate": "2026-06-11T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -148,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Fragments of Fear: The Late Shift",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
-      "category": "Game",
-      "expiryDate": "2026-06-12T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
-    },
-    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Fragments of Fear: The Late Shift",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
+      "category": "Game",
+      "expiryDate": "2026-06-12T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
     },
     {
       "title": "Wasteland Alone",
@@ -175,13 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Burnt",
+      "title": "Microcrawl",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
+      "link": "https://zpjinteractive.itch.io/microcrawl",
       "category": "Game",
-      "expiryDate": "2026-06-16T20:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+      "expiryDate": "2026-06-13T02:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
     },
     {
       "title": "Not A Customer",
@@ -193,6 +193,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjMwMTk5LnBuZw==/315x250%23c/trdBIc.png"
     },
     {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-06-16T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
       "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,15 +209,6 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
-    },
-    {
-      "title": "Microcrawl",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zpjinteractive.itch.io/microcrawl",
-      "category": "Game",
-      "expiryDate": "2026-06-13T02:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
     },
     {
       "title": "Backrooms: Out of Oxygen",
@@ -229,15 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
-    },
-    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T03:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -274,6 +274,42 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
+      "title": "Guild of Dungeoneering Ultimate Edition",
+      "platform": "Mobile",
+      "originalPrice": "$7.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-06-18T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a2ad1af050a6.jpg"
+    },
+    {
+      "title": "The Red Lantern",
+      "platform": "Steam",
+      "originalPrice": "$24.99",
+      "link": "https://store.steampowered.com/app/1053710/The_Red_Lantern",
+      "category": "Game",
+      "expiryDate": "2026-06-18T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a2acfee386f6.jpg"
+    },
+    {
+      "title": "Warhammer 40,000: Speed Freeks",
+      "platform": "Epic Games",
+      "originalPrice": "$19.99",
+      "link": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
+      "category": "Game",
+      "expiryDate": "2026-06-18T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a2ace194c587.jpg"
+    },
+    {
+      "title": "Happy's Humble Burger Farm",
+      "platform": "Steam",
+      "originalPrice": "$19.99",
+      "link": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm",
+      "category": "Game",
+      "expiryDate": "2026-06-15T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a2ab69455c6c.jpg"
+    },
+    {
       "title": "Relaxing Simulator",
       "platform": "Epic Games",
       "originalPrice": "$7.99",
@@ -281,15 +317,6 @@
       "category": "Game",
       "expiryDate": "2026-06-14T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a25c2413d322.jpg"
-    },
-    {
-      "title": "Wytchwood",
-      "platform": "Mobile",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-06-11T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a2196c653557.jpg"
     },
     {
       "title": "Tell Me Why",
