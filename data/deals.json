@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T10:49:00.045Z",
+  "lastUpdated": "2026-06-12T13:59:20.899Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -175,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Fragments of Fear: The Late Shift",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
-      "category": "Game",
-      "expiryDate": "2026-06-12T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
-    },
-    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-06-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
       "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -247,13 +229,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
-      "title": "The Dark Retributionist",
+      "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://al3cs71.itch.io/the-dark-retributionist",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
       "category": "Game",
-      "expiryDate": "2026-06-14T23:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
+      "expiryDate": "2026-06-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "The Uninvited",
@@ -265,13 +247,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
-      "title": "RE: Evil Lurks",
+      "title": "The Dark Retributionist",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://mal98s.itch.io/evil-lurks",
+      "link": "https://al3cs71.itch.io/the-dark-retributionist",
       "category": "Game",
-      "expiryDate": "2026-06-12T12:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
+      "expiryDate": "2026-06-14T23:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
+    },
+    {
+      "title": "Room 310: Face to Face (2025)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dareint.itch.io/room-310",
+      "category": "Game",
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
+    },
+    {
+      "title": "Evertrust Life And Beyond (Full Game)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
+      "category": "Game",
+      "expiryDate": "2026-06-15T07:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "Eets",
