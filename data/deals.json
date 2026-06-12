@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T06:27:58.965Z",
+  "lastUpdated": "2026-06-12T10:49:00.045Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -92,6 +83,15 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Wurst Case Scenario",
@@ -211,6 +211,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
+      "title": "One Bad Hot Dog",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://figerox.itch.io/one-bad-hot-dog",
+      "category": "Game",
+      "expiryDate": "2026-07-01T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,13 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
-      "title": "One Bad Hot Dog",
+      "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://figerox.itch.io/one-bad-hot-dog",
+      "link": "https://dareint.itch.io/room-310-the-awakening",
       "category": "Game",
-      "expiryDate": "2026-07-01T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
       "title": "The Dark Retributionist",
@@ -263,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-06-12T12:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
-    },
-    {
-      "title": "Room 310: The Awakening (2024)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dareint.itch.io/room-310-the-awakening",
-      "category": "Game",
-      "expiryDate": "2026-06-26T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
       "title": "Eets",
@@ -331,7 +331,7 @@
       "title": "Tell Me Why",
       "platform": "Steam",
       "originalPrice": "$19.99",
-      "link": "https://www.gamerpower.com/open/tell-me-why-steam-giveaway",
+      "link": "https://store.steampowered.com/agecheck/app/1180660",
       "category": "Game",
       "expiryDate": "2026-07-01T23:59:59.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6478b9dcae7be.jpg"
