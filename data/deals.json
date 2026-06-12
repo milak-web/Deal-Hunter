@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T01:42:49.595Z",
+  "lastUpdated": "2026-06-12T06:27:58.965Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-06-14T17:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "CALLUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-06-15T19:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-06-14T17:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Flufftopia",
@@ -76,13 +76,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTUxMjEyLnBuZw==/315x250%23c/69zG8U.png"
     },
     {
-      "title": "Wurst Case Scenario",
+      "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://davidbrowne.itch.io/wurst-case-scenario",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
       "category": "Game",
-      "expiryDate": "2026-06-12T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -94,13 +94,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Quiet West: Butcher noose",
+      "title": "Wurst Case Scenario",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "link": "https://davidbrowne.itch.io/wurst-case-scenario",
       "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+      "expiryDate": "2026-06-12T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzM5NzE5LnBuZw==/315x250%23c/DNJ1ol.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -110,15 +110,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-15T11:12:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -139,13 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
     },
     {
-      "title": "Fragments of Fear: The Late Shift",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-06-12T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
+      "expiryDate": "2026-06-15T11:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Not A Customer",
@@ -184,6 +175,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
+      "title": "Fragments of Fear: The Late Shift",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
+      "category": "Game",
+      "expiryDate": "2026-06-12T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png"
+    },
+    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-06-16T20:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-07-05T11:22:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
       "title": "Exit Only",
@@ -211,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
-    },
-    {
       "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,24 +227,6 @@
       "category": "Game",
       "expiryDate": "2026-06-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "MiniColonyAdventures – Build, Expand & Survive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gamebuegar.itch.io/colonyadventure",
-      "category": "Game",
-      "expiryDate": "2026-07-05T11:22:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
-    },
-    {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-06-15T07:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "One Bad Hot Dog",
@@ -256,6 +238,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
+      "title": "The Dark Retributionist",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://al3cs71.itch.io/the-dark-retributionist",
+      "category": "Game",
+      "expiryDate": "2026-06-14T23:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
+    },
+    {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
       "title": "RE: Evil Lurks",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -265,13 +265,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
-      "title": "The Dark Retributionist",
+      "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://al3cs71.itch.io/the-dark-retributionist",
+      "link": "https://dareint.itch.io/room-310-the-awakening",
       "category": "Game",
-      "expiryDate": "2026-06-14T23:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
       "title": "Eets",
@@ -331,7 +331,7 @@
       "title": "Tell Me Why",
       "platform": "Steam",
       "originalPrice": "$19.99",
-      "link": "https://store.steampowered.com/agecheck/app/1180660",
+      "link": "https://www.gamerpower.com/open/tell-me-why-steam-giveaway",
       "category": "Game",
       "expiryDate": "2026-07-01T23:59:59.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6478b9dcae7be.jpg"
