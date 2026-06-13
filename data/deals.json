@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T16:09:46.167Z",
+  "lastUpdated": "2026-06-13T17:51:14.660Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -211,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
-      "title": "Room 310: Face to Face (2025)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dareint.itch.io/room-310",
-      "category": "Game",
-      "expiryDate": "2026-06-26T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +218,15 @@
       "category": "Game",
       "expiryDate": "2026-06-15T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Room 310: Face to Face (2025)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dareint.itch.io/room-310",
+      "category": "Game",
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
     },
     {
       "title": "The Dark Retributionist",
@@ -238,15 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-06-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -256,6 +247,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-06-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+    },
+    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "snowstorm",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://davidmunozt.itch.io/snowstorm",
+      "category": "Game",
+      "expiryDate": "2026-07-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Mjc4NzQ3LnBuZw==/315x250%23c/Wrda2R.png"
     },
     {
       "title": "Wild Terra 2: New Lands",
