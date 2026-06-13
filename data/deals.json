@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T08:20:01.251Z",
+  "lastUpdated": "2026-06-13T10:43:31.884Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -20,15 +20,6 @@
       "startDate": "2026-06-11T15:00:00.000Z",
       "expiryDate": "2026-06-18T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png"
-    },
-    {
-      "title": "MATILDA",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/matilda",
-      "category": "Game",
-      "expiryDate": "2026-06-14T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
       "title": "CALLUS",
@@ -148,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-06-19T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-06-15T11:12:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-06-19T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
       "title": "Burnt",
@@ -202,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
-      "title": "SIMON'S SHIFT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/simons-shift",
-      "category": "Game",
-      "expiryDate": "2026-06-14T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjcxMDIyLnBuZw==/315x250%23c/cuuKm5.png"
-    },
-    {
       "title": "Room 310: Face to Face (2025)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,15 +227,6 @@
       "category": "Game",
       "expiryDate": "2026-06-14T23:03:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
-    },
-    {
-      "title": "The Hop Hop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/the-hop-hop",
-      "category": "Game",
-      "expiryDate": "2026-06-14T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMDg1NzE2LnBuZw==/315x250%23c/CDIg46.png"
     },
     {
       "title": "Backrooms: Out of Oxygen",
