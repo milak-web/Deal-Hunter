@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T17:51:14.660Z",
+  "lastUpdated": "2026-06-13T19:12:40.014Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -74,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-06-19T07:47:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
+      "title": "Late Housekeeping",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://combobombgames.itch.io/latehousekeeping",
+      "category": "Game",
+      "expiryDate": "2026-06-20T11:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3ODQzNzAwLnBuZw==/315x250%23c/rxgLo%2B.png"
     },
     {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
