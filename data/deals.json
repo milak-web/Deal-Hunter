@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T20:46:14.260Z",
+  "lastUpdated": "2026-06-13T21:57:25.314Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -193,6 +193,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
+      "title": "Room 310: The Awakening (2024)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dareint.itch.io/room-310-the-awakening",
+      "category": "Game",
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
+    },
+    {
       "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,13 +211,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
-      "title": "Room 310: The Awakening (2024)",
+      "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://dareint.itch.io/room-310-the-awakening",
+      "link": "https://thewindyproject.itch.io/last-dive",
       "category": "Game",
-      "expiryDate": "2026-06-26T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "One Bad Hot Dog",
@@ -256,15 +265,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-06-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -272,6 +272,15 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-06-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "snowstorm",
