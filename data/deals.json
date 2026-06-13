@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T21:57:25.314Z",
+  "lastUpdated": "2026-06-13T23:03:04.569Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/315x250%23c/gouCrG.gif"
     },
     {
-      "title": "Static Voice",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
-      "category": "Game",
-      "expiryDate": "2026-06-19T07:47:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
-    },
-    {
       "title": "Late Housekeeping",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-06-20T11:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3ODQzNzAwLnBuZw==/315x250%23c/rxgLo%2B.png"
+    },
+    {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-06-19T07:47:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
       "title": "Ashioto Kyōfu (FOOTSTEPS TERROR)",
