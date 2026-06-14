@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T17:55:13.999Z",
+  "lastUpdated": "2026-06-14T19:13:42.456Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-06-14T17:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "Static Voice",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -121,6 +112,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Last Dive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/last-dive",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+    },
+    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
-    },
-    {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "Not A Customer",
@@ -346,15 +337,6 @@
       "imageUrl": "https://www.gamerpower.com/offers/1/6a2ab69455c6c.jpg"
     },
     {
-      "title": "Relaxing Simulator",
-      "platform": "Epic Games",
-      "originalPrice": "$7.99",
-      "link": "https://store.epicgames.com/p/relaxing-simulator-4cca47",
-      "category": "Game",
-      "expiryDate": "2026-06-14T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a25c2413d322.jpg"
-    },
-    {
       "title": "Tell Me Why",
       "platform": "Steam",
       "originalPrice": "$19.99",
@@ -362,15 +344,6 @@
       "category": "Game",
       "expiryDate": "2026-07-01T23:59:59.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6478b9dcae7be.jpg"
-    },
-    {
-      "title": "Gravity Circuit",
-      "platform": "Steam",
-      "originalPrice": "$16.99",
-      "link": "https://store.steampowered.com/app/858710/Gravity_Circuit",
-      "category": "Game",
-      "expiryDate": "2026-06-14T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a1dbddf722cd.jpg"
     }
   ]
 }
