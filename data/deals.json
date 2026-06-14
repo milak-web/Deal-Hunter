@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T19:13:42.456Z",
+  "lastUpdated": "2026-06-14T20:45:02.631Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -272,6 +272,15 @@
       "category": "Game",
       "expiryDate": "2026-06-14T23:03:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzczMzU3MzAucG5n/315x250%23c/YKbk%2Fa.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-06-23T10:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Evertrust Life And Beyond (Full Game)",
