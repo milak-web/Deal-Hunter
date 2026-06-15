@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T19:12:44.318Z",
+  "lastUpdated": "2026-06-15T21:59:40.411Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
       "title": "The Man You See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+    },
+    {
+      "title": "Last Dive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/last-dive",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -137,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-06-29T20:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -229,15 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNTY0NzM2LmpwZw==/315x250%23c/vnDOcI.jpg"
     },
     {
-      "title": "Project: Reborn - Extraction",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-      "category": "Game",
-      "expiryDate": "2026-06-20T16:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
-    },
-    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -247,22 +247,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
-      "title": "Wild Terra 2: New Lands",
-      "platform": "Steam",
-      "originalPrice": "$39.99",
-      "link": "https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands",
+      "title": "Project: Reborn - Extraction",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
       "category": "Game",
-      "expiryDate": "2026-06-15T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/69419e7cba2bf.jpg"
-    },
-    {
-      "title": "Eets",
-      "platform": "Steam",
-      "originalPrice": "$9.99",
-      "link": "https://store.steampowered.com/app/6100/Eets",
-      "category": "Game",
-      "expiryDate": "2026-06-15T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a2aebf9e069c.jpg"
+      "expiryDate": "2026-06-20T16:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
       "title": "Guild of Dungeoneering Ultimate Edition",
