@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T15:16:26.976Z",
+  "lastUpdated": "2026-06-15T19:12:44.318Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -29,15 +29,6 @@
       "category": "Game",
       "expiryDate": "2026-06-15T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
-    },
-    {
-      "title": "CALLUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://emika-games.itch.io/callus",
-      "category": "Game",
-      "expiryDate": "2026-06-15T19:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
     },
     {
       "title": "Late Housekeeping",
@@ -103,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
+      "title": "The Man You See",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/the-man-you-see",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+    },
+    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "The Man You See",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/the-man-you-see",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
-    },
-    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "Burnt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
-      "category": "Game",
-      "expiryDate": "2026-06-16T20:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
-    },
-    {
       "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T16:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
+    },
+    {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-06-16T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Another World Adventures",
@@ -193,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
       "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,15 +200,6 @@
       "category": "Game",
       "expiryDate": "2026-06-23T10:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "Exit Only",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/exit-only",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
       "title": "Lord of Chaos",
@@ -220,13 +211,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "The Uninvited",
+      "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "link": "https://vladislive-dev.itch.io/exit-only",
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
       "title": "Room 310: Face to Face (2025)",
