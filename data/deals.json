@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T21:24:20.751Z",
+  "lastUpdated": "2026-06-16T23:00:24.801Z",
   "deals": [
     {
       "title": "The Ouroboros King",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://redcap-games.itch.io/matilda",
       "category": "Game",
-      "expiryDate": "2026-06-16T22:00:00.000Z",
+      "expiryDate": "2026-06-17T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
@@ -112,6 +112,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Exorcist: final wishes",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fishgill.itch.io/exorcist-finalwishes",
+      "category": "Game",
+      "expiryDate": "2026-06-17T16:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3ODgyMTA3LnBuZw==/315x250%23c/va9Wyk.png"
+    },
+    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Exorcist: final wishes",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fishgill.itch.io/exorcist-finalwishes",
-      "category": "Game",
-      "expiryDate": "2026-06-17T16:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3ODgyMTA3LnBuZw==/315x250%23c/va9Wyk.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -184,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-06-19T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
-    },
-    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-06-19T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
       "title": "Exit Only",
