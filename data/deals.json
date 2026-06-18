@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-18T12:46:32.274Z",
+  "lastUpdated": "2026-06-18T16:22:30.564Z",
   "deals": [
     {
-      "title": "The Ouroboros King",
-      "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
-      "category": "Game",
-      "startDate": "2026-06-11T15:00:00.000Z",
-      "expiryDate": "2026-06-18T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1f4ei.jpg"
-    },
-    {
-      "title": "Warhammer 40K Speed Freeks",
+      "title": "Citizen Sleeper",
       "platform": "Epic Games",
       "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
+      "link": "https://store.epicgames.com/en-US/p/citizen-sleeper-944858",
       "category": "Game",
-      "startDate": "2026-06-11T15:00:00.000Z",
-      "expiryDate": "2026-06-18T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png"
+      "startDate": "2026-06-18T15:00:00.000Z",
+      "expiryDate": "2026-06-25T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-a7mun.jpg"
+    },
+    {
+      "title": "ROBOBEAT",
+      "platform": "Epic Games",
+      "originalPrice": "$19.99",
+      "link": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
+      "category": "Game",
+      "startDate": "2026-06-18T15:00:00.000Z",
+      "expiryDate": "2026-06-25T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png"
     },
     {
       "title": "MATILDA",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Eternal Night",
@@ -238,6 +238,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Exit Only",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/exit-only",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
+    },
+    {
       "title": "Room 310: The Awakening (2024)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -247,13 +256,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
-      "title": "Guild of Dungeoneering Ultimate Edition",
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-06-24T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
+    },
+    {
+      "title": "Construction Simulator 3",
       "platform": "Mobile",
-      "originalPrice": "$7.99",
+      "originalPrice": "$6.99",
       "link": "https://store.epicgames.com/mobile",
       "category": "Mobile",
-      "expiryDate": "2026-06-18T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a2ad1af050a6.jpg"
+      "expiryDate": "2026-06-25T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a340aa73cc38.jpg"
     },
     {
       "title": "The Red Lantern",
@@ -263,15 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-06-18T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a2acfee386f6.jpg"
-    },
-    {
-      "title": "Warhammer 40,000: Speed Freeks",
-      "platform": "Epic Games",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
-      "category": "Game",
-      "expiryDate": "2026-06-18T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a2ace194c587.jpg"
     },
     {
       "title": "Tell Me Why",
