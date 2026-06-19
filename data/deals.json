@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T21:59:03.053Z",
+  "lastUpdated": "2026-06-19T23:00:51.924Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -20,15 +20,6 @@
       "startDate": "2026-06-18T15:00:00.000Z",
       "expiryDate": "2026-06-25T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png"
-    },
-    {
-      "title": "MATILDA",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/matilda",
-      "category": "Game",
-      "expiryDate": "2026-06-19T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
       "title": "Late Housekeeping",
@@ -193,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,15 +263,6 @@
       "category": "Game",
       "expiryDate": "2026-07-18T17:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
-    },
-    {
-      "title": "SIMON'S SHIFT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/simons-shift",
-      "category": "Game",
-      "expiryDate": "2026-06-19T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjcxMDIyLnBuZw==/315x250%23c/cuuKm5.png"
     },
     {
       "title": "Exit Only",
