@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T06:13:59.943Z",
+  "lastUpdated": "2026-06-20T09:47:41.555Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-06-26T23:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "NIGHTBELL",
@@ -103,6 +103,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3OTI1MjMwLnBuZw==/315x250%23c/9OPXob.png"
     },
     {
+      "title": "Strange Toilet",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/strange-toilet",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
       "title": "The Man You See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,15 +128,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
       "title": "Devyard",
@@ -166,15 +166,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Strange Toilet 2",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet-2",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0MTUxMzgyLnBuZw==/315x250%23c/slGQQ8.png"
-    },
-    {
       "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -184,13 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
-      "title": "DIRE ECHO",
+      "title": "Strange Toilet 2",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "link": "https://thethil.itch.io/strange-toilet-2",
       "category": "Game",
-      "expiryDate": "2026-06-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0MTUxMzgyLnBuZw==/315x250%23c/slGQQ8.png"
     },
     {
       "title": "Eternal Night",
@@ -202,13 +193,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Burnt",
+      "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-06-23T20:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+      "expiryDate": "2026-06-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "The Hop Hop",
@@ -220,13 +211,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDg1NzE2LnBuZw==/315x250%23c/CDIg46.png"
     },
     {
-      "title": "Tea Party For 4",
+      "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
-      "expiryDate": "2026-06-24T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
+      "expiryDate": "2026-06-23T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "The Uninvited",
@@ -236,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-06-24T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
     },
     {
       "title": "SIMON'S SHIFT",
@@ -256,24 +256,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
-      "title": "Morder",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wildredchicken.itch.io/moder",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NTQ2NDc2LnBuZw==/315x250%23c/DIpvN8.png"
-    },
-    {
-      "title": "MiniColonyAdventures – Build, Expand & Survive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gamebuegar.itch.io/colonyadventure",
-      "category": "Game",
-      "expiryDate": "2026-07-05T11:22:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
-    },
-    {
       "title": "Slime King",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -290,6 +272,33 @@
       "category": "Game",
       "expiryDate": "2026-07-02T09:22:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
+    },
+    {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-07-05T11:22:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
+    },
+    {
+      "title": "Morder",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wildredchicken.itch.io/moder",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NTQ2NDc2LnBuZw==/315x250%23c/DIpvN8.png"
+    },
+    {
+      "title": "Pursued",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zabubek-ugabuga.itch.io/pursued",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTkzMzYyLmpwZw==/315x250%23c/oN%2B9ob.jpg"
     },
     {
       "title": "Microcrawl",
