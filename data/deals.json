@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T23:00:51.924Z",
+  "lastUpdated": "2026-06-20T01:34:37.624Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -20,6 +20,15 @@
       "startDate": "2026-06-18T15:00:00.000Z",
       "expiryDate": "2026-06-25T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png"
+    },
+    {
+      "title": "MATILDA",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redcap-games.itch.io/matilda",
+      "category": "Game",
+      "expiryDate": "2026-06-20T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
       "title": "Late Housekeeping",
@@ -103,33 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3OTI1MjMwLnBuZw==/315x250%23c/9OPXob.png"
     },
     {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
-      "title": "Farm & Cook",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/farm-cook",
-      "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
-    },
-    {
-      "title": "Devyard",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
-    },
-    {
       "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Eternal Night",
@@ -157,22 +130,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
+      "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Strange Toilet 2",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet-2",
+      "link": "https://thethil.itch.io/devyard",
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0MTUxMzgyLnBuZw==/315x250%23c/slGQQ8.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Farm & Cook",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/farm-cook",
+      "category": "Game",
+      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -193,6 +175,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Strange Toilet",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/strange-toilet",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-06-23T20:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
+      "title": "Strange Toilet 2",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/strange-toilet-2",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0MTUxMzgyLnBuZw==/315x250%23c/slGQQ8.png"
     },
     {
       "title": "Silent Still 3",
@@ -229,24 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-06-27T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-06-23T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -256,13 +247,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "Slime King",
+      "title": "SIMON'S SHIFT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
+      "link": "https://redcap-games.itch.io/simons-shift",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
+      "expiryDate": "2026-06-20T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjcxMDIyLnBuZw==/315x250%23c/cuuKm5.png"
     },
     {
       "title": "Exit Only",
@@ -290,6 +281,42 @@
       "category": "Game",
       "expiryDate": "2026-06-22T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Slime King",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/slime-king",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
+    },
+    {
+      "title": "Microcrawl",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zpjinteractive.itch.io/microcrawl",
+      "category": "Game",
+      "expiryDate": "2026-06-26T02:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
+    },
+    {
+      "title": "The Hop Hop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redcap-games.itch.io/the-hop-hop",
+      "category": "Game",
+      "expiryDate": "2026-06-20T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMDg1NzE2LnBuZw==/315x250%23c/CDIg46.png"
+    },
+    {
+      "title": "The Black Within",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waleedzo.itch.io/the-black-within",
+      "category": "Game",
+      "expiryDate": "2026-07-02T09:22:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
       "title": "Construction Simulator 3",
