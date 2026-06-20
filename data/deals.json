@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T09:47:41.555Z",
+  "lastUpdated": "2026-06-20T11:52:07.746Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -29,15 +29,6 @@
       "category": "Game",
       "expiryDate": "2026-06-20T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
-    },
-    {
-      "title": "Late Housekeeping",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://combobombgames.itch.io/latehousekeeping",
-      "category": "Game",
-      "expiryDate": "2026-06-20T11:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3ODYzODk5LnBuZw==/315x250%23c/yCI8D%2B.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -292,15 +283,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NTQ2NDc2LnBuZw==/315x250%23c/DIpvN8.png"
     },
     {
-      "title": "Pursued",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zabubek-ugabuga.itch.io/pursued",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTkzMzYyLmpwZw==/315x250%23c/oN%2B9ob.jpg"
-    },
-    {
       "title": "Microcrawl",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -326,6 +308,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
+    },
+    {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-06-27T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
     },
     {
       "title": "Construction Simulator 3",
