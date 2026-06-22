@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T18:01:00.313Z",
+  "lastUpdated": "2026-06-22T21:18:20.512Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Last Dive",
@@ -344,6 +344,15 @@
       "category": "Game",
       "expiryDate": "2026-06-25T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
+    },
+    {
+      "title": "Missile Assembler",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sc4rcha.itch.io/missile-assembler",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTA5ODQzLnBuZw==/315x250%23c/U3pV%2FS.png"
     },
     {
       "title": "Construction Simulator 3",
