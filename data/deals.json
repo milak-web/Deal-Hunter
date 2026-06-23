@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T00:09:44.409Z",
+  "lastUpdated": "2026-06-23T04:38:02.212Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -20,15 +20,6 @@
       "startDate": "2026-06-18T15:00:00.000Z",
       "expiryDate": "2026-06-25T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png"
-    },
-    {
-      "title": "MATILDA",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/matilda",
-      "category": "Game",
-      "expiryDate": "2026-06-26T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
     },
     {
       "title": "Slime King",
@@ -76,13 +67,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
-      "title": "The Man You See",
+      "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/the-man-you-see",
+      "link": "https://thethil.itch.io/strange-toilet",
       "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
       "title": "NIGHTBELL",
@@ -94,31 +85,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Strange Toilet",
+      "title": "The Man You See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
+      "link": "https://thewindyproject.itch.io/the-man-you-see",
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
       "title": "DIRE ECHO",
@@ -130,139 +103,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Devyard",
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
-    },
-    {
-      "title": "Strange Toilet 2",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet-2",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0MTUxMzgyLnBuZw==/315x250%23c/slGQQ8.png"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Trial of Luck",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sc4rcha.itch.io/trial-of-luck",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-06-29T20:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
-      "title": "Red Margins",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
-    },
-    {
-      "title": "Eternal Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
-    },
-    {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-06-27T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
-    },
-    {
-      "title": "Clean ATTACK!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://diadas.itch.io/clean-attack",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-06-24T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
-    },
-    {
-      "title": "GRAVITY Pilot!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://diadas.itch.io/gravity-pilot",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
-    },
-    {
-      "title": "Exit Only",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/exit-only",
-      "category": "Game",
-      "expiryDate": "2026-07-01T04:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-06-23T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "HAUNTED BY UWU FURRY GHOST",
@@ -274,31 +121,103 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzk5NTE4LnBuZw==/315x250%23c/CHMRWm.png"
     },
     {
-      "title": "Spear It Up: Precision Platformer",
+      "title": "Strange Toilet 2",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://khaled-khader.itch.io/spear-it-up",
+      "link": "https://thethil.itch.io/strange-toilet-2",
       "category": "Game",
-      "expiryDate": "2026-07-18T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0MTUxMzgyLnBuZw==/315x250%23c/slGQQ8.png"
     },
     {
-      "title": "Silent Still 3",
+      "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "link": "https://thewindyproject.itch.io/last-dive",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
-      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "link": "https://thethil.itch.io/devyard",
       "category": "Game",
-      "expiryDate": "2026-07-05T11:22:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
+    },
+    {
+      "title": "Trial of Luck",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sc4rcha.itch.io/trial-of-luck",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Clean ATTACK!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/clean-attack",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
+    },
+    {
+      "title": "Red Margins",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/unseen-red-margins",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTYxMjI3LnBuZw==/315x250%23c/EZruFL.png"
+    },
+    {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-06-27T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
+    },
+    {
+      "title": "GRAVITY Pilot!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/gravity-pilot",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-06-24T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Back to Modern World - Fantasy Hero",
@@ -310,24 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NDI1NTcwLnBuZw==/315x250%23c/srmjWs.png"
     },
     {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-06-25T03:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
-    },
-    {
-      "title": "Pursued",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zabubek-ugabuga.itch.io/pursued",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
-    },
-    {
       "title": "One Bad Hot Dog",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -337,13 +238,103 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
-      "title": "Microcrawl",
+      "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://zpjinteractive.itch.io/microcrawl",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
       "category": "Game",
-      "expiryDate": "2026-06-26T02:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzExMjkwMzc0LnBuZw==/315x250%23c/ha1tBL.png"
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Silent Still 3",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "category": "Game",
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-06-23T10:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Exit Only",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/exit-only",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-06-25T03:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
+    },
+    {
+      "title": "Seraphim Automata",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dylancassidy.itch.io/seraphim-automata",
+      "category": "Game",
+      "expiryDate": "2026-06-25T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
+    },
+    {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-07-01T04:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Null Signal: Urban Drone Explorer",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://argendel.itch.io/null-signal",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzE5NDQzLmdpZg==/315x250%23c/bwYZco.gif"
+    },
+    {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-06-23T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
+      "title": "Room 310: The Awakening (2024)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dareint.itch.io/room-310-the-awakening",
+      "category": "Game",
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
+    },
+    {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-07-05T11:22:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
       "title": "Construction Simulator 3",
