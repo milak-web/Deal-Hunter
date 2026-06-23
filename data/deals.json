@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T11:36:57.976Z",
+  "lastUpdated": "2026-06-23T14:32:08.739Z",
   "deals": [
     {
       "title": "Citizen Sleeper",
@@ -40,6 +40,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
       "title": "Farm & Cook",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -49,13 +58,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
+      "title": "HAUNTED BY UWU FURRY GHOST",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "link": "https://simonwasthere.itch.io/haunted-by-uwu-furry-ghost",
       "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+      "expiryDate": "2026-06-25T23:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzk5NTE4LnBuZw==/315x250%23c/CHMRWm.png"
     },
     {
       "title": "Wasteland Alone",
@@ -94,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
-      "title": "HAUNTED BY UWU FURRY GHOST",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://simonwasthere.itch.io/haunted-by-uwu-furry-ghost",
-      "category": "Game",
-      "expiryDate": "2026-06-25T23:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzk5NTE4LnBuZw==/315x250%23c/CHMRWm.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
       "title": "Strange Toilet 2",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,15 +155,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Trial of Luck",
@@ -216,17 +216,8 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-06-24T17:00:00.000Z",
+      "expiryDate": "2026-06-26T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "Exorcist: final wishes",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fishgill.itch.io/exorcist-finalwishes",
-      "category": "Game",
-      "expiryDate": "2026-06-24T06:41:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3ODgyMTA3LnBuZw==/315x250%23c/va9Wyk.png"
     },
     {
       "title": "Eternal Night",
@@ -236,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Exorcist: final wishes",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fishgill.itch.io/exorcist-finalwishes",
+      "category": "Game",
+      "expiryDate": "2026-06-24T06:41:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3ODgyMTA3LnBuZw==/315x250%23c/va9Wyk.png"
     },
     {
       "title": "Back to Modern World - Fantasy Hero",
@@ -256,6 +256,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
+      "title": "Blupi's Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://initmaster.itch.io/blupis-adventures",
+      "category": "Game",
+      "expiryDate": "2026-06-26T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MDQ5MTc2LnBuZw==/315x250%23c/1qs3Ki.png"
+    },
+    {
       "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -265,15 +274,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
-      "title": "Room 310: The Awakening (2024)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dareint.itch.io/room-310-the-awakening",
-      "category": "Game",
-      "expiryDate": "2026-06-26T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
-    },
-    {
       "title": "Null Signal: Urban Drone Explorer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzE5NDQzLmdpZg==/315x250%23c/bwYZco.gif"
+    },
+    {
+      "title": "Room 310: The Awakening (2024)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dareint.itch.io/room-310-the-awakening",
+      "category": "Game",
+      "expiryDate": "2026-06-26T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDM4MDMyLmpwZw==/315x250%23c/aqxCKj.jpg"
     },
     {
       "title": "Backrooms Crawlers",
@@ -310,15 +319,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3OTAxOTg5LnBuZw==/315x250%23c/I%2B4I46.png"
     },
     {
-      "title": "Burnt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
-      "category": "Game",
-      "expiryDate": "2026-06-23T20:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
-    },
-    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -326,6 +326,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T04:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-06-23T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Seraphim Automata",
@@ -337,15 +346,6 @@
       "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
     },
     {
-      "title": "Thermo Puzzle",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://diadas.itch.io/thermo-game",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NTg2MzAucG5n/315x250%23c/Xm3sT9.png"
-    },
-    {
       "title": "Pursued",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -353,6 +353,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
+    },
+    {
+      "title": "Thermo Puzzle",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/thermo-game",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NTg2MzAucG5n/315x250%23c/Xm3sT9.png"
     },
     {
       "title": "Missile Assembler",
