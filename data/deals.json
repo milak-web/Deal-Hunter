@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T02:38:12.350Z",
+  "lastUpdated": "2026-06-26T06:46:42.917Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -76,6 +76,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
+      "title": "Noah's Secret: Episode 1",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MDY0MDcwLnBuZw==/315x250%23c/fQ2ews.png"
+    },
+    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
-      "title": "Rent Due: payment In Blood",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xx-vipe475.itch.io/rent-due",
-      "category": "Game",
-      "expiryDate": "2026-06-27T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
-    },
-    {
       "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +119,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+    },
+    {
+      "title": "Rent Due: payment In Blood",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xx-vipe475.itch.io/rent-due",
+      "category": "Game",
+      "expiryDate": "2026-06-27T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
     },
     {
       "title": "Farm & Cook",
