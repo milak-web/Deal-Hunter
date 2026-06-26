@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T23:50:07.021Z",
+  "lastUpdated": "2026-06-26T02:38:12.350Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
+      "title": "Dark Nights : A Night Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
+      "category": "Game",
+      "expiryDate": "2028-12-11T19:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,24 +74,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
-    },
-    {
-      "title": "Dark Nights : A Night Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
-      "category": "Game",
-      "expiryDate": "2028-12-11T19:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
-    },
-    {
-      "title": "HAUNTED BY UWU FURRY GHOST",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://simonwasthere.itch.io/haunted-by-uwu-furry-ghost",
-      "category": "Game",
-      "expiryDate": "2026-06-25T23:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzk5NTE4LnBuZw==/315x250%23c/CHMRWm.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -103,13 +94,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
-      "title": "Farm & Cook",
+      "title": "Croaking Around",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/farm-cook",
+      "link": "https://scallybag.itch.io/croaking-around",
       "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
       "title": "Rent Due: payment In Blood",
@@ -121,24 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Croaking Around",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scallybag.itch.io/croaking-around",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
-    },
-    {
       "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +119,24 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+    },
+    {
+      "title": "Farm & Cook",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/farm-cook",
+      "category": "Game",
+      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
