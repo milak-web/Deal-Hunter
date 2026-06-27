@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T02:57:44.639Z",
+  "lastUpdated": "2026-06-27T06:29:20.123Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "Croaking Around",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scallybag.itch.io/croaking-around",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
-    },
-    {
       "title": "Rent Due: payment In Blood",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-06-27T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
+    },
+    {
+      "title": "Croaking Around",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://scallybag.itch.io/croaking-around",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
       "title": "Quiet West: Butcher noose",
