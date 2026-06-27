@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T12:49:56.855Z",
+  "lastUpdated": "2026-06-27T14:23:41.030Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "Slime King",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
-    },
-    {
       "title": "Noah's Secret: Episode 1",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
+    },
+    {
+      "title": "Slime King",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/slime-king",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
       "title": "Mortem",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
-      "title": "Dark Nights : A Night Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
-      "category": "Game",
-      "expiryDate": "2028-12-11T19:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-07-01T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Dark Nights : A Night Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
+      "category": "Game",
+      "expiryDate": "2028-12-11T19:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
     },
     {
       "title": "Open House",
@@ -112,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-06-30T19:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
       "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,6 +121,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
     },
     {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-06-30T19:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
       "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "POPGOES Arcade",
