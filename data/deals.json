@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T09:12:08.429Z",
+  "lastUpdated": "2026-06-27T11:09:37.518Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -31,15 +31,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2ODY1OTUyLnBuZw==/315x250%23c/IJLRor.png"
     },
     {
-      "title": "Slime King",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
-    },
-    {
       "title": "Fear Assessment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,6 +38,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+    },
+    {
+      "title": "Slime King",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/slime-king",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
       "title": "Noah's Secret: Episode 1",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "Rent Due: payment In Blood",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xx-vipe475.itch.io/rent-due",
-      "category": "Game",
-      "expiryDate": "2026-06-27T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
-    },
-    {
       "title": "Croaking Around",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
+    },
+    {
+      "title": "Rent Due: payment In Blood",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xx-vipe475.itch.io/rent-due",
+      "category": "Game",
+      "expiryDate": "2026-06-27T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
       "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+    },
+    {
+      "title": "Strange Toilet",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/strange-toilet",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
       "title": "POPGOES Arcade",
