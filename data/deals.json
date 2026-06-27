@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T17:01:35.166Z",
+  "lastUpdated": "2026-06-27T18:42:29.657Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -20,6 +20,15 @@
       "startDate": "2026-06-25T15:00:00.000Z",
       "expiryDate": "2026-07-02T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-9gwxt.png"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-07-10T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "Average Routine",
@@ -58,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
-      "title": "Mortem",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/mortem",
-      "category": "Game",
-      "expiryDate": "2026-07-10T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,13 +103,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
-      "title": "Rent Due: payment In Blood",
+      "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://xx-vipe475.itch.io/rent-due",
+      "link": "https://thethil.itch.io/strange-toilet",
       "category": "Game",
-      "expiryDate": "2026-06-27T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ1MDY1LnBuZw==/315x250%23c/hElbfQ.png"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
       "title": "PARTY LINE",
@@ -128,15 +128,6 @@
       "category": "Game",
       "expiryDate": "2026-06-30T19:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
       "title": "POPGOES Arcade",
