@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T11:09:37.518Z",
+  "lastUpdated": "2026-06-27T12:49:56.855Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -137,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
+      "title": "Last Dive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/last-dive",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "POPGOES Arcade",
