@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T12:01:17.650Z",
+  "lastUpdated": "2026-06-28T14:20:59.753Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -83,6 +83,24 @@
       "category": "Game",
       "expiryDate": "2028-12-11T19:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
+    },
+    {
+      "title": "Strange Toilet",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/strange-toilet",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
+      "title": "Night Clerk",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/night-clerk",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Last Dive",
