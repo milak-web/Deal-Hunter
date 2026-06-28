@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T03:53:03.671Z",
+  "lastUpdated": "2026-06-28T07:44:37.825Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
-      "title": "Open House",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/open-house",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
-    },
-    {
       "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+    },
+    {
+      "title": "Open House",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/open-house",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
       "title": "Quiet West: Butcher noose",
