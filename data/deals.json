@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T05:09:10.781Z",
+  "lastUpdated": "2026-06-29T10:04:36.381Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Slime King",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -92,6 +83,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
+      "title": "Slime King",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/slime-king",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
       "title": "Dark Nights : A Night Alone",
