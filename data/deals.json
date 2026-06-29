@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T21:05:22.680Z",
+  "lastUpdated": "2026-06-29T22:34:53.943Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -31,6 +31,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
+      "title": "MATILDA",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redcap-games.itch.io/matilda",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
+    },
+    {
+      "title": "MATILDA 2",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redcap-games.itch.io/matilda-2",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ2MTgyLnBuZw==/315x250%23c/NBLtK8.png"
+    },
+    {
       "title": "Noah's Secret: Episode 1",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -49,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "Average Routine",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://colorlesswing-studio.itch.io/average-routine",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2ODY1OTUyLnBuZw==/315x250%23c/IJLRor.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -67,6 +76,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Average Routine",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://colorlesswing-studio.itch.io/average-routine",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2ODY1OTUyLnBuZw==/315x250%23c/IJLRor.png"
+    },
+    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
+    },
+    {
+      "title": "Dark Nights : A Night Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
+      "category": "Game",
+      "expiryDate": "2028-12-11T19:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
     },
     {
       "title": "Strange Toilet",
@@ -94,13 +121,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
-      "title": "Dark Nights : A Night Alone",
+      "title": "Croaking Around",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
+      "link": "https://scallybag.itch.io/croaking-around",
       "category": "Game",
-      "expiryDate": "2028-12-11T19:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
       "title": "Last Dive",
@@ -110,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
-      "title": "Croaking Around",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scallybag.itch.io/croaking-around",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
       "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
