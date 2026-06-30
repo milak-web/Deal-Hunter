@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:56:05.133Z",
+  "lastUpdated": "2026-06-30T02:49:20.413Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Average Routine",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://colorlesswing-studio.itch.io/average-routine",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2ODY1OTUyLnBuZw==/315x250%23c/IJLRor.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,15 +65,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
-      "title": "Dark Nights : A Night Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
-      "category": "Game",
-      "expiryDate": "2028-12-11T19:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
     },
     {
       "title": "Strange Toilet",
@@ -94,6 +76,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
+      "title": "Average Routine",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://colorlesswing-studio.itch.io/average-routine",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2ODY1OTUyLnBuZw==/315x250%23c/IJLRor.png"
+    },
+    {
+      "title": "Dark Nights : A Night Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://desi-game-dev.itch.io/dark-nights-a-night-alone",
+      "category": "Game",
+      "expiryDate": "2028-12-11T19:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzEwNzk4LnBuZw==/315x250%23c/ZUL2TZ.png"
+    },
+    {
       "title": "Slime King",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
-      "title": "Croaking Around",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scallybag.itch.io/croaking-around",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
-    },
-    {
       "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+    },
+    {
+      "title": "Croaking Around",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://scallybag.itch.io/croaking-around",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
       "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
