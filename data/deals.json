@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T08:36:11.649Z",
+  "lastUpdated": "2026-07-01T11:54:30.888Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -29,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-07-10T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
+    },
+    {
+      "title": "Rotten",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redwolfstudios-deg.itch.io/rotten",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
     },
     {
       "title": "Noah's Secret: Episode 1",
@@ -67,24 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
-      "title": "Lost In The Store",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kikinndev.itch.io/lost-in-the-store",
-      "category": "Game",
-      "expiryDate": "2026-07-11T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTc4NTYxLnBuZw==/315x250%23c/ugdXa2.png"
-    },
-    {
       "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,6 +85,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
+      "title": "Last Dive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/last-dive",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+    },
+    {
       "title": "Croaking Around",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
+    },
+    {
+      "title": "Drive Me to Hell",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://madbug.itch.io/drive-me-to-hell",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjcxMDQ2LmdpZg==/315x250%23c/FsXq79.gif"
     },
     {
       "title": "Average Routine",
