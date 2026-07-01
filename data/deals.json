@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T04:23:31.574Z",
+  "lastUpdated": "2026-07-01T08:36:11.649Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Lost In The Store",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kikinndev.itch.io/lost-in-the-store",
-      "category": "Game",
-      "expiryDate": "2026-07-11T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTc4NTYxLnBuZw==/315x250%23c/ugdXa2.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+    },
+    {
+      "title": "Lost In The Store",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kikinndev.itch.io/lost-in-the-store",
+      "category": "Game",
+      "expiryDate": "2026-07-11T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTc4NTYxLnBuZw==/315x250%23c/ugdXa2.png"
     },
     {
       "title": "Strange Toilet",
