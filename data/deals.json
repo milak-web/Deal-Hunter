@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-02T14:36:35.854Z",
+  "lastUpdated": "2026-07-02T16:45:25.373Z",
   "deals": [
     {
-      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "title": "River City Girls 2",
       "platform": "Epic Games",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition",
+      "originalPrice": "$39.99",
+      "link": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
       "category": "Game",
-      "startDate": "2026-06-25T15:00:00.000Z",
-      "expiryDate": "2026-07-02T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg"
+      "startDate": "2026-07-02T15:00:00.000Z",
+      "expiryDate": "2026-07-09T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-12b0w.png"
     },
     {
-      "title": "Voidwrought",
+      "title": "I Have No Mouth, and I Must Scream",
       "platform": "Epic Games",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/en-US/p/voidwrought-ce8f4b",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
       "category": "Game",
-      "startDate": "2026-06-25T15:00:00.000Z",
-      "expiryDate": "2026-07-02T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-9gwxt.png"
+      "startDate": "2026-07-02T15:00:00.000Z",
+      "expiryDate": "2026-07-09T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1f2lo.png"
     },
     {
       "title": "Mortem",
@@ -148,13 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
+      "title": "Sophia the Traveler",
       "platform": "Mobile",
       "originalPrice": "$9.99",
       "link": "https://store.epicgames.com/mobile",
       "category": "Mobile",
-      "expiryDate": "2026-07-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a3d45aebd479.jpg"
+      "expiryDate": "2026-07-09T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a46829adec4e.jpg"
     }
   ]
 }
