@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T23:50:15.081Z",
+  "lastUpdated": "2026-07-02T02:34:07.040Z",
   "deals": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,15 +65,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "Drive Me to Hell",
@@ -94,13 +76,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjcxMDQ2LmdpZg==/315x250%23c/FsXq79.gif"
     },
     {
-      "title": "Croaking Around",
+      "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://scallybag.itch.io/croaking-around",
+      "link": "https://thethil.itch.io/strange-toilet",
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
+    },
+    {
+      "title": "Last Dive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/last-dive",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "Slime King",
@@ -110,6 +101,51 @@
       "category": "Game",
       "expiryDate": "2026-07-18T17:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
+    },
+    {
+      "title": "Croaking Around",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://scallybag.itch.io/croaking-around",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
+    },
+    {
+      "title": "The Bigfoot: Snow Massacre",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+      "category": "Game",
+      "expiryDate": "2026-07-31T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
+    },
+    {
+      "title": "PARTY LINE",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/party-line",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Average Routine",
@@ -128,15 +164,6 @@
       "category": "Mobile",
       "expiryDate": "2026-07-02T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a3d45aebd479.jpg"
-    },
-    {
-      "title": "Tell Me Why",
-      "platform": "Steam",
-      "originalPrice": "$19.99",
-      "link": "https://store.steampowered.com/agecheck/app/1180660",
-      "category": "Game",
-      "expiryDate": "2026-07-01T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6478b9dcae7be.jpg"
     }
   ]
 }
