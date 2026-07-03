@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T12:02:35.536Z",
+  "lastUpdated": "2026-07-03T14:38:16.034Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -130,13 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Last Dive",
+      "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
+      "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Slime King",
@@ -148,13 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
-      "title": "NIGHTBELL",
+      "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
+      "link": "https://thewindyproject.itch.io/last-dive",
       "category": "Game",
-      "expiryDate": "2026-07-12T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
       "title": "Larger Than Light",
@@ -164,6 +164,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
+    },
+    {
+      "title": "The Man You See",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/the-man-you-see",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
       "title": "The Bigfoot: Snow Massacre",
@@ -182,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
+      "title": "Nexus: The Jupiter Incident",
+      "platform": "GOG",
+      "originalPrice": "$9.99",
+      "link": "https://www.gog.com/en/game/nexus_the_jupiter_incident",
+      "category": "Game",
+      "expiryDate": "2026-07-06T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a47b0fbdb0be.jpg"
     },
     {
       "title": "Sophia the Traveler",
