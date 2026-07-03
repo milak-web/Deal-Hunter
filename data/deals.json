@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T09:40:37.903Z",
+  "lastUpdated": "2026-07-03T12:02:35.536Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -47,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
+    },
+    {
+      "title": "The Lost Apartment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Fear Assessment",
