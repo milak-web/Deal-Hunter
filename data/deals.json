@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T23:57:49.472Z",
+  "lastUpdated": "2026-07-03T02:54:04.130Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -85,6 +85,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Croaking Around",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://scallybag.itch.io/croaking-around",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
+    },
+    {
       "title": "Strange Toilet",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,15 +110,6 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
-      "title": "Croaking Around",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scallybag.itch.io/croaking-around",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
       "title": "DIRE ECHO",
@@ -139,6 +139,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
+      "title": "Larger Than Light",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://1010meha.itch.io/larger-than-light",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
+    },
+    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,13 +157,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
-      "title": "Larger Than Light",
+      "title": "Late Stops",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://1010meha.itch.io/larger-than-light",
+      "link": "https://grantrimi.itch.io/late-stops",
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
     },
     {
       "title": "Sophia the Traveler",
