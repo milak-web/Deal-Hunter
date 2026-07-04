@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T17:59:12.643Z",
+  "lastUpdated": "2026-07-04T19:18:14.747Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
-      "title": "Rotten",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redwolfstudios-deg.itch.io/rotten",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
-    },
-    {
       "title": "Noah's Secret: Episode 1",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
+    },
+    {
+      "title": "Rotten",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redwolfstudios-deg.itch.io/rotten",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
     },
     {
       "title": "Fear Assessment",
