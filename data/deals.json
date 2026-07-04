@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T16:56:16.653Z",
+  "lastUpdated": "2026-07-04T17:59:12.643Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -31,6 +31,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
+      "title": "The Lost Apartment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
+    },
+    {
       "title": "Rotten",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,15 +56,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
-    },
-    {
-      "title": "The Lost Apartment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sdevscares.itch.io/the-lost-apartment",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Fear Assessment",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
     },
     {
-      "title": "Night Clerk",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
       "title": "Slime King",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-07-18T17:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
+    },
+    {
+      "title": "Night Clerk",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/night-clerk",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "PARTY LINE",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
     },
     {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-07-15T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Strange Toilet",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/strange-toilet",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
     },
     {
       "title": "NIGHTBELL",
