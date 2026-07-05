@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:49:45.899Z",
+  "lastUpdated": "2026-07-05T21:54:11.030Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -76,6 +76,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
       "title": "Croaking Around",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,15 +128,6 @@
       "category": "Game",
       "expiryDate": "2026-07-12T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-07-15T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Nexus: The Jupiter Incident",
