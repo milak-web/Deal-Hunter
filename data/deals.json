@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T23:30:35.681Z",
+  "lastUpdated": "2026-07-05T02:23:00.739Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
-      "title": "Noah's Secret: Episode 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
-    },
-    {
       "title": "Rotten",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -58,13 +49,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
     },
     {
-      "title": "Fear Assessment",
+      "title": "Noah's Secret: Episode 1",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
       "title": "Drive Me to Hell",
@@ -76,6 +67,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NjcxMDQ2LmdpZg==/315x250%23c/FsXq79.gif"
     },
     {
+      "title": "Fear Assessment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+    },
+    {
       "title": "Croaking Around",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,24 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTEyOTg3LnBuZw==/315x250%23c/8Z66kr.png"
-    },
-    {
-      "title": "Slime King",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-07-12T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "PARTY LINE",
@@ -112,13 +94,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
     },
     {
-      "title": "Night Clerk",
+      "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
+      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Larger Than Light",
@@ -130,6 +112,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzU5NTQ1MzAuanBn/315x250%23c/jN76fr.jpg"
     },
     {
+      "title": "Night Clerk",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/night-clerk",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
+    },
+    {
+      "title": "Slime King",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/slime-king",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,24 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-07-15T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Strange Toilet",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/strange-toilet",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NjE3OTIxLnBuZw==/315x250%23c/LJ1LBT.png"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-07-12T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "The Man You See",
