@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T12:22:01.773Z",
+  "lastUpdated": "2026-07-06T15:58:29.281Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -36,17 +36,8 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "expiryDate": "2026-07-29T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
-    },
-    {
-      "title": "The Lost Apartment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sdevscares.itch.io/the-lost-apartment",
-      "category": "Game",
-      "expiryDate": "2026-07-06T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Rotten",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
+    },
+    {
+      "title": "The Lost Apartment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Static Voice",
@@ -119,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
-    },
-    {
-      "title": "Nexus: The Jupiter Incident",
-      "platform": "GOG",
-      "originalPrice": "$9.99",
-      "link": "https://www.gog.com/en/game/nexus_the_jupiter_incident",
-      "category": "Game",
-      "expiryDate": "2026-07-06T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a47b0fbdb0be.jpg"
     },
     {
       "title": "Sophia the Traveler",
