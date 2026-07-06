@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T08:13:05.134Z",
+  "lastUpdated": "2026-07-06T12:22:01.773Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -40,6 +40,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
+      "title": "The Lost Apartment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
+      "category": "Game",
+      "expiryDate": "2026-07-06T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
+    },
+    {
       "title": "Rotten",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,6 +56,15 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
+    },
+    {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-07-11T12:49:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
       "title": "Fear Assessment",
@@ -101,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-07-06T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
-    },
-    {
-      "title": "Slime King",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
       "title": "Nexus: The Jupiter Incident",
