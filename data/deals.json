@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T16:26:00.734Z",
+  "lastUpdated": "2026-07-08T17:57:08.623Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -63,8 +63,17 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "THE CORRIDOR 13",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aridevlops.itch.io/corridor-13",
+      "category": "Game",
+      "expiryDate": "2026-07-09T18:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzUxNzAxLmdpZg==/315x250%23c/xStmG1.gif"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -74,15 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-07-15T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "THE CORRIDOR 13",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aridevlops.itch.io/corridor-13",
-      "category": "Game",
-      "expiryDate": "2026-07-10T19:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzUxNzAxLmdpZg==/315x250%23c/xStmG1.gif"
     },
     {
       "title": "Farm & Cook",
@@ -99,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-07-12T14:57:00.000Z",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
