@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T10:09:16.011Z",
+  "lastUpdated": "2026-07-08T12:01:09.644Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -74,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-07-15T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "THE CORRIDOR 13",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aridevlops.itch.io/corridor-13",
+      "category": "Game",
+      "expiryDate": "2026-07-10T19:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzUxNzAxLmdpZg==/315x250%23c/xStmG1.gif"
     },
     {
       "title": "Farm & Cook",
