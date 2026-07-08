@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T20:41:28.422Z",
+  "lastUpdated": "2026-07-08T22:00:04.735Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -58,6 +58,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
+      "title": "THE CORRIDOR 13 - 廊下",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aridevlops.itch.io/corridor-13",
+      "category": "Game",
+      "expiryDate": "2026-07-09T18:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzcxODk1LmdpZg==/315x250%23c/Y5yAA2.gif"
+    },
+    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,15 +74,6 @@
       "category": "Game",
       "expiryDate": "2026-07-19T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
-      "title": "THE CORRIDOR 13",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aridevlops.itch.io/corridor-13",
-      "category": "Game",
-      "expiryDate": "2026-07-09T18:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzUxNzAxLmdpZg==/315x250%23c/xStmG1.gif"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Farm & Cook",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/farm-cook",
-      "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-07-19T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Farm & Cook",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/farm-cook",
+      "category": "Game",
+      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
       "title": "Last Dive",
@@ -137,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T13:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Clean ATTACK!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/clean-attack",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
       "title": "Silence",
