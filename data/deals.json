@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-09T12:18:43.273Z",
+  "lastUpdated": "2026-07-09T15:39:47.933Z",
   "deals": [
     {
-      "title": "River City Girls 2",
+      "title": "Nova Lands",
       "platform": "Epic Games",
-      "originalPrice": "$39.99",
-      "link": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
+      "originalPrice": "$19.99",
+      "link": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
       "category": "Game",
-      "startDate": "2026-07-02T15:00:00.000Z",
-      "expiryDate": "2026-07-09T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-12b0w.png"
+      "startDate": "2026-07-09T15:00:00.000Z",
+      "expiryDate": "2026-07-16T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png"
     },
     {
-      "title": "I Have No Mouth, and I Must Scream",
+      "title": "Tattoo Tycoon",
       "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+      "originalPrice": "$29.99",
+      "link": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
       "category": "Game",
-      "startDate": "2026-07-02T15:00:00.000Z",
-      "expiryDate": "2026-07-09T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1f2lo.png"
+      "startDate": "2026-07-09T15:00:00.000Z",
+      "expiryDate": "2026-07-16T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
     },
     {
       "title": "Noah's Secret: Episode 1",
@@ -49,15 +49,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-07-19T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "The Man You See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,6 +56,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -166,6 +166,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjQwMDQxLmdpZg==/315x250%23c/sEYfDo.gif"
     },
     {
+      "title": "Princess Farmer",
+      "platform": "Mobile",
+      "originalPrice": "$5.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-07-16T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a4fbccf3c77e.jpg"
+    },
+    {
       "title": "Silence",
       "platform": "GOG",
       "originalPrice": "$19.99",
@@ -173,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-07-10T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a4d01a0233ad.jpg"
-    },
-    {
-      "title": "Sophia the Traveler",
-      "platform": "Mobile",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-07-09T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a46829adec4e.jpg"
     }
   ]
 }
