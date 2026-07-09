@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T01:08:12.224Z",
+  "lastUpdated": "2026-07-09T05:31:00.444Z",
   "deals": [
     {
       "title": "River City Girls 2",
@@ -49,15 +49,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
-      "title": "The Man You See",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/the-man-you-see",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
-    },
-    {
       "title": "THE CORRIDOR 13 - 廊下",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -76,6 +67,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
+      "title": "The Man You See",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/the-man-you-see",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,15 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-07-15T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-07-19T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Farm & Cook",
@@ -112,6 +103,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +119,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T13:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Voxelite",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waterworksgames.itch.io/voxelite",
+      "category": "Game",
+      "expiryDate": "2026-07-13T07:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "Lord of Chaos",
@@ -146,15 +155,6 @@
       "category": "Game",
       "expiryDate": "2026-07-14T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjQwMDQxLmdpZg==/315x250%23c/sEYfDo.gif"
-    },
-    {
-      "title": "Trial of Luck",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sc4rcha.itch.io/trial-of-luck",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
       "title": "Silence",
