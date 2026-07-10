@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T17:41:55.188Z",
+  "lastUpdated": "2026-07-10T19:17:42.745Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -58,6 +58,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTYzNzQxLmpwZw==/315x250%23c/C4vhKB.jpg"
     },
     {
+      "title": "The Man You See",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/the-man-you-see",
+      "category": "Game",
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,15 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-07-19T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
-      "title": "The Man You See",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/the-man-you-see",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
       "title": "Lord of Chaos",
