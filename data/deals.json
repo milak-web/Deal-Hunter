@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T13:06:08.357Z",
+  "lastUpdated": "2026-07-10T15:43:36.205Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -81,17 +81,8 @@
       "originalPrice": "N/A",
       "link": "https://thewindyproject.itch.io/the-man-you-see",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
-    },
-    {
-      "title": "Farm & Cook",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/farm-cook",
-      "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
       "title": "Lord of Chaos",
@@ -103,12 +94,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Farm & Cook",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/farm-cook",
+      "category": "Game",
+      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
+    },
+    {
       "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://thewindyproject.itch.io/last-dive",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
@@ -193,6 +193,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-08-01T13:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
+    },
+    {
       "title": "Spear It Up: Precision Platformer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,15 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDc3ODgzLmdpZg==/315x250%23c/rAM%2Fn9.gif"
     },
     {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-08-01T13:06:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
-    },
-    {
       "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,15 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
-      "title": "Cat Meme Clicker",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
-      "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
       "title": "Princess Farmer",
       "platform": "Mobile",
       "originalPrice": "$5.99",
@@ -245,15 +245,6 @@
       "category": "Mobile",
       "expiryDate": "2026-07-16T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a4fbccf3c77e.jpg"
-    },
-    {
-      "title": "Silence",
-      "platform": "GOG",
-      "originalPrice": "$19.99",
-      "link": "https://www.gog.com/en/game/silence",
-      "category": "Game",
-      "expiryDate": "2026-07-10T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a4d01a0233ad.jpg"
     }
   ]
 }
