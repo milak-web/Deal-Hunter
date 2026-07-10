@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T10:34:30.018Z",
+  "lastUpdated": "2026-07-10T13:06:08.357Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://thewindyproject.itch.io/the-man-you-see",
       "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
@@ -108,7 +108,7 @@
       "originalPrice": "N/A",
       "link": "https://thewindyproject.itch.io/last-dive",
       "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
     },
     {
@@ -139,6 +139,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Clean ATTACK!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/clean-attack",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
+    },
+    {
       "title": "Tea Party For 4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,15 +164,6 @@
       "category": "Game",
       "expiryDate": "2026-07-18T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
-    },
-    {
-      "title": "Clean ATTACK!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://diadas.itch.io/clean-attack",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
       "title": "Voxelite",
