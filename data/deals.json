@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T16:25:47.619Z",
+  "lastUpdated": "2026-07-11T17:28:45.073Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -94,13 +94,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0Mjc3Mjc0LnBuZw==/315x250%23c/RKa6RW.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Decrypt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://cruxgamestudios.itch.io/decrypt",
       "category": "Game",
-      "expiryDate": "2026-07-13T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-07-13T04:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
       "title": "Within",
@@ -121,6 +121,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-07-13T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T13:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
-    },
-    {
-      "title": "Decrypt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cruxgamestudios.itch.io/decrypt",
-      "category": "Game",
-      "expiryDate": "2026-07-13T04:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
       "title": "Last Dive",
@@ -229,6 +229,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
       "title": "Small Push",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,24 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-07-31T17:13:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3OTQ1MjIzLnBuZw==/315x250%23c/0IVhvO.png"
-    },
-    {
-      "title": "Voxelite",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
-      "category": "Game",
-      "expiryDate": "2026-07-13T07:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
-    },
-    {
-      "title": "Burnt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
-      "category": "Game",
-      "expiryDate": "2026-07-12T18:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Princess Farmer",
