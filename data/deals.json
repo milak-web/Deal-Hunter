@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T13:00:09.316Z",
+  "lastUpdated": "2026-07-11T14:23:36.906Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -85,6 +85,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
     },
     {
+      "title": "Envelope",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eirix.itch.io/envelope-game",
+      "category": "Game",
+      "expiryDate": "2026-07-12T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0Mjc3Mjc0LnBuZw==/315x250%23c/RKa6RW.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -92,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Within",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cruxgamestudios.itch.io/within",
+      "category": "Game",
+      "expiryDate": "2026-07-13T04:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
     },
     {
       "title": "Farm & Cook",
@@ -112,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Within",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cruxgamestudios.itch.io/within",
-      "category": "Game",
-      "expiryDate": "2026-07-13T04:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
-    },
-    {
       "title": "Decrypt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-07-13T04:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
-    },
-    {
-      "title": "Envelope",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://eirix.itch.io/envelope-game",
-      "category": "Game",
-      "expiryDate": "2026-07-12T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0Mjc3Mjc0LnBuZw==/315x250%23c/RKa6RW.png"
     },
     {
       "title": "Last Dive",
@@ -220,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "Voxelite",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
-      "category": "Game",
-      "expiryDate": "2026-07-13T07:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
-    },
-    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +227,24 @@
       "category": "Game",
       "expiryDate": "2026-08-01T13:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Small Push",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://khaled2881.itch.io/small-push",
+      "category": "Game",
+      "expiryDate": "2026-07-31T17:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3OTQ1MjIzLnBuZw==/315x250%23c/0IVhvO.png"
+    },
+    {
+      "title": "Voxelite",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waterworksgames.itch.io/voxelite",
+      "category": "Game",
+      "expiryDate": "2026-07-13T07:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "Burnt",
