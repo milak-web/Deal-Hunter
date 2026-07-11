@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T04:57:51.038Z",
+  "lastUpdated": "2026-07-11T07:10:42.327Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -112,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
-      "title": "Last Dive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/last-dive",
-      "category": "Game",
-      "expiryDate": "2026-07-13T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
-    },
-    {
       "title": "Decrypt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,13 +121,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
-      "title": "Wasteland Alone",
+      "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "link": "https://thewindyproject.itch.io/last-dive",
       "category": "Game",
-      "expiryDate": "2026-08-01T13:06:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+      "expiryDate": "2026-07-13T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MzE2MzA1LmpwZw==/315x250%23c/y2Hp%2Be.jpg"
+    },
+    {
+      "title": "Within",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cruxgamestudios.itch.io/within",
+      "category": "Game",
+      "expiryDate": "2026-07-13T04:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
     },
     {
       "title": "Eternal Night",
@@ -148,13 +148,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Within",
+      "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://cruxgamestudios.itch.io/within",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
       "category": "Game",
-      "expiryDate": "2026-07-13T04:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
+      "expiryDate": "2026-08-01T13:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Envelope",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eirix.itch.io/envelope-game",
+      "category": "Game",
+      "expiryDate": "2026-07-12T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0Mjc3Mjc0LnBuZw==/315x250%23c/RKa6RW.png"
     },
     {
       "title": "DIRE ECHO",
@@ -227,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-07-19T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
+    },
+    {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-08-01T13:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
       "title": "Princess Farmer",
