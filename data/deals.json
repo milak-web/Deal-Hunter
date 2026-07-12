@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T12:12:24.154Z",
+  "lastUpdated": "2026-07-12T14:01:44.512Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -148,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
+      "title": "Not Like Them — A PSX Horror Game [Chapter 1]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xx-vipe475.itch.io/not-like-them",
+      "category": "Game",
+      "expiryDate": "2026-07-13T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MjA1LnBuZw==/315x250%23c/fOYp3r.png"
+    },
+    {
       "title": "Last Dive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -166,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Not Like Them — A PSX Horror Game [Chapter 1]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xx-vipe475.itch.io/not-like-them",
-      "category": "Game",
-      "expiryDate": "2026-07-13T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MjA1LnBuZw==/315x250%23c/fOYp3r.png"
-    },
-    {
       "title": "Clean ATTACK!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -182,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
+    },
+    {
+      "title": "Sapphire City",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pehriska.itch.io/sapphire-city",
+      "category": "Game",
+      "expiryDate": "2026-07-19T12:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NzI4MzU5LnBuZw==/315x250%23c/ZxyQ8S.png"
     },
     {
       "title": "DIRE ECHO",
@@ -238,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
-      "title": "isekai healing life",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://team-sh.itch.io/isekai-healinglife",
-      "category": "Game",
-      "expiryDate": "2026-07-31T14:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
-    },
-    {
       "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -254,15 +254,6 @@
       "category": "Game",
       "expiryDate": "2026-07-13T07:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
-    },
-    {
-      "title": "Last soldier standing",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://khaled-khader.itch.io/last-soldier-standing",
-      "category": "Game",
-      "expiryDate": "2026-07-18T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDc3ODgzLmdpZg==/315x250%23c/rAM%2Fn9.gif"
     },
     {
       "title": "Spear It Up: Precision Platformer",
@@ -274,6 +265,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
     },
     {
+      "title": "isekai healing life",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://team-sh.itch.io/isekai-healinglife",
+      "category": "Game",
+      "expiryDate": "2026-07-31T14:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
+    },
+    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T13:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Last soldier standing",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://khaled-khader.itch.io/last-soldier-standing",
+      "category": "Game",
+      "expiryDate": "2026-07-18T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDc3ODgzLmdpZg==/315x250%23c/rAM%2Fn9.gif"
     },
     {
       "title": "Princess Farmer",
