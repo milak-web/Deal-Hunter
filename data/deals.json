@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T15:32:19.108Z",
+  "lastUpdated": "2026-07-12T16:50:51.215Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -83,15 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-07-15T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Envelope",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://eirix.itch.io/envelope-game",
-      "category": "Game",
-      "expiryDate": "2026-07-12T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0Mjc3Mjc0LnBuZw==/315x250%23c/RKa6RW.png"
     },
     {
       "title": "Decrypt",
@@ -202,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Trial of Luck",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sc4rcha.itch.io/trial-of-luck",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
-    },
-    {
       "title": "GRAVITY Pilot!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
+    },
+    {
+      "title": "Trial of Luck",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sc4rcha.itch.io/trial-of-luck",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
       "title": "The Copper Hill",
@@ -290,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-07-18T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDc3ODgzLmdpZg==/315x250%23c/rAM%2Fn9.gif"
+    },
+    {
+      "title": "KeepUp Survival",
+      "platform": "Epic Games",
+      "originalPrice": "$14.99",
+      "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+      "category": "Game",
+      "expiryDate": "2026-07-19T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a53be9cea179.jpg"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
