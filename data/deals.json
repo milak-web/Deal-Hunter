@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T16:50:51.215Z",
+  "lastUpdated": "2026-07-12T17:53:31.305Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTYzNzQxLmpwZw==/315x250%23c/C4vhKB.jpg"
     },
     {
-      "title": "Slime King",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob-demo.itch.io/slime-king",
-      "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
-    },
-    {
       "title": "Within",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,6 +65,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T04:23:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
+    },
+    {
+      "title": "Slime King",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob-demo.itch.io/slime-king",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-07-19T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "The Man You See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjU4NDU3LmdpZg==/315x250%23c/VNx2Q4.gif"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Farm & Cook",
@@ -128,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-07-13T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Sapphire City",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pehriska.itch.io/sapphire-city",
+      "category": "Game",
+      "expiryDate": "2026-07-19T12:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NzI4MzU5LnBuZw==/315x250%23c/ZxyQ8S.png"
     },
     {
       "title": "Wasteland Alone",
@@ -173,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
-    },
-    {
-      "title": "Sapphire City",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://pehriska.itch.io/sapphire-city",
-      "category": "Game",
-      "expiryDate": "2026-07-19T12:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NzI4MzU5LnBuZw==/315x250%23c/ZxyQ8S.png"
     },
     {
       "title": "DIRE ECHO",
@@ -238,15 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
-      "title": "Voxelite",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
-      "category": "Game",
-      "expiryDate": "2026-07-13T07:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
-    },
-    {
       "title": "Spear It Up: Precision Platformer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -254,6 +245,15 @@
       "category": "Game",
       "expiryDate": "2026-07-18T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
+    },
+    {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-08-01T13:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
       "title": "isekai healing life",
@@ -265,13 +265,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
     },
     {
-      "title": "The Uninvited",
+      "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "link": "https://waterworksgames.itch.io/voxelite",
       "category": "Game",
-      "expiryDate": "2026-08-01T13:06:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+      "expiryDate": "2026-07-13T07:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "Last soldier standing",
