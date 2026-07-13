@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T23:23:08.421Z",
+  "lastUpdated": "2026-07-13T00:59:48.160Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -202,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
-      "title": "GRAVITY Pilot!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://diadas.itch.io/gravity-pilot",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
-    },
-    {
       "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "GRAVITY Pilot!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/gravity-pilot",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
     },
     {
       "title": "Another World Adventures",
@@ -281,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-07-18T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDc3ODgzLmdpZg==/315x250%23c/rAM%2Fn9.gif"
+    },
+    {
+      "title": "Voxelite",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waterworksgames.itch.io/voxelite",
+      "category": "Game",
+      "expiryDate": "2026-07-13T07:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "KeepUp Survival",
