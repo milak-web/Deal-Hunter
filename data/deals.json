@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T20:35:36.865Z",
+  "lastUpdated": "2026-07-14T21:50:46.266Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://imranaziz.itch.io/hotdogkiller",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-26T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
@@ -72,7 +72,7 @@
       "originalPrice": "N/A",
       "link": "https://rob-demo.itch.io/slime-king",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://rob-demo.itch.io/farm-cook",
       "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
@@ -99,8 +99,17 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-27T21:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
+      "title": "StarBoy",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrkdji.itch.io/starboy",
+      "category": "Game",
+      "expiryDate": "2026-07-21T20:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzU4NDY1MjIuZ2lm/315x250%23c/eFunDy.gif"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -108,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
       "category": "Game",
-      "expiryDate": "2026-07-23T21:09:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
     },
     {
@@ -126,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-07-16T17:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -148,12 +157,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjQwMDQxLmdpZg==/315x250%23c/sEYfDo.gif"
     },
     {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+    },
+    {
       "title": "Clean ATTACK!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/clean-attack",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
@@ -162,17 +180,8 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "Burnt",
@@ -184,12 +193,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
       "title": "GRAVITY Pilot!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/gravity-pilot",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
     },
     {
@@ -198,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://sc4rcha.itch.io/trial-of-luck",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-18T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
@@ -216,17 +234,8 @@
       "originalPrice": "N/A",
       "link": "https://khaled-khader.itch.io/spear-it-up",
       "category": "Game",
-      "expiryDate": "2026-07-18T09:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
-    },
-    {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-07-19T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
       "title": "Concrete Veil",
@@ -234,8 +243,17 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/concrete-veil",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
       "title": "Reap Radio",
@@ -245,15 +263,6 @@
       "category": "Game",
       "expiryDate": "2026-07-17T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3OTA3ODI1LmpwZw==/315x250%23c/US7z%2F%2B.jpg"
-    },
-    {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "Together After Dark",
