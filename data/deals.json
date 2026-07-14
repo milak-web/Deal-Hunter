@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T17:38:58.919Z",
+  "lastUpdated": "2026-07-14T19:06:21.012Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://rob-demo.itch.io/farm-cook",
       "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
@@ -101,15 +101,6 @@
       "category": "Game",
       "expiryDate": "2026-07-27T21:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
-    },
-    {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-08-01T20:48:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -153,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://evekehat.itch.io/tea-party-for-4",
       "category": "Game",
-      "expiryDate": "2026-07-24T21:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjQwMDQxLmdpZg==/315x250%23c/sEYfDo.gif"
     },
     {
@@ -184,13 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "Eternal Night",
+      "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
-      "expiryDate": "2026-08-01T20:48:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+      "expiryDate": "2026-07-19T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "GRAVITY Pilot!",
@@ -200,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
-    },
-    {
-      "title": "Burnt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
-      "category": "Game",
-      "expiryDate": "2026-07-19T20:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Trial of Luck",
@@ -234,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://khaled-khader.itch.io/spear-it-up",
       "category": "Game",
-      "expiryDate": "2026-07-18T09:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
     },
     {
