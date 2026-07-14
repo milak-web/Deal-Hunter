@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T09:21:52.334Z",
+  "lastUpdated": "2026-07-14T11:03:10.108Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -20,6 +20,15 @@
       "startDate": "2026-07-09T15:00:00.000Z",
       "expiryDate": "2026-07-16T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-07-18T09:55:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "Noah's Secret: Episode 1",
@@ -85,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-07-23T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T20:48:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-07-23T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
     },
     {
       "title": "The Additional Dimension",
@@ -130,6 +139,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
       "title": "Tea Party For 4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,15 +173,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Eternal Night",
@@ -254,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "Together After Dark",
