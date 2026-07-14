@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T19:06:21.012Z",
+  "lastUpdated": "2026-07-14T20:35:36.865Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-07-29T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://imranaziz.itch.io/hotdogkiller",
       "category": "Game",
-      "expiryDate": "2026-07-26T19:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://rob-demo.itch.io/farm-cook",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-19T12:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
@@ -99,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": "2026-07-27T21:36:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -153,7 +153,7 @@
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/clean-attack",
       "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
@@ -189,7 +189,7 @@
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/gravity-pilot",
       "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
     },
     {
@@ -198,7 +198,7 @@
       "originalPrice": "N/A",
       "link": "https://sc4rcha.itch.io/trial-of-luck",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
@@ -216,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://khaled-khader.itch.io/spear-it-up",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-18T09:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
     },
     {
