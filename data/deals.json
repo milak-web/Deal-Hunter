@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T12:45:23.493Z",
+  "lastUpdated": "2026-07-14T14:43:09.230Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
+      "title": "The Additional Dimension",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "category": "Game",
+      "expiryDate": "2026-07-27T21:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-07-23T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwNTg4NjgzLnBuZw==/315x250%23c/%2FyjF8k.png"
-    },
-    {
-      "title": "The Additional Dimension",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
-      "category": "Game",
-      "expiryDate": "2026-07-27T21:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
       "title": "DIRE ECHO",
@@ -184,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-07-19T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+    },
+    {
       "title": "GRAVITY Pilot!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -220,24 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTM2NDkyLmdpZg==/315x250%23c/9yEQ8y.gif"
     },
     {
-      "title": "Reap Radio",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gothictaco.itch.io/reap-radio",
-      "category": "Game",
-      "expiryDate": "2026-07-17T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3OTA3ODI1LmpwZw==/315x250%23c/US7z%2F%2B.jpg"
-    },
-    {
-      "title": "Burnt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
-      "category": "Game",
-      "expiryDate": "2026-07-19T20:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
-    },
-    {
       "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-07-19T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
+    },
+    {
+      "title": "Reap Radio",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gothictaco.itch.io/reap-radio",
+      "category": "Game",
+      "expiryDate": "2026-07-17T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3OTA3ODI1LmpwZw==/315x250%23c/US7z%2F%2B.jpg"
     },
     {
       "title": "Liminal Lane",
@@ -272,6 +272,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "isekai healing life",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://team-sh.itch.io/isekai-healinglife",
+      "category": "Game",
+      "expiryDate": "2026-07-31T14:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
     },
     {
       "title": "Together After Dark",
