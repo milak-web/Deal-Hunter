@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T01:43:12.964Z",
+  "lastUpdated": "2026-07-15T04:43:52.736Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -22,42 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
-    },
-    {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-07-24T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MjQwMDQxLmdpZg==/315x250%23c/sEYfDo.gif"
-    },
-    {
       "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -72,8 +36,17 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -81,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-31T18:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -90,17 +63,8 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "Reap Radio",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gothictaco.itch.io/reap-radio",
-      "category": "Game",
-      "expiryDate": "2026-07-17T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3OTA3ODI1LmpwZw==/315x250%23c/US7z%2F%2B.jpg"
     },
     {
       "title": "GRAVITY Pilot!",
@@ -108,7 +72,7 @@
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/gravity-pilot",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU4NDUucG5n/315x250%23c/m13KlL.png"
     },
     {
@@ -117,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/clean-attack",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-20T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
@@ -126,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://phantom-drive.itch.io/night-of-the-duat",
       "category": "Game",
-      "expiryDate": "2026-07-17T18:01:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3NjE5MDc2LmpwZWc=/315x250%23c/PD%2BP7g.jpeg"
     },
     {
@@ -135,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://s-xavier-uy.itch.io/another-world-adventures",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-19T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3OTk4MjQxLnBuZw==/315x250%23c/E4E7eq.png"
     },
     {
