@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T15:03:54.957Z",
+  "lastUpdated": "2026-07-16T16:47:05.736Z",
   "deals": [
     {
       "title": "Luto",
@@ -202,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
       "title": "Clean ATTACK!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -220,6 +211,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
+      "title": "Concrete Veil",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/concrete-veil",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-07-18T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "The Ouroboros King",
+      "platform": "Mobile",
+      "originalPrice": "$7.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-07-23T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a58f7b96e077.jpg"
     },
     {
       "title": "Catch Me!",
@@ -263,33 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-07-20T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a53a044a87b6.jpg"
-    },
-    {
-      "title": "Princess Farmer",
-      "platform": "Mobile",
-      "originalPrice": "$5.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-07-16T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a4fbccf3c77e.jpg"
-    },
-    {
-      "title": "Tattoo Tycoon",
-      "platform": "Epic Games",
-      "originalPrice": "$29.99",
-      "link": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
-      "category": "Game",
-      "expiryDate": "2026-07-16T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a4fb9f42523a.jpg"
-    },
-    {
-      "title": "Nova Lands",
-      "platform": "Epic Games",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/p/nova-lands-4d1788",
-      "category": "Game",
-      "expiryDate": "2026-07-16T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a4fb8cf73513.jpg"
     }
   ]
 }
