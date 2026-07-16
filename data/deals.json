@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T21:30:18.735Z",
+  "lastUpdated": "2026-07-16T22:30:26.957Z",
   "deals": [
     {
       "title": "Luto",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Hotdog Killer [Full Game]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/hotdogkiller",
-      "category": "Game",
-      "expiryDate": "2026-07-26T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
-    },
-    {
       "title": "Slime King",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-07-18T17:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
+    },
+    {
+      "title": "Hotdog Killer [Full Game]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/hotdogkiller",
+      "category": "Game",
+      "expiryDate": "2026-07-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
       "title": "NIGHTBELL",
@@ -101,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-07-20T19:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDU3NzU5LnBuZw==/315x250%23c/KG3EtB.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Farm & Cook",
@@ -148,15 +157,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-07-19T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjQwMDQxLmdpZg==/315x250%23c/sEYfDo.gif"
     },
     {
-      "title": "Clean ATTACK!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://diadas.itch.io/clean-attack",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
-    },
-    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +227,24 @@
       "category": "Game",
       "expiryDate": "2026-07-20T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Clean ATTACK!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/clean-attack",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
+    },
+    {
+      "title": "Trial of Luck",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sc4rcha.itch.io/trial-of-luck",
+      "category": "Game",
+      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
       "title": "The Ouroboros King",
