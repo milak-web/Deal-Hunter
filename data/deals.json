@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T09:33:32.122Z",
+  "lastUpdated": "2026-07-16T11:27:44.705Z",
   "deals": [
     {
       "title": "Nova Lands",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-07-29T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": "2026-07-27T21:36:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://xx-vipe475.itch.io/rent-due",
       "category": "Game",
-      "expiryDate": "2026-07-20T19:40:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjUwNTYwLnBuZw==/315x250%23c/ygqxhZ.png"
     },
     {
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://xx-vipe475.itch.io/not-like-them-a-psx-horror-gamechapter-2",
       "category": "Game",
-      "expiryDate": "2026-07-20T19:40:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDU3NzU5LnBuZw==/315x250%23c/KG3EtB.png"
     },
     {
@@ -99,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://rob-demo.itch.io/farm-cook",
       "category": "Game",
-      "expiryDate": "2026-07-19T12:30:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE1MjEyNjUxLnBuZw==/315x250%23c/j90%2FCK.png"
     },
     {
@@ -130,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "Not Like Them — A PSX Horror Game [Chapter 1]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xx-vipe475.itch.io/not-like-them",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MjA1LnBuZw==/315x250%23c/fOYp3r.png"
+    },
+    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -144,17 +153,8 @@
       "originalPrice": "N/A",
       "link": "https://ravenhome.itch.io/liminal-lane",
       "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
-    },
-    {
-      "title": "Not Like Them — A PSX Horror Game [Chapter 1]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xx-vipe475.itch.io/not-like-them",
-      "category": "Game",
-      "expiryDate": "2026-07-20T19:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MjA1LnBuZw==/315x250%23c/fOYp3r.png"
     },
     {
       "title": "Burnt",
@@ -162,7 +162,7 @@
       "originalPrice": "N/A",
       "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
-      "expiryDate": "2026-07-19T20:59:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
@@ -180,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://diadas.itch.io/clean-attack",
       "category": "Game",
-      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
@@ -198,7 +198,7 @@
       "originalPrice": "N/A",
       "link": "https://sc4rcha.itch.io/trial-of-luck",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
@@ -207,7 +207,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
