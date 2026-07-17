@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T09:49:41.685Z",
+  "lastUpdated": "2026-07-17T11:16:37.028Z",
   "deals": [
     {
       "title": "Luto",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": "2026-07-27T21:36:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-07-29T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-07-23T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-07-19T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-07-23T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
       "title": "Liminal Lane",
@@ -180,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://klabz.itch.io/alchimix",
       "category": "Game",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
     },
     {
