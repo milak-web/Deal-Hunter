@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:59:59.474Z",
+  "lastUpdated": "2026-07-17T21:00:58.586Z",
   "deals": [
     {
       "title": "Luto",
@@ -191,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Clean ATTACK!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://diadas.itch.io/clean-attack",
+      "category": "Game",
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
       "title": "Trial of Luck",
