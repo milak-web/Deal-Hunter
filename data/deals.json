@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T12:40:19.127Z",
+  "lastUpdated": "2026-07-17T14:26:08.843Z",
   "deals": [
     {
       "title": "Luto",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDU3NzU5LnBuZw==/315x250%23c/KG3EtB.png"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-07-19T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-07-26T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-07-19T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Farm & Cook",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NzE4MjA1LnBuZw==/315x250%23c/fOYp3r.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "DIRE ECHO",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
+      "title": "Emily_",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tetrabyte.itch.io/emily",
+      "category": "Game",
+      "expiryDate": "2026-07-19T11:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMDkwODA1LnBuZw==/315x250%23c/rAZ8rJ.png"
+    },
+    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -220,13 +229,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
-      "title": "Emily_",
+      "title": "Clean ATTACK!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://tetrabyte.itch.io/emily",
+      "link": "https://diadas.itch.io/clean-attack",
       "category": "Game",
-      "expiryDate": "2026-07-19T11:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMDkwODA1LnBuZw==/315x250%23c/rAZ8rJ.png"
+      "expiryDate": "2026-07-20T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzYzNzEuanBn/315x250%23c/OJLBpl.jpg"
     },
     {
       "title": "The Ouroboros King",
