@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T05:58:08.177Z",
+  "lastUpdated": "2026-07-18T07:49:30.788Z",
   "deals": [
     {
       "title": "Luto",
@@ -155,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-07-31T20:45:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+    },
+    {
+      "title": "Alchimix",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://klabz.itch.io/alchimix",
+      "category": "Game",
+      "expiryDate": "2026-07-23T15:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
