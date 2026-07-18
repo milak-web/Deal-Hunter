@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T14:18:22.802Z",
+  "lastUpdated": "2026-07-18T15:27:33.027Z",
   "deals": [
     {
       "title": "Luto",
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://rob-demo.itch.io/slime-king",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:15:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODU5NjMyLnBuZw==/315x250%23c/hD6KDq.png"
     },
     {
@@ -108,7 +108,7 @@
       "originalPrice": "N/A",
       "link": "https://sc4rcha.itch.io/trial-of-luck",
       "category": "Game",
-      "expiryDate": "2026-07-18T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzNDA1MjAyLnBuZw==/315x250%23c/m10RxF.png"
     },
     {
@@ -117,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
@@ -126,7 +126,7 @@
       "originalPrice": "N/A",
       "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-19T20:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
@@ -144,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/concrete-veil",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
