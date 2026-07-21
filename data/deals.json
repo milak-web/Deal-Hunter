@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T12:06:45.971Z",
+  "lastUpdated": "2026-07-21T14:31:38.974Z",
   "deals": [
     {
       "title": "Luto",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-28T21:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -49,31 +49,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
-      "title": "Noah's Secret: Episode 2",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-2",
-      "category": "Game",
-      "expiryDate": "2026-08-08T17:32:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjQxNjQ5LnBuZw==/315x250%23c/0nl5F2.png"
-    },
-    {
       "title": "Alchimix",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://klabz.itch.io/alchimix",
       "category": "Game",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Noah's Secret: Episode 2",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://chodex-productions.itch.io/noahs-secret-episode-2",
       "category": "Game",
-      "expiryDate": "2026-07-24T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjQ0MDc0LnBuZw==/315x250%23c/31qBfW.png"
     },
     {
       "title": "One Bad Hot Dog",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-07-22T11:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-07-24T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -108,7 +108,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
@@ -144,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
@@ -153,7 +153,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/concrete-veil",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
@@ -171,7 +171,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
@@ -180,8 +180,17 @@
       "originalPrice": "N/A",
       "link": "https://takroni.itch.io/thebutcher",
       "category": "Game",
-      "expiryDate": "2026-07-24T20:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjI2OTg1LnBuZw==/315x250%23c/yfasUw.png"
+    },
+    {
+      "title": "RESILIENCE",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamerbiga.itch.io/resilience",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDk1MzI3LnBuZw==/315x250%23c/b8Pg05.png"
     },
     {
       "title": "The Life and Suffering of Sir Brante",
