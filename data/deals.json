@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T10:17:51.230Z",
+  "lastUpdated": "2026-07-21T12:06:45.971Z",
   "deals": [
     {
       "title": "Luto",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": "2026-07-28T21:36:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -55,7 +55,16 @@
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-2",
       "category": "Game",
       "expiryDate": "2026-08-08T17:32:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTgwNDA5LnBuZw==/315x250%23c/EbH6yR.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjQxNjQ5LnBuZw==/315x250%23c/0nl5F2.png"
+    },
+    {
+      "title": "Alchimix",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://klabz.itch.io/alchimix",
+      "category": "Game",
+      "expiryDate": "2026-07-23T15:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
     },
     {
       "title": "Lord of Chaos",
@@ -137,15 +146,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Alchimix",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://klabz.itch.io/alchimix",
-      "category": "Game",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
     },
     {
       "title": "Concrete Veil",
