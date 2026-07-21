@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T07:52:49.632Z",
+  "lastUpdated": "2026-07-21T10:17:51.230Z",
   "deals": [
     {
       "title": "Luto",
@@ -139,6 +139,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
+      "title": "Alchimix",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://klabz.itch.io/alchimix",
+      "category": "Game",
+      "expiryDate": "2026-07-23T15:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
+    },
+    {
+      "title": "Concrete Veil",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/concrete-veil",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
       "title": "Cat Meme Clicker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
       "title": "TheButcher",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-07-24T20:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjI2OTg1LnBuZw==/315x250%23c/yfasUw.png"
-    },
-    {
-      "title": "Alchimix",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://klabz.itch.io/alchimix",
-      "category": "Game",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
     },
     {
       "title": "The Life and Suffering of Sir Brante",
