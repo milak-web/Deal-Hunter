@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T05:13:20.606Z",
+  "lastUpdated": "2026-07-22T07:53:20.843Z",
   "deals": [
     {
       "title": "Luto",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
-      "title": "RESILIENCE",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gamerbiga.itch.io/resilience",
-      "category": "Game",
-      "expiryDate": "2026-07-27T08:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDk1MzI3LnBuZw==/315x250%23c/b8Pg05.png"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +128,24 @@
       "category": "Game",
       "expiryDate": "2026-07-26T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+    },
+    {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+    },
+    {
+      "title": "RESILIENCE",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamerbiga.itch.io/resilience",
+      "category": "Game",
+      "expiryDate": "2026-07-27T08:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDk1MzI3LnBuZw==/315x250%23c/b8Pg05.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -155,15 +164,6 @@
       "category": "Game",
       "expiryDate": "2026-07-31T18:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "DON’T DO IT",
