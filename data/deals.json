@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T07:53:20.843Z",
+  "lastUpdated": "2026-07-22T10:18:09.646Z",
   "deals": [
     {
       "title": "Luto",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "See Through Static",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/see-through-static",
+      "category": "Game",
+      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
+    },
+    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,15 +119,6 @@
       "category": "Game",
       "expiryDate": "2026-07-24T05:03:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
-    },
-    {
-      "title": "See Through Static",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/see-through-static",
-      "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
       "title": "Hotdog Killer [Full Game]",
@@ -148,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDk1MzI3LnBuZw==/315x250%23c/b8Pg05.png"
     },
     {
+      "title": "Speak with Screams",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/speak-with-screams",
+      "category": "Game",
+      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png"
+    },
+    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Speak with Screams",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/speak-with-screams",
-      "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png"
     },
     {
       "title": "The Life and Suffering of Sir Brante",
