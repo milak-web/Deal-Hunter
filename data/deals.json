@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T20:18:58.287Z",
+  "lastUpdated": "2026-07-22T21:35:15.678Z",
   "deals": [
     {
       "title": "Luto",
@@ -72,7 +72,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-24T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
@@ -99,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/see-through-static",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
@@ -117,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/sounds-from-silence",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
     },
     {
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/speak-with-screams",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png"
     },
     {
@@ -144,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
@@ -171,8 +171,17 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "T.R.A.I.N",
@@ -189,7 +198,7 @@
       "originalPrice": "N/A",
       "link": "https://meststudios.itch.io/the-elder",
       "category": "Game",
-      "expiryDate": "2026-08-19T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjYyMTAwLnBuZw==/315x250%23c/wznkmj.png"
     },
     {
@@ -207,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/acceptance",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIwMjg2NjEwLnBuZw==/315x250%23c/%2BPUQAw.png"
     },
     {
@@ -216,7 +225,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/solitary-sonata",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzMzNTE2LnBuZw==/315x250%23c/qcdb2Z.png"
     },
     {
