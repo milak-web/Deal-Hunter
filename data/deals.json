@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T10:37:56.017Z",
+  "lastUpdated": "2026-07-23T12:19:33.187Z",
   "deals": [
     {
       "title": "Luto",
@@ -22,111 +22,12 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-1b7uz.jpg"
     },
     {
-      "title": "The Additional Dimension",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
-      "category": "Game",
-      "expiryDate": "2026-07-28T21:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
-    },
-    {
-      "title": "Noah's Secret: Episode 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
-      "category": "Game",
-      "expiryDate": "2026-07-29T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
-    },
-    {
-      "title": "Alchimix",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://klabz.itch.io/alchimix",
-      "category": "Game",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
-    },
-    {
-      "title": "Noah's Secret: Episode 2",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-2",
-      "category": "Game",
-      "expiryDate": "2026-08-08T17:32:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjQ0MDc0LnBuZw==/315x250%23c/31qBfW.png"
-    },
-    {
-      "title": "One Bad Hot Dog",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://figerox.itch.io/one-bad-hot-dog",
-      "category": "Game",
-      "expiryDate": "2026-07-23T11:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-07-24T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-07-30T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
-    },
-    {
-      "title": "See Through Static",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/see-through-static",
-      "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
-    },
-    {
-      "title": "Sounds From Silence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/sounds-from-silence",
-      "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
-    },
-    {
       "title": "Speak with Screams",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/speak-with-screams",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png"
     },
     {
@@ -162,7 +63,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/solitary-sonata",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzMzNTE2LnBuZw==/315x250%23c/qcdb2Z.png"
     },
     {
@@ -189,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/acceptance",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIwMjg2NjEwLnBuZw==/315x250%23c/%2BPUQAw.png"
     },
     {
@@ -198,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://meststudios.itch.io/the-elder",
       "category": "Game",
-      "expiryDate": "2026-08-19T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjYyMTAwLnBuZw==/315x250%23c/wznkmj.png"
     },
     {
@@ -216,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
