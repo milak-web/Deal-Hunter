@@ -1,25 +1,15 @@
 {
-  "lastUpdated": "2026-07-23T14:39:38.983Z",
+  "lastUpdated": "2026-07-23T16:21:14.934Z",
   "deals": [
     {
-      "title": "Luto",
+      "title": "Foretales",
       "platform": "Epic Games",
       "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
+      "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-16T15:00:00.000Z",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-6z9b4.png"
-    },
-    {
-      "title": "Echo Generation: Midnight Edition",
-      "platform": "Epic Games",
-      "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
-      "category": "Game",
-      "startDate": "2026-07-16T15:00:00.000Z",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-1b7uz.jpg"
+      "startDate": "2026-07-23T15:00:00.000Z",
+      "expiryDate": "2026-07-30T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
     {
       "title": "The Additional Dimension",
@@ -40,21 +30,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
-      "title": "Alchimix",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://klabz.itch.io/alchimix",
-      "category": "Game",
-      "expiryDate": "2026-07-23T15:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MDMzMjExLnBuZw==/315x250%23c/GfwIaZ.png"
-    },
-    {
       "title": "Noah's Secret: Episode 2",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-2",
       "category": "Game",
-      "expiryDate": "2026-08-08T17:32:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjQ0MDc0LnBuZw==/315x250%23c/31qBfW.png"
     },
     {
@@ -108,7 +89,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/see-through-static",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
@@ -117,7 +98,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/sounds-from-silence",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
     },
     {
@@ -126,7 +107,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/speak-with-screams",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png"
     },
     {
@@ -135,7 +116,7 @@
       "originalPrice": "N/A",
       "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
       "category": "Game",
-      "expiryDate": "2026-07-23T21:09:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
@@ -153,7 +134,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/solitary-sonata",
       "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzMzNTE2LnBuZw==/315x250%23c/qcdb2Z.png"
     },
     {
@@ -166,78 +147,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDk1MzI3LnBuZw==/315x250%23c/b8Pg05.png"
     },
     {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Acceptance",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/acceptance",
-      "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMjg2NjEwLnBuZw==/315x250%23c/%2BPUQAw.png"
-    },
-    {
-      "title": "The Elder",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://meststudios.itch.io/the-elder",
-      "category": "Game",
-      "expiryDate": "2026-08-19T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MjYyMTAwLnBuZw==/315x250%23c/wznkmj.png"
-    },
-    {
-      "title": "T.R.A.I.N",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://artegious.itch.io/t-r-a-i-n",
-      "category": "Game",
-      "expiryDate": "2026-08-01T03:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNjc4OTczLnBuZw==/315x250%23c/q2gA4Y.png"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
-      "title": "Static Voice",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
-      "category": "Game",
-      "expiryDate": "2026-07-30T10:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
-    },
-    {
-      "title": "isekai healing life",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://team-sh.itch.io/isekai-healinglife",
-      "category": "Game",
-      "expiryDate": "2026-07-31T14:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
-    },
-    {
       "title": "The Life and Suffering of Sir Brante",
       "platform": "Steam",
       "originalPrice": "$19.99",
@@ -245,15 +154,6 @@
       "category": "Game",
       "expiryDate": "2026-07-23T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a5a65b8d2451.jpg"
-    },
-    {
-      "title": "The Ouroboros King",
-      "platform": "Mobile",
-      "originalPrice": "$7.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-07-23T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a58f7b96e077.jpg"
     },
     {
       "title": "Together After Dark",
