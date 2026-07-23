@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T17:53:48.383Z",
+  "lastUpdated": "2026-07-23T19:02:32.597Z",
   "deals": [
     {
       "title": "Foretales",
@@ -7,7 +7,7 @@
       "originalPrice": "$19.99",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-16T15:00:00.000Z",
+      "startDate": "2026-07-23T15:00:00.000Z",
       "expiryDate": "2026-07-30T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
@@ -26,7 +26,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-07-29T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -44,7 +44,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-07-24T17:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -80,7 +80,7 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-07-30T20:40:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
@@ -125,7 +125,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -179,7 +179,7 @@
       "originalPrice": "N/A",
       "link": "https://meststudios.itch.io/the-elder",
       "category": "Game",
-      "expiryDate": "2026-08-19T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjYyMTAwLnBuZw==/315x250%23c/wznkmj.png"
     },
     {
