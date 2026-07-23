@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T02:07:10.322Z",
+  "lastUpdated": "2026-07-23T05:37:51.843Z",
   "deals": [
     {
       "title": "Luto",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+    },
+    {
       "title": "See Through Static",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,13 +166,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "Liminal Lane",
+      "title": "Acceptance",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
+      "link": "https://stefano-gaming.itch.io/acceptance",
       "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+      "expiryDate": "2026-07-24T05:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMjg2NjEwLnBuZw==/315x250%23c/%2BPUQAw.png"
     },
     {
       "title": "The Elder",
@@ -182,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T03:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwNjc4OTczLnBuZw==/315x250%23c/q2gA4Y.png"
-    },
-    {
-      "title": "Acceptance",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/acceptance",
-      "category": "Game",
-      "expiryDate": "2026-07-24T05:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMjg2NjEwLnBuZw==/315x250%23c/%2BPUQAw.png"
     },
     {
       "title": "DON’T DO IT",
