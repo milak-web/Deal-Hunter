@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T20:34:36.386Z",
+  "lastUpdated": "2026-07-23T21:58:47.000Z",
   "deals": [
     {
       "title": "Foretales",
@@ -7,7 +7,7 @@
       "originalPrice": "$19.99",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-16T15:00:00.000Z",
+      "startDate": "2026-07-23T15:00:00.000Z",
       "expiryDate": "2026-07-30T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
@@ -53,7 +53,7 @@
       "originalPrice": "N/A",
       "link": "https://inside-games.itch.io/no-way-out",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-31T09:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
@@ -66,15 +66,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -84,6 +75,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
       "title": "See Through Static",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -91,15 +91,6 @@
       "category": "Game",
       "expiryDate": "2026-07-24T05:03:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
-    },
-    {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
       "title": "Sounds From Silence",
@@ -120,6 +111,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png"
     },
     {
+      "title": "Looping Forest",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mymomcanfly.itch.io/looping-forest",
+      "category": "Game",
+      "expiryDate": "2026-07-26T20:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjY5Nzg4LnBuZw==/315x250%23c/GOEZhV.png"
+    },
+    {
       "title": "Cat Meme Clicker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -134,7 +134,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
@@ -143,7 +143,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
@@ -192,6 +192,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNjc4OTczLnBuZw==/315x250%23c/q2gA4Y.png"
     },
     {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-07-30T10:24:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -201,13 +210,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Static Voice",
+      "title": "isekai healing life",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
+      "link": "https://team-sh.itch.io/isekai-healinglife",
       "category": "Game",
-      "expiryDate": "2026-07-30T10:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+      "expiryDate": "2026-07-31T14:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
