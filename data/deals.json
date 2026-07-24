@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T21:34:18.145Z",
+  "lastUpdated": "2026-07-24T22:54:53.555Z",
   "deals": [
     {
       "title": "Foretales",
@@ -12,15 +12,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
     {
-      "title": "The Additional Dimension",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
-      "category": "Game",
-      "expiryDate": "2026-07-28T21:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
-    },
-    {
       "title": "Noah's Secret: Episode 1",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -28,6 +19,15 @@
       "category": "Game",
       "expiryDate": "2026-07-29T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
+    },
+    {
+      "title": "The Additional Dimension",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "category": "Game",
+      "expiryDate": "2026-07-28T21:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
       "title": "No Way Out",
@@ -84,6 +84,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-07-30T10:24:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
       "title": "Cat Meme Clicker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -93,13 +102,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "Static Voice",
+      "title": "Tea Party For 4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
       "category": "Game",
-      "expiryDate": "2026-07-30T10:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+      "expiryDate": "2026-07-27T21:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
       "title": "The Bigfoot: Snow Massacre",
@@ -129,15 +138,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-07-27T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
-    },
-    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +154,15 @@
       "category": "Game",
       "expiryDate": "2026-07-25T15:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MDQxNzUyLnBuZw==/315x250%23c/R3iACl.png"
+    },
+    {
+      "title": "Concrete Veil",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/concrete-veil",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
       "title": "NIGHTBELL",
@@ -174,6 +183,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNjc4OTczLnBuZw==/315x250%23c/q2gA4Y.png"
     },
     {
+      "title": "Last Friday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://reganc.itch.io/last-friday",
+      "category": "Game",
+      "expiryDate": "2026-07-25T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+    },
+    {
       "title": "Back to Modern World - Fantasy Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -192,24 +210,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
-      "title": "RESILIENCE",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gamerbiga.itch.io/resilience",
-      "category": "Game",
-      "expiryDate": "2026-07-27T08:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDk1MzI3LnBuZw==/315x250%23c/b8Pg05.png"
-    },
-    {
       "title": "Club Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -217,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
+    },
+    {
+      "title": "isekai healing life",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://team-sh.itch.io/isekai-healinglife",
+      "category": "Game",
+      "expiryDate": "2026-07-31T14:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
     },
     {
       "title": "Yet Another Zombie Defense HD",
