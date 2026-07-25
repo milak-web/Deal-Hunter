@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T12:13:48.819Z",
+  "lastUpdated": "2026-07-25T14:07:59.122Z",
   "deals": [
     {
       "title": "Foretales",
@@ -7,7 +7,7 @@
       "originalPrice": "$19.99",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-16T15:00:00.000Z",
+      "startDate": "2026-07-23T15:00:00.000Z",
       "expiryDate": "2026-07-30T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
@@ -75,6 +75,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "The Bigfoot: Snow Massacre",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+      "category": "Game",
+      "expiryDate": "2026-07-31T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
+    },
+    {
       "title": "Static Voice",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -91,15 +100,6 @@
       "category": "Game",
       "expiryDate": "2026-07-27T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "The Bigfoot: Snow Massacre",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
-      "category": "Game",
-      "expiryDate": "2026-07-31T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
       "title": "Cat Meme Clicker",
@@ -129,6 +129,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "Club Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/club-night",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
+    },
+    {
       "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -156,13 +174,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "NIGHTBELL",
+      "title": "Last Friday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
+      "link": "https://reganc.itch.io/last-friday",
       "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+      "expiryDate": "2026-07-25T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
       "title": "DIRE ECHO",
@@ -174,15 +192,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Club Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/club-night",
-      "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
-    },
-    {
       "title": "Back to Modern World - Fantasy Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -190,15 +199,6 @@
       "category": "Game",
       "expiryDate": "2026-07-28T20:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
-    },
-    {
-      "title": "Last Friday",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://reganc.itch.io/last-friday",
-      "category": "Game",
-      "expiryDate": "2026-07-25T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
       "title": "Pool Party",
