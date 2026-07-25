@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T05:28:43.513Z",
+  "lastUpdated": "2026-07-25T07:32:29.457Z",
   "deals": [
     {
       "title": "Foretales",
@@ -26,7 +26,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": "2026-07-28T21:36:00.000Z",
+      "expiryDate": "2026-07-30T21:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -57,15 +57,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjY5Nzg4LnBuZw==/315x250%23c/GOEZhV.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-07-30T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,6 +64,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-07-30T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Static Voice",
@@ -93,15 +93,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Cat Meme Clicker",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
-      "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,6 +100,15 @@
       "category": "Game",
       "expiryDate": "2026-07-31T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
+    },
+    {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -174,15 +174,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "Back to Modern World - Fantasy Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -190,6 +181,15 @@
       "category": "Game",
       "expiryDate": "2026-07-28T20:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Last Friday",
