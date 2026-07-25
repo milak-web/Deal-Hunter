@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T21:22:53.954Z",
+  "lastUpdated": "2026-07-25T22:23:56.688Z",
   "deals": [
     {
       "title": "Foretales",
@@ -30,15 +30,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
-      "title": "No Way Out",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://inside-games.itch.io/no-way-out",
-      "category": "Game",
-      "expiryDate": "2026-07-31T09:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
-    },
-    {
       "title": "Borrowed Face",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -46,6 +37,15 @@
       "category": "Game",
       "expiryDate": "2026-08-24T21:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NzE3ODYzLnBuZw==/315x250%23c/MBnyc3.png"
+    },
+    {
+      "title": "No Way Out",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://inside-games.itch.io/no-way-out",
+      "category": "Game",
+      "expiryDate": "2026-07-31T09:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
       "title": "Liminal Lane",
@@ -129,15 +129,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Tea Party For 4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -145,6 +136,15 @@
       "category": "Game",
       "expiryDate": "2026-07-30T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "NIGHTBELL",
@@ -165,12 +165,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Last Friday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://reganc.itch.io/last-friday",
       "category": "Game",
-      "expiryDate": "2026-07-25T22:00:00.000Z",
+      "expiryDate": "2026-08-01T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
@@ -181,15 +190,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Concrete Veil",
