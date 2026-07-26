@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T16:51:07.304Z",
+  "lastUpdated": "2026-07-26T17:56:09.066Z",
   "deals": [
     {
       "title": "Foretales",
@@ -208,6 +208,15 @@
       "category": "Game",
       "expiryDate": "2026-07-31T15:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzE2NjU3LnBuZw==/315x250%23c/B%2Bzdng.png"
+    },
+    {
+      "title": "Yuli's Tale Prototype 1",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://orisamus.itch.io/yulis-tale-prototype-1",
+      "category": "Game",
+      "expiryDate": "2026-08-22T18:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
