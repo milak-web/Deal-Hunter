@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T21:26:10.110Z",
+  "lastUpdated": "2026-07-26T22:27:50.788Z",
   "deals": [
     {
       "title": "Foretales",
@@ -7,7 +7,7 @@
       "originalPrice": "$19.99",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-23T15:00:00.000Z",
+      "startDate": "2026-07-16T15:00:00.000Z",
       "expiryDate": "2026-07-30T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
@@ -39,15 +39,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODMzMzE0LnBuZw==/315x250%23c/nAISx1.png"
     },
     {
-      "title": "No Way Out",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://inside-games.itch.io/no-way-out",
-      "category": "Game",
-      "expiryDate": "2026-07-31T09:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
-    },
-    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -55,6 +46,15 @@
       "category": "Game",
       "expiryDate": "2026-07-31T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
+    },
+    {
+      "title": "No Way Out",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://inside-games.itch.io/no-way-out",
+      "category": "Game",
+      "expiryDate": "2026-07-31T09:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
       "title": "Liminal Lane",
@@ -66,15 +66,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-07-30T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Static Voice",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -84,6 +75,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-07-30T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -91,15 +91,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Lord of Chaos",
@@ -118,6 +109,24 @@
       "category": "Game",
       "expiryDate": "2026-08-01T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Club Night",
@@ -147,6 +156,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
+      "title": "Daydream City",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eda-v4lent1ne.itch.io/daydream-city",
+      "category": "Game",
+      "expiryDate": "2026-08-22T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTU5OTQ0LnBuZw==/315x250%23c/pyoLVc.png"
+    },
+    {
+      "title": "Concrete Veil",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/concrete-veil",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -165,15 +192,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
       "title": "Back to Modern World - Fantasy Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -183,13 +201,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
-      "title": "Daydream City",
+      "title": "Ethan Is Missing",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://eda-v4lent1ne.itch.io/daydream-city",
+      "link": "https://eda-v4lent1ne.itch.io/ethan-is-missing",
       "category": "Game",
       "expiryDate": "2026-08-22T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTU5OTQ0LnBuZw==/315x250%23c/pyoLVc.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzcwNjQ4LnBuZw==/315x250%23c/MTQHgB.png"
     },
     {
       "title": "Room",
@@ -199,15 +217,6 @@
       "category": "Game",
       "expiryDate": "2026-07-31T15:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzE2NjU3LnBuZw==/315x250%23c/B%2Bzdng.png"
-    },
-    {
-      "title": "Yuli's Tale Prototype 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://orisamus.itch.io/yulis-tale-prototype-1",
-      "category": "Game",
-      "expiryDate": "2026-08-22T18:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
     },
     {
       "title": "The Lost Arctic",
@@ -226,24 +235,6 @@
       "category": "Game",
       "expiryDate": "2026-07-31T14:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
-    },
-    {
-      "title": "Ethan Is Missing",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://eda-v4lent1ne.itch.io/ethan-is-missing",
-      "category": "Game",
-      "expiryDate": "2026-08-22T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzcwNjQ4LnBuZw==/315x250%23c/MTQHgB.png"
-    },
-    {
-      "title": "Buzzed & Brainless",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/alchol-is-free",
-      "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzc1NjkxLmdpZg==/315x250%23c/kgR6AB.gif"
     },
     {
       "title": "Yet Another Zombie Defense HD",
