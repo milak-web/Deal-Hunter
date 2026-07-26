@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T09:51:56.566Z",
+  "lastUpdated": "2026-07-26T11:14:44.356Z",
   "deals": [
     {
       "title": "Foretales",
@@ -57,15 +57,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
-    },
-    {
       "title": "Looping Forest",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,6 +64,15 @@
       "category": "Game",
       "expiryDate": "2026-07-26T20:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjY5Nzg4LnBuZw==/315x250%23c/GOEZhV.png"
+    },
+    {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "Static Voice",
@@ -190,6 +190,15 @@
       "category": "Game",
       "expiryDate": "2026-07-28T20:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+    },
+    {
+      "title": "Daydream City",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eda-v4lent1ne.itch.io/daydream-city",
+      "category": "Game",
+      "expiryDate": "2026-08-22T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTU5OTQ0LnBuZw==/315x250%23c/pyoLVc.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
