@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T19:02:51.312Z",
+  "lastUpdated": "2026-07-26T20:27:55.886Z",
   "deals": [
     {
       "title": "Foretales",
@@ -217,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T18:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
+    },
+    {
+      "title": "The Lost Arctic",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://puzzle-box-island.itch.io/the-lost-arctic",
+      "category": "Game",
+      "expiryDate": "2026-07-27T23:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4NTY0ODExLnBuZw==/315x250%23c/yOIUzu.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
