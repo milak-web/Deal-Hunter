@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T23:28:22.361Z",
+  "lastUpdated": "2026-07-27T01:08:30.184Z",
   "deals": [
     {
       "title": "Foretales",
@@ -244,6 +244,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T18:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
+    },
+    {
+      "title": "Buzzed & Brainless",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/alchol-is-free",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzc1NjkxLmdpZg==/315x250%23c/kgR6AB.gif"
     },
     {
       "title": "Yet Another Zombie Defense HD",
