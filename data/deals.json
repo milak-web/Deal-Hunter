@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T21:35:49.871Z",
+  "lastUpdated": "2026-07-27T22:53:52.921Z",
   "deals": [
     {
       "title": "Foretales",
@@ -102,13 +102,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
-      "title": "PlayDummi",
+      "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://yanick-1997.itch.io/playdummi",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-07-31T20:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
+      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -120,6 +120,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
+      "title": "PlayDummi",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://yanick-1997.itch.io/playdummi",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -127,15 +136,6 @@
       "category": "Game",
       "expiryDate": "2026-07-31T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "The Copper Hill",
@@ -156,6 +156,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -172,15 +181,6 @@
       "category": "Game",
       "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -201,31 +201,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Mzc1NjkxLmdpZg==/315x250%23c/kgR6AB.gif"
     },
     {
-      "title": "Room",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://firecode2020.itch.io/room",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-07-31T15:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzE2NjU3LnBuZw==/315x250%23c/B%2Bzdng.png"
-    },
-    {
-      "title": "Yuli's Tale Prototype 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://orisamus.itch.io/yulis-tale-prototype-1",
-      "category": "Game",
-      "expiryDate": "2026-08-22T18:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
-    },
-    {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-      "category": "Game",
-      "expiryDate": "2026-07-28T20:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+      "expiryDate": "2026-08-14T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Crank Racing!",
@@ -237,13 +219,40 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzQwMTc1LnBuZw==/315x250%23c/B%2F0Z6L.png"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Yuli's Tale Prototype 1",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://orisamus.itch.io/yulis-tale-prototype-1",
       "category": "Game",
-      "expiryDate": "2026-08-14T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-08-22T18:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
+    },
+    {
+      "title": "Room",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://firecode2020.itch.io/room",
+      "category": "Game",
+      "expiryDate": "2026-07-31T15:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzE2NjU3LnBuZw==/315x250%23c/B%2Bzdng.png"
+    },
+    {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-07-28T20:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-07-30T21:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
       "title": "Yet Another Zombie Defense HD",
