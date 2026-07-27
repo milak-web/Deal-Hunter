@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T15:21:13.559Z",
+  "lastUpdated": "2026-07-27T17:15:34.976Z",
   "deals": [
     {
       "title": "Foretales",
@@ -246,6 +246,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-07-30T21:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
+    },
+    {
       "title": "Yet Another Zombie Defense HD",
       "platform": "Steam",
       "originalPrice": "$3.99",
@@ -253,15 +262,6 @@
       "category": "Game",
       "expiryDate": "2026-07-30T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a624c322edee.jpg"
-    },
-    {
-      "title": "Together After Dark",
-      "platform": "Epic Games",
-      "originalPrice": "$2.99",
-      "link": "https://store.epicgames.com/en-US/p/together-after-dark-fa0ce0",
-      "category": "Game",
-      "expiryDate": "2026-07-27T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/69cafab460c8e.jpg"
     }
   ]
 }
