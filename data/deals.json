@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T22:53:52.921Z",
+  "lastUpdated": "2026-07-27T23:56:40.155Z",
   "deals": [
     {
       "title": "Foretales",
@@ -129,6 +129,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
     },
     {
+      "title": "Boots Quest DX",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://discountrealms.itch.io/boots-quest-dx",
+      "category": "Game",
+      "expiryDate": "2026-08-10T23:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -217,42 +226,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T11:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzQwMTc1LnBuZw==/315x250%23c/B%2F0Z6L.png"
-    },
-    {
-      "title": "Yuli's Tale Prototype 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://orisamus.itch.io/yulis-tale-prototype-1",
-      "category": "Game",
-      "expiryDate": "2026-08-22T18:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjUwMTQwLnBuZw==/315x250%23c/FCtPab.png"
-    },
-    {
-      "title": "Room",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://firecode2020.itch.io/room",
-      "category": "Game",
-      "expiryDate": "2026-07-31T15:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzE2NjU3LnBuZw==/315x250%23c/B%2Bzdng.png"
-    },
-    {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-      "category": "Game",
-      "expiryDate": "2026-07-28T20:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
-    },
-    {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-07-30T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
       "title": "Yet Another Zombie Defense HD",
