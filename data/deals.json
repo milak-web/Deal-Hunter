@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T12:13:30.024Z",
+  "lastUpdated": "2026-07-27T15:21:13.559Z",
   "deals": [
     {
       "title": "Foretales",
@@ -7,7 +7,7 @@
       "originalPrice": "$19.99",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-23T15:00:00.000Z",
+      "startDate": "2026-07-16T15:00:00.000Z",
       "expiryDate": "2026-07-30T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
@@ -102,6 +102,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
+      "title": "PlayDummi",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://yanick-1997.itch.io/playdummi",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
+    },
+    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -165,6 +174,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
       "title": "Cat Meme Clicker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -181,15 +199,6 @@
       "category": "Game",
       "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Mzc1NjkxLmdpZg==/315x250%23c/kgR6AB.gif"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Yuli's Tale Prototype 1",
@@ -217,6 +226,15 @@
       "category": "Game",
       "expiryDate": "2026-07-28T20:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+    },
+    {
+      "title": "Crank Racing!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://anomalous-games.itch.io/crank-racing",
+      "category": "Game",
+      "expiryDate": "2026-08-01T11:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzQwMTc1LnBuZw==/315x250%23c/B%2F0Z6L.png"
     },
     {
       "title": "Backrooms Crawlers",
