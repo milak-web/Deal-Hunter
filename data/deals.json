@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T21:09:18.451Z",
+  "lastUpdated": "2026-07-28T22:31:58.173Z",
   "deals": [
     {
       "title": "Foretales",
@@ -102,15 +102,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -120,13 +111,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "LIGHTHUSK",
+      "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://splif404.itch.io/lighthusk",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-03T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Night Clerk",
@@ -138,6 +129,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
+      "title": "LIGHTHUSK",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://splif404.itch.io/lighthusk",
+      "category": "Game",
+      "expiryDate": "2026-08-03T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
+    },
+    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -147,15 +147,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "PlayDummi",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://yanick-1997.itch.io/playdummi",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
-    },
-    {
       "title": "Late Stops",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -163,6 +154,24 @@
       "category": "Game",
       "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
+      "title": "Virus Evolution",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://svanproductions.itch.io/virus-evolution",
+      "category": "Game",
+      "expiryDate": "2026-07-30T18:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0MzI2LnBuZw==/315x250%23c/qOJIud.png"
+    },
+    {
+      "title": "PlayDummi",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://yanick-1997.itch.io/playdummi",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
     },
     {
       "title": "Static Voice",
@@ -183,15 +192,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Virus Evolution",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/virus-evolution",
-      "category": "Game",
-      "expiryDate": "2026-07-30T18:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0MzI2LnBuZw==/315x250%23c/qOJIud.png"
-    },
-    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -199,6 +199,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-08-14T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Open House",
@@ -228,13 +237,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Pirate Hunt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://svanproductions.itch.io/pirate-hunt",
       "category": "Game",
-      "expiryDate": "2026-08-14T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-08-01T03:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -246,13 +255,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "Pirate Hunt",
+      "title": "Storefront",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/pirate-hunt",
+      "link": "https://grantrimi.itch.io/storefront",
       "category": "Game",
-      "expiryDate": "2026-08-01T03:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
+      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
