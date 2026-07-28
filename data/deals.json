@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T19:58:42.884Z",
+  "lastUpdated": "2026-07-28T21:09:18.451Z",
   "deals": [
     {
       "title": "Foretales",
@@ -57,15 +57,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "The Bigfoot: Snow Massacre",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
-      "category": "Game",
-      "expiryDate": "2026-07-31T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
-    },
-    {
       "title": "Boots Quest DX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,6 +64,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T23:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
+    },
+    {
+      "title": "The Bigfoot: Snow Massacre",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+      "category": "Game",
+      "expiryDate": "2026-07-31T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
       "title": "Liminal Lane",
@@ -253,42 +253,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T03:34:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
-    },
-    {
-      "title": "Storefront",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/storefront",
-      "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
-    },
-    {
-      "title": "Top Down Showdown",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ahsanmakesgames.itch.io/top-down-showdown",
-      "category": "Game",
-      "expiryDate": "2026-07-31T03:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0MTI1MDkwLnBuZw==/315x250%23c/nBTakv.png"
-    },
-    {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-08-07T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
-    },
-    {
-      "title": "Crank Racing!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://anomalous-games.itch.io/crank-racing",
-      "category": "Game",
-      "expiryDate": "2026-08-01T11:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzQwMTc1LnBuZw==/315x250%23c/B%2F0Z6L.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
