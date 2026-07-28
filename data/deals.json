@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T05:28:06.630Z",
+  "lastUpdated": "2026-07-28T07:59:27.793Z",
   "deals": [
     {
       "title": "Foretales",
@@ -7,7 +7,7 @@
       "originalPrice": "$19.99",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "category": "Game",
-      "startDate": "2026-07-16T15:00:00.000Z",
+      "startDate": "2026-07-23T15:00:00.000Z",
       "expiryDate": "2026-07-30T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg"
     },
@@ -53,7 +53,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
@@ -62,17 +62,8 @@
       "originalPrice": "N/A",
       "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
       "category": "Game",
-      "expiryDate": "2026-07-31T05:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
-    },
-    {
-      "title": "No Way Out",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://inside-games.itch.io/no-way-out",
-      "category": "Game",
-      "expiryDate": "2026-07-31T09:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
       "title": "DON’T DO IT",
@@ -80,7 +71,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
@@ -93,13 +84,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "THE MIDNIGHT BUS",
+      "title": "No Way Out",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "link": "https://inside-games.itch.io/no-way-out",
       "category": "Game",
-      "expiryDate": "2026-07-30T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+      "expiryDate": "2026-07-31T09:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -107,8 +98,17 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-01T17:50:00.000Z",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-07-30T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Boots Quest DX",
@@ -152,7 +152,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/open-house",
       "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
@@ -161,17 +161,8 @@
       "originalPrice": "N/A",
       "link": "https://reganc.itch.io/last-friday",
       "category": "Game",
-      "expiryDate": "2026-08-01T22:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
-    },
-    {
-      "title": "Night Clerk",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
-      "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Late Stops",
@@ -179,8 +170,17 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/late-stops",
       "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
+      "title": "Night Clerk",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/night-clerk",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Concrete Veil",
@@ -188,7 +188,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/concrete-veil",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
@@ -197,7 +197,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
@@ -206,7 +206,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -217,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T11:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzQwMTc1LnBuZw==/315x250%23c/B%2F0Z6L.png"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
