@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T23:53:16.355Z",
+  "lastUpdated": "2026-07-29T01:52:25.811Z",
   "deals": [
     {
       "title": "Foretales",
@@ -102,15 +102,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-07-30T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -174,22 +165,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NjkwNTg1LmdpZg==/315x250%23c/qCrXN8.gif"
     },
     {
-      "title": "Static Voice",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-07-30T10:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-07-31T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-08-14T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Concrete Veil",
@@ -199,15 +181,6 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-08-14T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Open House",
@@ -228,22 +201,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
-      "title": "The Copper Hill",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "Pirate Hunt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/pirate-hunt",
-      "category": "Game",
-      "expiryDate": "2026-08-01T03:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
+      "expiryDate": "2026-07-31T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -255,6 +219,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
+      "title": "Pirate Hunt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://svanproductions.itch.io/pirate-hunt",
+      "category": "Game",
+      "expiryDate": "2026-08-01T03:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
+    },
+    {
       "title": "Storefront",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -262,6 +235,60 @@
       "category": "Game",
       "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
+    },
+    {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-07-30T10:24:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-08-07T21:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
+    },
+    {
+      "title": "Follower",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/follower",
+      "category": "Game",
+      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
+    },
+    {
+      "title": "Top Down Showdown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ahsanmakesgames.itch.io/top-down-showdown",
+      "category": "Game",
+      "expiryDate": "2026-07-31T03:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0MTI1MDkwLnBuZw==/315x250%23c/nBTakv.png"
+    },
+    {
+      "title": "Crank Racing!",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://anomalous-games.itch.io/crank-racing",
+      "category": "Game",
+      "expiryDate": "2026-08-01T11:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzQwMTc1LnBuZw==/315x250%23c/B%2F0Z6L.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
