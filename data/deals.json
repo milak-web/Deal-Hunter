@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T21:52:49.065Z",
+  "lastUpdated": "2026-07-29T22:53:39.527Z",
   "deals": [
     {
       "title": "Foretales",
@@ -39,6 +39,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
+      "title": "The Killer Bunny",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://northsignal.itch.io/the-killer-bunny",
+      "category": "Game",
+      "expiryDate": "2026-08-03T03:58:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
+    },
+    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -66,15 +75,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
     },
     {
-      "title": "The Killer Bunny",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://northsignal.itch.io/the-killer-bunny",
-      "category": "Game",
-      "expiryDate": "2026-08-03T03:58:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
-    },
-    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -84,15 +84,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
-    },
-    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -100,6 +91,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "NIGHTBELL",
@@ -174,15 +174,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0MzI2LnBuZw==/315x250%23c/qOJIud.png"
     },
     {
-      "title": "Storefront",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/storefront",
-      "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -192,13 +183,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Cat Meme Clicker",
+      "title": "Storefront",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "link": "https://grantrimi.itch.io/storefront",
       "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
+      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
       "title": "Open House",
@@ -210,6 +201,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
+    },
+    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -217,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T08:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-08-14T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "PlayDummi",
@@ -246,24 +255,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
-      "title": "Pirate Hunt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/pirate-hunt",
-      "category": "Game",
-      "expiryDate": "2026-08-01T03:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-08-14T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Last Friday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -271,6 +262,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+    },
+    {
+      "title": "Pirate Hunt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://svanproductions.itch.io/pirate-hunt",
+      "category": "Game",
+      "expiryDate": "2026-08-01T03:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
