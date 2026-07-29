@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T15:25:55.610Z",
+  "lastUpdated": "2026-07-29T16:47:17.370Z",
   "deals": [
     {
       "title": "Foretales",
@@ -253,6 +253,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+    },
+    {
+      "title": "Follower",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/follower",
+      "category": "Game",
+      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
