@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T17:17:30.476Z",
+  "lastUpdated": "2026-07-30T18:53:33.211Z",
   "deals": [
     {
       "title": "OTXO",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
+    },
+    {
       "title": "The Killer Bunny",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -67,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "Bride of Karsaz",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/bride-of-karsaz",
-      "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
-    },
-    {
       "title": "Boots Quest DX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -85,22 +85,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
     },
     {
-      "title": "Borrowed Face",
+      "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://m1mo0.itch.io/borrowed-face",
+      "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-08-24T21:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
-    },
-    {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-07-31T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Night Clerk",
@@ -121,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -139,13 +121,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
-      "title": "At Sixes And Sevens Case I",
+      "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "link": "https://ravenhome.itch.io/liminal-lane",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+      "expiryDate": "2026-07-31T20:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+    },
+    {
+      "title": "Borrowed Face",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://m1mo0.itch.io/borrowed-face",
+      "category": "Game",
+      "expiryDate": "2026-08-24T21:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -157,13 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Late Stops",
+      "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/late-stops",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "No Way Out",
@@ -173,6 +164,15 @@
       "category": "Game",
       "expiryDate": "2026-07-31T09:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
+    },
+    {
+      "title": "Late Stops",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/late-stops",
+      "category": "Game",
+      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
     },
     {
       "title": "LIGHTHUSK",
@@ -193,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
-      "title": "Virus Evolution",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/virus-evolution",
-      "category": "Game",
-      "expiryDate": "2026-07-30T18:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0MzI2LnBuZw==/315x250%23c/qOJIud.png"
-    },
-    {
       "title": "Storefront",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
-      "title": "Open House",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/open-house",
-      "category": "Game",
-      "expiryDate": "2026-08-01T00:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-08-02T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Open House",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/open-house",
+      "category": "Game",
+      "expiryDate": "2026-08-01T00:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -247,24 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "Pirate Hunt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/pirate-hunt",
-      "category": "Game",
-      "expiryDate": "2026-08-01T03:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,6 +254,24 @@
       "category": "Game",
       "expiryDate": "2026-07-31T14:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Pirate Hunt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://svanproductions.itch.io/pirate-hunt",
+      "category": "Game",
+      "expiryDate": "2026-08-01T03:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODY0NzA5LnBuZw==/315x250%23c/NZhqWU.png"
     },
     {
       "title": "Mutazione",
