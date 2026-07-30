@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T07:29:19.421Z",
+  "lastUpdated": "2026-07-30T09:59:02.695Z",
   "deals": [
     {
       "title": "Foretales",
@@ -147,15 +147,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "No Way Out",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://inside-games.itch.io/no-way-out",
-      "category": "Game",
-      "expiryDate": "2026-07-31T09:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
-    },
-    {
       "title": "Late Stops",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -163,6 +154,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
+      "title": "No Way Out",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://inside-games.itch.io/no-way-out",
+      "category": "Game",
+      "expiryDate": "2026-07-31T09:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDIwOTA3LnBuZw==/315x250%23c/xfrHvm.png"
     },
     {
       "title": "LIGHTHUSK",
@@ -210,15 +210,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "Cat Meme Clicker",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
-      "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -226,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-02T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
       "title": "Concrete Veil",
@@ -264,13 +264,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Last Friday",
+      "title": "isekai healing life",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://reganc.itch.io/last-friday",
+      "link": "https://team-sh.itch.io/isekai-healinglife",
       "category": "Game",
-      "expiryDate": "2026-08-01T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+      "expiryDate": "2026-07-31T14:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
     },
     {
       "title": "Yet Another Zombie Defense HD",
