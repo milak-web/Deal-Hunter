@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T04:51:19.508Z",
+  "lastUpdated": "2026-07-30T07:29:19.421Z",
   "deals": [
     {
       "title": "Foretales",
@@ -64,6 +64,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T23:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
+    },
+    {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
       "title": "Borrowed Face",
