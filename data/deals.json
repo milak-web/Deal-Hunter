@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T11:53:02.544Z",
+  "lastUpdated": "2026-07-30T13:41:04.122Z",
   "deals": [
     {
       "title": "Foretales",
@@ -262,6 +262,15 @@
       "category": "Game",
       "expiryDate": "2026-07-31T14:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5ODMwMTE1LmpwZw==/315x250%23c/ysZrTf.jpg"
+    },
+    {
+      "title": "Last Friday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://reganc.itch.io/last-friday",
+      "category": "Game",
+      "expiryDate": "2026-08-01T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
       "title": "Yet Another Zombie Defense HD",
