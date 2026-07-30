@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T22:57:34.783Z",
+  "lastUpdated": "2026-07-30T23:59:53.076Z",
   "deals": [
     {
       "title": "OTXO",
@@ -272,15 +272,6 @@
       "category": "Mobile",
       "expiryDate": "2026-08-06T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a6b691118168.jpg"
-    },
-    {
-      "title": "Yet Another Zombie Defense HD",
-      "platform": "Steam",
-      "originalPrice": "$3.99",
-      "link": "https://store.steampowered.com/agecheck/app/674750",
-      "category": "Game",
-      "expiryDate": "2026-07-30T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a624c322edee.jpg"
     }
   ]
 }
