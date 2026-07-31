@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T18:51:01.802Z",
+  "lastUpdated": "2026-07-31T20:14:58.102Z",
   "deals": [
     {
       "title": "OTXO",
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://ravenhome.itch.io/liminal-lane",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-07-31T20:45:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
@@ -171,7 +171,7 @@
       "originalPrice": "N/A",
       "link": "https://m1mo0.itch.io/borrowed-face",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-24T21:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
     },
     {
@@ -247,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Intruder Alert - Part One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rubber-ducky-games.itch.io/intruder-alert-part-one",
-      "category": "Game",
-      "expiryDate": "2026-07-31T19:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzM1MDMwLnBuZw==/315x250%23c/o%2Bj8DP.png"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -272,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Mutazione",
