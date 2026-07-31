@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T21:35:19.044Z",
+  "lastUpdated": "2026-07-31T22:53:02.092Z",
   "deals": [
     {
       "title": "OTXO",
@@ -76,22 +76,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
     },
     {
-      "title": "Toymakers Doll",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/toymakers-doll",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "Toymakers Doll",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/toymakers-doll",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
     },
     {
       "title": "Night Clerk",
@@ -99,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/night-clerk",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
@@ -117,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
@@ -126,8 +126,17 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "The Backrooms: Last Expedition",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-last-expedition",
+      "category": "Game",
+      "expiryDate": "2026-08-07T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTU0NTU2LnBuZw==/315x250%23c/4BM974.png"
     },
     {
       "title": "Late Stops",
@@ -135,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/late-stops",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
     },
     {
@@ -157,21 +166,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Borrowed Face",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://m1mo0.itch.io/borrowed-face",
-      "category": "Game",
-      "expiryDate": "2026-08-24T21:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
-    },
-    {
       "title": "Follower",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/follower",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
@@ -180,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/storefront",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
@@ -193,12 +193,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Borrowed Face",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://m1mo0.itch.io/borrowed-face",
+      "category": "Game",
+      "expiryDate": "2026-08-24T21:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
+    },
+    {
       "title": "Open House",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/open-house",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
@@ -220,15 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "LIGHTHUSK",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://splif404.itch.io/lighthusk",
-      "category": "Game",
-      "expiryDate": "2026-08-03T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-08-14T20:56:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "LIGHTHUSK",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://splif404.itch.io/lighthusk",
+      "category": "Game",
+      "expiryDate": "2026-08-03T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
     },
     {
       "title": "Hotdog Killer [Full Game]",
