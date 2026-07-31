@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T03:26:39.326Z",
+  "lastUpdated": "2026-07-31T06:28:16.240Z",
   "deals": [
     {
       "title": "OTXO",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "Borrowed Face",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://m1mo0.itch.io/borrowed-face",
-      "category": "Game",
-      "expiryDate": "2026-08-24T21:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -139,13 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "The Bigfoot: Snow Massacre",
+      "title": "Borrowed Face",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+      "link": "https://m1mo0.itch.io/borrowed-face",
       "category": "Game",
-      "expiryDate": "2026-07-31T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
+      "expiryDate": "2026-08-24T21:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
     },
     {
       "title": "No Way Out",
@@ -193,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,13 +193,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "Cat Meme Clicker",
+      "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-07-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Follower",
@@ -227,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-08-01T00:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
+    },
+    {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-07-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
       "title": "Intruder Alert - Part One",
