@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T11:37:24.911Z",
+  "lastUpdated": "2026-07-31T13:45:19.699Z",
   "deals": [
     {
       "title": "OTXO",
@@ -157,6 +157,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
     },
     {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-08-01T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
       "title": "Open House",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -175,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
-      "title": "LIGHTHUSK",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://splif404.itch.io/lighthusk",
-      "category": "Game",
-      "expiryDate": "2026-08-03T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
-    },
-    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,13 +193,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "The Copper Hill",
+      "title": "LIGHTHUSK",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
+      "link": "https://splif404.itch.io/lighthusk",
       "category": "Game",
-      "expiryDate": "2026-08-01T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+      "expiryDate": "2026-08-03T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
     },
     {
       "title": "Cat Meme Clicker",
