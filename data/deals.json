@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T18:57:34.745Z",
+  "lastUpdated": "2026-08-01T20:08:38.104Z",
   "deals": [
     {
       "title": "OTXO",
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/toymakers-doll",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
     },
     {
@@ -216,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://svanproductions.itch.io/project-z",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-02T15:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
     },
     {
@@ -243,7 +243,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
@@ -261,7 +261,7 @@
       "originalPrice": "N/A",
       "link": "https://zabubek-ugabuga.itch.io/pursued",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-30T21:20:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
     },
     {
