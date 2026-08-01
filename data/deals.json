@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T17:54:54.730Z",
+  "lastUpdated": "2026-08-01T18:57:34.745Z",
   "deals": [
     {
       "title": "OTXO",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
+      "title": "Boots Quest DX",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://discountrealms.itch.io/boots-quest-dx",
+      "category": "Game",
+      "expiryDate": "2026-08-10T23:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
+    },
+    {
       "title": "Bride of Karsaz",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -58,13 +67,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
-      "title": "Boots Quest DX",
+      "title": "The Backrooms: Last Expedition",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://discountrealms.itch.io/boots-quest-dx",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-last-expedition",
       "category": "Game",
-      "expiryDate": "2026-08-10T23:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
+      "expiryDate": "2026-08-07T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg2MDIzLnBuZw==/315x250%23c/gX8R2H.png"
+    },
+    {
+      "title": "Toymakers Doll",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/toymakers-doll",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
     },
     {
       "title": "The Killer Bunny",
@@ -83,24 +101,6 @@
       "category": "Game",
       "expiryDate": "2026-08-02T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
-    },
-    {
-      "title": "Toymakers Doll",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/toymakers-doll",
-      "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
-    },
-    {
-      "title": "The Backrooms: Last Expedition",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-last-expedition",
-      "category": "Game",
-      "expiryDate": "2026-08-07T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg2MDIzLnBuZw==/315x250%23c/gX8R2H.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -189,7 +189,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/see-through-static",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-03T03:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
@@ -216,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://svanproductions.itch.io/project-z",
       "category": "Game",
-      "expiryDate": "2026-08-02T15:14:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
     },
     {
@@ -261,7 +261,7 @@
       "originalPrice": "N/A",
       "link": "https://zabubek-ugabuga.itch.io/pursued",
       "category": "Game",
-      "expiryDate": "2026-08-30T21:20:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
     },
     {
@@ -279,7 +279,7 @@
       "originalPrice": "N/A",
       "link": "https://stefano-gaming.itch.io/sounds-from-silence",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-03T03:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
     },
     {
