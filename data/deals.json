@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T08:06:45.242Z",
+  "lastUpdated": "2026-08-01T10:14:30.285Z",
   "deals": [
     {
       "title": "OTXO",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
-      "title": "The Killer Bunny",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://northsignal.itch.io/the-killer-bunny",
-      "category": "Game",
-      "expiryDate": "2026-08-03T03:58:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
-    },
-    {
       "title": "Boots Quest DX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,6 +65,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T23:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
+    },
+    {
+      "title": "The Killer Bunny",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://northsignal.itch.io/the-killer-bunny",
+      "category": "Game",
+      "expiryDate": "2026-08-03T03:58:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -202,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
+      "title": "Project Z",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "link": "https://svanproductions.itch.io/project-z",
       "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+      "expiryDate": "2026-08-02T15:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
     },
     {
       "title": "Hotdog Killer [Full Game]",
@@ -220,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
-      "title": "Project Z",
+      "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/project-z",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
       "category": "Game",
-      "expiryDate": "2026-08-02T15:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Sounds From Silence",
@@ -238,15 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
     },
     {
-      "title": "LIGHTHUSK",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://splif404.itch.io/lighthusk",
-      "category": "Game",
-      "expiryDate": "2026-08-03T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -254,6 +245,15 @@
       "category": "Game",
       "expiryDate": "2026-08-14T20:56:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "LIGHTHUSK",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://splif404.itch.io/lighthusk",
+      "category": "Game",
+      "expiryDate": "2026-08-03T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
     },
     {
       "title": "Mutazione",
