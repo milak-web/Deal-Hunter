@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T20:08:38.104Z",
+  "lastUpdated": "2026-08-01T21:22:07.247Z",
   "deals": [
     {
       "title": "OTXO",
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/toymakers-doll",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
     },
     {
@@ -211,6 +211,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
       "title": "Project Z",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,21 +238,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
       "title": "Club Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
