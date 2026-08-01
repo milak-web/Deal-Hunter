@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T21:22:07.247Z",
+  "lastUpdated": "2026-08-01T22:24:58.198Z",
   "deals": [
     {
       "title": "OTXO",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
+      "title": "The Backrooms: Last Expedition",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-last-expedition",
+      "category": "Game",
+      "expiryDate": "2026-08-07T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg2MDIzLnBuZw==/315x250%23c/gX8R2H.png"
+    },
+    {
       "title": "Boots Quest DX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,15 +74,6 @@
       "category": "Game",
       "expiryDate": "2026-08-26T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
-    },
-    {
-      "title": "The Backrooms: Last Expedition",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-last-expedition",
-      "category": "Game",
-      "expiryDate": "2026-08-07T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg2MDIzLnBuZw==/315x250%23c/gX8R2H.png"
     },
     {
       "title": "Toymakers Doll",
@@ -184,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Borrowed Face",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://m1mo0.itch.io/borrowed-face",
+      "category": "Game",
+      "expiryDate": "2026-08-24T21:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
+    },
+    {
       "title": "See Through Static",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
-      "title": "Borrowed Face",
+      "title": "Memory 12",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://m1mo0.itch.io/borrowed-face",
+      "link": "https://seldstudios.itch.io/memory-12",
       "category": "Game",
-      "expiryDate": "2026-08-24T21:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
+      "expiryDate": "2026-08-10T10:27:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTg5MjQ1LnBuZw==/315x250%23c/GG%2FsGC.png"
     },
     {
       "title": "Hotdog Killer [Full Game]",
@@ -211,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
+      "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Project Z",
@@ -229,22 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
     },
     {
-      "title": "Pigeon West: El Diablo",
+      "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Club Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/club-night",
-      "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -256,6 +256,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "Club Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/club-night",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
+    },
+    {
       "title": "Pursuer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-08-30T21:20:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
-    },
-    {
-      "title": "Memory 12",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://seldstudios.itch.io/memory-12",
-      "category": "Game",
-      "expiryDate": "2026-08-10T10:27:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTg5MjQ1LnBuZw==/315x250%23c/GG%2FsGC.png"
     },
     {
       "title": "Sounds From Silence",
