@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T22:24:58.198Z",
+  "lastUpdated": "2026-08-01T23:27:11.569Z",
   "deals": [
     {
       "title": "OTXO",
@@ -238,6 +238,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
     },
     {
+      "title": "Silent Still 3",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "category": "Game",
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,15 +290,6 @@
       "category": "Game",
       "expiryDate": "2026-08-03T03:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
-    },
-    {
-      "title": "LIGHTHUSK",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://splif404.itch.io/lighthusk",
-      "category": "Game",
-      "expiryDate": "2026-08-03T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4ODE0NTkyLmpwZw==/315x250%23c/bysS1Y.jpg"
     },
     {
       "title": "Mutazione",
