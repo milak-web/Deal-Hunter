@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T20:10:12.647Z",
+  "lastUpdated": "2026-08-02T21:22:35.322Z",
   "deals": [
     {
       "title": "OTXO",
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://valentynnemichev.itch.io/flabby-pizza",
       "category": "Game",
-      "expiryDate": "2026-08-03T21:04:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTg5ODUyLnBuZw==/315x250%23c/SssdRj.png"
     },
     {
@@ -90,17 +90,8 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/toymakers-doll",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
-    },
-    {
-      "title": "One Bad Hot Dog",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://figerox.itch.io/one-bad-hot-dog",
-      "category": "Game",
-      "expiryDate": "2026-08-02T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
       "title": "The Killer Bunny",
@@ -108,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://northsignal.itch.io/the-killer-bunny",
       "category": "Game",
-      "expiryDate": "2026-08-08T03:58:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
     },
     {
@@ -225,7 +216,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
