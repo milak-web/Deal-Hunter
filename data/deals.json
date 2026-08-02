@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T09:32:27.719Z",
+  "lastUpdated": "2026-08-02T11:11:51.241Z",
   "deals": [
     {
       "title": "OTXO",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "The Backrooms: Incident 1997",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
-      "category": "Game",
-      "expiryDate": "2026-08-07T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MDAyNDM5LnBuZw==/315x250%23c/a%2FH4Fj.png"
-    },
-    {
       "title": "The Additional Dimension",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-08-08T21:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
+      "title": "The Backrooms: Incident 1997",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
+      "category": "Game",
+      "expiryDate": "2026-08-07T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MDAyNDM5LnBuZw==/315x250%23c/a%2FH4Fj.png"
     },
     {
       "title": "Boots Quest DX",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png"
     },
     {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
       "title": "Flabby Pizza",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-08-03T21:04:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTg5ODUyLnBuZw==/315x250%23c/SssdRj.png"
+    },
+    {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -139,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-08-09T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -193,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTg5MjQ1LnBuZw==/315x250%23c/GG%2FsGC.png"
     },
     {
-      "title": "See Through Static",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/see-through-static",
-      "category": "Game",
-      "expiryDate": "2026-08-03T03:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-08-04T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "See Through Static",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/see-through-static",
+      "category": "Game",
+      "expiryDate": "2026-08-03T03:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
     },
     {
       "title": "Project Z",
@@ -256,15 +256,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Sounds From Silence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/sounds-from-silence",
-      "category": "Game",
-      "expiryDate": "2026-08-03T03:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
-    },
-    {
       "title": "Pursuer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -272,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-08-30T21:20:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
+    },
+    {
+      "title": "Sounds From Silence",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/sounds-from-silence",
+      "category": "Game",
+      "expiryDate": "2026-08-03T03:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
     },
     {
       "title": "Silent Still 3",
