@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T21:22:35.322Z",
+  "lastUpdated": "2026-08-02T22:24:47.223Z",
   "deals": [
     {
       "title": "OTXO",
@@ -67,6 +67,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
     },
     {
+      "title": "Flabby Pizza",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://valentynnemichev.itch.io/flabby-pizza",
+      "category": "Game",
+      "expiryDate": "2026-08-03T21:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg5ODUyLnBuZw==/315x250%23c/SssdRj.png"
+    },
+    {
+      "title": "Toymakers Doll",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/toymakers-doll",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
+    },
+    {
       "title": "Bride of Karsaz",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -76,30 +94,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
-      "title": "Flabby Pizza",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://valentynnemichev.itch.io/flabby-pizza",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg5ODUyLnBuZw==/315x250%23c/SssdRj.png"
-    },
-    {
-      "title": "Toymakers Doll",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/toymakers-doll",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
-    },
-    {
       "title": "The Killer Bunny",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://northsignal.itch.io/the-killer-bunny",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-08T03:58:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
     },
     {
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,15 +164,6 @@
       "category": "Game",
       "expiryDate": "2026-08-07T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-08-14T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Lord of Chaos",
@@ -184,13 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Hotdog Killer [Full Game]",
+      "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/hotdogkiller",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+      "expiryDate": "2026-08-14T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Memory 12",
@@ -200,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T10:27:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTg5MjQ1LnBuZw==/315x250%23c/GG%2FsGC.png"
+    },
+    {
+      "title": "Hotdog Killer [Full Game]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/hotdogkiller",
+      "category": "Game",
+      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
       "title": "See Through Static",
@@ -216,8 +216,17 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-08-14T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -238,6 +247,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDI2MDExLmpwZw==/315x250%23c/JowVIJ.jpg"
     },
     {
+      "title": "Sounds From Silence",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/sounds-from-silence",
+      "category": "Game",
+      "expiryDate": "2026-08-03T03:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
+    },
+    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -247,13 +265,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
       "category": "Game",
-      "expiryDate": "2026-08-14T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
       "title": "Silent Still 3",
@@ -263,15 +281,6 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Sounds From Silence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/sounds-from-silence",
-      "category": "Game",
-      "expiryDate": "2026-08-03T03:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png"
     },
     {
       "title": "Backrooms: Out of Oxygen",
