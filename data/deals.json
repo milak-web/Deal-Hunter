@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T18:47:10.052Z",
+  "lastUpdated": "2026-08-03T20:21:27.390Z",
   "deals": [
     {
       "title": "OTXO",
@@ -153,7 +153,7 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-14T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
@@ -245,15 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T21:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
-    },
-    {
-      "title": "Parasitoide",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vannys.itch.io/parasitoide",
-      "category": "Game",
-      "expiryDate": "2026-08-17T14:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM5NDIxLmpwZw==/315x250%23c/UNq4j3.jpg"
     },
     {
       "title": "Pursued",
