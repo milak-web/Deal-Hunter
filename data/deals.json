@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T20:21:27.390Z",
+  "lastUpdated": "2026-08-03T21:37:05.976Z",
   "deals": [
     {
       "title": "OTXO",
@@ -38,15 +38,6 @@
       "category": "Game",
       "expiryDate": "2026-08-15T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
-    },
-    {
-      "title": "Flabby Pizza",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://valentynnemichev.itch.io/flabby-pizza",
-      "category": "Game",
-      "expiryDate": "2026-08-03T21:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTg5ODUyLnBuZw==/315x250%23c/SssdRj.png"
     },
     {
       "title": "Boots Quest DX",
@@ -193,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-08-06T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-08-06T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Eternal Night",
@@ -261,7 +252,7 @@
       "originalPrice": "N/A",
       "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
@@ -308,15 +299,6 @@
       "category": "Game",
       "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NTkyNzYxLnBuZw==/315x250%23c/%2FrIcxR.png"
-    },
-    {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-09-01T01:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
       "title": "Mutazione",
