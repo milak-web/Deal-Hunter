@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T18:22:05.062Z",
+  "lastUpdated": "2026-08-05T20:03:33.056Z",
   "deals": [
     {
       "title": "OTXO",
@@ -326,6 +326,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T21:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMTU4NjcwLnBuZw==/315x250%23c/4jMKW7.png"
+    },
+    {
+      "title": "Moonlighter",
+      "platform": "Steam",
+      "originalPrice": "$19.99",
+      "link": "https://store.steampowered.com/app/606150/Moonlighter",
+      "category": "Game",
+      "expiryDate": "2026-08-09T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a737f9add28e.jpg"
     },
     {
       "title": "Project First Contact",
