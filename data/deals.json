@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T04:59:07.111Z",
+  "lastUpdated": "2026-08-06T07:41:47.035Z",
   "deals": [
     {
       "title": "OTXO",
@@ -67,22 +67,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
       "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "The Bigfoot: Snow Massacre",
@@ -99,17 +99,8 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "The Additional Dimension",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
-      "category": "Game",
-      "expiryDate": "2026-08-08T21:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
       "title": "DIRE ECHO",
@@ -117,17 +108,8 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "NIGHTBELL",
@@ -135,8 +117,26 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-08-09T14:57:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "The Additional Dimension",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -144,8 +144,17 @@
       "originalPrice": "N/A",
       "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
       "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -157,15 +166,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Bride of Karsaz",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/bride-of-karsaz",
-      "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
-    },
-    {
       "title": "The Killer Bunny",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,15 +173,6 @@
       "category": "Game",
       "expiryDate": "2026-08-08T03:58:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Lord of Chaos",
@@ -193,6 +184,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:19:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
       "title": "Grave Guard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,30 +211,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
     },
     {
-      "title": "Z lockdown Level Impossible",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/z-lockdown",
-      "category": "Game",
-      "expiryDate": "2026-08-06T14:55:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTU3NjI2LnBuZw==/315x250%23c/bg4maZ.png"
-    },
-    {
-      "title": "Club Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/club-night",
-      "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://imranaziz.itch.io/hotdogkiller",
       "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
@@ -238,6 +229,33 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Club Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/club-night",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
+    },
+    {
+      "title": "Z lockdown Level Impossible",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://svanproductions.itch.io/z-lockdown",
+      "category": "Game",
+      "expiryDate": "2026-08-06T14:55:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTU3NjI2LnBuZw==/315x250%23c/bg4maZ.png"
+    },
+    {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
       "title": "Cat Meme Clicker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,15 +263,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T18:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
-      "title": "The Farm",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rubber-ducky-games.itch.io/the-farm",
-      "category": "Game",
-      "expiryDate": "2026-08-10T21:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNzU3NTk3LmdpZg==/315x250%23c/Rc%2Fe%2B2.gif"
     },
     {
       "title": "Silent Still 3",
@@ -274,31 +283,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "Toymakers Doll",
+      "title": "The Farm",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/toymakers-doll",
+      "link": "https://rubber-ducky-games.itch.io/the-farm",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
-    },
-    {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-09-01T01:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+      "expiryDate": "2026-08-10T21:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNzU3NTk3LmdpZg==/315x250%23c/Rc%2Fe%2B2.gif"
     },
     {
       "title": "The Copper Hill",
@@ -308,6 +299,15 @@
       "category": "Game",
       "expiryDate": "2026-09-03T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Toymakers Doll",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thelonegamedev.itch.io/toymakers-doll",
+      "category": "Game",
+      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif"
     },
     {
       "title": "Somebody is Watching",
@@ -337,12 +337,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDI1ODI2LnBuZw==/315x250%23c/rGOdua.png"
     },
     {
+      "title": "Borrowed Face",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://m1mo0.itch.io/borrowed-face",
+      "category": "Game",
+      "expiryDate": "2026-08-24T21:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
+    },
+    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
