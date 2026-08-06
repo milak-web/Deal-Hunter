@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T10:31:08.640Z",
+  "lastUpdated": "2026-08-06T12:52:09.928Z",
   "deals": [
     {
       "title": "OTXO",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-10T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDAyNDM5LnBuZw==/315x250%23c/a%2FH4Fj.png"
     },
     {
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-10T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
@@ -297,7 +297,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": "2026-08-31T18:28:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -353,24 +353,6 @@
       "category": "Game",
       "expiryDate": "2026-08-10T21:04:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNzU3NjY1LmdpZg==/315x250%23c/xpzeE0.gif"
-    },
-    {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Moonlighter",
