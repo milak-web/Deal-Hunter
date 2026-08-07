@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T15:46:38.100Z",
+  "lastUpdated": "2026-08-07T16:43:45.476Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -362,6 +362,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "happiness market",
+      "platform": "Epic Games",
+      "originalPrice": "$0.99",
+      "link": "https://store.epicgames.com/p/happiness-market-0572e2",
+      "category": "Game",
+      "expiryDate": "2026-08-14T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a7603857de41.jpg"
     },
     {
       "title": "Spider Fox",
