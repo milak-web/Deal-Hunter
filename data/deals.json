@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T16:43:45.476Z",
+  "lastUpdated": "2026-08-07T17:41:56.566Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
-      "title": "The Bigfoot: Snow Massacre",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
-      "category": "Game",
-      "expiryDate": "2026-08-10T05:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "The Bigfoot: Snow Massacre",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+      "category": "Game",
+      "expiryDate": "2026-08-10T05:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
       "title": "The Last Laugh",
@@ -184,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Back Rooms",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://liminalforgegames.itch.io/back-rooms",
-      "category": "Game",
-      "expiryDate": "2026-08-11T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTA0NTA5LmdpZg==/315x250%23c/wlC7lJ.gif"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Back Rooms",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://liminalforgegames.itch.io/back-rooms",
+      "category": "Game",
+      "expiryDate": "2026-08-11T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTA0NTA5LmdpZg==/315x250%23c/wlC7lJ.gif"
     },
     {
       "title": "The Copper Hill",
@@ -243,7 +243,7 @@
       "originalPrice": "N/A",
       "link": "https://northsignal.itch.io/the-killer-bunny",
       "category": "Game",
-      "expiryDate": "2026-08-31T03:58:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
     },
     {
@@ -252,7 +252,7 @@
       "originalPrice": "N/A",
       "link": "https://m1mo0.itch.io/borrowed-face",
       "category": "Game",
-      "expiryDate": "2026-08-24T21:02:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png"
     },
     {
@@ -283,85 +283,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Club Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/club-night",
+      "title": "Breathedge",
+      "platform": "Steam",
+      "originalPrice": "$24.99",
+      "link": "https://store.steampowered.com/app/738520/Breathedge",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
-    },
-    {
-      "title": "Silent Still 3",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
-      "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Grave Guard",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wiedzmiz.itch.io/grave-guard",
-      "category": "Game",
-      "expiryDate": "2026-08-31T21:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
-    },
-    {
-      "title": "Cat Meme Clicker",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
-      "category": "Game",
-      "expiryDate": "2026-08-31T18:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "Bride of Karsaz",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/bride-of-karsaz",
-      "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
-    },
-    {
-      "title": "Stay Warm, Stay Alive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wiedzmiz.itch.io/staywarm-stayalive",
-      "category": "Game",
-      "expiryDate": "2026-08-31T21:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMTU4NjcwLnBuZw==/315x250%23c/4jMKW7.png"
-    },
-    {
-      "title": "The Farm",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rubber-ducky-games.itch.io/the-farm",
-      "category": "Game",
-      "expiryDate": "2026-08-10T21:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNzU3NTk3LmdpZg==/315x250%23c/Rc%2Fe%2B2.gif"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+      "expiryDate": "2026-08-09T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a761420d949f.jpg"
     },
     {
       "title": "happiness market",
