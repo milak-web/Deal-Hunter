@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T20:32:12.297Z",
+  "lastUpdated": "2026-08-07T21:31:04.723Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -36,8 +36,17 @@
       "originalPrice": "N/A",
       "link": "https://3xiled4ever.itch.io/beneath-europa",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-21T07:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU1MzcyLnBuZw==/315x250%23c/FKvV35.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Back Rooms",
@@ -47,15 +56,6 @@
       "category": "Game",
       "expiryDate": "2026-08-11T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTA0NTA5LmdpZg==/315x250%23c/wlC7lJ.gif"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Bride of Karsaz",
@@ -72,7 +72,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-10T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://vladislive-dev.itch.io/eternal-night",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
@@ -108,7 +108,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/concrete-veil",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-09-03T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
@@ -126,7 +126,7 @@
       "originalPrice": "N/A",
       "link": "https://vladislive-dev.itch.io/wasteland-alone",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-21T21:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
@@ -153,7 +153,7 @@
       "originalPrice": "N/A",
       "link": "https://wiedzmiz.itch.io/grave-guard",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-31T21:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
     },
     {
@@ -162,7 +162,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-31T18:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -180,17 +180,8 @@
       "originalPrice": "N/A",
       "link": "https://wiedzmiz.itch.io/staywarm-stayalive",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-31T21:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMTU4NjcwLnBuZw==/315x250%23c/4jMKW7.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "The Farm",
@@ -200,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T21:04:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNzU3NTk3LmdpZg==/315x250%23c/Rc%2Fe%2B2.gif"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Breathedge",
