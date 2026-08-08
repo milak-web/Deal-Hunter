@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T18:24:44.722Z",
+  "lastUpdated": "2026-08-08T19:07:03.928Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -22,6 +22,15 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-08-14T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Back Rooms",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -36,7 +45,7 @@
       "originalPrice": "N/A",
       "link": "https://notsospecialgames.itch.io/the-additional-dimension",
       "category": "Game",
-      "expiryDate": "2026-08-08T21:36:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
@@ -90,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
@@ -135,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-31T18:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -144,7 +153,7 @@
       "originalPrice": "N/A",
       "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
@@ -171,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
@@ -182,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-08-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "Parasitoide",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vannys.itch.io/parasitoide",
-      "category": "Game",
-      "expiryDate": "2026-08-19T14:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM5NDIxLmpwZw==/315x250%23c/UNq4j3.jpg"
     },
     {
       "title": "Breathedge",
