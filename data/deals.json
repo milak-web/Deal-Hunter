@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T23:55:47.920Z",
+  "lastUpdated": "2026-08-08T01:06:24.597Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -279,7 +279,7 @@
       "originalPrice": "N/A",
       "link": "https://thelonegamedev.itch.io/club-night",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
@@ -288,7 +288,7 @@
       "originalPrice": "N/A",
       "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
@@ -353,6 +353,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T21:04:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNzU3NTk3LmdpZg==/315x250%23c/Rc%2Fe%2B2.gif"
+    },
+    {
+      "title": "Parasitoide",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vannys.itch.io/parasitoide",
+      "category": "Game",
+      "expiryDate": "2026-08-19T14:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM5NDIxLmpwZw==/315x250%23c/UNq4j3.jpg"
     },
     {
       "title": "Breathedge",
