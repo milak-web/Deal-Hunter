@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T14:59:59.393Z",
+  "lastUpdated": "2026-08-09T15:35:53.175Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://redcap-games.itch.io/mr-white-reborn",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-10T17:20:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDg2NTc5LnBuZw==/315x250%23c/CIeguU.png"
     },
     {
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://discountrealms.itch.io/boots-quest-dx",
       "category": "Game",
-      "expiryDate": "2026-08-10T23:36:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
     },
     {
@@ -63,17 +63,8 @@
       "originalPrice": "N/A",
       "link": "https://danijmn.itch.io/crossingchains",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-10T19:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MzYzMTkxLnBuZw==/315x250%23c/DIS9Xy.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-13T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -99,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-15T17:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -119,15 +110,6 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-13T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Lost In Transit",
@@ -162,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-19T20:19:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
@@ -184,12 +166,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-08-13T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-14T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
@@ -207,7 +198,7 @@
       "originalPrice": "N/A",
       "link": "https://liminalforgegames.itch.io/back-rooms",
       "category": "Game",
-      "expiryDate": "2026-08-11T02:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTA0NTA5LmdpZg==/315x250%23c/wlC7lJ.gif"
     },
     {
@@ -216,7 +207,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
@@ -234,7 +225,7 @@
       "originalPrice": "N/A",
       "link": "https://jordons.itch.io/abode-definitive-edition",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-15T07:01:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
@@ -243,7 +234,7 @@
       "originalPrice": "N/A",
       "link": "https://p3trol.itch.io/concrete-veil",
       "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
@@ -261,7 +252,7 @@
       "originalPrice": "N/A",
       "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-31T18:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
@@ -270,7 +261,7 @@
       "originalPrice": "N/A",
       "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
@@ -279,7 +270,7 @@
       "originalPrice": "N/A",
       "link": "https://imranaziz.itch.io/hotdogkiller",
       "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
