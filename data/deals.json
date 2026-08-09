@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T19:26:11.478Z",
+  "lastUpdated": "2026-08-09T19:55:28.852Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
-      "expiryDate": "2026-08-14T09:20:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://redcap-games.itch.io/mr-white-reborn",
       "category": "Game",
-      "expiryDate": "2026-08-10T17:20:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDg2NTc5LnBuZw==/315x250%23c/CIeguU.png"
     },
     {
@@ -45,7 +45,7 @@
       "originalPrice": "N/A",
       "link": "https://thewindyproject.itch.io/mortem",
       "category": "Game",
-      "expiryDate": "2026-08-19T20:04:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
@@ -63,7 +63,7 @@
       "originalPrice": "N/A",
       "link": "https://danijmn.itch.io/crossingchains",
       "category": "Game",
-      "expiryDate": "2026-08-10T19:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0MzYzMTkxLnBuZw==/315x250%23c/DIS9Xy.png"
     },
     {
@@ -81,7 +81,7 @@
       "originalPrice": "N/A",
       "link": "https://boxer-gaming.itch.io/lost-in-transit",
       "category": "Game",
-      "expiryDate": "2026-08-23T09:16:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
@@ -90,7 +90,7 @@
       "originalPrice": "N/A",
       "link": "https://3xiled4ever.itch.io/beneath-europa",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-21T07:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODU1MzcyLnBuZw==/315x250%23c/FKvV35.png"
     },
     {
@@ -108,7 +108,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
@@ -117,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-08-15T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
@@ -180,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-08-14T20:40:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
@@ -189,7 +189,7 @@
       "originalPrice": "N/A",
       "link": "https://grantrimi.itch.io/open-house",
       "category": "Game",
-      "expiryDate": "2026-08-15T09:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
@@ -220,15 +220,6 @@
       "imageUrl": "https://www.gamerpower.com/offers/1/6a787392bb2f0.jpg"
     },
     {
-      "title": "Breathedge",
-      "platform": "Steam",
-      "originalPrice": "$24.99",
-      "link": "https://store.steampowered.com/app/738520/Breathedge",
-      "category": "Game",
-      "expiryDate": "2026-08-09T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a761420d949f.jpg"
-    },
-    {
       "title": "happiness market",
       "platform": "Epic Games",
       "originalPrice": "$0.99",
@@ -254,15 +245,6 @@
       "category": "Mobile",
       "expiryDate": "2026-08-13T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a74a57c3afa9.jpg"
-    },
-    {
-      "title": "Moonlighter",
-      "platform": "Steam",
-      "originalPrice": "$19.99",
-      "link": "https://store.steampowered.com/app/606150/Moonlighter",
-      "category": "Game",
-      "expiryDate": "2026-08-09T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a737f9add28e.jpg"
     },
     {
       "title": "Project First Contact",
