@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T21:37:59.565Z",
+  "lastUpdated": "2026-08-09T22:21:17.272Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -49,15 +49,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
-      "title": "Boots Quest DX",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://discountrealms.itch.io/boots-quest-dx",
-      "category": "Game",
-      "expiryDate": "2026-08-10T23:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
-    },
-    {
       "title": "Crossing Chains",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,6 +56,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T19:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0MzYzMTkxLnBuZw==/315x250%23c/DIS9Xy.png"
+    },
+    {
+      "title": "Boots Quest DX",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://discountrealms.itch.io/boots-quest-dx",
+      "category": "Game",
+      "expiryDate": "2026-08-10T23:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -220,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
       "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-08-27T14:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
+    },
+    {
+      "title": "Concrete Veil",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/concrete-veil",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
       "title": "DON’T DO IT",
@@ -247,13 +247,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Cat Meme Clicker",
+      "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": "2026-08-31T18:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
       "title": "Hotdog Killer [Full Game]",
@@ -265,13 +265,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
-      "title": "Silent Still 3",
+      "title": "Cat Meme Clicker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+      "expiryDate": "2026-08-31T18:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
       "title": "Eternal Night",
@@ -283,6 +283,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
       "title": "Club Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -292,13 +301,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2ODY5Mzk5LmdpZg==/315x250%23c/SIQw18.gif"
     },
     {
-      "title": "The Uninvited",
+      "title": "Last Friday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "link": "https://reganc.itch.io/last-friday",
       "category": "Game",
-      "expiryDate": "2026-09-01T01:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+      "expiryDate": "2026-08-15T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
       "title": "Cat Named Mojave",
