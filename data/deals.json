@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T09:55:01.589Z",
+  "lastUpdated": "2026-08-10T11:00:15.769Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png"
     },
     {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-08-14T09:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
       "title": "MR. WHITE: REBORN",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-08-10T17:20:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDg2NTc5LnBuZw==/315x250%23c/CIeguU.png"
+    },
+    {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-08-14T09:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Crossing Chains",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-08-23T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Beneath Europa",
