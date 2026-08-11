@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T12:05:36.271Z",
+  "lastUpdated": "2026-08-11T13:50:39.637Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-08-14T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-08-14T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "Beneath Europa",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://3xiled4ever.itch.io/beneath-europa",
-      "category": "Game",
-      "expiryDate": "2026-08-21T07:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MjAxNzk1LnBuZw==/315x250%23c/%2FVBewS.png"
-    },
-    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-08-28T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
+      "title": "Beneath Europa",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://3xiled4ever.itch.io/beneath-europa",
+      "category": "Game",
+      "expiryDate": "2026-08-21T07:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MjAxNzk1LnBuZw==/315x250%23c/%2FVBewS.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -247,6 +247,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
+      "title": "Dicey Chess",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
+      "category": "Game",
+      "expiryDate": "2026-09-09T21:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
+    },
+    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Dicey Chess",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
-      "category": "Game",
-      "expiryDate": "2026-09-09T21:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
       "title": "Eternal Night",
