@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T21:37:30.640Z",
+  "lastUpdated": "2026-08-11T22:33:25.783Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -99,7 +99,7 @@
       "originalPrice": "N/A",
       "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
       "category": "Game",
-      "expiryDate": "2026-08-15T17:10:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
@@ -112,6 +112,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -121,21 +130,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-08-23T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
@@ -144,7 +144,7 @@
       "originalPrice": "N/A",
       "link": "https://3xiled4ever.itch.io/beneath-europa",
       "category": "Game",
-      "expiryDate": "2026-08-21T07:28:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjEzNDE3LnBuZw==/315x250%23c/CLJ70s.png"
     },
     {
@@ -162,7 +162,7 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
@@ -171,7 +171,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-08-16T17:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -198,7 +198,7 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
@@ -209,15 +209,6 @@
       "category": "Game",
       "expiryDate": "2026-08-19T20:19:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
-      "title": "Open House",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/open-house",
-      "category": "Game",
-      "expiryDate": "2026-08-15T09:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
       "title": "Abode: Definitive Edition",
@@ -238,6 +229,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
     },
     {
+      "title": "Open House",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/open-house",
+      "category": "Game",
+      "expiryDate": "2026-08-15T09:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
+    },
+    {
       "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +245,15 @@
       "category": "Game",
       "expiryDate": "2026-08-27T14:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Dicey Chess",
@@ -261,8 +270,17 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "False Title - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/false-title",
+      "category": "Game",
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
       "title": "Silent Still 3",
@@ -279,7 +297,7 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
@@ -301,13 +319,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "Buzzed & Brainless",
+      "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thelonegamedev.itch.io/alchol-is-free",
+      "link": "https://imranaziz.itch.io/hotdogkiller",
       "category": "Game",
-      "expiryDate": "2026-08-21T21:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Mzc1NjkxLmdpZg==/315x250%23c/kgR6AB.gif"
+      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Cat Named Mojave",
