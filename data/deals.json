@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T16:24:50.953Z",
+  "lastUpdated": "2026-08-12T17:25:43.751Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -247,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Dicey Chess",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,6 +254,15 @@
       "category": "Game",
       "expiryDate": "2026-09-09T21:31:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "The Last Laugh",
@@ -308,6 +308,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Iridescent Crown / 虹色の王冠",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dylancassidy.itch.io/iridescent-crown",
+      "category": "Game",
+      "expiryDate": "2026-08-16T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvMTAyMzgzLzUwMDY4My5wbmc=/315x250%23c/lpYQ5q.png"
     },
     {
       "title": "Grave Guard",
