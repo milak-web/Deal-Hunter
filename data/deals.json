@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T16:24:36.654Z",
+  "lastUpdated": "2026-08-13T17:26:38.986Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -93,6 +93,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
+      "title": "Night Taco",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://glodory-studio.itch.io/night-taco",
+      "category": "Game",
+      "expiryDate": "2026-08-22T05:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTYwMDM0LnBuZw==/315x250%23c/MO0goQ.png"
+    },
+    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -156,15 +165,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
     },
     {
-      "title": "Abode: Definitive Edition",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://jordons.itch.io/abode-definitive-edition",
-      "category": "Game",
-      "expiryDate": "2026-08-15T07:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
-    },
-    {
       "title": "Forget-me-not",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -174,15 +174,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "com__et",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -190,6 +181,24 @@
       "category": "Game",
       "expiryDate": "2026-08-16T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEzNjE1NTE0LnBuZw==/315x250%23c/f3%2FdzA.png"
+    },
+    {
+      "title": "Abode: Definitive Edition",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://jordons.itch.io/abode-definitive-edition",
+      "category": "Game",
+      "expiryDate": "2026-08-15T07:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Lord of Chaos",
@@ -307,6 +316,33 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "Iridescent Crown / 虹色の王冠",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dylancassidy.itch.io/iridescent-crown",
+      "category": "Game",
+      "expiryDate": "2026-08-16T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvMTAyMzgzLzUwMDY4My5wbmc=/315x250%23c/lpYQ5q.png"
+    },
+    {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
+      "title": "Deponia",
+      "platform": "Steam",
+      "originalPrice": "$29.99",
+      "link": "https://store.steampowered.com/app/214340/Deponia",
+      "category": "Game",
+      "expiryDate": "2026-08-20T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/69af0087172d3.jpg"
     },
     {
       "title": "Beholder: Conductor",
