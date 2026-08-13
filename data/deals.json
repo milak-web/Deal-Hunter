@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T23:32:30.178Z",
+  "lastUpdated": "2026-08-13T01:15:44.654Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -319,15 +319,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
-    },
-    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -353,6 +344,15 @@
       "category": "Game",
       "expiryDate": "2026-08-16T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1hZ2UvMTAyMzgzLzUwMDY4My5wbmc=/315x250%23c/lpYQ5q.png"
+    },
+    {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
       "title": "Targeted – 10 Days",
