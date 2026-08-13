@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T03:36:46.215Z",
+  "lastUpdated": "2026-08-13T05:27:51.610Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTExMDcyLnBuZw==/315x250%23c/i4dlbZ.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-08-14T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -65,15 +74,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-08-14T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -184,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Forget-me-not",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://featherbox-studio.itch.io/forget-me-not",
+      "category": "Game",
+      "expiryDate": "2026-08-31T22:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
+    },
+    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,15 +209,6 @@
       "category": "Game",
       "expiryDate": "2026-08-16T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
       "title": "Voxelite",
