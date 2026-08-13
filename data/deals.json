@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T05:27:51.610Z",
+  "lastUpdated": "2026-08-13T06:56:07.043Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -193,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-08-23T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-08-16T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-08-23T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "Voxelite",
@@ -265,6 +265,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
+      "title": "Grave Guard",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wiedzmiz.itch.io/grave-guard",
+      "category": "Game",
+      "expiryDate": "2026-08-31T21:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
+    },
+    {
       "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -283,22 +292,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Grave Guard",
+      "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://wiedzmiz.itch.io/grave-guard",
+      "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-31T21:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Gamers Club Repeat",
+      "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": "2026-08-26T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
       "title": "Iridescent Crown / 虹色の王冠",
@@ -310,13 +319,13 @@
       "imageUrl": "https://img.itch.zone/aW1hZ2UvMTAyMzgzLzUwMDY4My5wbmc=/315x250%23c/lpYQ5q.png"
     },
     {
-      "title": "Silent Still 3",
+      "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
       "title": "DON’T DO IT",
@@ -335,15 +344,6 @@
       "category": "Game",
       "expiryDate": "2026-08-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
-      "title": "The Last Laugh",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-deep.itch.io/the-last-laugh",
-      "category": "Game",
-      "expiryDate": "2026-09-06T03:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
     },
     {
       "title": "Targeted – 10 Days",
