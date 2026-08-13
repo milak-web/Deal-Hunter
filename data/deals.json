@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T12:51:58.459Z",
+  "lastUpdated": "2026-08-13T14:17:44.653Z",
   "deals": [
     {
       "title": "Beacon Pines",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Noah's Secret: Episode 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
-      "category": "Game",
-      "expiryDate": "2026-08-15T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "Noah's Secret: Episode 1",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
+      "category": "Game",
+      "expiryDate": "2026-08-15T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -130,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-08-28T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
       "title": "False Title - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -139,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
-      "title": "8th Floor",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://palesignal.itch.io/8th-floor",
-      "category": "Game",
-      "expiryDate": "2026-08-15T14:36:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
-    },
-    {
       "title": "Worst Wifey (ワル嫁)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-08-28T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
+    },
+    {
+      "title": "8th Floor",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://palesignal.itch.io/8th-floor",
+      "category": "Game",
+      "expiryDate": "2026-08-15T14:36:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
     },
     {
       "title": "Beneath Europa",
@@ -175,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "Forget-me-not",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T22:01:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Lord of Chaos",
@@ -211,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Voxelite",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
-      "category": "Game",
-      "expiryDate": "2026-08-27T14:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-08-19T20:19:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Voxelite",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waterworksgames.itch.io/voxelite",
+      "category": "Game",
+      "expiryDate": "2026-08-27T14:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -274,13 +283,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
-      "title": "The Copper Hill",
+      "title": "Wasteland Drifter",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
+      "link": "https://jarppix.itch.io/wasteland-drifter",
       "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+      "expiryDate": "2026-08-22T23:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MjM3NzM5LnBuZw==/315x250%23c/lQ0jiy.png"
     },
     {
       "title": "Wasteland Alone",
@@ -290,6 +299,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Silent Still 3",
@@ -308,15 +326,6 @@
       "category": "Game",
       "expiryDate": "2026-08-16T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1hZ2UvMTAyMzgzLzUwMDY4My5wbmc=/315x250%23c/lpYQ5q.png"
-    },
-    {
-      "title": "Wasteland Drifter",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://jarppix.itch.io/wasteland-drifter",
-      "category": "Game",
-      "expiryDate": "2026-08-22T23:06:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MjM3NzM5LnBuZw==/315x250%23c/lQ0jiy.png"
     },
     {
       "title": "Gamers Club Repeat",
