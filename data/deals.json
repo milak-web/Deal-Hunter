@@ -1,34 +1,15 @@
 {
-  "lastUpdated": "2026-08-13T14:17:44.653Z",
+  "lastUpdated": "2026-08-13T15:28:51.176Z",
   "deals": [
     {
-      "title": "Beacon Pines",
+      "title": "Caravan SandWitch",
       "platform": "Epic Games",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/en-US/p/beacon-pines-629fc3",
+      "originalPrice": "$24.99",
+      "link": "https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58",
       "category": "Game",
-      "startDate": "2026-08-06T15:00:00.000Z",
-      "expiryDate": "2026-08-13T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/download-beacon-pines-offer-1ko2w.jpg"
-    },
-    {
-      "title": "We Were Here Together",
-      "platform": "Epic Games",
-      "originalPrice": "$12.99",
-      "link": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
-      "category": "Game",
-      "startDate": "2026-08-06T15:00:00.000Z",
-      "expiryDate": "2026-08-13T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png"
-    },
-    {
-      "title": "MR. WHITE: REBORN",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/mr-white-reborn",
-      "category": "Game",
-      "expiryDate": "2026-08-20T17:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MDg2NTc5LnBuZw==/315x250%23c/CIeguU.png"
+      "startDate": "2026-08-13T15:00:00.000Z",
+      "expiryDate": "2026-08-20T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg"
     },
     {
       "title": "Sabado: Day One",
@@ -346,6 +327,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
+      "title": "Beholder: Conductor",
+      "platform": "Mobile",
+      "originalPrice": "$4.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-08-20T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a7dddbc3e1c7.jpg"
+    },
+    {
       "title": "Targeted – 10 Days",
       "platform": "Epic Games",
       "originalPrice": "$4.99",
@@ -371,24 +361,6 @@
       "category": "Game",
       "expiryDate": "2026-08-14T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a7603857de41.jpg"
-    },
-    {
-      "title": "Spider Fox",
-      "platform": "Epic Games",
-      "originalPrice": "$7.99",
-      "link": "https://store.epicgames.com/p/spider-fox-efd273",
-      "category": "Game",
-      "expiryDate": "2026-08-13T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a74a6d662f14.jpg"
-    },
-    {
-      "title": "A Guidebook of Babel",
-      "platform": "Mobile",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-08-13T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a74a57c3afa9.jpg"
     },
     {
       "title": "Project First Contact",
