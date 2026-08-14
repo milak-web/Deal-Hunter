@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T17:24:27.916Z",
+  "lastUpdated": "2026-08-14T18:13:01.200Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -156,15 +156,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
-      "title": "Mortem",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/mortem",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
-    },
-    {
       "title": "Wasteland Drifter",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -172,6 +163,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T23:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjM3NzM5LnBuZw==/315x250%23c/lQ0jiy.png"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "DIRE ECHO",
@@ -210,6 +210,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
+      "title": "Fractured: Roadwood Stop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "category": "Game",
+      "expiryDate": "2026-08-17T21:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
       "title": "8th Floor",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -219,13 +228,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
     },
     {
-      "title": "Fractured: Roadwood Stop",
+      "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-08-17T21:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -244,15 +253,6 @@
       "category": "Game",
       "expiryDate": "2026-08-16T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Apartment №202",
@@ -300,15 +300,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "Gamers Club Repeat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-      "category": "Game",
-      "expiryDate": "2026-08-26T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -318,40 +309,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
-      "title": "Dicey Chess",
+      "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
       "category": "Game",
-      "expiryDate": "2026-09-09T21:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
-    },
-    {
-      "title": "The Lost Painter",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/the-lost-painter",
-      "category": "Game",
-      "expiryDate": "2026-08-16T11:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NzkxNzIyLmdpZg==/315x250%23c/HxNm%2FS.gif"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-09-01T01:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
       "title": "Sonambula",
@@ -363,6 +327,33 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "The Lost Painter",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/the-lost-painter",
+      "category": "Game",
+      "expiryDate": "2026-08-16T11:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NzkxNzIyLmdpZg==/315x250%23c/HxNm%2FS.gif"
+    },
+    {
+      "title": "Dicey Chess",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
+      "category": "Game",
+      "expiryDate": "2026-09-09T21:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
+    },
+    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -372,13 +363,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
-      "title": "DON’T DO IT",
+      "title": "The Uninvited",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
+    },
+    {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Deponia",
@@ -415,15 +415,6 @@
       "category": "Game",
       "expiryDate": "2026-08-15T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a787392bb2f0.jpg"
-    },
-    {
-      "title": "happiness market",
-      "platform": "Epic Games",
-      "originalPrice": "$0.99",
-      "link": "https://store.epicgames.com/p/happiness-market-0572e2",
-      "category": "Game",
-      "expiryDate": "2026-08-14T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a7603857de41.jpg"
     },
     {
       "title": "Project First Contact",
