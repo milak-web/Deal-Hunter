@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T20:54:01.458Z",
+  "lastUpdated": "2026-08-14T21:17:32.731Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -129,6 +129,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
+      "title": "Decrypt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cruxgamestudios.itch.io/decrypt",
+      "category": "Game",
+      "expiryDate": "2026-08-17T18:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
+    },
+    {
       "title": "False Title - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -145,15 +154,6 @@
       "category": "Game",
       "expiryDate": "2026-08-21T07:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
-    },
-    {
-      "title": "Decrypt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cruxgamestudios.itch.io/decrypt",
-      "category": "Game",
-      "expiryDate": "2026-08-17T18:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
       "title": "Wasteland Drifter",
