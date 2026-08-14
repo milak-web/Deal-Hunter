@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T22:13:57.198Z",
+  "lastUpdated": "2026-08-14T22:46:46.565Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -156,15 +156,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
     },
     {
-      "title": "Mortem",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/mortem",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
-    },
-    {
       "title": "Wasteland Drifter",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -172,6 +163,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T23:06:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjM3NzM5LnBuZw==/315x250%23c/lQ0jiy.png"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "DIRE ECHO",
