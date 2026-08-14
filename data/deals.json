@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T05:26:05.248Z",
+  "lastUpdated": "2026-08-14T06:52:03.283Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -183,15 +183,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Abode: Definitive Edition",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://jordons.itch.io/abode-definitive-edition",
-      "category": "Game",
-      "expiryDate": "2026-08-15T07:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
-    },
-    {
       "title": "Worst Wifey (ワル嫁)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -199,6 +190,15 @@
       "category": "Game",
       "expiryDate": "2026-08-28T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
+    },
+    {
+      "title": "Abode: Definitive Edition",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://jordons.itch.io/abode-definitive-edition",
+      "category": "Game",
+      "expiryDate": "2026-08-15T07:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
       "title": "8th Floor",
@@ -228,15 +228,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-08-23T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
       "title": "Fractured: The Cast",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -244,6 +235,24 @@
       "category": "Game",
       "expiryDate": "2026-08-17T21:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
+    },
+    {
+      "title": "Fractured: Roadwood Stop",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "category": "Game",
+      "expiryDate": "2026-08-17T21:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-08-23T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "Apartment №202",
@@ -264,15 +273,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
     },
     {
-      "title": "Fractured: Roadwood Stop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
-      "category": "Game",
-      "expiryDate": "2026-08-17T21:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
-    },
-    {
       "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -280,6 +280,15 @@
       "category": "Game",
       "expiryDate": "2026-08-27T14:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Open House",
@@ -291,13 +300,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
-      "title": "NIGHTBELL",
+      "title": "Within",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
+      "link": "https://cruxgamestudios.itch.io/within",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+      "expiryDate": "2026-08-17T18:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
     },
     {
       "title": "Gamers Club Repeat",
@@ -318,6 +327,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
+      "title": "The Lost Painter",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/the-lost-painter",
+      "category": "Game",
+      "expiryDate": "2026-08-16T11:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NzkxNzIyLmdpZg==/315x250%23c/HxNm%2FS.gif"
+    },
+    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -336,24 +354,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
-      "title": "The Lost Painter",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/the-lost-painter",
-      "category": "Game",
-      "expiryDate": "2026-08-16T11:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NzkxNzIyLmdpZg==/315x250%23c/HxNm%2FS.gif"
-    },
-    {
-      "title": "Silent Still 3",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
-      "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
       "title": "Sonambula",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -361,6 +361,24 @@
       "category": "Game",
       "expiryDate": "2026-08-17T21:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Decrypt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cruxgamestudios.itch.io/decrypt",
+      "category": "Game",
+      "expiryDate": "2026-08-17T18:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
       "title": "DON’T DO IT",
