@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T20:45:26.670Z",
+  "lastUpdated": "2026-08-15T21:13:19.513Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -309,6 +309,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
+      "title": "Slaying Grove",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/slayinggrove",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzk4MjE0MTIucG5n/315x250%23c/qFEbrf.png"
+    },
+    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -343,15 +352,6 @@
       "category": "Game",
       "expiryDate": "2026-08-23T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "Project Z",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://svanproductions.itch.io/project-z",
-      "category": "Game",
-      "expiryDate": "2026-08-15T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE0NTE1NDY5LmpwZw==/315x250%23c/HbpWfe.jpg"
     },
     {
       "title": "Deponia",
