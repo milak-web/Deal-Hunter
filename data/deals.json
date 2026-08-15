@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T04:54:29.135Z",
+  "lastUpdated": "2026-08-15T05:17:38.610Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -84,15 +84,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "Decrypt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -100,6 +91,15 @@
       "category": "Game",
       "expiryDate": "2026-08-17T18:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Pigeon West: El Diablo",
