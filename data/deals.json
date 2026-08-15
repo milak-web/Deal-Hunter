@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T10:45:30.647Z",
+  "lastUpdated": "2026-08-15T11:12:01.526Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -10,6 +10,15 @@
       "startDate": "2026-08-13T15:00:00.000Z",
       "expiryDate": "2026-08-20T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg"
+    },
+    {
+      "title": "MR. WHITE: REBORN",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redcap-games.itch.io/mr-white-reborn",
+      "category": "Game",
+      "expiryDate": "2026-08-20T17:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MDg2NTc5LnBuZw==/315x250%23c/CIeguU.png"
     },
     {
       "title": "THE GUEST",
