@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T13:49:40.958Z",
+  "lastUpdated": "2026-08-15T14:14:29.454Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -174,15 +174,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
     },
     {
-      "title": "Mortem",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/mortem",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
-    },
-    {
       "title": "False Title - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -190,6 +181,24 @@
       "category": "Game",
       "expiryDate": "2026-08-26T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "DIRE ECHO",
@@ -208,15 +217,6 @@
       "category": "Game",
       "expiryDate": "2026-08-28T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -282,15 +282,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -300,13 +291,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
-      "title": "The Lost Painter",
+      "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/the-lost-painter",
+      "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-16T11:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NzkxNzIyLmdpZg==/315x250%23c/HxNm%2FS.gif"
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Gamers Club Repeat",
@@ -316,6 +307,15 @@
       "category": "Game",
       "expiryDate": "2026-08-26T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
+      "title": "The Lost Painter",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/the-lost-painter",
+      "category": "Game",
+      "expiryDate": "2026-08-16T11:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NzkxNzIyLmdpZg==/315x250%23c/HxNm%2FS.gif"
     },
     {
       "title": "Silent Still 3",
