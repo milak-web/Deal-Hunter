@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T16:47:20.499Z",
+  "lastUpdated": "2026-08-15T17:13:12.588Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -39,6 +39,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEzNjE1NTE0LnBuZw==/315x250%23c/f3%2FdzA.png"
     },
     {
+      "title": "Decrypt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cruxgamestudios.itch.io/decrypt",
+      "category": "Game",
+      "expiryDate": "2026-08-17T18:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
+    },
+    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,15 +82,6 @@
       "category": "Game",
       "expiryDate": "2026-08-17T18:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
-    },
-    {
-      "title": "Decrypt",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cruxgamestudios.itch.io/decrypt",
-      "category": "Game",
-      "expiryDate": "2026-08-17T18:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzc1OTQxODcuanBn/315x250%23c/V7oz%2FW.jpg"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -136,15 +136,6 @@
       "category": "Game",
       "expiryDate": "2026-08-17T21:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
-    },
-    {
-      "title": "Noah's Secret: Episode 1",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-1",
-      "category": "Game",
-      "expiryDate": "2026-08-15T17:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE0NDg1LnBuZw==/315x250%23c/nbtwS%2F.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
