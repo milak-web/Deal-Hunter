@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T02:16:51.833Z",
+  "lastUpdated": "2026-08-16T03:25:34.632Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -235,6 +235,15 @@
       "category": "Game",
       "expiryDate": "2026-08-26T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
+    },
+    {
+      "title": "Abode: Definitive Edition",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://jordons.itch.io/abode-definitive-edition",
+      "category": "Game",
+      "expiryDate": "2026-09-01T03:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
       "title": "Slaying Grove",
