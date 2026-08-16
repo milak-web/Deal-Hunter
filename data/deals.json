@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T09:19:01.586Z",
+  "lastUpdated": "2026-08-16T09:49:22.276Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -84,15 +84,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -100,6 +91,15 @@
       "category": "Game",
       "expiryDate": "2026-08-28T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -129,24 +129,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
     },
     {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
-    },
-    {
-      "title": "Beneath Europa",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://3xiled4ever.itch.io/beneath-europa",
-      "category": "Game",
-      "expiryDate": "2026-08-21T07:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
-    },
-    {
       "title": "Fractured: Roadwood Stop",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +136,15 @@
       "category": "Game",
       "expiryDate": "2026-08-17T21:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
+      "title": "Forget-me-not",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://featherbox-studio.itch.io/forget-me-not",
+      "category": "Game",
+      "expiryDate": "2026-08-31T22:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -183,15 +174,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
-      "title": "Mortem",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/mortem",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -199,6 +181,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "8th Floor",
@@ -228,15 +219,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-08-20T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Abode: Definitive Edition",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -244,6 +226,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T03:07:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-08-20T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Slaying Grove",
@@ -273,15 +264,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -291,13 +273,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "Voxelite",
+      "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
+      "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-27T14:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
       "title": "Wasteland Alone",
@@ -309,13 +291,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
+      "title": "Voxelite",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "link": "https://waterworksgames.itch.io/voxelite",
       "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+      "expiryDate": "2026-08-27T14:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "Concrete Veil",
@@ -325,6 +307,15 @@
       "category": "Game",
       "expiryDate": "2026-09-03T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Grave Guard",
