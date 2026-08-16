@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T18:53:00.038Z",
+  "lastUpdated": "2026-08-16T19:15:11.631Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -28,6 +28,15 @@
       "category": "Game",
       "expiryDate": "2026-08-17T18:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwOTk1ODE0LmpwZw==/315x250%23c/pVZX53.jpg"
+    },
+    {
+      "title": "THE NIGHT TICKLER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://requiem-games-xoxo.itch.io/the-night-tickler",
+      "category": "Game",
+      "expiryDate": "2026-09-15T18:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5Mjg0MjkzLnBuZw==/315x250%23c/6R4wyu.png"
     },
     {
       "title": "Cherophobia",
