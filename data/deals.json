@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T05:51:42.864Z",
+  "lastUpdated": "2026-08-16T06:25:42.828Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -201,15 +201,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -226,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T14:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "False Title - RPG",
@@ -264,15 +264,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzk4MjE0MTIucG5n/315x250%23c/qFEbrf.png"
     },
     {
-      "title": "Sonambula",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
-      "category": "Game",
-      "expiryDate": "2026-08-17T21:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -280,6 +271,15 @@
       "category": "Game",
       "expiryDate": "2026-08-26T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+    },
+    {
+      "title": "Sonambula",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/sonambula",
+      "category": "Game",
+      "expiryDate": "2026-08-17T21:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
     },
     {
       "title": "The Copper Hill",
@@ -354,6 +354,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
       "title": "The Lost Painter",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -379,15 +388,6 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
-    },
-    {
-      "title": "Gamers Club Repeat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-      "category": "Game",
-      "expiryDate": "2026-08-26T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
       "title": "Deponia",
