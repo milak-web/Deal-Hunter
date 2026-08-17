@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T17:19:20.532Z",
+  "lastUpdated": "2026-08-17T17:52:36.776Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -71,7 +71,7 @@
       "originalPrice": "N/A",
       "link": "https://wiktor-games.itch.io/the-one-we-cant-see",
       "category": "Game",
-      "expiryDate": "2026-08-17T17:49:00.000Z",
+      "expiryDate": "2026-08-20T17:49:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzE1Mzc5LnBuZw==/315x250%23c/k1I1jE.png"
     },
     {
@@ -84,15 +84,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
       "title": "Beneath Europa",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -100,6 +91,15 @@
       "category": "Game",
       "expiryDate": "2026-08-21T07:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -255,6 +255,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -291,24 +300,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
-      "title": "Heli-Hopper",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fueledbycoffee.itch.io/heli-hopper",
-      "category": "Game",
-      "expiryDate": "2026-08-18T01:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MjQ5NjI4LnBuZw==/315x250%23c/QQxGsH.png"
-    },
-    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -325,6 +316,15 @@
       "category": "Game",
       "expiryDate": "2026-08-19T20:19:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Heli-Hopper",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fueledbycoffee.itch.io/heli-hopper",
+      "category": "Game",
+      "expiryDate": "2026-08-18T01:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MjQ5NjI4LnBuZw==/315x250%23c/QQxGsH.png"
     },
     {
       "title": "Vesperal Times",
@@ -381,15 +381,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
     },
     {
-      "title": "Voxelite",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
-      "category": "Game",
-      "expiryDate": "2026-08-27T14:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
-    },
-    {
       "title": "Child of Luminescence",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -397,6 +388,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
+    },
+    {
+      "title": "Voxelite",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waterworksgames.itch.io/voxelite",
+      "category": "Game",
+      "expiryDate": "2026-08-27T14:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "Dicey Chess",
@@ -424,6 +424,24 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
       "title": "Deponia",
