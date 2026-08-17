@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T23:41:11.896Z",
+  "lastUpdated": "2026-08-17T00:46:55.368Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -370,6 +370,15 @@
       "category": "Game",
       "expiryDate": "2026-08-21T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDY4NzcyLmpwZw==/315x250%23c/Wt2jzA.jpg"
+    },
+    {
+      "title": "Child of Luminescence",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/child",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
     },
     {
       "title": "Deponia",
