@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T05:05:37.185Z",
+  "lastUpdated": "2026-08-17T05:58:03.333Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -120,15 +120,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc0LnBuZw==/315x250%23c/hrUHTd.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "The One We Can't See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -138,6 +129,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzE1Mzc5LnBuZw==/315x250%23c/k1I1jE.png"
     },
     {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
       "title": "Fractured: Roadwood Stop",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -145,6 +145,15 @@
       "category": "Game",
       "expiryDate": "2026-08-17T21:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MTMzMDc4LnBuZw==/315x250%23c/9Vbt7e.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -165,13 +174,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
+      "title": "Orion the Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "link": "https://epiclionstudio.itch.io/orion-the-hero",
       "category": "Game",
-      "expiryDate": "2026-08-22T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+      "expiryDate": "2026-08-21T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MDY4NzcyLmpwZw==/315x250%23c/Wt2jzA.jpg"
     },
     {
       "title": "Worst Wifey (ワル嫁)",
@@ -190,15 +199,6 @@
       "category": "Game",
       "expiryDate": "2026-08-20T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "Orion the Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://epiclionstudio.itch.io/orion-the-hero",
-      "category": "Game",
-      "expiryDate": "2026-08-21T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MDY4NzcyLmpwZw==/315x250%23c/Wt2jzA.jpg"
     },
     {
       "title": "Slaying Grove",
@@ -255,15 +255,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "The Last Laugh",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -273,22 +264,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
     },
     {
-      "title": "Sonambula",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/sonambula",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-08-17T21:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+      "expiryDate": "2026-08-19T20:19:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "NIGHTBELL",
@@ -300,13 +282,49 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "DIRE ECHO",
+      "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "link": "https://p3trol.itch.io/the-copper-hill",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Hotdog Killer [Full Game]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/hotdogkiller",
+      "category": "Game",
+      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+    },
+    {
+      "title": "Sonambula",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fenixapple.itch.io/sonambula",
+      "category": "Game",
+      "expiryDate": "2026-08-17T21:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MTI4Mjg3LnBuZw==/315x250%23c/JzUzi%2B.png"
+    },
+    {
+      "title": "Voxelite",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waterworksgames.itch.io/voxelite",
+      "category": "Game",
+      "expiryDate": "2026-08-27T14:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
+    },
+    {
+      "title": "RE: Evil Lurks",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mal98s.itch.io/evil-lurks",
+      "category": "Game",
+      "expiryDate": "2026-09-01T00:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
       "title": "Fiend Exile",
@@ -318,13 +336,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
     },
     {
-      "title": "Hotdog Killer [Full Game]",
+      "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/hotdogkiller",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Grave Guard",
@@ -343,24 +361,6 @@
       "category": "Game",
       "expiryDate": "2026-09-03T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
-      "title": "RE: Evil Lurks",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mal98s.itch.io/evil-lurks",
-      "category": "Game",
-      "expiryDate": "2026-09-01T00:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
-    },
-    {
-      "title": "Voxelite",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waterworksgames.itch.io/voxelite",
-      "category": "Game",
-      "expiryDate": "2026-08-27T14:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MzIxMTI2LmpwZw==/315x250%23c/zmfwQs.jpg"
     },
     {
       "title": "Child of Luminescence",
