@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T23:15:04.900Z",
+  "lastUpdated": "2026-08-17T23:44:08.061Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -424,15 +424,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a7ce767b76aa.jpg"
-    },
-    {
-      "title": "Project First Contact",
-      "platform": "Epic Games",
-      "originalPrice": "$1.99",
-      "link": "https://store.epicgames.com/p/project-first-contact-ff7fdc",
-      "category": "Game",
-      "expiryDate": "2026-08-17T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a7112b81327e.jpg"
     }
   ]
 }
