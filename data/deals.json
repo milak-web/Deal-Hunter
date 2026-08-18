@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T19:05:40.215Z",
+  "lastUpdated": "2026-08-18T19:47:08.870Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -388,6 +388,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-08-31T18:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
       "title": "Deponia",
