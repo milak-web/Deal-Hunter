@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T14:03:46.092Z",
+  "lastUpdated": "2026-08-18T14:59:34.784Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -18,7 +18,7 @@
       "link": "https://redcap-games.itch.io/mr-white-reborn",
       "category": "Game",
       "expiryDate": "2026-08-20T17:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MDg2NTc5LnBuZw==/315x250%23c/CIeguU.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MzU3MjUwLnBuZw==/315x250%23c/D%2Ff8eK.png"
     },
     {
       "title": "The One We Can't See",
@@ -271,6 +271,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T14:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:19:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "The Last Laugh",
