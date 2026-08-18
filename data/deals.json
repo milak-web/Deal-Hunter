@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T23:44:08.061Z",
+  "lastUpdated": "2026-08-18T00:45:33.657Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -397,6 +397,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-08-31T06:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
       "title": "Deponia",
