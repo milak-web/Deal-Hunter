@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T09:56:05.513Z",
+  "lastUpdated": "2026-08-18T10:21:32.111Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -102,6 +102,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -118,15 +127,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Orion the Hero",
