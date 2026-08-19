@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T20:51:44.923Z",
+  "lastUpdated": "2026-08-19T21:17:56.521Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -138,6 +138,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
     },
     {
+      "title": "Forget-me-not",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://featherbox-studio.itch.io/forget-me-not",
+      "category": "Game",
+      "expiryDate": "2026-08-31T22:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,15 +163,6 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MTU2MzEwLnBuZw==/315x250%23c/IcZGDs.png"
-    },
-    {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
       "title": "Fiend Exile",
@@ -316,6 +316,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T00:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-09-02T21:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "DON’T DO IT",
