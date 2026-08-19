@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T16:54:03.002Z",
+  "lastUpdated": "2026-08-19T17:19:37.403Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -129,6 +129,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Forget-me-not",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://featherbox-studio.itch.io/forget-me-not",
+      "category": "Game",
+      "expiryDate": "2026-08-31T22:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
+    },
+    {
       "title": "Vesperal Times",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -136,6 +145,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MTU2MzEwLnBuZw==/315x250%23c/IcZGDs.png"
+    },
+    {
+      "title": "Fiend Exile",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/fiendexile",
+      "category": "Game",
+      "expiryDate": "2026-08-22T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
     },
     {
       "title": "Orion the Hero",
@@ -147,15 +165,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDY4NzcyLmpwZw==/315x250%23c/Wt2jzA.jpg"
     },
     {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
-    },
-    {
       "title": "Hotdog Killer [Full Game]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -163,15 +172,6 @@
       "category": "Game",
       "expiryDate": "2026-08-26T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDU5MzMxLmpwZw==/315x250%23c/o1yq%2BW.jpg"
-    },
-    {
-      "title": "Fiend Exile",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/fiendexile",
-      "category": "Game",
-      "expiryDate": "2026-08-22T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
     },
     {
       "title": "Lord of Chaos",
@@ -352,15 +352,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T18:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-09-01T01:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Deponia",
