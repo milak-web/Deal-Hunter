@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T09:56:17.801Z",
+  "lastUpdated": "2026-08-19T10:22:06.886Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -12,15 +12,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg"
     },
     {
-      "title": "MR. WHITE: REBORN",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/mr-white-reborn",
-      "category": "Game",
-      "expiryDate": "2026-08-20T17:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MzU3MjUwLnBuZw==/315x250%23c/D%2Ff8eK.png"
-    },
-    {
       "title": "The One We Can't See",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -28,6 +19,15 @@
       "category": "Game",
       "expiryDate": "2026-08-20T17:49:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzE1Mzc5LnBuZw==/315x250%23c/k1I1jE.png"
+    },
+    {
+      "title": "MR. WHITE: REBORN",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redcap-games.itch.io/mr-white-reborn",
+      "category": "Game",
+      "expiryDate": "2026-08-20T17:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MzU3MjUwLnBuZw==/315x250%23c/D%2Ff8eK.png"
     },
     {
       "title": "DIRE ECHO",
@@ -138,15 +138,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
-    },
-    {
       "title": "Orion the Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +145,15 @@
       "category": "Game",
       "expiryDate": "2026-08-21T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MDY4NzcyLmpwZw==/315x250%23c/Wt2jzA.jpg"
+    },
+    {
+      "title": "Forget-me-not",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://featherbox-studio.itch.io/forget-me-not",
+      "category": "Game",
+      "expiryDate": "2026-08-31T22:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
       "title": "Vesperal Times",
@@ -201,15 +201,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Mortem",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thewindyproject.itch.io/mortem",
-      "category": "Game",
-      "expiryDate": "2026-08-19T20:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -226,6 +217,15 @@
       "category": "Game",
       "expiryDate": "2026-08-28T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
+    },
+    {
+      "title": "Mortem",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewindyproject.itch.io/mortem",
+      "category": "Game",
+      "expiryDate": "2026-08-19T20:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE4NzgwLmdpZg==/315x250%23c/mXgblc.gif"
     },
     {
       "title": "Bride of Karsaz",
@@ -282,15 +282,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
       "title": "8th Floor",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -298,6 +289,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T14:36:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Abode: Definitive Edition",
