@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T15:04:15.281Z",
+  "lastUpdated": "2026-08-20T15:56:45.950Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -344,6 +344,24 @@
       "category": "Game",
       "expiryDate": "2026-09-01T03:07:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
+    },
+    {
+      "title": "Bolmn",
+      "platform": "Epic Games",
+      "originalPrice": "$0.99",
+      "link": "https://store.epicgames.com/p/bolmn-aa2906",
+      "category": "Game",
+      "expiryDate": "2026-08-27T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a871ffdbbd71.jpg"
+    },
+    {
+      "title": "Caravan SandWitch",
+      "platform": "Mobile",
+      "originalPrice": "$7.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-08-27T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a87199f374d5.jpg"
     },
     {
       "title": "Cardpocalypse",
