@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T05:01:46.610Z",
+  "lastUpdated": "2026-08-20T05:53:55.342Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -30,15 +30,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "THE NIGHT TICKLER",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://requiem-games-xoxo.itch.io/the-night-tickler",
-      "category": "Game",
-      "expiryDate": "2026-09-15T18:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5Mjg0MjkzLnBuZw==/315x250%23c/6R4wyu.png"
-    },
-    {
       "title": "Blank Relish",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -46,6 +37,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
+    },
+    {
+      "title": "THE NIGHT TICKLER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://requiem-games-xoxo.itch.io/the-night-tickler",
+      "category": "Game",
+      "expiryDate": "2026-09-15T18:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5Mjg0MjkzLnBuZw==/315x250%23c/6R4wyu.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -147,15 +147,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-08-23T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Blank Relish: Remastered",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -183,15 +174,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Worst Wifey (ワル嫁)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -199,6 +181,15 @@
       "category": "Game",
       "expiryDate": "2026-08-28T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Orion the Hero",
@@ -228,13 +219,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "Bride of Karsaz",
+      "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-09-08T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -246,6 +237,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": "2026-09-08T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
+    },
+    {
       "title": "8th Floor",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -255,13 +255,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTM3NzE1LmpwZWc=/315x250%23c/YCPrTT.jpeg"
     },
     {
-      "title": "NIGHTBELL",
+      "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Night Clerk",
@@ -271,15 +271,6 @@
       "category": "Game",
       "expiryDate": "2026-08-27T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "False Title - RPG",
@@ -300,15 +291,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "The Last Laugh",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-deep.itch.io/the-last-laugh",
-      "category": "Game",
-      "expiryDate": "2026-09-06T03:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
-    },
-    {
       "title": "RE: Evil Lurks",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -316,6 +298,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T00:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
+    },
+    {
+      "title": "The Last Laugh",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://one-deep.itch.io/the-last-laugh",
+      "category": "Game",
+      "expiryDate": "2026-09-06T03:24:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
     },
     {
       "title": "DON’T DO IT",
