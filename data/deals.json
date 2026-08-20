@@ -1,15 +1,25 @@
 {
-  "lastUpdated": "2026-08-20T14:27:15.369Z",
+  "lastUpdated": "2026-08-20T15:04:15.281Z",
   "deals": [
     {
-      "title": "Caravan SandWitch",
+      "title": "Cardpocalypse Standard Edition",
       "platform": "Epic Games",
       "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58",
+      "link": "https://store.epicgames.com/en-US/p/cardpocalypse",
       "category": "Game",
-      "startDate": "2026-08-13T15:00:00.000Z",
-      "expiryDate": "2026-08-20T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg"
+      "startDate": "2026-08-20T15:00:00.000Z",
+      "expiryDate": "2026-08-27T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+    },
+    {
+      "title": "Epic Mage Bundle",
+      "platform": "Epic Games",
+      "originalPrice": "0",
+      "link": "https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19",
+      "category": "Game",
+      "startDate": "2026-08-20T15:00:00.000Z",
+      "expiryDate": "2026-08-27T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1tnzy.png"
     },
     {
       "title": "The One We Can't See",
@@ -336,6 +346,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png"
     },
     {
+      "title": "Cardpocalypse",
+      "platform": "Epic Games",
+      "originalPrice": "$24.99",
+      "link": "https://store.epicgames.com/p/cardpocalypse",
+      "category": "Game",
+      "expiryDate": "2026-08-27T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a87170ac6118.jpg"
+    },
+    {
       "title": "Grow And Go: Cozy Deliveries",
       "platform": "Epic Games",
       "originalPrice": "$4.99",
@@ -352,15 +371,6 @@
       "category": "Game",
       "expiryDate": "2026-08-20T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/69af0087172d3.jpg"
-    },
-    {
-      "title": "Beholder: Conductor",
-      "platform": "Mobile",
-      "originalPrice": "$6.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-08-20T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a7dddbc3e1c7.jpg"
     },
     {
       "title": "Targeted – 10 Days",
