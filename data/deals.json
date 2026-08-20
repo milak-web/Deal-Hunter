@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T23:44:01.950Z",
+  "lastUpdated": "2026-08-20T00:45:38.108Z",
   "deals": [
     {
       "title": "Caravan SandWitch",
@@ -334,6 +334,15 @@
       "category": "Game",
       "expiryDate": "2026-08-22T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Cat Meme Clicker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mrgabas.itch.io/cat-meme-clicker",
+      "category": "Game",
+      "expiryDate": "2026-08-31T18:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
       "title": "Grow And Go: Cozy Deliveries",
