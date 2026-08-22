@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T21:13:31.346Z",
+  "lastUpdated": "2026-08-22T21:43:22.263Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Blank Relish",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
-    },
-    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -76,13 +67,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "DIRE ECHO",
+      "title": "Blank Relish",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "link": "https://keyrif.itch.io/blank-relish",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -92,6 +83,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -184,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
-      "title": "Fiend Exile",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/fiendexile",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
-    },
-    {
       "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
-    },
-    {
-      "title": "Child of Luminescence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/child",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -229,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Blank Relish: Remastered",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish-remastered",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -256,15 +229,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-09-03T09:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
-    },
-    {
       "title": "The Copper Hill",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -274,6 +238,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
+      "title": "Concrete Veil",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/concrete-veil",
+      "category": "Game",
+      "expiryDate": "2026-09-03T09:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+    },
+    {
+      "title": "Fiend Exile",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/fiendexile",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
+    },
+    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,6 +263,24 @@
       "category": "Game",
       "expiryDate": "2026-09-02T21:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Child of Luminescence",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/child",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
+    },
+    {
+      "title": "Blank Relish: Remastered",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/blank-relish-remastered",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
     },
     {
       "title": "THE NIGHT TICKLER",
@@ -362,15 +362,6 @@
       "category": "Game",
       "expiryDate": "2026-08-27T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a87170ac6118.jpg"
-    },
-    {
-      "title": "Grow And Go: Cozy Deliveries",
-      "platform": "Epic Games",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/p/grow-and-go-cozy-deliveries-f38c99",
-      "category": "Game",
-      "expiryDate": "2026-08-22T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a863f21649e6.jpg"
     },
     {
       "title": "Targeted – 10 Days",
