@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T04:02:41.466Z",
+  "lastUpdated": "2026-08-22T04:57:31.200Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -38,6 +38,15 @@
       "category": "Game",
       "expiryDate": "2026-09-20T13:07:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDE0NTMwLnBuZw==/315x250%23c/mZ6esb.png"
+    },
+    {
+      "title": "Fear Assessment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "category": "Game",
+      "expiryDate": "2026-09-05T04:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
       "title": "THE MIDNIGHT BUS",
