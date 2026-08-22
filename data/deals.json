@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:45:50.173Z",
+  "lastUpdated": "2026-08-22T21:13:31.346Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -166,15 +166,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Night Clerk",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
-      "category": "Game",
-      "expiryDate": "2026-08-27T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
       "title": "Forget-me-not",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -182,6 +173,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T22:01:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
+    },
+    {
+      "title": "Night Clerk",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/night-clerk",
+      "category": "Game",
+      "expiryDate": "2026-08-27T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Fiend Exile",
