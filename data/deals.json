@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T09:50:00.186Z",
+  "lastUpdated": "2026-08-23T10:15:15.703Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1tnzy.png"
     },
     {
-      "title": "The One We Can't See",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wiktor-games.itch.io/the-one-we-cant-see",
-      "category": "Game",
-      "expiryDate": "2026-08-24T08:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MzE1Mzc5LnBuZw==/315x250%23c/k1I1jE.png"
-    },
-    {
       "title": "Noah's Secret: Episode 0",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-09-20T13:07:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDM4NTc0LnBuZw==/315x250%23c/dtmEi8.png"
+    },
+    {
+      "title": "The One We Can't See",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wiktor-games.itch.io/the-one-we-cant-see",
+      "category": "Game",
+      "expiryDate": "2026-08-24T08:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MzE1Mzc5LnBuZw==/315x250%23c/k1I1jE.png"
     },
     {
       "title": "Fear Assessment",
@@ -292,15 +292,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
-      "title": "Bride of Karsaz",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/bride-of-karsaz",
-      "category": "Game",
-      "expiryDate": "2026-09-08T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
-    },
-    {
       "title": "Last Friday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -326,6 +317,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": "2026-09-08T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
       "title": "Bolmn",
