@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T23:42:37.057Z",
+  "lastUpdated": "2026-08-23T00:51:24.816Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -326,6 +326,15 @@
       "category": "Game",
       "expiryDate": "2026-08-29T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-08-29T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Bolmn",
