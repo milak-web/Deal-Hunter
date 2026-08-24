@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T08:38:05.183Z",
+  "lastUpdated": "2026-08-24T09:38:04.429Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -31,15 +31,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDM4NTc0LnBuZw==/315x250%23c/dtmEi8.png"
     },
     {
-      "title": "The One We Can't See",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wiktor-games.itch.io/the-one-we-cant-see",
-      "category": "Game",
-      "expiryDate": "2026-08-24T08:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MzE1Mzc5LnBuZw==/315x250%23c/k1I1jE.png"
-    },
-    {
       "title": "Fear Assessment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -63,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-08-25T17:00:00.000Z",
+      "expiryDate": "2026-08-27T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -166,6 +157,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -182,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Vesperal Times",
@@ -265,15 +256,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
     },
     {
-      "title": "False Title - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/false-title",
-      "category": "Game",
-      "expiryDate": "2026-08-26T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-08-29T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "False Title - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/false-title",
+      "category": "Game",
+      "expiryDate": "2026-08-26T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
       "title": "Backrooms: Out of Oxygen",
