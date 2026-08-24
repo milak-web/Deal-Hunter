@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T20:56:16.440Z",
+  "lastUpdated": "2026-08-24T21:23:20.186Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -247,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
     },
     {
-      "title": "Child of Luminescence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/child",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
-    },
-    {
       "title": "Blank Relish: Remastered",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,6 +254,15 @@
       "category": "Game",
       "expiryDate": "2026-08-30T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
+    },
+    {
+      "title": "Child of Luminescence",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/child",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
