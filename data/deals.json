@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T12:31:27.344Z",
+  "lastUpdated": "2026-08-24T13:43:21.809Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -20,105 +20,6 @@
       "startDate": "2026-08-20T15:00:00.000Z",
       "expiryDate": "2026-08-27T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1tnzy.png"
-    },
-    {
-      "title": "Noah's Secret: Episode 0",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://chodex-productions.itch.io/noahs-secret-episode-0",
-      "category": "Game",
-      "expiryDate": "2026-09-20T13:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDM4NTc0LnBuZw==/315x250%23c/dtmEi8.png"
-    },
-    {
-      "title": "Fear Assessment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/fear-assessment",
-      "category": "Game",
-      "expiryDate": "2026-09-05T04:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-08-28T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-08-27T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-08-28T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
-      "title": "Blank Relish",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
-    },
-    {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-08-29T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-08-28T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
-      "title": "Slaying Grove",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/slayinggrove",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzk4MjE0MTIucG5n/315x250%23c/qFEbrf.png"
     },
     {
       "title": "Another World Adventures",
@@ -220,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
     },
     {
-      "title": "THE NIGHT TICKLER",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://requiem-games-xoxo.itch.io/the-night-tickler",
-      "category": "Game",
-      "expiryDate": "2026-09-15T18:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
-    },
-    {
       "title": "Fiend Exile",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-08-30T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
+    },
+    {
+      "title": "THE NIGHT TICKLER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://requiem-games-xoxo.itch.io/the-night-tickler",
+      "category": "Game",
+      "expiryDate": "2026-09-15T18:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
     },
     {
       "title": "Child of Luminescence",
@@ -274,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -290,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-09-02T21:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Forget-me-not",
