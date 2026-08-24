@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T17:55:40.092Z",
+  "lastUpdated": "2026-08-24T18:29:28.486Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -227,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-09-15T18:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
+    },
+    {
+      "title": "Backrooms Memory Assessment | Dream Paralysis",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
+      "category": "Game",
+      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
     },
     {
       "title": "Fiend Exile",
