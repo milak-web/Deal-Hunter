@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T13:41:36.555Z",
+  "lastUpdated": "2026-08-25T14:36:04.315Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -274,15 +274,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-09-02T21:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "THE NIGHT TICKLER",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -290,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-09-15T18:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-09-02T21:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "False Title - RPG",
