@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T21:19:18.397Z",
+  "lastUpdated": "2026-08-25T21:50:49.549Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Blank Relish",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -83,6 +74,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T01:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Blank Relish",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/blank-relish",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -175,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-08-31T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
-    },
-    {
       "title": "Concrete Veil",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-09-03T09:16:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-08-31T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
       "title": "DIRE ECHO",
@@ -256,6 +256,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
+      "title": "Blank Relish: Remastered",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/blank-relish-remastered",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
+    },
+    {
       "title": "Last Friday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -265,13 +274,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
     },
     {
-      "title": "Blank Relish: Remastered",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish-remastered",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
+      "expiryDate": "2026-09-02T21:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "THE NIGHT TICKLER",
@@ -283,13 +292,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
     },
     {
-      "title": "Apartment №202",
+      "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-09-02T21:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+      "expiryDate": "2026-08-29T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "False Title - RPG",
@@ -308,15 +317,6 @@
       "category": "Game",
       "expiryDate": "2026-09-05T04:44:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
-    },
-    {
-      "title": "Dicey Chess",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
-      "category": "Game",
-      "expiryDate": "2026-09-09T21:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
       "title": "Dokimon Quest",
