@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T17:52:50.075Z",
+  "lastUpdated": "2026-08-25T18:27:18.609Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -193,6 +193,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Forget-me-not",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,15 +218,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Vesperal Times",
@@ -247,15 +247,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
     },
     {
-      "title": "Blank Relish: Remastered",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish-remastered",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
-    },
-    {
       "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -272,6 +263,15 @@
       "category": "Game",
       "expiryDate": "2026-08-26T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+    },
+    {
+      "title": "Blank Relish: Remastered",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/blank-relish-remastered",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
     },
     {
       "title": "THE NIGHT TICKLER",
