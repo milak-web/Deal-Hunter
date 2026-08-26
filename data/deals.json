@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T12:34:52.958Z",
+  "lastUpdated": "2026-08-26T13:46:57.502Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -117,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
       "category": "Game",
-      "expiryDate": "2026-08-26T19:00:00.000Z",
+      "expiryDate": "2026-09-01T19:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
     },
     {
@@ -211,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-09-02T21:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Vesperal Times",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/vesperaltimes",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MTU2MzEwLnBuZw==/315x250%23c/IcZGDs.png"
+      "expiryDate": "2026-09-02T21:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -245,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-08-29T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "Vesperal Times",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/vesperaltimes",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MTU2MzEwLnBuZw==/315x250%23c/IcZGDs.png"
     },
     {
       "title": "Last Friday",
@@ -274,15 +274,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
     },
     {
-      "title": "Wuxing Tribulation: Path of Fire",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wuxingtribulation.itch.io/wuxing-tribulation-path-of-fire",
-      "category": "Game",
-      "expiryDate": "2026-08-31T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
-    },
-    {
       "title": "Blank Relish: Remastered",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -290,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-08-30T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
+    },
+    {
+      "title": "Wuxing Tribulation: Path of Fire",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wuxingtribulation.itch.io/wuxing-tribulation-path-of-fire",
+      "category": "Game",
+      "expiryDate": "2026-08-31T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
     },
     {
       "title": "Silent Still 3",
