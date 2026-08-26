@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T11:33:26.500Z",
+  "lastUpdated": "2026-08-26T12:34:52.958Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -281,6 +281,51 @@
       "category": "Game",
       "expiryDate": "2026-08-31T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
+    },
+    {
+      "title": "Blank Relish: Remastered",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/blank-relish-remastered",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
+    },
+    {
+      "title": "Silent Still 3",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "category": "Game",
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "CULT OF FLIES",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
+      "category": "Game",
+      "expiryDate": "2026-09-05T04:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
+    },
+    {
+      "title": "Dicey Chess",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
+      "category": "Game",
+      "expiryDate": "2026-09-09T21:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
+    },
+    {
+      "title": "Together After Dark",
+      "platform": "Epic Games",
+      "originalPrice": "$2.99",
+      "link": "https://store.epicgames.com/en-US/p/together-after-dark-fa0ce0",
+      "category": "Game",
+      "expiryDate": "2026-09-02T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/69cafab460c8e.jpg"
     },
     {
       "title": "Dokimon Quest",
