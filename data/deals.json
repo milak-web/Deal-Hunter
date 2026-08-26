@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T20:24:47.361Z",
+  "lastUpdated": "2026-08-26T23:53:46.616Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -36,7 +36,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-08-29T17:00:00.000Z",
+      "expiryDate": "2026-08-30T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-08-28T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,13 +103,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Backrooms Memory Assessment | Dream Paralysis",
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
       "category": "Game",
-      "expiryDate": "2026-09-01T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
+      "expiryDate": "2026-08-28T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -130,6 +121,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Backrooms Memory Assessment | Dream Paralysis",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
+      "category": "Game",
+      "expiryDate": "2026-09-01T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
+    },
+    {
       "title": "Beneath Europa",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +137,15 @@
       "category": "Game",
       "expiryDate": "2026-09-04T07:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
+    },
+    {
+      "title": "Brütal Legend",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://doublefine.itch.io/brutal-legend",
+      "category": "Game",
+      "expiryDate": "2026-08-27T10:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvNjMwNTgvNjQ1Nzc1LnBuZw==/315x250%23c/Pg2D5v.png"
     },
     {
       "title": "Worst Wifey (ワル嫁)",
@@ -211,15 +220,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -227,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-08-29T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "Backrooms: Out of Oxygen",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
+      "category": "Game",
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Apartment №202",
@@ -274,13 +283,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Last Friday",
+      "title": "Dicey Chess",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://reganc.itch.io/last-friday",
+      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
       "category": "Game",
-      "expiryDate": "2026-08-26T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjA4MjM5LnBuZw==/315x250%23c/iJMIzl.png"
+      "expiryDate": "2026-09-09T21:31:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
       "title": "CULT OF FLIES",
@@ -301,6 +310,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
     },
     {
+      "title": "False Title - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/false-title",
+      "category": "Game",
+      "expiryDate": "2026-09-05T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
+    },
+    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -319,15 +337,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
     },
     {
-      "title": "Dicey Chess",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ibrahim-oezhan.itch.io/dicey-chess",
-      "category": "Game",
-      "expiryDate": "2026-09-09T21:31:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
-    },
-    {
       "title": "Child of Luminescence",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -335,15 +344,6 @@
       "category": "Game",
       "expiryDate": "2026-08-30T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
-    },
-    {
-      "title": "False Title - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/false-title",
-      "category": "Game",
-      "expiryDate": "2026-09-05T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
     },
     {
       "title": "Fiend Exile",
