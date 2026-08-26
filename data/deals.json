@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T18:10:53.973Z",
+  "lastUpdated": "2026-08-26T20:24:47.361Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -344,6 +344,15 @@
       "category": "Game",
       "expiryDate": "2026-09-05T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
+    },
+    {
+      "title": "Fiend Exile",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/fiendexile",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
     },
     {
       "title": "Together After Dark",
