@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:47:39.860Z",
+  "lastUpdated": "2026-08-26T07:39:05.407Z",
   "deals": [
     {
       "title": "Cardpocalypse Standard Edition",
@@ -121,6 +121,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
     },
     {
+      "title": "Beneath Europa",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://3xiled4ever.itch.io/beneath-europa",
+      "category": "Game",
+      "expiryDate": "2026-09-04T07:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
+    },
+    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -162,7 +171,7 @@
       "originalPrice": "N/A",
       "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
       "category": "Game",
-      "expiryDate": "2026-08-31T21:09:00.000Z",
+      "expiryDate": "2026-09-05T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
@@ -171,7 +180,7 @@
       "originalPrice": "N/A",
       "link": "https://s-xavier-uy.itch.io/another-world-adventures",
       "category": "Game",
-      "expiryDate": "2026-08-31T21:09:00.000Z",
+      "expiryDate": "2026-09-05T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
@@ -245,42 +254,6 @@
       "category": "Game",
       "expiryDate": "2026-08-30T17:30:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEzNTc2ODA5LnBuZw==/315x250%23c/G5PuX3.png"
-    },
-    {
-      "title": "THE NIGHT TICKLER",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://requiem-games-xoxo.itch.io/the-night-tickler",
-      "category": "Game",
-      "expiryDate": "2026-09-15T18:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
-    },
-    {
-      "title": "Wuxing Tribulation: Path of Fire",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wuxingtribulation.itch.io/wuxing-tribulation-path-of-fire",
-      "category": "Game",
-      "expiryDate": "2026-08-31T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
-    },
-    {
-      "title": "Silent Still 3",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
-      "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "Child of Luminescence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/child",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1MzQyMjgzLnBuZw==/315x250%23c/N%2B2Nzu.png"
     },
     {
       "title": "Dokimon Quest",
