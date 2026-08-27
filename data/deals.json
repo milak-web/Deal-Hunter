@@ -1,34 +1,25 @@
 {
-  "lastUpdated": "2026-08-27T06:21:44.970Z",
+  "lastUpdated": "2026-08-27T17:43:42.492Z",
   "deals": [
     {
-      "title": "Cardpocalypse Standard Edition",
+      "title": "Breathedge",
       "platform": "Epic Games",
       "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/cardpocalypse",
+      "link": "https://store.epicgames.com/en-US/p/breathedge",
       "category": "Game",
-      "startDate": "2026-08-20T15:00:00.000Z",
-      "expiryDate": "2026-08-27T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+      "startDate": "2026-08-27T15:00:00.000Z",
+      "expiryDate": "2026-09-03T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
     },
     {
-      "title": "Epic Mage Bundle",
+      "title": "Rival Stars Horse Racing : Desktop Edition",
       "platform": "Epic Games",
-      "originalPrice": "0",
-      "link": "https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19",
+      "originalPrice": "$24.99",
+      "link": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
       "category": "Game",
-      "startDate": "2026-08-20T15:00:00.000Z",
-      "expiryDate": "2026-08-27T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1tnzy.png"
-    },
-    {
-      "title": "Brütal Legend",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://doublefine.itch.io/brutal-legend",
-      "category": "Game",
-      "expiryDate": "2026-08-27T10:06:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvNjMwNTgvNjQ1Nzc1LnBuZw==/315x250%23c/Pg2D5v.png"
+      "startDate": "2026-08-27T15:00:00.000Z",
+      "expiryDate": "2026-09-03T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg"
     },
     {
       "title": "Fear Assessment",
@@ -49,6 +40,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-09-04T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-08-31T01:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -67,33 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-08-31T01:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-08-28T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-08-29T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,12 +85,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-09-05T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
       "category": "Game",
-      "expiryDate": "2026-08-28T22:54:00.000Z",
+      "expiryDate": "2026-09-04T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
@@ -121,13 +112,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Worst Wifey (ワル嫁)",
+      "title": "Blank Relish",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/worst-wifey",
+      "link": "https://keyrif.itch.io/blank-relish",
       "category": "Game",
-      "expiryDate": "2026-08-28T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
     },
     {
       "title": "Beneath Europa",
@@ -139,22 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
     },
     {
-      "title": "Blank Relish",
+      "title": "Worst Wifey (ワル嫁)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/blank-relish",
+      "link": "https://worsteventgames.itch.io/worst-wifey",
       "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
-    },
-    {
-      "title": "Backrooms Memory Assessment | Dream Paralysis",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
-      "category": "Game",
-      "expiryDate": "2026-09-01T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
+      "expiryDate": "2026-09-04T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
       "title": "Forget-me-not",
@@ -171,8 +153,17 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
       "category": "Game",
-      "expiryDate": "2026-08-29T17:50:00.000Z",
+      "expiryDate": "2026-09-05T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Dicey Chess",
@@ -184,6 +175,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
+      "title": "Backrooms Memory Assessment | Dream Paralysis",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
+      "category": "Game",
+      "expiryDate": "2026-09-01T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
+    },
+    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-09-05T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
-    },
-    {
-      "title": "Backrooms: Out of Oxygen",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
-      "category": "Game",
-      "expiryDate": "2026-08-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "Apartment №202",
@@ -216,26 +207,8 @@
       "originalPrice": "N/A",
       "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-08-29T17:50:00.000Z",
+      "expiryDate": "2026-09-05T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-09-06T16:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "Night Clerk",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
-      "category": "Game",
-      "expiryDate": "2026-08-27T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Another World Adventures",
@@ -247,22 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
-      "title": "False Title - RPG",
+      "title": "Backrooms: Out of Oxygen",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/false-title",
+      "link": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
       "category": "Game",
-      "expiryDate": "2026-09-05T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
-    },
-    {
-      "title": "Slaying Grove",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://keyrif.itch.io/slayinggrove",
-      "category": "Game",
-      "expiryDate": "2026-08-30T17:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzk4MjE0MTIucG5n/315x250%23c/qFEbrf.png"
+      "expiryDate": "2026-08-29T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjMyODI1LnBuZw==/315x250%23c/suikux.png"
     },
     {
       "title": "DIRE ECHO",
@@ -274,6 +238,42 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-09-06T16:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "Slaying Grove",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/slayinggrove",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzk4MjE0MTIucG5n/315x250%23c/qFEbrf.png"
+    },
+    {
+      "title": "False Title - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/false-title",
+      "category": "Game",
+      "expiryDate": "2026-09-05T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTgyLnBuZw==/315x250%23c/xu%2Fhgb.png"
+    },
+    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,15 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-09-05T04:44:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
-    },
-    {
-      "title": "Wuxing Tribulation: Path of Fire",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wuxingtribulation.itch.io/wuxing-tribulation-path-of-fire",
-      "category": "Game",
-      "expiryDate": "2026-08-31T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
     },
     {
       "title": "Silent Still 3",
@@ -310,13 +301,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MzkwNjM2LnBuZw==/315x250%23c/QhUBbb.png"
     },
     {
-      "title": "NIGHTBELL",
+      "title": "Wuxing Tribulation: Path of Fire",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
+      "link": "https://wuxingtribulation.itch.io/wuxing-tribulation-path-of-fire",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+      "expiryDate": "2026-08-31T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NDkwNTU2LnBuZw==/315x250%23c/Gy3fcY.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -328,6 +319,51 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
+      "title": "Vesperal Times",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/vesperaltimes",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1MTU2MzEwLnBuZw==/315x250%23c/IcZGDs.png"
+    },
+    {
+      "title": "Fiend Exile",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://keyrif.itch.io/fiendexile",
+      "category": "Game",
+      "expiryDate": "2026-08-30T17:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDk3OTg3LnBuZw==/315x250%23c/Q6trhJ.png"
+    },
+    {
+      "title": "Grave Guard",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wiedzmiz.itch.io/grave-guard",
+      "category": "Game",
+      "expiryDate": "2026-08-31T21:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
+    },
+    {
+      "title": "Down in Bermuda",
+      "platform": "Mobile",
+      "originalPrice": "$5.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-09-03T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a90569cdf3f5.jpg"
+    },
+    {
+      "title": "Rival Stars Horse Racing",
+      "platform": "Epic Games",
+      "originalPrice": "$29.99",
+      "link": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
+      "category": "Game",
+      "expiryDate": "2026-09-03T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a90554f27ee1.jpg"
+    },
+    {
       "title": "Together After Dark",
       "platform": "Epic Games",
       "originalPrice": "$2.99",
@@ -335,33 +371,6 @@
       "category": "Game",
       "expiryDate": "2026-09-02T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/69cafab460c8e.jpg"
-    },
-    {
-      "title": "Bolmn",
-      "platform": "Epic Games",
-      "originalPrice": "$0.99",
-      "link": "https://store.epicgames.com/p/bolmn-aa2906",
-      "category": "Game",
-      "expiryDate": "2026-08-27T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a871ffdbbd71.jpg"
-    },
-    {
-      "title": "Caravan SandWitch",
-      "platform": "Mobile",
-      "originalPrice": "$7.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-08-27T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a87199f374d5.jpg"
-    },
-    {
-      "title": "Cardpocalypse",
-      "platform": "Epic Games",
-      "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/p/cardpocalypse",
-      "category": "Game",
-      "expiryDate": "2026-08-27T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a87170ac6118.jpg"
     },
     {
       "title": "Targeted – 10 Days",
