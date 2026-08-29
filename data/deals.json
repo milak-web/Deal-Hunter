@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T15:42:32.340Z",
+  "lastUpdated": "2026-08-29T19:02:20.149Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -49,6 +49,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-09-12T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -76,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-09-04T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,12 +94,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-09-04T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/nightbell",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
@@ -130,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDkxNjI4LnBuZw==/315x250%23c/mFlEKt.png"
     },
     {
-      "title": "Worst Wifey (ワル嫁)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/worst-wifey",
-      "category": "Game",
-      "expiryDate": "2026-09-04T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
-    },
-    {
       "title": "Beneath Europa",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-09-04T07:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
+    },
+    {
+      "title": "Worst Wifey (ワル嫁)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/worst-wifey",
+      "category": "Game",
+      "expiryDate": "2026-09-04T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
       "title": "Forget-me-not",
@@ -225,17 +234,8 @@
       "originalPrice": "N/A",
       "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-08-31T14:57:00.000Z",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-09-05T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Lost In Transit",
@@ -256,6 +256,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-09-05T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-09-05T04:44:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
-    },
-    {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-09-05T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "Slaying Grove",
@@ -283,6 +283,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzk4MjE0MTIucG5n/315x250%23c/qFEbrf.png"
     },
     {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-09-05T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+    },
+    {
       "title": "Grave Guard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -290,6 +299,15 @@
       "category": "Game",
       "expiryDate": "2026-08-31T21:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif"
+    },
+    {
+      "title": "The Uninvited",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/the-uninvited",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
     },
     {
       "title": "Backrooms: Out of Oxygen",
@@ -317,24 +335,6 @@
       "category": "Game",
       "expiryDate": "2026-08-31T18:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
-      "title": "The Uninvited",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/the-uninvited",
-      "category": "Game",
-      "expiryDate": "2026-09-01T01:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTY1NzA1LnBuZw==/315x250%23c/WW4Q3n.png"
-    },
-    {
-      "title": "Backrooms Memory Assessment | Dream Paralysis",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
-      "category": "Game",
-      "expiryDate": "2026-09-01T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NDg5OTUzLnBuZw==/315x250%23c/ILdgDa.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
