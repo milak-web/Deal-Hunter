@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T17:09:06.850Z",
+  "lastUpdated": "2026-08-31T21:57:42.620Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -236,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-09-06T16:03:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-09-01T01:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
