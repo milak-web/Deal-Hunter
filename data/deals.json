@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T09:08:12.581Z",
+  "lastUpdated": "2026-08-31T17:09:06.850Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -20,6 +20,15 @@
       "startDate": "2026-08-27T15:00:00.000Z",
       "expiryDate": "2026-09-03T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg"
+    },
+    {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-09-30T09:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Fear Assessment",
@@ -58,6 +67,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -67,13 +94,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "HOUSE CLEANER",
+      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://tabarnaqgames.itch.io/house-cleaner",
+      "link": "https://argondevilguiderods.itch.io/liminal",
       "category": "Game",
-      "expiryDate": "2026-09-13T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
+      "expiryDate": "2026-09-01T12:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -94,6 +121,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
+      "title": "HOUSE CLEANER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tabarnaqgames.itch.io/house-cleaner",
+      "category": "Game",
+      "expiryDate": "2026-09-13T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
+    },
+    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-09-04T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
-      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/liminal",
-      "category": "Game",
-      "expiryDate": "2026-09-01T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -157,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-09-02T21:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-09-02T21:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "DON’T DO IT",
@@ -211,24 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Cat Meme Clicker",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mrgabas.itch.io/cat-meme-clicker",
-      "category": "Game",
-      "expiryDate": "2026-08-31T18:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-09-04T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
       "platform": "Epic Games",
       "originalPrice": "$2.99",
@@ -263,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-09-02T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/69cafab460c8e.jpg"
-    },
-    {
-      "title": "Targeted – 10 Days",
-      "platform": "Epic Games",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/p/targeted-10-days-75a48c",
-      "category": "Game",
-      "expiryDate": "2026-08-31T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a7ce767b76aa.jpg"
     }
   ]
 }
