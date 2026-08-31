@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T02:39:28.383Z",
+  "lastUpdated": "2026-08-31T09:08:12.581Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -184,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
+      "title": "Silent Still 3",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "category": "Game",
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
       "title": "Evergreen Meadows",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
     },
     {
-      "title": "Silent Still 3",
+      "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+      "expiryDate": "2026-09-06T16:03:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "Cat Meme Clicker",
@@ -211,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzUwNDQ2LnBuZw==/315x250%23c/C7o1z0.png"
     },
     {
-      "title": "Lost In Transit",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-09-06T16:03:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+      "expiryDate": "2026-09-04T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
