@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T21:57:42.620Z",
+  "lastUpdated": "2026-09-01T00:59:29.669Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
     },
     {
-      "title": "HOUSE CLEANER",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tabarnaqgames.itch.io/house-cleaner",
-      "category": "Game",
-      "expiryDate": "2026-09-13T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
-    },
-    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-09-04T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
+      "title": "HOUSE CLEANER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tabarnaqgames.itch.io/house-cleaner",
+      "category": "Game",
+      "expiryDate": "2026-09-13T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -155,15 +155,6 @@
       "category": "Game",
       "expiryDate": "2026-09-04T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
-    },
-    {
-      "title": "Forget-me-not",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://featherbox-studio.itch.io/forget-me-not",
-      "category": "Game",
-      "expiryDate": "2026-08-31T22:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzg1MTg0OTkucG5n/315x250%23c/SIuZ5C.png"
     },
     {
       "title": "CULT OF FLIES",
@@ -220,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
-      "title": "Evergreen Meadows",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dreamdev1.itch.io/evergreen-meadows",
-      "category": "Game",
-      "expiryDate": "2026-09-05T15:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -238,6 +220,33 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-09-04T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "Evergreen Meadows",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dreamdev1.itch.io/evergreen-meadows",
+      "category": "Game",
+      "expiryDate": "2026-09-05T15:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
+    },
+    {
+      "title": "ROOM.EXE (2021) as featured in Indiepocalypse 17 ルームソフトウェア",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://argondevilguiderods.itch.io/room",
+      "category": "Game",
+      "expiryDate": "2026-09-01T12:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzOTkzMzYwLmpwZw==/315x250%23c/4q5kww.jpg"
+    },
+    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +254,24 @@
       "category": "Game",
       "expiryDate": "2026-09-01T01:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
+    },
+    {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-09-05T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
