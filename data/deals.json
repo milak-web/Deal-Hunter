@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T15:50:06.066Z",
+  "lastUpdated": "2026-09-01T19:03:59.462Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -22,6 +22,15 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg"
     },
     {
+      "title": "HAPPY ICE CREAM MAN",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://quakr.itch.io/happy-ice-cream-man",
+      "category": "Game",
+      "expiryDate": "2026-09-02T14:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NTc2MzcxLnBuZw==/315x250%23c/4pVEGq.png"
+    },
+    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,15 +47,6 @@
       "category": "Game",
       "expiryDate": "2026-09-05T04:44:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
-      "title": "Beneath Europa",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://3xiled4ever.itch.io/beneath-europa",
-      "category": "Game",
-      "expiryDate": "2026-09-04T07:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MjIzMTk2LnBuZw==/315x250%23c/%2BpLOhH.png"
     },
     {
       "title": "Cherophobia",
@@ -193,6 +193,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-09-04T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,13 +211,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Floor unknown",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
       "category": "Game",
-      "expiryDate": "2026-09-04T20:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
       "title": "Another World Adventures",
@@ -229,13 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
     },
     {
-      "title": "Floor unknown",
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
       "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
@@ -259,7 +268,7 @@
       "title": "Rival Stars Horse Racing",
       "platform": "Epic Games",
       "originalPrice": "$29.99",
-      "link": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
+      "link": "https://www.gamerpower.com/open/rival-stars-horse-racing-epic-games-giveaway",
       "category": "Game",
       "expiryDate": "2026-09-03T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a90554f27ee1.jpg"
