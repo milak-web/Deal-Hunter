@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T21:52:39.118Z",
+  "lastUpdated": "2026-09-01T23:42:05.358Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://quakr.itch.io/happy-ice-cream-man",
       "category": "Game",
-      "expiryDate": "2026-09-02T02:00:00.000Z",
+      "expiryDate": "2026-09-02T04:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NTc2MzcxLnBuZw==/315x250%23c/4pVEGq.png"
     },
     {
@@ -139,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
-      "title": "HOUSE CLEANER",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tabarnaqgames.itch.io/house-cleaner",
-      "category": "Game",
-      "expiryDate": "2026-09-13T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
-    },
-    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-09-05T04:44:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
+    },
+    {
+      "title": "HOUSE CLEANER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tabarnaqgames.itch.io/house-cleaner",
+      "category": "Game",
+      "expiryDate": "2026-09-13T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -175,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "Last Breath",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://molotov-kittens.itch.io/last-breath",
-      "category": "Game",
-      "expiryDate": "2026-09-07T14:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
-    },
-    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-09-05T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Last Breath",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://molotov-kittens.itch.io/last-breath",
+      "category": "Game",
+      "expiryDate": "2026-09-07T14:46:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
       "title": "Backrooms Crawlers",
