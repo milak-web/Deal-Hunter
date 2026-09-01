@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T11:51:50.880Z",
+  "lastUpdated": "2026-09-01T15:50:06.066Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -74,15 +74,6 @@
       "category": "Game",
       "expiryDate": "2026-09-03T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/liminal",
-      "category": "Game",
-      "expiryDate": "2026-09-01T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
     },
     {
       "title": "Dicey Chess",
@@ -166,15 +157,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-09-05T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,22 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "Silent Still 3",
+      "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2306-06-28T11:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "ROOM.EXE (2021) as featured in Indiepocalypse 17 ルームソフトウェア",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/room",
-      "category": "Game",
-      "expiryDate": "2026-09-01T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzOTkzMzYwLmpwZw==/315x250%23c/4q5kww.jpg"
+      "expiryDate": "2026-09-05T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Last Breath",
@@ -220,13 +193,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
-      "title": "Evergreen Meadows",
+      "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://dreamdev1.itch.io/evergreen-meadows",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
       "category": "Game",
-      "expiryDate": "2026-09-05T15:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-09-04T20:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Another World Adventures",
@@ -236,6 +218,24 @@
       "category": "Game",
       "expiryDate": "2026-09-05T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+    },
+    {
+      "title": "Evergreen Meadows",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dreamdev1.itch.io/evergreen-meadows",
+      "category": "Game",
+      "expiryDate": "2026-09-05T15:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
+    },
+    {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
