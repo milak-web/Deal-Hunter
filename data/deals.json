@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T12:11:15.244Z",
+  "lastUpdated": "2026-09-02T16:44:06.354Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -139,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
-      "title": "Last Breath",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://molotov-kittens.itch.io/last-breath",
-      "category": "Game",
-      "expiryDate": "2026-09-07T14:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Last Breath",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://molotov-kittens.itch.io/last-breath",
+      "category": "Game",
+      "expiryDate": "2026-09-07T14:46:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -211,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-09-05T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
-    },
-    {
       "title": "Evergreen Meadows",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
     },
     {
-      "title": "HOUSE CLEANER",
+      "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://tabarnaqgames.itch.io/house-cleaner",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
       "category": "Game",
-      "expiryDate": "2026-09-13T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
+      "expiryDate": "2026-09-05T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "Silent Still 3",
@@ -245,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "HOUSE CLEANER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tabarnaqgames.itch.io/house-cleaner",
+      "category": "Game",
+      "expiryDate": "2026-09-13T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NTQ2ODY5LnBuZw==/315x250%23c/DNRzGm.png"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
@@ -272,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-09-03T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a90554f27ee1.jpg"
-    },
-    {
-      "title": "Together After Dark",
-      "platform": "Epic Games",
-      "originalPrice": "$2.99",
-      "link": "https://store.epicgames.com/en-US/p/together-after-dark-fa0ce0",
-      "category": "Game",
-      "expiryDate": "2026-09-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/69cafab460c8e.jpg"
     }
   ]
 }
