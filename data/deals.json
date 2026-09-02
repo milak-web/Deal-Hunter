@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T07:12:33.572Z",
+  "lastUpdated": "2026-09-02T12:11:15.244Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -20,6 +20,15 @@
       "startDate": "2026-08-27T15:00:00.000Z",
       "expiryDate": "2026-09-03T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg"
+    },
+    {
+      "title": "HAPPY ICE CREAM MAN",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://quakr.itch.io/happy-ice-cream-man",
+      "category": "Game",
+      "expiryDate": "2026-09-02T21:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NTc2MzcxLnBuZw==/315x250%23c/4pVEGq.png"
     },
     {
       "title": "Sabado: Day One",
@@ -63,7 +72,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-09-03T17:00:00.000Z",
+      "expiryDate": "2026-09-05T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -112,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Worst Wifey (ワル嫁)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/worst-wifey",
-      "category": "Game",
-      "expiryDate": "2026-09-04T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
-    },
-    {
       "title": "Pinkie Pie's Cupcake Party",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -128,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T05:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
+    },
+    {
+      "title": "Worst Wifey (ワル嫁)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/worst-wifey",
+      "category": "Game",
+      "expiryDate": "2026-09-04T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MjQzNTc0LnBuZw==/315x250%23c/QTCS9w.png"
     },
     {
       "title": "Last Breath",
@@ -236,15 +245,6 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
-    },
-    {
-      "title": "FPV EXTREME",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fpv-extreme.itch.io/fpv-extreme",
-      "category": "Game",
-      "expiryDate": "2026-09-27T10:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
