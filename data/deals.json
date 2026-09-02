@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T19:34:23.973Z",
+  "lastUpdated": "2026-09-02T22:12:31.728Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -20,15 +20,6 @@
       "startDate": "2026-08-27T15:00:00.000Z",
       "expiryDate": "2026-09-03T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg"
-    },
-    {
-      "title": "HAPPY ICE CREAM MAN",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://quakr.itch.io/happy-ice-cream-man",
-      "category": "Game",
-      "expiryDate": "2026-09-02T21:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NTc2MzcxLnBuZw==/315x250%23c/4pVEGq.png"
     },
     {
       "title": "Sabado: Day One",
@@ -157,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-09-02T21:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
-      "title": "Floor unknown",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
-      "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
-    },
-    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-09-05T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
       "title": "Evergreen Meadows",
@@ -236,6 +218,15 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "FPV EXTREME",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fpv-extreme.itch.io/fpv-extreme",
+      "category": "Game",
+      "expiryDate": "2026-09-27T10:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
     },
     {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
