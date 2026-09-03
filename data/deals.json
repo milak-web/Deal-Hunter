@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T09:20:06.969Z",
+  "lastUpdated": "2026-09-03T13:41:50.000Z",
   "deals": [
     {
       "title": "Breathedge",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-09-05T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "Pinkie Pie's Cupcake Party",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T05:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-09-05T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Worst Wifey (ワル嫁)",
@@ -193,6 +193,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-09-05T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+    },
+    {
       "title": "Evergreen Meadows",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -202,13 +211,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
     },
     {
-      "title": "Another World Adventures",
+      "title": "FPV EXTREME",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "link": "https://fpv-extreme.itch.io/fpv-extreme",
       "category": "Game",
-      "expiryDate": "2026-09-05T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+      "expiryDate": "2026-09-27T10:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
     },
     {
       "title": "Silent Still 3",
