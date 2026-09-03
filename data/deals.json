@@ -1,25 +1,15 @@
 {
-  "lastUpdated": "2026-09-03T13:41:50.000Z",
+  "lastUpdated": "2026-09-03T17:24:35.985Z",
   "deals": [
     {
-      "title": "Breathedge",
+      "title": "Alone With You",
       "platform": "Epic Games",
-      "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/breathedge",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
       "category": "Game",
-      "startDate": "2026-08-27T15:00:00.000Z",
-      "expiryDate": "2026-09-03T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
-    },
-    {
-      "title": "Rival Stars Horse Racing : Desktop Edition",
-      "platform": "Epic Games",
-      "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
-      "category": "Game",
-      "startDate": "2026-08-27T15:00:00.000Z",
-      "expiryDate": "2026-09-03T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg"
+      "startDate": "2026-09-03T15:00:00.000Z",
+      "expiryDate": "2026-09-10T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-ven8l.png"
     },
     {
       "title": "Sabado: Day One",
@@ -148,13 +138,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
-      "title": "CULT OF FLIES",
+      "title": "FPV EXTREME",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
+      "link": "https://fpv-extreme.itch.io/fpv-extreme",
       "category": "Game",
-      "expiryDate": "2026-09-05T04:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
+      "expiryDate": "2026-09-27T10:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
     },
     {
       "title": "Backrooms Crawlers",
@@ -166,13 +156,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Floor unknown",
+      "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
       "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+      "expiryDate": "2026-09-05T04:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
       "title": "DIRE ECHO",
@@ -184,6 +174,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+    },
+    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,15 +190,6 @@
       "category": "Game",
       "expiryDate": "2026-09-05T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-09-05T21:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "Evergreen Meadows",
@@ -211,13 +201,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif"
     },
     {
-      "title": "FPV EXTREME",
+      "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://fpv-extreme.itch.io/fpv-extreme",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
       "category": "Game",
-      "expiryDate": "2026-09-27T10:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
+      "expiryDate": "2026-09-05T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "Silent Still 3",
@@ -229,6 +219,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
+      "title": "Evan's Remains",
+      "platform": "Mobile",
+      "originalPrice": "$5.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-09-10T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a998eb716bfe.jpg"
+    },
+    {
       "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
       "platform": "Epic Games",
       "originalPrice": "$2.99",
@@ -236,24 +235,6 @@
       "category": "Game",
       "expiryDate": "2026-09-09T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a53a044a87b6.jpg"
-    },
-    {
-      "title": "Down in Bermuda",
-      "platform": "Mobile",
-      "originalPrice": "$5.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-09-03T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a90569cdf3f5.jpg"
-    },
-    {
-      "title": "Rival Stars Horse Racing",
-      "platform": "Epic Games",
-      "originalPrice": "$29.99",
-      "link": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
-      "category": "Game",
-      "expiryDate": "2026-09-03T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a90554f27ee1.jpg"
     }
   ]
 }
