@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T18:30:56.260Z",
+  "lastUpdated": "2026-09-05T20:51:14.503Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -190,6 +190,15 @@
       "category": "Game",
       "expiryDate": "2026-09-17T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Silent Still 3",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://solitarystudios.itch.io/silent-still-3",
+      "category": "Game",
+      "expiryDate": "2306-06-28T11:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
     },
     {
       "title": "Beach Invasion 1944",
