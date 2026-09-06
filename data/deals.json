@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T12:59:50.802Z",
+  "lastUpdated": "2026-09-06T16:04:17.429Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -48,15 +48,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Pinkie Pie's Cupcake Party",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
-      "category": "Game",
-      "expiryDate": "2026-10-02T05:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -64,6 +55,15 @@
       "category": "Game",
       "expiryDate": "2026-09-18T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "Pinkie Pie's Cupcake Party",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
+      "category": "Game",
+      "expiryDate": "2026-10-02T05:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -156,6 +156,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+    },
+    {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -183,15 +192,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Floor unknown",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
-      "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
-    },
-    {
       "title": "Silent Still 3",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -199,6 +199,15 @@
       "category": "Game",
       "expiryDate": "2306-06-28T11:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTY3NjA5LmpwZw==/315x250%23c/3h0WMu.jpg"
+    },
+    {
+      "title": "FPV EXTREME",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fpv-extreme.itch.io/fpv-extreme",
+      "category": "Game",
+      "expiryDate": "2026-09-27T10:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
     },
     {
       "title": "Beach Invasion 1944",
