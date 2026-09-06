@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T16:04:17.429Z",
+  "lastUpdated": "2026-09-06T18:27:59.293Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -102,15 +102,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-09-18T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -118,6 +109,15 @@
       "category": "Game",
       "expiryDate": "2026-09-08T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-09-18T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "DIRE ECHO",
@@ -208,6 +208,15 @@
       "category": "Game",
       "expiryDate": "2026-09-27T10:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjY3ODcyLmdpZg==/315x250%23c/VUNBOe.gif"
+    },
+    {
+      "title": "Trapped",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://komodroidnz.itch.io/trapped",
+      "category": "Game",
+      "expiryDate": "2026-09-29T21:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTA5NzU4LnBuZw==/315x250%23c/O0zNE8.png"
     },
     {
       "title": "Beach Invasion 1944",
