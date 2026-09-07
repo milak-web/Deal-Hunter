@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T20:18:12.443Z",
+  "lastUpdated": "2026-09-07T22:55:32.455Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -75,15 +75,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-09-18T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -91,6 +82,15 @@
       "category": "Game",
       "expiryDate": "2026-09-10T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-09-18T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Dicey Chess",
@@ -138,15 +138,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "The Backrooms: Incident 1997",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
-      "category": "Game",
-      "expiryDate": "2026-09-30T15:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +145,24 @@
       "category": "Game",
       "expiryDate": "2026-09-17T21:09:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "CALLUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://emika-games.itch.io/callus",
+      "category": "Game",
+      "expiryDate": "2026-09-07T23:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
+    },
+    {
+      "title": "The Backrooms: Incident 1997",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
+      "category": "Game",
+      "expiryDate": "2026-09-30T15:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -174,15 +183,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
-      "title": "CALLUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://emika-games.itch.io/callus",
-      "category": "Game",
-      "expiryDate": "2026-09-07T23:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTI3MTc1LnBuZw==/315x250%23c/94RlaV.png"
-    },
-    {
       "title": "Flunked",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -190,6 +190,15 @@
       "category": "Game",
       "expiryDate": "2026-09-08T11:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-09-20T22:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "DON’T DO IT",
@@ -210,13 +219,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
     },
     {
-      "title": "Lost In Transit",
+      "title": "Liminal Space Holiday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "link": "https://ravenhome.itch.io/liminal-space-holiday",
       "category": "Game",
-      "expiryDate": "2026-09-20T22:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+      "expiryDate": "2026-09-13T10:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
+    },
+    {
+      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
+      "category": "Game",
+      "expiryDate": "2026-10-07T14:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
       "title": "Emily_",
@@ -228,13 +246,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMDkwODA1LnBuZw==/315x250%23c/rAZ8rJ.png"
     },
     {
-      "title": "Liminal Space Holiday",
+      "title": "Trapped",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-space-holiday",
+      "link": "https://komodroidnz.itch.io/trapped",
       "category": "Game",
-      "expiryDate": "2026-09-13T10:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
+      "expiryDate": "2026-09-29T21:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTA5NzU4LnBuZw==/315x250%23c/O0zNE8.png"
     },
     {
       "title": "3 Minutes Till the End of the World",
