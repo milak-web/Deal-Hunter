@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T05:29:55.425Z",
+  "lastUpdated": "2026-09-08T09:59:24.851Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -93,6 +93,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-09-10T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
       "title": "Dicey Chess",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,15 +118,6 @@
       "category": "Game",
       "expiryDate": "2026-09-18T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-09-10T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -143,17 +143,17 @@
       "originalPrice": "N/A",
       "link": "https://thehandcrafter.itch.io/floor-unknown",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-09-30T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
-      "title": "Apartment №202",
+      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
       "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+      "expiryDate": "2026-10-07T14:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -165,13 +165,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-10-07T14:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
+      "expiryDate": "2026-09-17T21:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Flunked",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://oledeye.itch.io/flunked",
+      "category": "Game",
+      "expiryDate": "2026-09-08T11:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
     },
     {
       "title": "DIRE ECHO",
@@ -190,15 +199,6 @@
       "category": "Game",
       "expiryDate": "2026-09-13T10:45:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
-    },
-    {
-      "title": "Flunked",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://oledeye.itch.io/flunked",
-      "category": "Game",
-      "expiryDate": "2026-09-08T11:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
     },
     {
       "title": "DON’T DO IT",
