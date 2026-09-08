@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:49:29.388Z",
+  "lastUpdated": "2026-09-08T23:05:14.167Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -93,15 +93,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-09-18T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,6 +100,15 @@
       "category": "Game",
       "expiryDate": "2026-09-12T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-09-18T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -219,15 +219,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Project: Reborn - Extraction",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-      "category": "Game",
-      "expiryDate": "2026-09-10T08:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
-    },
-    {
       "title": "Night of the Duat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -237,6 +228,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NjE5MDc2LmpwZWc=/315x250%23c/PD%2BP7g.jpeg"
     },
     {
+      "title": "Project: Reborn - Extraction",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bkgamingstudio.itch.io/project-reborn-extraction",
+      "category": "Game",
+      "expiryDate": "2026-09-10T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MzA0NDEzLmpwZw==/315x250%23c/H2HFYX.jpg"
+    },
+    {
       "title": "Univocity",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -244,6 +244,15 @@
       "category": "Game",
       "expiryDate": "2026-09-13T21:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5NDcwNzk1LnBuZw==/315x250%23c/cHSwlw.png"
+    },
+    {
+      "title": "Interstellar Dominion",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wookbee.itch.io/interstellar-dominion",
+      "category": "Game",
+      "expiryDate": "2026-09-15T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEyNDI2MDM1LnBuZw==/315x250%23c/CbMhsH.png"
     },
     {
       "title": "Last Friday",
