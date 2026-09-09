@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T11:37:54.215Z",
+  "lastUpdated": "2026-09-09T15:39:53.808Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -21,15 +21,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-09-30T09:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
       "title": "MANDATO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -39,13 +30,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5ODMzODA4LmpwZw==/315x250%23c/6E3fnf.jpg"
     },
     {
-      "title": "Cherophobia",
+      "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
-      "expiryDate": "2026-09-18T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+      "expiryDate": "2026-09-30T09:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "The Bigfoot: Snow Massacre",
@@ -55,6 +46,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T05:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2OTAyNjUwLmdpZg==/315x250%23c/4vzfrX.gif"
+    },
+    {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-09-18T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -192,15 +192,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-09-20T22:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -208,6 +199,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-09-20T22:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "Interstellar Dominion",
@@ -226,6 +226,15 @@
       "category": "Game",
       "expiryDate": "2026-09-18T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Ember Keep",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://premo-studios.itch.io/ember-keep",
+      "category": "Game",
+      "expiryDate": "2026-09-10T13:49:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODA0NDQ5LnBuZw==/315x250%23c/EWxgeh.png"
     },
     {
       "title": "Night of the Duat",
