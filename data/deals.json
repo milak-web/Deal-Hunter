@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T15:39:53.808Z",
+  "lastUpdated": "2026-09-09T18:57:57.005Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -39,6 +39,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
       "title": "The Bigfoot: Snow Massacre",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -66,15 +75,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -82,6 +82,15 @@
       "category": "Game",
       "expiryDate": "2026-09-18T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-09-12T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -93,13 +102,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "The Backrooms: Incident 1997",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
       "category": "Game",
-      "expiryDate": "2026-09-12T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-09-30T15:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
       "title": "Pinkie Pie's Cupcake Party",
@@ -136,15 +145,6 @@
       "category": "Game",
       "expiryDate": "2026-09-09T21:31:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5MDQxNDQwLnBuZw==/315x250%23c/06mzVl.png"
-    },
-    {
-      "title": "The Backrooms: Incident 1997",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
-      "category": "Game",
-      "expiryDate": "2026-09-30T15:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
@@ -228,24 +228,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Ember Keep",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://premo-studios.itch.io/ember-keep",
-      "category": "Game",
-      "expiryDate": "2026-09-10T13:49:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODA0NDQ5LnBuZw==/315x250%23c/EWxgeh.png"
-    },
-    {
-      "title": "Night of the Duat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://phantom-drive.itch.io/night-of-the-duat",
-      "category": "Game",
-      "expiryDate": "2026-09-12T15:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NjE5MDc2LmpwZWc=/315x250%23c/PD%2BP7g.jpeg"
-    },
-    {
       "title": "State of Mind",
       "platform": "GOG",
       "originalPrice": "$19.99",
@@ -262,15 +244,6 @@
       "category": "Mobile",
       "expiryDate": "2026-09-10T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6a998eb716bfe.jpg"
-    },
-    {
-      "title": "NoRush! - Tower Edition (Epic Games) Giveaways",
-      "platform": "Epic Games",
-      "originalPrice": "$2.99",
-      "link": "https://store.epicgames.com/p/norush-67f385",
-      "category": "Game",
-      "expiryDate": "2026-09-09T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a53a044a87b6.jpg"
     }
   ]
 }
