@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:57:57.005Z",
+  "lastUpdated": "2026-09-09T21:30:19.905Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -102,15 +102,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "The Backrooms: Incident 1997",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
-      "category": "Game",
-      "expiryDate": "2026-09-30T15:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
-    },
-    {
       "title": "Pinkie Pie's Cupcake Party",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -118,6 +109,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T05:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
+    },
+    {
+      "title": "The Backrooms: Incident 1997",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
+      "category": "Game",
+      "expiryDate": "2026-09-30T15:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
