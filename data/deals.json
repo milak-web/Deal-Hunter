@@ -1,15 +1,25 @@
 {
-  "lastUpdated": "2026-09-10T12:18:02.748Z",
+  "lastUpdated": "2026-09-10T16:33:53.504Z",
   "deals": [
     {
-      "title": "Alone With You",
+      "title": "Luftrausers",
       "platform": "Epic Games",
       "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
+      "link": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
       "category": "Game",
-      "startDate": "2026-09-03T15:00:00.000Z",
-      "expiryDate": "2026-09-10T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-ven8l.png"
+      "startDate": "2026-09-10T15:00:00.000Z",
+      "expiryDate": "2026-09-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-11phb.png"
+    },
+    {
+      "title": "Astral Ascent",
+      "platform": "Epic Games",
+      "originalPrice": "$24.99",
+      "link": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
+      "category": "Game",
+      "startDate": "2026-09-10T15:00:00.000Z",
+      "expiryDate": "2026-09-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg"
     },
     {
       "title": "MANDATO",
@@ -138,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
-      "category": "Game",
-      "expiryDate": "2026-10-07T14:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
-    },
-    {
       "title": "Liminal Space Holiday",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +155,15 @@
       "category": "Game",
       "expiryDate": "2026-09-13T10:45:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
+    },
+    {
+      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
+      "category": "Game",
+      "expiryDate": "2026-10-07T14:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
       "title": "Apartment №202",
@@ -174,15 +184,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
-      "title": "MiniColonyAdventures – Build, Expand & Survive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gamebuegar.itch.io/colonyadventure",
-      "category": "Game",
-      "expiryDate": "2026-09-30T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
-    },
-    {
       "title": "Interstellar Dominion",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -190,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-09-15T10:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDI2MDM1LnBuZw==/315x250%23c/CbMhsH.png"
+    },
+    {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
       "title": "Lost In Transit",
@@ -210,22 +220,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "State of Mind",
-      "platform": "GOG",
-      "originalPrice": "$19.99",
-      "link": "https://www.gog.com/en/game/state_of_mind",
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-09-10T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a9ebcfac0aab.jpg"
+      "expiryDate": "2026-09-18T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Evan's Remains",
+      "title": "Alone With You",
       "platform": "Mobile",
-      "originalPrice": "$5.99",
+      "originalPrice": "$4.99",
       "link": "https://store.epicgames.com/mobile",
       "category": "Mobile",
-      "expiryDate": "2026-09-10T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a998eb716bfe.jpg"
+      "expiryDate": "2026-09-17T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6aa2ca834a5a1.jpg"
     }
   ]
 }
