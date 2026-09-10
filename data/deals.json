@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T07:24:40.947Z",
+  "lastUpdated": "2026-09-10T12:18:02.748Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -111,15 +111,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-09-18T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "Pinkie Pie's Cupcake Party",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -127,6 +118,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T05:14:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-09-18T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -147,6 +147,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
+      "title": "Liminal Space Holiday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-space-holiday",
+      "category": "Game",
+      "expiryDate": "2026-09-13T10:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
+    },
+    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -163,15 +172,6 @@
       "category": "Game",
       "expiryDate": "2026-09-30T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
-    },
-    {
-      "title": "Liminal Space Holiday",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-space-holiday",
-      "category": "Game",
-      "expiryDate": "2026-09-13T10:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
