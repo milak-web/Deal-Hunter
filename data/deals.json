@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T02:22:17.097Z",
+  "lastUpdated": "2026-09-10T07:24:40.947Z",
   "deals": [
     {
       "title": "Alone With You",
@@ -26,7 +26,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-09-11T22:42:00.000Z",
+      "expiryDate": "2026-09-12T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
@@ -93,15 +93,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "The Backrooms: Incident 1997",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
-      "category": "Game",
-      "expiryDate": "2026-09-30T15:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,6 +100,15 @@
       "category": "Game",
       "expiryDate": "2026-09-12T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "The Backrooms: Incident 1997",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deaddove-studio.itch.io/the-backrooms-incident-1997",
+      "category": "Game",
+      "expiryDate": "2026-09-30T15:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -192,15 +192,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDI2MDM1LnBuZw==/315x250%23c/CbMhsH.png"
     },
     {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -210,22 +201,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Ember Keep",
+      "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://premo-studios.itch.io/ember-keep",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
       "category": "Game",
-      "expiryDate": "2026-09-10T13:49:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODA0NDQ5LnBuZw==/315x250%23c/EWxgeh.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-09-18T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "State of Mind",
