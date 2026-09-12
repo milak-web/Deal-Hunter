@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T23:44:01.566Z",
+  "lastUpdated": "2026-09-12T02:24:47.524Z",
   "deals": [
     {
       "title": "Luftrausers",
@@ -85,13 +85,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Snakehead",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://woodchair.itch.io/snakehead",
       "category": "Game",
-      "expiryDate": "2026-09-14T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-09-21T10:48:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
+    },
+    {
+      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://argondevilguiderods.itch.io/liminal",
+      "category": "Game",
+      "expiryDate": "2026-09-14T12:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
+    },
+    {
+      "title": "Liminal Space Holiday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-space-holiday",
+      "category": "Game",
+      "expiryDate": "2026-09-13T10:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -112,58 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Liminal Space Holiday",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-space-holiday",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-09-13T10:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM0MjM4LmdpZg==/315x250%23c/MOJsIr.gif"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-09-12T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/liminal",
-      "category": "Game",
-      "expiryDate": "2026-09-14T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
-    },
-    {
-      "title": "Pinkie Pie's Cupcake Party",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
-      "category": "Game",
-      "expiryDate": "2026-10-02T05:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-09-20T22:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "Snakehead",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://woodchair.itch.io/snakehead",
-      "category": "Game",
-      "expiryDate": "2026-09-21T10:48:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
+      "expiryDate": "2026-09-14T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "The Backrooms: Incident 1997",
@@ -175,13 +148,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
     },
     {
-      "title": "At Sixes And Sevens Case I",
+      "title": "Silent Decay",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "link": "https://xevorastudio.itch.io/silent-decay",
       "category": "Game",
-      "expiryDate": "2026-09-29T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+      "expiryDate": "2026-09-14T01:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-09-12T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Pinkie Pie's Cupcake Party",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
+      "category": "Game",
+      "expiryDate": "2026-10-02T05:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
       "title": "Apartment №202",
@@ -193,13 +184,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "Silent Decay",
+      "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://xevorastudio.itch.io/silent-decay",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
       "category": "Game",
-      "expiryDate": "2026-09-14T01:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+      "expiryDate": "2026-09-20T22:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "Interstellar Dominion",
@@ -211,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDI2MDM1LnBuZw==/315x250%23c/CbMhsH.png"
     },
     {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-09-29T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,33 +218,6 @@
       "category": "Game",
       "expiryDate": "2026-09-20T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
-      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
-      "category": "Game",
-      "expiryDate": "2026-10-07T14:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
-    },
-    {
-      "title": "MiniColonyAdventures – Build, Expand & Survive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gamebuegar.itch.io/colonyadventure",
-      "category": "Game",
-      "expiryDate": "2026-09-30T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-09-29T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -256,6 +229,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
+    },
+    {
       "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -263,33 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-09-30T11:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
-      "title": "Floor unknown",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
-      "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
-    },
-    {
-      "title": "FPV EXTREME",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fpv-extreme.itch.io/fpv-extreme",
-      "category": "Game",
-      "expiryDate": "2026-09-27T10:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODkxMDU3LmdpZg==/315x250%23c/WZKBBH.gif"
     },
     {
       "title": "Eternal Night",
@@ -301,6 +256,51 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-09-29T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
+      "category": "Game",
+      "expiryDate": "2026-10-07T14:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "FPV EXTREME",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://fpv-extreme.itch.io/fpv-extreme",
+      "category": "Game",
+      "expiryDate": "2026-09-27T10:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODkxMDU3LmdpZg==/315x250%23c/WZKBBH.gif"
+    },
+    {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+    },
+    {
       "title": "Alone With You",
       "platform": "Mobile",
       "originalPrice": "$4.99",
@@ -308,15 +308,6 @@
       "category": "Mobile",
       "expiryDate": "2026-09-17T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6aa2ca834a5a1.jpg"
-    },
-    {
-      "title": "SWAPMEAT Steam",
-      "platform": "Steam",
-      "originalPrice": "$24.99",
-      "link": "https://na.alienwarearena.com/ucf/show/2176139/boards/contest-and-giveaways-global/Giveaway/swapmeat-steam-game-key-giveaway",
-      "category": "Game",
-      "expiryDate": "2026-09-12T19:02:45.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6aa04047b0497.jpg"
     }
   ]
 }
