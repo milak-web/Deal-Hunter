@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T02:23:01.468Z",
+  "lastUpdated": "2026-09-13T07:34:10.052Z",
   "deals": [
     {
       "title": "Luftrausers",
@@ -238,6 +238,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
+      "title": "RE: Evil Lurks",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://mal98s.itch.io/evil-lurks",
+      "category": "Game",
+      "expiryDate": "2026-09-19T00:19:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
+    },
+    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -256,15 +265,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "RE: Evil Lurks",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mal98s.itch.io/evil-lurks",
-      "category": "Game",
-      "expiryDate": "2026-09-19T00:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
-    },
-    {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -281,6 +281,15 @@
       "category": "Game",
       "expiryDate": "2026-09-22T21:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzcwNjQ4LnBuZw==/315x250%23c/MTQHgB.png"
+    },
+    {
+      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
+      "category": "Game",
+      "expiryDate": "2026-10-07T14:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
       "title": "Alone With You",
