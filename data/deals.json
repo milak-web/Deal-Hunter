@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T19:53:45.084Z",
+  "lastUpdated": "2026-09-14T22:53:12.355Z",
   "deals": [
     {
       "title": "Luftrausers",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-09-18T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Snakehead",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-09-21T10:48:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-09-18T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "DEPRIVED: The house",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-09-29T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-09-29T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-09-29T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
+      "title": "Late Stops",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/late-stops",
+      "category": "Game",
+      "expiryDate": "2026-09-19T07:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
       "title": "RE: Evil Lurks",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,13 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
-      "title": "Late Stops",
+      "title": "Still Dreaming",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/late-stops",
+      "link": "https://stefanlacio.itch.io/still-dreaming",
       "category": "Game",
-      "expiryDate": "2026-09-19T07:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+      "expiryDate": "2026-09-16T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTgyNDc0LnBuZw==/315x250%23c/vE2nOu.png"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -265,15 +274,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDI2MDM1LnBuZw==/315x250%23c/CbMhsH.png"
     },
     {
-      "title": "Still Dreaming",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefanlacio.itch.io/still-dreaming",
-      "category": "Game",
-      "expiryDate": "2026-09-16T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTgyNDc0LnBuZw==/315x250%23c/vE2nOu.png"
-    },
-    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -310,6 +310,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzcwNjQ4LnBuZw==/315x250%23c/MTQHgB.png"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -319,13 +328,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
     },
     {
-      "title": "DIRE ECHO",
+      "title": "Where are my notebooks?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "link": "https://jonathan-linux.itch.io/where-are-my-notebooks",
       "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+      "expiryDate": "2026-09-30T21:52:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTczNTkwLnBuZw==/315x250%23c/HmGL8S.png"
     },
     {
       "title": "Floor unknown",
