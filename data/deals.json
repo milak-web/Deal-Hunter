@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T15:08:05.007Z",
+  "lastUpdated": "2026-09-14T19:53:45.084Z",
   "deals": [
     {
       "title": "Luftrausers",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "MATILDA 2",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/matilda-2",
-      "category": "Game",
-      "expiryDate": "2026-09-14T16:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4MDQ2MTgyLnBuZw==/315x250%23c/NBLtK8.png"
-    },
-    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-09-29T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -166,13 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-09-27T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+      "expiryDate": "2026-09-29T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Lost In Transit",
@@ -184,6 +166,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-09-27T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "The Backrooms: Incident 1997",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-09-30T15:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjA4NTU4LnBuZw==/315x250%23c/VcongW.png"
-    },
-    {
-      "title": "The Hop Hop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/the-hop-hop",
-      "category": "Game",
-      "expiryDate": "2026-09-14T16:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMDg1NzE2LnBuZw==/315x250%23c/CDIg46.png"
     },
     {
       "title": "DON’T DO IT",
@@ -220,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
-      "title": "SIMON'S SHIFT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/simons-shift",
-      "category": "Game",
-      "expiryDate": "2026-09-14T16:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjcxMDIyLnBuZw==/315x250%23c/cuuKm5.png"
-    },
-    {
       "title": "RE: Evil Lurks",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -238,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2Nzg0NjUyLnBuZw==/315x250%23c/wkuvoe.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-09-20T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
-    },
-    {
       "title": "Late Stops",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -254,6 +218,15 @@
       "category": "Game",
       "expiryDate": "2026-09-19T07:53:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjU4LnBuZw==/315x250%23c/RBY7ZJ.png"
+    },
+    {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-09-20T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
       "title": "Eternal Night",
@@ -283,15 +256,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "MATILDA",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/matilda",
-      "category": "Game",
-      "expiryDate": "2026-09-14T16:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Njc0MjUxLnBuZw==/315x250%23c/1S4cZe.png"
-    },
-    {
       "title": "Interstellar Dominion",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -301,6 +265,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEyNDI2MDM1LnBuZw==/315x250%23c/CbMhsH.png"
     },
     {
+      "title": "Still Dreaming",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefanlacio.itch.io/still-dreaming",
+      "category": "Game",
+      "expiryDate": "2026-09-16T16:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTgyNDc0LnBuZw==/315x250%23c/vE2nOu.png"
+    },
+    {
       "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -308,15 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-09-30T11:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
-    },
-    {
-      "title": "MR. WHITE: REBORN",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://redcap-games.itch.io/mr-white-reborn",
-      "category": "Game",
-      "expiryDate": "2026-09-14T16:19:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MzU3MjUwLnBuZw==/315x250%23c/D%2Ff8eK.png"
     },
     {
       "title": "Night Clerk",
@@ -346,15 +310,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MzcwNjQ4LnBuZw==/315x250%23c/MTQHgB.png"
     },
     {
-      "title": "Still Dreaming",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefanlacio.itch.io/still-dreaming",
-      "category": "Game",
-      "expiryDate": "2026-09-16T16:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTgyNDc0LnBuZw==/315x250%23c/vE2nOu.png"
-    },
-    {
       "title": "Exit Only",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -362,6 +317,24 @@
       "category": "Game",
       "expiryDate": "2026-09-30T11:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
       "title": "Crystal Crisis",
