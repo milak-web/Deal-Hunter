@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-17T10:11:21.582Z",
+  "lastUpdated": "2026-09-17T15:07:38.275Z",
   "deals": [
     {
-      "title": "Luftrausers",
+      "title": "Mindcop",
       "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
+      "originalPrice": "$14.99",
+      "link": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
       "category": "Game",
-      "startDate": "2026-09-10T15:00:00.000Z",
-      "expiryDate": "2026-09-17T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-11phb.png"
+      "startDate": "2026-09-17T15:00:00.000Z",
+      "expiryDate": "2026-09-24T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg"
     },
     {
-      "title": "Astral Ascent",
+      "title": "Shogun Showdown",
       "platform": "Epic Games",
-      "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
+      "originalPrice": "$14.99",
+      "link": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
       "category": "Game",
-      "startDate": "2026-09-10T15:00:00.000Z",
-      "expiryDate": "2026-09-17T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg"
+      "startDate": "2026-09-17T15:00:00.000Z",
+      "expiryDate": "2026-09-24T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg"
     },
     {
       "title": "Final Witness",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMDE5MjEyLmdpZg==/315x250%23c/QlQi1G.gif"
     },
     {
-      "title": "Open House",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/open-house",
-      "category": "Game",
-      "expiryDate": "2026-09-19T07:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,13 +139,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Pinkie Pie's Cupcake Party",
+      "title": "Open House",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
+      "link": "https://grantrimi.itch.io/open-house",
       "category": "Game",
-      "expiryDate": "2026-10-02T05:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
+      "expiryDate": "2026-09-19T07:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -173,6 +164,15 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "Pinkie Pie's Cupcake Party",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
+      "category": "Game",
+      "expiryDate": "2026-10-02T05:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
       "title": "Late Stops",
@@ -202,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
-      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
-      "category": "Game",
-      "expiryDate": "2026-10-07T14:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
-    },
-    {
       "title": "RE: Evil Lurks",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,40 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
-      "title": "DON’T DO IT",
+      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
       "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Storefront",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/storefront",
-      "category": "Game",
-      "expiryDate": "2026-09-19T07:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
-    },
-    {
-      "title": "The Rolling Stone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://arian-shahrabi.itch.io/the-rolling-stone",
-      "category": "Game",
-      "expiryDate": "2026-09-19T03:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NzA2ODI1LmpwZw==/315x250%23c/Q7bxPE.jpg"
-    },
-    {
-      "title": "Where are my notebooks?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://jonathan-linux.itch.io/where-are-my-notebooks",
-      "category": "Game",
-      "expiryDate": "2026-09-30T21:52:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTczNTkwLnBuZw==/315x250%23c/HmGL8S.png"
+      "expiryDate": "2026-10-07T14:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
@@ -274,13 +238,49 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "Floor unknown",
+      "title": "OneMinute",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "link": "https://tremesiano.itch.io/oneminute",
       "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+      "expiryDate": "2026-10-17T03:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMDQ0ODkxLnBuZw==/315x250%23c/RPbkFc.png"
+    },
+    {
+      "title": "Storefront",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/storefront",
+      "category": "Game",
+      "expiryDate": "2026-09-19T07:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "The Rolling Stone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://arian-shahrabi.itch.io/the-rolling-stone",
+      "category": "Game",
+      "expiryDate": "2026-09-19T03:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NzA2ODI1LmpwZw==/315x250%23c/Q7bxPE.jpg"
+    },
+    {
+      "title": "Follower",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/follower",
+      "category": "Game",
+      "expiryDate": "2026-09-19T07:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
     },
     {
       "title": "Space Menace",
@@ -299,15 +299,6 @@
       "category": "Game",
       "expiryDate": "2026-09-22T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6aa7d795dadd3.jpg"
-    },
-    {
-      "title": "Alone With You",
-      "platform": "Mobile",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-09-17T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6aa2ca834a5a1.jpg"
     }
   ]
 }
