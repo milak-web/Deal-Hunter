@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T15:07:38.275Z",
+  "lastUpdated": "2026-09-17T19:08:19.284Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -31,15 +31,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Snakehead",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://woodchair.itch.io/snakehead",
-      "category": "Game",
-      "expiryDate": "2026-09-30T10:48:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
-    },
-    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,6 +38,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T09:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
+      "title": "Snakehead",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://woodchair.itch.io/snakehead",
+      "category": "Game",
+      "expiryDate": "2026-09-30T10:48:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
     },
     {
       "title": "Lord of Chaos",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/liminal",
-      "category": "Game",
-      "expiryDate": "2026-09-21T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,6 +65,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://argondevilguiderods.itch.io/liminal",
+      "category": "Game",
+      "expiryDate": "2026-09-21T12:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
     },
     {
       "title": "Cherophobia",
@@ -112,6 +112,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-09-27T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -139,22 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Open House",
+      "title": "Pinkie Pie's Cupcake Party",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/open-house",
+      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
       "category": "Game",
-      "expiryDate": "2026-09-19T07:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-09-27T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+      "expiryDate": "2026-10-02T05:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -166,13 +166,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Pinkie Pie's Cupcake Party",
+      "title": "Open House",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
+      "link": "https://grantrimi.itch.io/open-house",
       "category": "Game",
-      "expiryDate": "2026-10-02T05:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
+      "expiryDate": "2026-09-19T07:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2OTI3OTE0LnBuZw==/315x250%23c/vb1nbP.png"
     },
     {
       "title": "Late Stops",
@@ -191,6 +191,15 @@
       "category": "Game",
       "expiryDate": "2026-09-20T22:15:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "OneMinute",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tremesiano.itch.io/oneminute",
+      "category": "Game",
+      "expiryDate": "2026-10-17T03:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMDQ0ODkxLnBuZw==/315x250%23c/RPbkFc.png"
     },
     {
       "title": "Reincarnated as a Noble - RPG",
@@ -238,13 +247,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "OneMinute",
+      "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://tremesiano.itch.io/oneminute",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-10-17T03:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDQ0ODkxLnBuZw==/315x250%23c/RPbkFc.png"
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "Storefront",
@@ -256,15 +265,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQ2LnBuZw==/315x250%23c/cd8TmR.png"
     },
     {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
       "title": "The Rolling Stone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -274,13 +274,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NzA2ODI1LmpwZw==/315x250%23c/Q7bxPE.jpg"
     },
     {
-      "title": "Follower",
+      "title": "Wasteland Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/follower",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
       "category": "Game",
-      "expiryDate": "2026-09-19T07:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMTgxLnBuZw==/315x250%23c/7FA%2B1%2B.png"
+      "expiryDate": "2026-09-30T11:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+    },
+    {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Space Menace",
