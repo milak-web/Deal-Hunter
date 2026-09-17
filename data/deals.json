@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T21:56:53.310Z",
+  "lastUpdated": "2026-09-17T00:02:57.303Z",
   "deals": [
     {
       "title": "Luftrausers",
@@ -157,6 +157,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "The Broken Horn",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://joao-acelino-official.itch.io/the-broken-horn",
+      "category": "Game",
+      "expiryDate": "2026-10-11T02:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMDE5MjEyLmdpZg==/315x250%23c/QlQi1G.gif"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,15 +182,6 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "The Broken Horn",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://joao-acelino-official.itch.io/the-broken-horn",
-      "category": "Game",
-      "expiryDate": "2026-10-11T02:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDE5MjEyLmdpZg==/315x250%23c/QlQi1G.gif"
     },
     {
       "title": "Lost In Transit",
@@ -247,6 +247,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
+      "title": "Where are my notebooks?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://jonathan-linux.itch.io/where-are-my-notebooks",
+      "category": "Game",
+      "expiryDate": "2026-09-30T21:52:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTczNTkwLnBuZw==/315x250%23c/HmGL8S.png"
+    },
+    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -272,15 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-09-19T03:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NzA2ODI1LmpwZw==/315x250%23c/Q7bxPE.jpg"
-    },
-    {
-      "title": "Where are my notebooks?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://jonathan-linux.itch.io/where-are-my-notebooks",
-      "category": "Game",
-      "expiryDate": "2026-09-30T21:52:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTczNTkwLnBuZw==/315x250%23c/HmGL8S.png"
     },
     {
       "title": "DIRE ECHO",
