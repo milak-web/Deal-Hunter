@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T21:33:46.648Z",
+  "lastUpdated": "2026-09-19T23:48:27.674Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,6 +85,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -101,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "UNSEEN LINES",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://unseen-lines.itch.io/unseen-lines",
+      "category": "Game",
+      "expiryDate": "2026-09-20T22:32:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM2OTM0LnBuZw==/315x250%23c/TlPpuC.png"
     },
     {
       "title": "Ward 7",
@@ -128,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-09-20T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
-      "title": "UNSEEN LINES",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://unseen-lines.itch.io/unseen-lines",
-      "category": "Game",
-      "expiryDate": "2026-09-20T22:32:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTM2OTM0LnBuZw==/315x250%23c/TlPpuC.png"
     },
     {
       "title": "Pinkie Pie's Cupcake Party",
@@ -220,6 +220,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-09-20T22:15:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
       "title": "Project: Gizmodebt!",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,15 +245,6 @@
       "category": "Game",
       "expiryDate": "2026-10-07T14:56:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-09-20T22:15:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "DON’T DO IT",
