@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T08:08:44.815Z",
+  "lastUpdated": "2026-09-20T13:07:47.737Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -58,15 +58,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/liminal",
-      "category": "Game",
-      "expiryDate": "2026-09-21T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
-    },
-    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,6 +65,15 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
+      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://argondevilguiderods.itch.io/liminal",
+      "category": "Game",
+      "expiryDate": "2026-09-21T12:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
     },
     {
       "title": "NIGHTBELL",
@@ -175,6 +175,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMDE5MjEyLmdpZg==/315x250%23c/QlQi1G.gif"
     },
     {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-09-30T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+    },
+    {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,6 +211,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,15 +227,6 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
-      "title": "Project: Gizmodebt!",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aniraster.itch.io/project-gizmodebt",
-      "category": "Game",
-      "expiryDate": "2026-09-24T05:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3ODE5NzA0LnBuZw==/315x250%23c/IAbCZ4.png"
     },
     {
       "title": "Deadshot",
