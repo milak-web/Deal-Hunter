@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T16:54:27.918Z",
+  "lastUpdated": "2026-09-20T19:12:10.843Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -58,6 +58,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -74,15 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-09-21T12:44:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
-    },
-    {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
     },
     {
-      "title": "Pinkie Pie's Cupcake Party",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
-      "category": "Game",
-      "expiryDate": "2026-10-02T05:14:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-09-27T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Pinkie Pie's Cupcake Party",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://eightblackey.itch.io/pinkie-pies-cupcake-party",
+      "category": "Game",
+      "expiryDate": "2026-10-02T05:14:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
       "title": "Gamers Club Repeat",
@@ -184,6 +184,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
+      "title": "PARTY LINE",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/party-line",
+      "category": "Game",
+      "expiryDate": "2026-10-05T15:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+    },
+    {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,6 +220,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
+      "title": "DIRE ECHO",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/dire-echo",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -220,13 +238,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "PARTY LINE",
+      "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/party-line",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
       "category": "Game",
-      "expiryDate": "2026-10-05T15:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
+      "expiryDate": "2026-09-30T11:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-09-30T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "DON’T DO IT",
@@ -236,15 +263,6 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
       "title": "Deadshot",
