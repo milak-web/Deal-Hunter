@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T08:25:03.534Z",
+  "lastUpdated": "2026-09-21T15:13:48.352Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -27,7 +27,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-09-21T22:42:00.000Z",
+      "expiryDate": "2026-09-23T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-09-22T17:00:00.000Z",
+      "expiryDate": "2026-09-23T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -67,13 +67,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
     },
     {
-      "title": "BACKROOMS (.EXE) バックルームズ (.EXE)",
+      "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://argondevilguiderods.itch.io/liminal",
+      "link": "https://notsospecialgames.itch.io/party-line",
       "category": "Game",
-      "expiryDate": "2026-09-21T12:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5NDE1OTg3LnBuZw==/315x250%23c/J0eaB8.png"
+      "expiryDate": "2026-10-05T15:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
     },
     {
       "title": "NIGHTBELL",
@@ -92,15 +92,6 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
-    },
-    {
-      "title": "PARTY LINE",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/party-line",
-      "category": "Game",
-      "expiryDate": "2026-10-05T15:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjYyNDAwLnBuZw==/315x250%23c/jTe25l.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -148,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-09-30T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,15 +146,6 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-10-02T13:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "The Additional Dimension",
@@ -184,6 +157,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-09-30T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-10-02T13:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
       "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T01:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
+    },
+    {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-09-30T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "The Broken Horn",
@@ -211,15 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTQzMjUwLnBuZw==/315x250%23c/O0iDqY.png"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-      "category": "Game",
-      "expiryDate": "2026-09-30T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +227,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T11:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMzMyMzk0LnBuZw==/315x250%23c/kkNSz2.png"
+    },
+    {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
       "title": "Deadshot",
