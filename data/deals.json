@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T17:37:05.857Z",
+  "lastUpdated": "2026-09-23T20:54:15.233Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -76,24 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
-      "title": "Gamers Club Repeat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +92,24 @@
       "category": "Game",
       "expiryDate": "2026-09-24T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Gamers Club Repeat",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+      "category": "Game",
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
       "title": "Ward 7",
@@ -175,15 +175,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "DON’T DO IT",
@@ -202,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
       "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "Back to Modern World - Fantasy Hero",
@@ -238,15 +238,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif"
     },
     {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-09-30T01:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
-    },
-    {
       "title": "Back to Modern World - Fantasy Hero 2: Magic Academy",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -254,6 +245,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTQzMjUwLnBuZw==/315x250%23c/O0iDqY.png"
+    },
+    {
+      "title": "Evertrust Life And Beyond (Full Game)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
+      "category": "Game",
+      "expiryDate": "2026-09-30T01:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "Floor unknown",
