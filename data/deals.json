@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T07:04:01.963Z",
+  "lastUpdated": "2026-09-23T12:50:09.341Z",
   "deals": [
     {
       "title": "Mindcop",
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-09-25T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "The Additional Dimension",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -92,6 +83,15 @@
       "category": "Game",
       "expiryDate": "2026-10-05T15:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-09-25T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
       "title": "Lord of Chaos",
@@ -193,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
-      "title": "Ghost:TheForest",
+      "title": "Back to Modern World - Fantasy Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://jonathan-linux.itch.io/ghosttheforest",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
       "category": "Game",
-      "expiryDate": "2026-09-23T17:17:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDk3MDM2LnBuZw==/315x250%23c/35zQOR.png"
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -238,13 +229,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Ghost:TheForest",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://jonathan-linux.itch.io/ghosttheforest",
+      "category": "Game",
+      "expiryDate": "2026-09-23T17:17:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMDk3MDM2LnBuZw==/315x250%23c/35zQOR.png"
+    },
+    {
       "title": "Snakehead",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://woodchair.itch.io/snakehead",
       "category": "Game",
       "expiryDate": "2026-09-30T10:48:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTE0MTUyLnBuZw==/315x250%23c/eNvWZW.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif"
+    },
+    {
+      "title": "Evertrust Life And Beyond (Full Game)",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
+      "category": "Game",
+      "expiryDate": "2026-09-30T01:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "Back to Modern World - Fantasy Hero 2: Magic Academy",
@@ -263,15 +272,6 @@
       "category": "Game",
       "expiryDate": "2026-09-30T22:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
-    },
-    {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-09-30T01:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "Deadshot",
