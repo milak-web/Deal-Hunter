@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-24T12:36:59.457Z",
+  "lastUpdated": "2026-09-24T17:40:10.186Z",
   "deals": [
     {
-      "title": "Mindcop",
+      "title": "Astrea Six Sided Oracles",
       "platform": "Epic Games",
-      "originalPrice": "$14.99",
-      "link": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
+      "originalPrice": "$24.99",
+      "link": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
       "category": "Game",
-      "startDate": "2026-09-17T15:00:00.000Z",
-      "expiryDate": "2026-09-24T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg"
+      "startDate": "2026-09-24T15:00:00.000Z",
+      "expiryDate": "2026-10-01T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-av5rc.png"
     },
     {
-      "title": "Shogun Showdown",
+      "title": "Mechabellum",
       "platform": "Epic Games",
       "originalPrice": "$14.99",
-      "link": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
+      "link": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
       "category": "Game",
-      "startDate": "2026-09-17T15:00:00.000Z",
-      "expiryDate": "2026-09-24T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg"
+      "startDate": "2026-09-24T15:00:00.000Z",
+      "expiryDate": "2026-10-01T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-1jq5t.jpg"
     },
     {
       "title": "Sabado: Day One",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "The Additional Dimension",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
-      "category": "Game",
-      "expiryDate": "2026-10-05T15:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -121,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Ward 7",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://apish-box-games.itch.io/ward-7",
-      "category": "Game",
-      "expiryDate": "2026-10-03T19:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +119,24 @@
       "category": "Game",
       "expiryDate": "2026-10-05T15:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "The Additional Dimension",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "category": "Game",
+      "expiryDate": "2026-10-05T15:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
+      "title": "Ward 7",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://apish-box-games.itch.io/ward-7",
+      "category": "Game",
+      "expiryDate": "2026-10-03T19:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
     },
     {
       "title": "NIGHTBELL",
@@ -189,7 +189,7 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-09-27T20:40:00.000Z",
+      "expiryDate": "2026-10-08T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
@@ -200,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-09-25T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "Eldheim — The Forgotten Secrets",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://warlord-79.itch.io/eldheim",
+      "category": "Game",
+      "expiryDate": "2026-09-29T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTc3ODk1LnBuZw==/315x250%23c/lERLrD.png"
     },
     {
       "title": "Another World Adventures",
@@ -229,31 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero 2: Magic Academy",
+      "title": "Backmare",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
+      "link": "https://joao-acelino-official.itch.io/backmare",
       "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTQzMjUwLnBuZw==/315x250%23c/O0iDqY.png"
-    },
-    {
-      "title": "Seraphim Automata",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dylancassidy.itch.io/seraphim-automata",
-      "category": "Game",
-      "expiryDate": "2026-09-29T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
-    },
-    {
-      "title": "Floor unknown",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thehandcrafter.itch.io/floor-unknown",
-      "category": "Game",
-      "expiryDate": "2026-09-30T22:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+      "expiryDate": "2026-10-13T18:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NTkyMTIzLnBuZw==/315x250%23c/eTr88D.png"
     },
     {
       "title": "Trapped",
@@ -265,13 +256,40 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTA5NzU4LnBuZw==/315x250%23c/O0zNE8.png"
     },
     {
-      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
+      "title": "Back to Modern World - Fantasy Hero 2: Magic Academy",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
       "category": "Game",
-      "expiryDate": "2026-10-07T14:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTQzMjUwLnBuZw==/315x250%23c/O0iDqY.png"
+    },
+    {
+      "title": "Floor unknown",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
+      "category": "Game",
+      "expiryDate": "2026-09-30T22:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+    },
+    {
+      "title": "Seraphim Automata",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dylancassidy.itch.io/seraphim-automata",
+      "category": "Game",
+      "expiryDate": "2026-09-29T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
+    },
+    {
+      "title": "Cardpocalypse",
+      "platform": "Mobile",
+      "originalPrice": "$4.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-10-01T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ab53eb170f20.jpg"
     }
   ]
 }
