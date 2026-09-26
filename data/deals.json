@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T00:17:42.839Z",
+  "lastUpdated": "2026-09-26T05:14:21.796Z",
   "deals": [
     {
       "title": "Astrea Six Sided Oracles",
@@ -49,24 +49,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-09-26T22:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-09-27T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -85,22 +67,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
-      "title": "NIGHTBELL",
+      "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
+      "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+      "expiryDate": "2026-09-26T22:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "The Additional Dimension",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-10-05T15:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+      "expiryDate": "2026-09-27T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Lost In Transit",
@@ -121,6 +103,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
     },
     {
+      "title": "The Additional Dimension",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "category": "Game",
+      "expiryDate": "2026-10-05T15:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -139,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
+      "title": "NIGHTBELL",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://truegamesstudio.itch.io/nightbell",
+      "category": "Game",
+      "expiryDate": "2026-09-30T14:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -146,6 +146,24 @@
       "category": "Game",
       "expiryDate": "2026-10-02T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
+    },
+    {
+      "title": "Employee 925",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://jantunes.itch.io/employee925",
+      "category": "Game",
+      "expiryDate": "2026-09-26T19:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTU3NTE3LmpwZw==/315x250%23c/3oeN6g.jpg"
+    },
+    {
+      "title": "snowstorm",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://davidmunozt.itch.io/snowstorm",
+      "category": "Game",
+      "expiryDate": "2026-09-27T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Mjc4NzQ3LnBuZw==/315x250%23c/Wrda2R.png"
     },
     {
       "title": "DIRE ECHO",
@@ -175,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
-    },
-    {
       "title": "The Last Laugh",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,6 +200,15 @@
       "category": "Game",
       "expiryDate": "2026-10-06T03:24:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
+    },
+    {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "Eternal Night",
@@ -202,40 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "snowstorm",
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://davidmunozt.itch.io/snowstorm",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
       "category": "Game",
-      "expiryDate": "2026-09-27T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Mjc4NzQ3LnBuZw==/315x250%23c/Wrda2R.png"
-    },
-    {
-      "title": "Employee 925",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://jantunes.itch.io/employee925",
-      "category": "Game",
-      "expiryDate": "2026-09-26T19:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTU3NTE3LmpwZw==/315x250%23c/3oeN6g.jpg"
-    },
-    {
-      "title": "Seraphim Automata",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dylancassidy.itch.io/seraphim-automata",
-      "category": "Game",
-      "expiryDate": "2026-09-29T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
-    },
-    {
-      "title": "Backmare",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://joao-acelino-official.itch.io/backmare",
-      "category": "Game",
-      "expiryDate": "2026-10-13T18:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NTkyMTIzLnBuZw==/315x250%23c/eTr88D.png"
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
     },
     {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
@@ -247,22 +238,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
-      "title": "Trapped",
+      "title": "Backmare",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://komodroidnz.itch.io/trapped",
+      "link": "https://joao-acelino-official.itch.io/backmare",
       "category": "Game",
-      "expiryDate": "2026-09-29T21:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTA5NzU4LnBuZw==/315x250%23c/O0zNE8.png"
+      "expiryDate": "2026-10-13T18:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3NTkyMTIzLnBuZw==/315x250%23c/eTr88D.png"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero 2: Magic Academy",
+      "title": "Seraphim Automata",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
+      "link": "https://dylancassidy.itch.io/seraphim-automata",
       "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTQzMjUwLnBuZw==/315x250%23c/O0iDqY.png"
+      "expiryDate": "2026-09-29T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvNzI2MjgvMzUzNDU2LnBuZw==/315x250%23c/zwEQJC.png"
     },
     {
       "title": "Castlevania: 40th Anniversary",
