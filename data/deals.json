@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:00:56.387Z",
+  "lastUpdated": "2026-09-26T14:37:04.101Z",
   "deals": [
     {
       "title": "Astrea Six Sided Oracles",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Ward 7",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://apish-box-games.itch.io/ward-7",
-      "category": "Game",
-      "expiryDate": "2026-10-03T19:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
+    },
+    {
+      "title": "Ward 7",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://apish-box-games.itch.io/ward-7",
+      "category": "Game",
+      "expiryDate": "2026-10-03T19:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -148,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTU3NTE3LmpwZw==/315x250%23c/3oeN6g.jpg"
     },
     {
+      "title": "KHRONOMATRIX",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://a590games.itch.io/khronomatrix",
+      "category": "Game",
+      "expiryDate": "2026-10-10T19:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjUxNDI1LnBuZw==/315x250%23c/oD8uhv.png"
+    },
+    {
       "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +164,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
+    },
+    {
+      "title": "United Space Patrol",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dancingdots.itch.io/united-space-patrol",
+      "category": "Game",
+      "expiryDate": "2026-10-02T14:35:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjQ3MzQxLnBuZw==/315x250%23c/qrZ0gf.png"
     },
     {
       "title": "DIRE ECHO",
@@ -175,6 +193,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Mjc4NzQ3LnBuZw==/315x250%23c/Wrda2R.png"
     },
     {
+      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "category": "Game",
+      "expiryDate": "2026-09-30T17:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
+    },
+    {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-09-30T11:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+    },
+    {
       "title": "The Last Laugh",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -182,15 +218,6 @@
       "category": "Game",
       "expiryDate": "2026-10-06T03:24:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
-    },
-    {
-      "title": "Eldheim — The Forgotten Secrets",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://warlord-79.itch.io/eldheim",
-      "category": "Game",
-      "expiryDate": "2026-09-29T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTc3ODk1LnBuZw==/315x250%23c/lERLrD.png"
     },
     {
       "title": "Another World Adventures",
@@ -211,22 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
-      "title": "MiniColonyAdventures – Build, Expand & Survive",
+      "title": "Eldheim — The Forgotten Secrets",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://gamebuegar.itch.io/colonyadventure",
+      "link": "https://warlord-79.itch.io/eldheim",
       "category": "Game",
-      "expiryDate": "2026-09-30T17:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
-    },
-    {
-      "title": "Eternal Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
-      "category": "Game",
-      "expiryDate": "2026-09-30T11:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+      "expiryDate": "2026-09-29T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTc3ODk1LnBuZw==/315x250%23c/lERLrD.png"
     },
     {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
