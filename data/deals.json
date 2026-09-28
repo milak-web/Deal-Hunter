@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T12:29:48.255Z",
+  "lastUpdated": "2026-09-28T19:47:52.121Z",
   "deals": [
     {
       "title": "Astrea Six Sided Oracles",
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-09-30T01:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
-    },
-    {
       "title": "NIGHTBELL",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "KHRONOMATRIX",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://a590games.itch.io/khronomatrix",
-      "category": "Game",
-      "expiryDate": "2026-10-10T19:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjUxNDI1LnBuZw==/315x250%23c/oD8uhv.png"
-    },
-    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
     },
     {
+      "title": "KHRONOMATRIX",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://a590games.itch.io/khronomatrix",
+      "category": "Game",
+      "expiryDate": "2026-10-10T19:43:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjUxNDI1LnBuZw==/315x250%23c/oD8uhv.png"
+    },
+    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T13:25:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Wasteland Alone",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "category": "Game",
+      "expiryDate": "2026-09-30T11:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
     },
     {
       "title": "Tea Party For 4",
@@ -175,13 +175,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
-      "title": "Wasteland Alone",
+      "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
       "category": "Game",
       "expiryDate": "2026-09-30T11:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
       "title": "United Space Patrol",
@@ -193,15 +193,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjQ3MzQxLnBuZw==/315x250%23c/qrZ0gf.png"
     },
     {
-      "title": "Eternal Night",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
-      "category": "Game",
-      "expiryDate": "2026-09-30T11:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
-    },
-    {
       "title": "MiniColonyAdventures – Build, Expand & Survive",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -209,6 +200,24 @@
       "category": "Game",
       "expiryDate": "2026-09-30T17:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1ODYxNjIyLnBuZw==/315x250%23c/5xN9NN.png"
+    },
+    {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+    },
+    {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "The Last Laugh",
@@ -220,13 +229,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero",
+      "title": "Trapped",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "link": "https://komodroidnz.itch.io/trapped",
       "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+      "expiryDate": "2026-09-29T21:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTA5NzU4LnBuZw==/315x250%23c/O0zNE8.png"
+    },
+    {
+      "title": "Violetti Goottii",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thewgreen.itch.io/violetti-goottii",
+      "category": "Game",
+      "expiryDate": "2026-10-03T07:51:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzY3MTU4NDUucG5n/315x250%23c/nT6ruI.png"
+    },
+    {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": "2026-09-30T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
     },
     {
       "title": "Castlevania: 40th Anniversary",
