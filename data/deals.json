@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T05:56:32.267Z",
+  "lastUpdated": "2026-09-29T12:01:08.030Z",
   "deals": [
     {
       "title": "Astrea Six Sided Oracles",
@@ -130,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
+      "title": "Express No.6",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://askgames.itch.io/express-no6",
+      "category": "Game",
+      "expiryDate": "2026-10-05T06:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NDUyMjg5LnBuZw==/315x250%23c/ATBRpW.png"
+    },
+    {
       "title": "DIRE ECHO",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-09-30T14:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
+    },
+    {
+      "title": "Token Maxing",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/token-maxing",
+      "category": "Game",
+      "expiryDate": "2026-10-13T10:41:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
     },
     {
       "title": "Apartment №202",
