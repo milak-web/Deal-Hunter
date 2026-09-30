@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T13:23:52.303Z",
+  "lastUpdated": "2026-09-30T18:29:42.910Z",
   "deals": [
     {
       "title": "Astrea Six Sided Oracles",
@@ -67,15 +67,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
-      "title": "NIGHTBELL",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/nightbell",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTMzODg3LnBuZw==/315x250%23c/iJbE6Y.png"
-    },
-    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,24 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
     },
     {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-09-30T13:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
-    },
-    {
-      "title": "DIRE ECHO",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://truegamesstudio.itch.io/dire-echo",
-      "category": "Game",
-      "expiryDate": "2026-09-30T14:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3NzExNzE0LnBuZw==/315x250%23c/Zzt6vC.png"
-    },
-    {
       "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -193,6 +166,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
+      "title": "The Last Laugh",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://one-deep.itch.io/the-last-laugh",
+      "category": "Game",
+      "expiryDate": "2026-10-06T03:24:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
+    },
+    {
+      "title": "Risk of Ruin",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cachecarti.itch.io/risk-of-ruin",
+      "category": "Game",
+      "expiryDate": "2026-10-16T00:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzU3MzE3LmpwZw==/315x250%23c/tM6N4O.jpg"
+    },
+    {
       "title": "KHRONOMATRIX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,15 +202,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
-      "title": "The Last Laugh",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-deep.itch.io/the-last-laugh",
-      "category": "Game",
-      "expiryDate": "2026-10-06T03:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
-    },
-    {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,6 +211,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
+      "title": "Bride of Karsaz",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "category": "Game",
+      "expiryDate": "2026-09-30T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
+    },
+    {
+      "title": "The Killer Bunny",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://northsignal.itch.io/the-killer-bunny",
+      "category": "Game",
+      "expiryDate": "2026-10-06T10:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
+    },
+    {
       "title": "United Space Patrol",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,6 +236,15 @@
       "category": "Game",
       "expiryDate": "2026-10-02T14:35:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjQ3MzQxLnBuZw==/315x250%23c/qrZ0gf.png"
+    },
+    {
+      "title": "Last Breath",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://molotov-kittens.itch.io/last-breath",
+      "category": "Game",
+      "expiryDate": "2026-10-09T10:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
       "title": "Castlevania: 40th Anniversary",
