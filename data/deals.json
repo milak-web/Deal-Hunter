@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T18:29:42.910Z",
+  "lastUpdated": "2026-09-30T22:29:55.890Z",
   "deals": [
     {
       "title": "Astrea Six Sided Oracles",
@@ -130,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
-    },
-    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,6 +139,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "Reincarnated as a Noble - RPG",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+      "category": "Game",
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
+    },
+    {
       "title": "Massacre Among the Trees",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,15 +155,6 @@
       "category": "Game",
       "expiryDate": "2026-10-09T18:32:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5MTEzNjI0LnBuZw==/315x250%23c/gZo2Jz.png"
-    },
-    {
-      "title": "Another World Adventures",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
     },
     {
       "title": "The Last Laugh",
@@ -184,6 +175,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMzU3MzE3LmpwZw==/315x250%23c/tM6N4O.jpg"
     },
     {
+      "title": "Another World Adventures",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/another-world-adventures",
+      "category": "Game",
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTMzLnBuZw==/315x250%23c/HmLqMC.png"
+    },
+    {
       "title": "KHRONOMATRIX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -191,15 +191,6 @@
       "category": "Game",
       "expiryDate": "2026-10-10T19:43:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjUxNDI1LnBuZw==/315x250%23c/oD8uhv.png"
-    },
-    {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "The Sweet Treats Man! - Gameboy Analog Horror",
@@ -211,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
     },
     {
-      "title": "Bride of Karsaz",
+      "title": "Back to Modern World - Fantasy Hero",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://imranaziz.itch.io/bride-of-karsaz",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
       "category": "Game",
-      "expiryDate": "2026-09-30T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTE1MzE0LnBuZw==/315x250%23c/SmLxlJ.png"
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "The Killer Bunny",
