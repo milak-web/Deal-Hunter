@@ -1,34 +1,25 @@
 {
-  "lastUpdated": "2026-10-01T14:39:55.011Z",
+  "lastUpdated": "2026-10-01T20:00:12.745Z",
   "deals": [
     {
-      "title": "Astrea Six Sided Oracles",
+      "title": "System Shock 2: 25th Anniversary Remaster",
       "platform": "Epic Games",
-      "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
+      "originalPrice": "$29.99",
+      "link": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
       "category": "Game",
-      "startDate": "2026-09-24T15:00:00.000Z",
-      "expiryDate": "2026-10-01T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-av5rc.png"
+      "startDate": "2026-10-01T15:00:00.000Z",
+      "expiryDate": "2026-10-08T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-15vqr.jpg"
     },
     {
-      "title": "Mechabellum",
+      "title": "BURIED STARS",
       "platform": "Epic Games",
-      "originalPrice": "$14.99",
-      "link": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
+      "originalPrice": "$39.99",
+      "link": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
       "category": "Game",
-      "startDate": "2026-09-24T15:00:00.000Z",
-      "expiryDate": "2026-10-01T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-1jq5t.jpg"
-    },
-    {
-      "title": "Express No.6",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://askgames.itch.io/express-no6",
-      "category": "Game",
-      "expiryDate": "2026-10-01T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NDUyMjg5LnBuZw==/315x250%23c/ATBRpW.png"
+      "startDate": "2026-10-01T15:00:00.000Z",
+      "expiryDate": "2026-10-08T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
     },
     {
       "title": "The Additional Dimension",
@@ -67,30 +58,12 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjY0ODcucG5n/315x250%23c/4HW8jH.png"
     },
     {
-      "title": "Token Maxing",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/token-maxing",
-      "category": "Game",
-      "expiryDate": "2026-10-13T10:41:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
-    },
-    {
-      "title": "Ward 7",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://apish-box-games.itch.io/ward-7",
-      "category": "Game",
-      "expiryDate": "2026-10-03T19:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
-    },
-    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-10-01T22:42:00.000Z",
+      "expiryDate": "2026-10-03T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
@@ -103,22 +76,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Ward 7",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://apish-box-games.itch.io/ward-7",
+      "category": "Game",
+      "expiryDate": "2026-10-03T19:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
+    },
+    {
+      "title": "Token Maxing",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/token-maxing",
+      "category": "Game",
+      "expiryDate": "2026-10-13T10:41:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-10-02T17:00:00.000Z",
+      "expiryDate": "2026-10-04T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-10-27T12:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -130,6 +112,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-10-27T12:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
       "title": "Gamers Club Repeat",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,24 +128,6 @@
       "category": "Game",
       "expiryDate": "2026-10-02T08:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTA2MTMyLnBuZw==/315x250%23c/mdKj0%2F.png"
-    },
-    {
-      "title": "Evertrust Life And Beyond (Full Game)",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
-      "category": "Game",
-      "expiryDate": "2026-10-05T01:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
-    },
-    {
-      "title": "Reincarnated as a Noble - RPG",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-      "category": "Game",
-      "expiryDate": "2026-10-02T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -175,13 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Risk of Ruin",
+      "title": "Evertrust Life And Beyond (Full Game)",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://cachecarti.itch.io/risk-of-ruin",
+      "link": "https://after-life-craft.itch.io/evertrust-life-beyond",
       "category": "Game",
-      "expiryDate": "2026-10-16T00:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzU3MzE3LmpwZw==/315x250%23c/tM6N4O.jpg"
+      "expiryDate": "2026-10-05T01:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -193,49 +166,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "The Killer Bunny",
+      "title": "Reincarnated as a Noble - RPG",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://northsignal.itch.io/the-killer-bunny",
+      "link": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
       "category": "Game",
-      "expiryDate": "2026-10-06T10:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4Mzg1NTkxLnBuZw==/315x250%23c/SVz57V.png"
+      "expiryDate": "2026-10-02T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MjEwLnBuZw==/315x250%23c/%2FFr2wq.png"
     },
     {
-      "title": "Massacre Among the Trees",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vannys.itch.io/massacre-among-the-trees",
-      "category": "Game",
-      "expiryDate": "2026-10-09T18:32:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTEzNjI0LnBuZw==/315x250%23c/gZo2Jz.png"
-    },
-    {
-      "title": "The Sweet Treats Man! - Gameboy Analog Horror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bluecupcakegames.itch.io/the-sweet-treats-man-gameboy-analog-horror",
-      "category": "Game",
-      "expiryDate": "2026-10-07T14:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEwMTEyMTMwLnBuZw==/315x250%23c/oJrRK3.png"
-    },
-    {
-      "title": "The Last Laugh",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-deep.itch.io/the-last-laugh",
-      "category": "Game",
-      "expiryDate": "2026-10-06T03:24:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg"
-    },
-    {
-      "title": "Last Breath",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://molotov-kittens.itch.io/last-breath",
-      "category": "Game",
-      "expiryDate": "2026-10-09T10:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
+      "title": "Bridge Constructor Studio",
+      "platform": "Mobile",
+      "originalPrice": "$5.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-10-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6abe794335daf.jpg"
     },
     {
       "title": "Castlevania: 40th Anniversary",
@@ -245,15 +191,6 @@
       "category": "Mobile",
       "expiryDate": "2026-10-24T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6ab6470a4ddf0.jpg"
-    },
-    {
-      "title": "Cardpocalypse",
-      "platform": "Mobile",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-10-01T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ab53eb170f20.jpg"
     }
   ]
 }
