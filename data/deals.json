@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T20:50:55.616Z",
+  "lastUpdated": "2026-10-03T00:04:56.880Z",
   "deals": [
     {
       "title": "System Shock 2: 25th Anniversary Remaster",
@@ -54,7 +54,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-10-03T22:42:00.000Z",
+      "expiryDate": "2026-10-05T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
@@ -85,13 +85,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Backrooms Crawlers",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-10-27T12:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+      "expiryDate": "2026-10-06T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Token Maxing",
@@ -103,13 +103,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-10-04T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-10-27T12:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -128,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Bounty Train",
