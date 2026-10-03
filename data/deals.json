@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T15:00:18.757Z",
+  "lastUpdated": "2026-10-03T18:45:07.090Z",
   "deals": [
     {
       "title": "System Shock 2: 25th Anniversary Remaster",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjQyNjY5LnBuZw==/315x250%23c/WJ7t0N.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Lord of Chaos",
@@ -139,13 +139,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
     },
     {
-      "title": "Last Breath",
+      "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://molotov-kittens.itch.io/last-breath",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
       "category": "Game",
-      "expiryDate": "2026-10-09T10:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
+      "expiryDate": "2026-10-31T12:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
       "title": "Bounty Train",
