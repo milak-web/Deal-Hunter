@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T00:16:51.636Z",
+  "lastUpdated": "2026-10-04T06:07:17.346Z",
   "deals": [
     {
       "title": "System Shock 2: 25th Anniversary Remaster",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
     },
     {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
       "title": "The Additional Dimension",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-10-05T15:33:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
+    },
+    {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Final Witness",
@@ -85,24 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-10-06T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Eternal Night",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "category": "Game",
+      "expiryDate": "2026-10-31T12:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -121,6 +112,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
       "title": "Token Maxing",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -130,13 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
     },
     {
-      "title": "Eternal Night",
+      "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/eternal-night",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
       "category": "Game",
-      "expiryDate": "2026-10-31T12:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "Bounty Train",
