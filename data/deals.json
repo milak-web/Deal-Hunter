@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T23:22:40.971Z",
+  "lastUpdated": "2026-10-05T02:11:33.555Z",
   "deals": [
     {
       "title": "System Shock 2: 25th Anniversary Remaster",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
     },
     {
-      "title": "The Additional Dimension",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
-      "category": "Game",
-      "expiryDate": "2026-10-05T15:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
-    },
-    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -38,6 +29,15 @@
       "category": "Game",
       "expiryDate": "2026-10-29T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
+      "title": "The Additional Dimension",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/the-additional-dimension",
+      "category": "Game",
+      "expiryDate": "2026-10-05T15:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDc1MDQwLnBuZw==/315x250%23c/o4w8a0.png"
     },
     {
       "title": "Final Witness",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-10-27T12:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -112,40 +103,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Token Maxing",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/token-maxing",
-      "category": "Game",
-      "expiryDate": "2026-10-13T10:41:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc1NzcwLnBuZw==/315x250%23c/L%2FvTeS.png"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Wasteland Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vladislive-dev.itch.io/wasteland-alone",
-      "category": "Game",
-      "expiryDate": "2026-10-31T12:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0ODUxMTkwLnBuZw==/315x250%23c/yVjMg0.png"
+      "expiryDate": "2026-10-27T12:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Bounty Train",
