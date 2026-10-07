@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T09:35:32.644Z",
+  "lastUpdated": "2026-10-07T17:07:57.384Z",
   "deals": [
     {
       "title": "System Shock 2: 25th Anniversary Remaster",
@@ -103,15 +103,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-10T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Eternal Night",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -121,13 +112,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+      "expiryDate": "2026-10-10T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "The Copper Hill",
@@ -139,13 +130,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Tiny Tails: The Whale’s Tale",
+      "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://al7ussain.itch.io/whale-game",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
       "category": "Game",
-      "expiryDate": "2026-10-31T09:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -157,6 +148,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
+      "title": "Tiny Tails: The Whale’s Tale",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://al7ussain.itch.io/whale-game",
+      "category": "Game",
+      "expiryDate": "2026-10-31T09:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
+    },
+    {
       "title": "Floor unknown",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,6 +164,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
+    },
+    {
+      "title": "Spooky Cats Steam",
+      "platform": "Steam",
+      "originalPrice": "$2.99",
+      "link": "https://www.fanatical.com/en/game/spooky-cats",
+      "category": "Game",
+      "expiryDate": "2026-10-09T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ac6201af0cf6.jpg"
     },
     {
       "title": "Bridge Constructor Studio",
