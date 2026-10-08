@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-10-08T09:14:24.352Z",
+  "lastUpdated": "2026-10-08T16:41:40.128Z",
   "deals": [
     {
-      "title": "System Shock 2: 25th Anniversary Remaster",
+      "title": "Out of Sight",
       "platform": "Epic Games",
-      "originalPrice": "$29.99",
-      "link": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+      "originalPrice": "$14.99",
+      "link": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
       "category": "Game",
-      "startDate": "2026-10-01T15:00:00.000Z",
-      "expiryDate": "2026-10-08T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-15vqr.jpg"
+      "startDate": "2026-10-08T15:00:00.000Z",
+      "expiryDate": "2026-10-15T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-tfgmv.jpg"
     },
     {
-      "title": "BURIED STARS",
+      "title": "TerraScape",
       "platform": "Epic Games",
-      "originalPrice": "$39.99",
-      "link": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
+      "originalPrice": "$16.99",
+      "link": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
       "category": "Game",
-      "startDate": "2026-10-01T15:00:00.000Z",
-      "expiryDate": "2026-10-08T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+      "startDate": "2026-10-08T15:00:00.000Z",
+      "expiryDate": "2026-10-15T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-x908b.png"
     },
     {
       "title": "Tyler's Deal",
@@ -63,7 +63,7 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-10-08T20:40:00.000Z",
+      "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-10-09T22:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -92,6 +83,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-10-11T22:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "Eternal Night",
@@ -112,6 +112,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-12T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "The Copper Hill",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://p3trol.itch.io/the-copper-hill",
+      "category": "Game",
+      "expiryDate": "2026-11-03T10:16:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
       "title": "Last Breath",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,15 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-10-09T10:29:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-10T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -148,15 +157,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTY3MjIyLnBuZw==/315x250%23c/6jNCt2.png"
     },
     {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-11-03T10:16:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
-    },
-    {
       "title": "Tiny Tails: The Whale’s Tale",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -175,6 +175,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png"
     },
     {
+      "title": "FutNova Futbol Match Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://enlzgames.itch.io/futnova-futbol-match-simulator",
+      "category": "Game",
+      "expiryDate": "2026-10-14T07:12:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTI3NDgwLnBuZw==/315x250%23c/%2FZIKe7.png"
+    },
+    {
+      "title": "The Big Con",
+      "platform": "Mobile",
+      "originalPrice": "$5.99",
+      "link": "https://store.epicgames.com/mobile",
+      "category": "Mobile",
+      "expiryDate": "2026-10-15T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ac7b2efb9d34.jpg"
+    },
+    {
       "title": "Spooky Cats Steam",
       "platform": "Steam",
       "originalPrice": "$2.99",
@@ -182,15 +200,6 @@
       "category": "Game",
       "expiryDate": "2026-10-09T23:59:00.000Z",
       "imageUrl": "https://www.gamerpower.com/offers/1/6ac6201af0cf6.jpg"
-    },
-    {
-      "title": "Bridge Constructor Studio",
-      "platform": "Mobile",
-      "originalPrice": "$5.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-10-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6abe794335daf.jpg"
     },
     {
       "title": "Castlevania: 40th Anniversary",
