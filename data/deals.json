@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T15:25:13.941Z",
+  "lastUpdated": "2026-10-09T20:11:20.717Z",
   "deals": [
     {
       "title": "Out of Sight",
@@ -29,15 +29,6 @@
       "category": "Game",
       "expiryDate": "2026-11-01T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
-      "title": "Solace Inc.",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/solace-inc",
-      "category": "Game",
-      "expiryDate": "2026-10-09T15:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
     },
     {
       "title": "Sabado: Day One",
@@ -121,15 +112,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "Fissionary - Full Version",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://swan-e93.itch.io/fissionary-full-version",
-      "category": "Game",
-      "expiryDate": "2026-10-12T20:52:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTY3MjIyLnBuZw==/315x250%23c/6jNCt2.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +119,15 @@
       "category": "Game",
       "expiryDate": "2026-10-12T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Fissionary - Full Version",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://swan-e93.itch.io/fissionary-full-version",
+      "category": "Game",
+      "expiryDate": "2026-10-12T20:52:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTY3MjIyLnBuZw==/315x250%23c/6jNCt2.png"
     },
     {
       "title": "UNSEEN LINES",
@@ -184,6 +175,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-10-18T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+    },
+    {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
       "title": "Another World Adventures",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,22 +220,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Cherophobia",
+      "title": "Floor unknown",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
+      "link": "https://thehandcrafter.itch.io/floor-unknown",
       "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+      "expiryDate": "2026-10-31T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png"
     },
     {
-      "title": "Back to Modern World - Fantasy Hero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "title": "Fireside Feelings",
+      "platform": "Steam",
+      "originalPrice": "$7.99",
+      "link": "https://store.steampowered.com/app/2990600/Fireside_Feelings",
       "category": "Game",
-      "expiryDate": "2026-10-18T08:33:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
+      "expiryDate": "2026-10-12T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ac9213823833.jpg"
     },
     {
       "title": "Pony Island",
