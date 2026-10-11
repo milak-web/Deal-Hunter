@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T13:11:45.440Z",
+  "lastUpdated": "2026-10-11T18:13:13.625Z",
   "deals": [
     {
       "title": "Out of Sight",
@@ -31,15 +31,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
       "title": "OFFRECORD",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -49,13 +40,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzI3NzE5LnBuZw==/315x250%23c/aZ4kqh.png"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+      "expiryDate": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -65,6 +56,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -117,7 +117,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-10-14T17:00:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
@@ -126,8 +126,17 @@
       "originalPrice": "N/A",
       "link": "https://unseen-lines.itch.io/unseen-lines",
       "category": "Game",
-      "expiryDate": "2026-10-30T23:32:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTM2OTM0LnBuZw==/315x250%23c/TlPpuC.png"
+    },
+    {
+      "title": "Pressure Below",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://barhe.itch.io/pressure-below",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzE2ODM3LnBuZw==/315x250%23c/zcOy5R.png"
     },
     {
       "title": "CULT OF FLIES",
@@ -139,15 +148,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,31 +157,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Fissionary - Full Version",
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://swan-e93.itch.io/fissionary-full-version",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
       "category": "Game",
-      "expiryDate": "2026-10-12T20:52:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTY3MjIyLnBuZw==/315x250%23c/6jNCt2.png"
-    },
-    {
-      "title": "Tiny Tails: The Whale’s Tale",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://al7ussain.itch.io/whale-game",
-      "category": "Game",
-      "expiryDate": "2026-10-31T09:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
-    },
-    {
-      "title": "Still Alive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://0zanm.itch.io/still-alive",
-      "category": "Game",
-      "expiryDate": "2026-10-17T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzMTE0NTQ0LnBuZw==/315x250%23c/GVWdcu.png"
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
       "title": "Apartment №202",
@@ -193,6 +175,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
+      "title": "Tiny Tails: The Whale’s Tale",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://al7ussain.itch.io/whale-game",
+      "category": "Game",
+      "expiryDate": "2026-10-31T09:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
+    },
+    {
+      "title": "Fissionary - Full Version",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://swan-e93.itch.io/fissionary-full-version",
+      "category": "Game",
+      "expiryDate": "2026-10-12T20:52:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTY3MjIyLnBuZw==/315x250%23c/6jNCt2.png"
+    },
+    {
       "title": "Tea Party For 4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -200,6 +200,33 @@
       "category": "Game",
       "expiryDate": "2026-10-13T07:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
+    },
+    {
+      "title": "Still Alive",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://0zanm.itch.io/still-alive",
+      "category": "Game",
+      "expiryDate": "2026-10-17T10:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzMTE0NTQ0LnBuZw==/315x250%23c/GVWdcu.png"
+    },
+    {
+      "title": "Flunked",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://oledeye.itch.io/flunked",
+      "category": "Game",
+      "expiryDate": "2026-11-01T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
+    },
+    {
+      "title": "Back to Modern World - Fantasy Hero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+      "category": "Game",
+      "expiryDate": "2026-10-18T08:33:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTM1MTQ5LnBuZw==/315x250%23c/9hFwrA.png"
     },
     {
       "title": "Fireside Feelings",
