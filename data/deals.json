@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T18:13:13.625Z",
+  "lastUpdated": "2026-10-11T22:11:45.930Z",
   "deals": [
     {
       "title": "Out of Sight",
@@ -126,7 +126,7 @@
       "originalPrice": "N/A",
       "link": "https://unseen-lines.itch.io/unseen-lines",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-10-30T23:32:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTM2OTM0LnBuZw==/315x250%23c/TlPpuC.png"
     },
     {
@@ -135,7 +135,7 @@
       "originalPrice": "N/A",
       "link": "https://barhe.itch.io/pressure-below",
       "category": "Game",
-      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "expiryDate": null,
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzE2ODM3LnBuZw==/315x250%23c/zcOy5R.png"
     },
     {
@@ -209,6 +209,15 @@
       "category": "Game",
       "expiryDate": "2026-10-17T10:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEzMTE0NTQ0LnBuZw==/315x250%23c/GVWdcu.png"
+    },
+    {
+      "title": "Poorer Art",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pidoproductions.itch.io/poorerart",
+      "category": "Game",
+      "expiryDate": "2026-10-14T07:22:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MTQyOTE2LnBuZw==/315x250%23c/IwjH8G.png"
     },
     {
       "title": "Flunked",
