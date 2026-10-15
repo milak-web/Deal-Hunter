@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-10-15T14:34:19.246Z",
+  "lastUpdated": "2026-10-15T18:47:31.019Z",
   "deals": [
     {
-      "title": "Out of Sight",
+      "title": "Bad Cheese",
       "platform": "Epic Games",
-      "originalPrice": "$14.99",
-      "link": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
+      "originalPrice": "$12.99",
+      "link": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
       "category": "Game",
-      "startDate": "2026-10-08T15:00:00.000Z",
-      "expiryDate": "2026-10-15T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-tfgmv.jpg"
+      "startDate": "2026-10-15T15:00:00.000Z",
+      "expiryDate": "2026-10-22T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png"
     },
     {
-      "title": "TerraScape",
+      "title": "Agent A: A puzzle in disguise",
       "platform": "Epic Games",
-      "originalPrice": "$16.99",
-      "link": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
+      "originalPrice": "$19.99",
+      "link": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
       "category": "Game",
-      "startDate": "2026-10-08T15:00:00.000Z",
-      "expiryDate": "2026-10-15T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-x908b.png"
+      "startDate": "2026-10-15T15:00:00.000Z",
+      "expiryDate": "2026-10-22T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
     },
     {
       "title": "OFFRECORD",
@@ -94,6 +94,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,13 +112,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Apartment №202",
+      "title": "Task Treasurer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "link": "https://tarclaiborne.itch.io/task-treasurer",
       "category": "Game",
-      "expiryDate": "2026-10-24T17:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+      "expiryDate": "2026-11-13T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -130,15 +139,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Task Treasurer",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tarclaiborne.itch.io/task-treasurer",
-      "category": "Game",
-      "expiryDate": "2026-11-13T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
-    },
-    {
       "title": "UNSEEN LINES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,15 +157,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
     },
     {
-      "title": "Slots Hacker",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob6b.itch.io/slots-hacker",
-      "category": "Game",
-      "expiryDate": "2026-10-20T01:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png"
-    },
-    {
       "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,6 +164,24 @@
       "category": "Game",
       "expiryDate": "2026-10-22T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "Slots Hacker",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob6b.itch.io/slots-hacker",
+      "category": "Game",
+      "expiryDate": "2026-10-20T01:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png"
     },
     {
       "title": "CULT OF FLIES",
@@ -191,15 +200,6 @@
       "category": "Game",
       "expiryDate": "2026-10-17T10:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzEzMTE0NTQ0LnBuZw==/315x250%23c/GVWdcu.png"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Tiny Tails: The Whale’s Tale",
@@ -229,6 +229,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -238,13 +247,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "Pressure Below",
+      "title": "A Night Alone",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://barhe.itch.io/pressure-below",
+      "link": "https://boshuaproductions.itch.io/a-night-alone",
       "category": "Game",
-      "expiryDate": "2026-10-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzE2ODM3LnBuZw==/315x250%23c/zcOy5R.png"
+      "expiryDate": "2026-10-20T12:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjczNDgyLnBuZw==/315x250%23c/icE4ho.png"
     },
     {
       "title": "Flunked",
@@ -256,13 +265,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
     },
     {
-      "title": "The Big Con",
-      "platform": "Mobile",
-      "originalPrice": "$5.99",
-      "link": "https://store.epicgames.com/mobile",
-      "category": "Mobile",
-      "expiryDate": "2026-10-15T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ac7b2efb9d34.jpg"
+      "title": "Pressure Below",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://barhe.itch.io/pressure-below",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzE2ODM3LnBuZw==/315x250%23c/zcOy5R.png"
     },
     {
       "title": "Castlevania: 40th Anniversary",
