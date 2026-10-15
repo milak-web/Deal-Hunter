@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T21:50:35.590Z",
+  "lastUpdated": "2026-10-15T00:12:06.187Z",
   "deals": [
     {
       "title": "Out of Sight",
@@ -202,6 +202,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png"
     },
     {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
       "title": "Pressure Below",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -229,13 +238,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
     },
     {
-      "title": "Lost In Transit",
+      "title": "Task Treasurer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "link": "https://tarclaiborne.itch.io/task-treasurer",
       "category": "Game",
-      "expiryDate": "2026-10-24T17:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+      "expiryDate": "2026-11-13T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
     },
     {
       "title": "Cherophobia",
