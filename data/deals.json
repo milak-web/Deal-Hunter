@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T18:47:31.019Z",
+  "lastUpdated": "2026-10-15T21:52:54.158Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -103,6 +103,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -121,15 +130,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,24 +137,6 @@
       "category": "Game",
       "expiryDate": "2026-10-19T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "UNSEEN LINES",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://unseen-lines.itch.io/unseen-lines",
-      "category": "Game",
-      "expiryDate": "2026-10-30T23:32:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODAwMDI3LnBuZw==/315x250%23c/LEQ78h.png"
-    },
-    {
-      "title": "GO FETCH THE CLOTHES [STEALTH]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-project.itch.io/go-fetch-the-clothes",
-      "category": "Game",
-      "expiryDate": "2026-10-29T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
     },
     {
       "title": "Cherophobia",
@@ -175,13 +157,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Slots Hacker",
+      "title": "GO FETCH THE CLOTHES [STEALTH]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://rob6b.itch.io/slots-hacker",
+      "link": "https://one-project.itch.io/go-fetch-the-clothes",
       "category": "Game",
-      "expiryDate": "2026-10-20T01:28:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png"
+      "expiryDate": "2026-10-29T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
     },
     {
       "title": "CULT OF FLIES",
@@ -202,13 +184,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzEzMTE0NTQ0LnBuZw==/315x250%23c/GVWdcu.png"
     },
     {
-      "title": "Tiny Tails: The Whale’s Tale",
+      "title": "Slots Hacker",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://al7ussain.itch.io/whale-game",
+      "link": "https://rob6b.itch.io/slots-hacker",
       "category": "Game",
-      "expiryDate": "2026-10-31T09:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
+      "expiryDate": "2026-10-20T01:28:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -229,6 +220,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0ODM0NjYxLnBuZw==/315x250%23c/0vV793.png"
     },
     {
+      "title": "Tiny Tails: The Whale’s Tale",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://al7ussain.itch.io/whale-game",
+      "category": "Game",
+      "expiryDate": "2026-10-31T09:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
+    },
+    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -236,24 +236,6 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:26:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
-      "title": "A Night Alone",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boshuaproductions.itch.io/a-night-alone",
-      "category": "Game",
-      "expiryDate": "2026-10-20T12:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNjczNDgyLnBuZw==/315x250%23c/icE4ho.png"
     },
     {
       "title": "Flunked",
@@ -272,6 +254,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T18:21:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzE2ODM3LnBuZw==/315x250%23c/zcOy5R.png"
+    },
+    {
+      "title": "Ward Zero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zachariah69.itch.io/ward-zero",
+      "category": "Game",
+      "expiryDate": "2026-10-31T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyODEzNjU1LnBuZw==/315x250%23c/pvKAHw.png"
     },
     {
       "title": "Castlevania: 40th Anniversary",
