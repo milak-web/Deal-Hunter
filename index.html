@@ -1,23 +1,35 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Deal Hunter | Free Game Scanner & Price Tracker</title>
-    
+    <title>DealHunter | Free Game Scanner & Price Tracker</title>
+
     <!-- PWA Meta Tags -->
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#eab308">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Deal Hunter">
-    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/3081/3081840.png">
+    <meta name="apple-mobile-web-app-title" content="DealHunter">
+    <link rel="apple-touch-icon" href="./assets/icons/dealhunter.png">
+    <link rel="icon" href="./assets/icons/dealhunter.png" type="image/png">
 
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/relativeTime.js"></script>
+    <script src="./vendor/dayjs.min.js"></script>
+    <script src="./vendor/relativeTime.js"></script>
+    <script src="capacitor.js"></script>
     <style>
+        html, body {
+            width: 100%;
+            max-width: 100%;
+            overflow-x: hidden;
+            overscroll-behavior-x: none;
+            -webkit-overflow-scrolling: touch;
+        }
+        body, header, main, footer {
+            overflow-x: clip;
+        }
         .deal-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
         .deal-card:hover { transform: translateY(-8px); border-color: rgba(234, 179, 8, 0.5); }
         .platform-badge { font-size: 0.65rem; font-weight: 800; padding: 2px 8px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
@@ -36,6 +48,82 @@
         .blizzard { background-color: #009ae4; color: white; }
         .other { background-color: #3b3b3b; color: #e5e5e5; }
         .timer-badge { font-family: 'JetBrains Mono', monospace; font-weight: 700; }
+        .layout-toggle-btn { transition: all 0.2s ease; }
+        .compact-deal-card { transition: all 0.25s ease; }
+        .compact-deal-card:hover { transform: translateY(-4px); border-color: rgba(59, 130, 246, 0.45); }
+        .deal-card, .compact-deal-card {
+            contain: layout paint style;
+            content-visibility: auto;
+        }
+        .compact-thumb {
+            width: 8.9rem;
+            height: 5.15rem;
+            min-width: 8.9rem;
+        }
+        .compact-time-value {
+            font-family: 'JetBrains Mono', monospace;
+            letter-spacing: -0.04em;
+        }
+        .compact-meta-label {
+            letter-spacing: 0.18em;
+        }
+        .compact-summary-line {
+            letter-spacing: 0.08em;
+        }
+        .stats-shell {
+            transition: border-color 0.2s ease, background-color 0.2s ease;
+        }
+        .stats-toggle-icon {
+            transition: transform 0.2s ease;
+        }
+        .stats-shell[data-collapsed="true"] .stats-toggle-icon {
+            transform: rotate(-90deg);
+        }
+        .store-filter-scroller {
+            max-width: min(100%, 100vw - 2rem);
+            overflow-x: auto;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+            touch-action: pan-x;
+        }
+        .store-filter-scroller::-webkit-scrollbar {
+            display: none;
+        }
+        .store-filter-row {
+            min-width: max-content;
+        }
+        header .header-controls {
+            min-width: 0;
+            max-width: 100%;
+        }
+        @media (max-width: 640px) {
+            .compact-thumb {
+                width: 8.15rem;
+                height: 4.7rem;
+                min-width: 8.15rem;
+            }
+        }
+        @media (max-width: 768px) {
+            header .header-controls {
+                width: 100%;
+                gap: 0.5rem;
+            }
+            header .header-controls > .relative.group,
+            header #searchInput {
+                width: 100%;
+            }
+            header .store-filter-scroller {
+                flex: 1 0 100%;
+                width: 100%;
+                min-width: 0;
+                max-width: 100%;
+            }
+            header {
+                backdrop-filter: none !important;
+                -webkit-backdrop-filter: none !important;
+            }
+        }
         ::-webkit-scrollbar { width: 8px; }
         ::-webkit-scrollbar-track { background: #0f172a; }
         ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
@@ -51,8 +139,8 @@
                 </div>
                 <h1 class="text-2xl font-black tracking-tighter uppercase italic">Deal<span class="text-yellow-500">Hunter</span></h1>
             </div>
-            
-            <div class="flex flex-wrap items-center gap-4">
+
+            <div class="header-controls flex flex-wrap items-center gap-4">
                 <div class="relative group">
                     <input type="text" id="searchInput" placeholder="Search Game Prices..."
                         class="bg-slate-800 border border-slate-700 text-slate-100 px-4 py-2 pl-10 rounded-lg text-xs font-bold focus:outline-none focus:border-yellow-500 transition-all w-64 uppercase tracking-widest"
@@ -61,13 +149,25 @@
                     <div id="suggestionsDropdown" class="absolute top-full left-0 right-0 mt-2 bg-slate-900 border border-slate-700 rounded-lg shadow-2xl z-[60] hidden overflow-hidden"></div>
                 </div>
 
+                <div class="store-filter-scroller">
+                    <div class="store-filter-row flex bg-slate-800 rounded-lg p-1 border border-slate-700">
+                        <button onclick="setFilter('all')" id="filter-all" class="filter-btn shrink-0 active px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">All</button>
+                        <button onclick="setFilter('Epic Games')" id="filter-epic" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Epic</button>
+                        <button onclick="setFilter('Steam')" id="filter-steam" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Steam</button>
+                        <button onclick="setFilter('GOG')" id="filter-gog" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">GOG</button>
+                        <button onclick="setFilter('Itch.io')" id="filter-itch" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Itch</button>
+                        <button onclick="setFilter('Mobile')" id="filter-mobile" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Mobile</button>
+                        <button onclick="setFilter('Ubisoft')" id="filter-ubisoft" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Ubisoft</button>
+                        <button onclick="setFilter('EA')" id="filter-ea" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">EA</button>
+                        <button onclick="setFilter('Fanatical')" id="filter-fanatical" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Fanatical</button>
+                        <button onclick="setFilter('Humble')" id="filter-humble" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Humble</button>
+                        <button onclick="setFilter('IndieGala')" id="filter-indiegala" class="filter-btn shrink-0 px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">IndieGala</button>
+                    </div>
+                </div>
+
                 <div class="flex bg-slate-800 rounded-lg p-1 border border-slate-700">
-                    <button onclick="setFilter('all')" id="filter-all" class="filter-btn active px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">All</button>
-                    <button onclick="setFilter('Epic Games')" id="filter-epic" class="filter-btn px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Epic</button>
-                    <button onclick="setFilter('Steam')" id="filter-steam" class="filter-btn px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Steam</button>
-                    <button onclick="setFilter('GOG')" id="filter-gog" class="filter-btn px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">GOG</button>
-                    <button onclick="setFilter('Itch.io')" id="filter-itch" class="filter-btn px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Itch</button>
-                    <button onclick="setFilter('Mobile')" id="filter-mobile" class="filter-btn px-4 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Mobile</button>
+                    <button onclick="setLayoutMode('grid')" id="layout-grid" class="layout-toggle-btn px-3 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Grid</button>
+                    <button onclick="setLayoutMode('compact')" id="layout-compact" class="layout-toggle-btn px-3 py-1.5 rounded-md text-xs font-bold uppercase tracking-widest transition">Compact</button>
                 </div>
 
                 <button id="notifyBtn" onclick="toggleNotifications()" class="bg-slate-800 hover:bg-slate-700 text-slate-100 px-4 py-2 rounded-lg font-black border border-slate-700 transition-all flex items-center space-x-2 active:scale-95">
@@ -85,6 +185,7 @@
                     <span id="watchlistCount" class="absolute -top-2 -right-2 bg-red-600 text-white text-[10px] w-5 h-5 flex items-center justify-center rounded-full border-2 border-slate-900 hidden">0</span>
                 </button>
             </div>
+            <p id="notifyStatus" class="mt-3 text-[10px] font-bold uppercase tracking-widest text-slate-500">Notifications: Checking...</p>
         </div>
     </header>
 
@@ -116,9 +217,28 @@
             <div id="searchResultsGrid" class="grid grid-cols-1 xl:grid-cols-2 gap-8"></div>
         </div>
 
-        <div id="stats" class="mb-10 flex flex-wrap items-center gap-4">
-            <!-- Stats will be inserted here -->
-        </div>
+        <section id="statsShell" class="stats-shell mb-8 rounded-2xl border border-slate-800 bg-slate-900/60 hidden" data-collapsed="false">
+            <button id="statsToggleBtn" type="button" class="w-full flex items-center justify-between gap-4 px-4 py-3 text-left">
+                <div>
+                    <p class="text-[10px] font-black uppercase tracking-[0.28em] text-slate-500">Scan Summary</p>
+                    <p class="text-sm font-black uppercase tracking-tight text-slate-200">Tap to expand or fold the deal stats</p>
+                </div>
+                <span class="stats-toggle-icon text-slate-400 text-sm">
+                    <i class="fas fa-chevron-down"></i>
+                </span>
+            </button>
+            <div id="stats" class="px-4 pb-4 flex flex-wrap items-center gap-4">
+                <!-- Stats will be inserted here -->
+            </div>
+        </section>
+
+        <section id="compactLeadSection" class="mb-6 hidden">
+            <div class="flex items-center justify-between mb-3">
+                <h2 id="compactLeadTitle" class="text-xl font-black uppercase tracking-tight text-blue-500">Ending Soon</h2>
+                <span id="compactLeadMeta" class="text-[10px] font-black uppercase tracking-[0.24em] text-slate-500"></span>
+            </div>
+            <div id="compactLeadList" class="space-y-3"></div>
+        </section>
 
         <div id="loading" class="flex flex-col items-center justify-center py-40 space-y-6">
             <div class="relative">
@@ -127,6 +247,8 @@
             </div>
             <p class="text-slate-400 font-bold tracking-[0.2em] uppercase text-sm">Synchronizing with store servers...</p>
         </div>
+
+        <section id="adBannerSlot" class="mb-8 hidden"></section>
 
         <div id="dealsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 hidden">
             <!-- Deals will be inserted here -->
@@ -145,19 +267,29 @@
             <p>&copy; 2026 DealHunter // Full-Stack JS Engine</p>
             <p>Last Sync: <span id="lastUpdated" class="text-yellow-500">Initializing...</span></p>
         </div>
+        <div class="container mx-auto px-4 mt-4 text-center">
+            <p id="monetizationDisclosure" class="text-slate-600 text-[10px] font-bold uppercase tracking-widest hidden"></p>
+            <p class="mt-3 text-xs text-slate-500">Additional giveaway discovery powered by <a href="https://www.gamerpower.com" target="_blank" rel="noopener noreferrer" class="underline">GamerPower</a>.</p>
+        </div>
     </footer>
 
+    <script src="./mobile-config.js"></script>
+    <script src="./lib/deal-feed.js"></script>
     <script>
         dayjs.extend(window.js_plugin_relativeTime || window.dayjs_plugin_relativeTime);
         let allDeals = [];
         let currentFilter = 'all';
-        let watchlist = JSON.parse(localStorage.getItem('watchlist') || '[]');
+        let watchlist = loadJsonStorage('watchlist', []);
         let notificationsEnabled = localStorage.getItem('notificationsEnabled') === 'true';
+        let pendingWidgetFocus = null;
+        let activeDealsFetchPromise = null;
 
         const dealsGrid = document.getElementById('dealsGrid');
         const loading = document.getElementById('loading');
         const noDeals = document.getElementById('noDeals');
+        const statsShell = document.getElementById('statsShell');
         const stats = document.getElementById('stats');
+        const statsToggleBtn = document.getElementById('statsToggleBtn');
         const lastUpdated = document.getElementById('lastUpdated');
         const searchInput = document.getElementById('searchInput');
         const searchResultsSection = document.getElementById('searchResultsSection');
@@ -170,17 +302,145 @@
         const watchlistGrid = document.getElementById('watchlistGrid');
         const emptyWatchlist = document.getElementById('emptyWatchlist');
         const watchlistCount = document.getElementById('watchlistCount');
+        const adBannerSlot = document.getElementById('adBannerSlot');
+        const monetizationDisclosure = document.getElementById('monetizationDisclosure');
+        const notifyStatus = document.getElementById('notifyStatus');
+        const compactLeadSection = document.getElementById('compactLeadSection');
+        const compactLeadTitle = document.getElementById('compactLeadTitle');
+        const compactLeadMeta = document.getElementById('compactLeadMeta');
+        const compactLeadList = document.getElementById('compactLeadList');
         let debounceTimer;
 
-        // Static mode is for GitHub Pages or opening the file directly.
+        // Static mode is for GitHub Pages, file://, or Capacitor when no backend URL is configured.
         const isGitHubPages = window.location.hostname.includes('github.io');
-        let isStaticMode = isGitHubPages || window.location.protocol === 'file:';
+        const isCapacitorApp = DealHunterFeed.isNativeApp(window.location, window.Capacitor);
+        const configuredApiBaseRaw = (window.__FDS_API_BASE__ || localStorage.getItem('fds_api_base') || '').trim();
+        const configuredDealsFeedRaw = (window.__FDS_DEALS_FEED_URL__ || localStorage.getItem('fds_deals_feed_url') || '').trim();
+        const configuredApiBase = configuredApiBaseRaw.replace(/\/+$/, '');
+        const configuredDealsFeed = configuredDealsFeedRaw.replace(/\/+$/, '');
+        const hasConfiguredApiBase = /^https?:\/\//i.test(configuredApiBase);
+        const hasConfiguredDealsFeed = /^https?:\/\//i.test(configuredDealsFeed);
+        const defaultCapacitorDealsFeeds = [
+            'https://milak-web.github.io/Deal-Hunter/data/deals.json',
+            'https://raw.githubusercontent.com/milak-web/Deal-Hunter/master/data/deals.json'
+        ];
+        const resolvedDealsFeeds = (() => {
+            const feeds = [];
+            if (hasConfiguredDealsFeed) feeds.push(configuredDealsFeed);
+            if (isCapacitorApp) feeds.push(...defaultCapacitorDealsFeeds);
+            return Array.from(new Set(feeds.filter(Boolean)));
+        })();
+        const canUseLiveApi = () => hasConfiguredApiBase || !isStaticMode;
+        const buildApiUrl = (path) => hasConfiguredApiBase ? `${configuredApiBase}${path}` : path;
+        let isStaticMode = !hasConfiguredApiBase && (isGitHubPages || window.location.protocol === 'file:' || isCapacitorApp);
         let lastDealsPayload = null;
+        let adImpressionCache = new Set();
+        const knownDealsStorageKey = 'dealhunter_known_links_v1';
+        const expiryAlertStorageKey = 'dealhunter_expiry_alerts_v1';
         const claimedDealsStorageKey = 'dealhunter_claimed_deals_v1';
-        let claimedDeals = JSON.parse(localStorage.getItem(claimedDealsStorageKey) || '{}');
+        const isNativeCapacitor = Boolean(window.Capacitor?.isNativePlatform?.());
+        let claimedDeals = loadJsonStorage(claimedDealsStorageKey, {});
+        let dailyCheckIntervalStarted = false;
+        const cachedDealsPayloadStorageKey = 'dealhunter_cached_deals_payload_v1';
+        const layoutModeStorageKey = 'dealhunter_layout_mode_v1';
+        const statsCollapsedStorageKey = 'dealhunter_stats_collapsed_v1';
+        const nativeExpiryScheduleStorageKey = 'dealhunter_native_expiry_notifications_v1';
+        const nativeExpiryScheduleAllIdsStorageKey = 'dealhunter_native_expiry_notification_ids_v1';
+        const nativeExpiryScheduleHorizonMs = 14 * 24 * 60 * 60 * 1000;
+        const filterScrollPositions = {};
+        let layoutMode = localStorage.getItem(layoutModeStorageKey) || (window.matchMedia('(max-width: 768px)').matches ? 'compact' : 'grid');
+        let statsCollapsed = localStorage.getItem(statsCollapsedStorageKey) === 'true';
 
-        function saveClaimedDeals() {
-            localStorage.setItem(claimedDealsStorageKey, JSON.stringify(claimedDeals));
+        function getLocalNotificationsPlugin() {
+            return window.Capacitor?.Plugins?.LocalNotifications || null;
+        }
+
+        function getDealHunterCountdownPlugin() {
+            return window.Capacitor?.Plugins?.DealHunterCountdown || null;
+        }
+
+        function getAppPlugin() {
+            return window.Capacitor?.Plugins?.App || null;
+        }
+
+        function getDealHunterWidgetPlugin() {
+            return window.Capacitor?.Plugins?.DealHunterWidget || null;
+        }
+
+        function permissionLabel(rawDisplay) {
+            if (rawDisplay === 'granted') return 'GRANTED';
+            if (rawDisplay === 'denied' || rawDisplay === 'prompt-with-rationale') return 'DENIED';
+            return 'PROMPT';
+        }
+
+        async function refreshNotificationStatus() {
+            if (!notifyStatus) return;
+
+            if (isNativeCapacitor) {
+                const localNotificationsPlugin = getLocalNotificationsPlugin();
+                if (!localNotificationsPlugin) {
+                    notifyStatus.textContent = 'Notifications: Native Bridge Missing';
+                    notifyStatus.className = 'mt-3 text-[10px] font-bold uppercase tracking-widest text-red-400';
+                    return;
+                }
+                try {
+                    const perm = await localNotificationsPlugin.checkPermissions();
+                    const label = permissionLabel(perm?.display);
+                    notifyStatus.textContent = `Notifications: ${label} (Native)`;
+                    notifyStatus.className = `mt-3 text-[10px] font-bold uppercase tracking-widest ${label === 'GRANTED' ? 'text-emerald-400' : 'text-amber-400'}`;
+                } catch (error) {
+                    console.error('Notification status check failed:', error);
+                    notifyStatus.textContent = 'Notifications: Check Failed';
+                    notifyStatus.className = 'mt-3 text-[10px] font-bold uppercase tracking-widest text-red-400';
+                }
+                return;
+            }
+
+            if ("Notification" in window) {
+                const label = permissionLabel(Notification.permission);
+                notifyStatus.textContent = `Notifications: ${label} (Web)`;
+                notifyStatus.className = `mt-3 text-[10px] font-bold uppercase tracking-widest ${label === 'GRANTED' ? 'text-emerald-400' : 'text-amber-400'}`;
+            } else {
+                notifyStatus.textContent = 'Notifications: Unsupported';
+                notifyStatus.className = 'mt-3 text-[10px] font-bold uppercase tracking-widest text-red-400';
+            }
+        }
+
+        function loadJsonStorage(key, fallback) {
+            try {
+                const raw = localStorage.getItem(key);
+                if (!raw) return fallback;
+                return JSON.parse(raw);
+            } catch (_) {
+                return fallback;
+            }
+        }
+
+        function saveJsonStorage(key, value) {
+            try {
+                localStorage.setItem(key, JSON.stringify(value));
+            } catch (error) {
+                console.warn('Could not persist app preferences:', error);
+            }
+        }
+
+        function saveCachedDealsPayload(payload) {
+            if (!payload || typeof payload !== 'object') return;
+            saveJsonStorage(cachedDealsPayloadStorageKey, payload);
+        }
+
+        function loadCachedDealsPayload() {
+            return loadJsonStorage(cachedDealsPayloadStorageKey, null);
+        }
+
+        function parsePayloadTimestamp(value) {
+            if (!value) return 0;
+            const parsed = new Date(value).getTime();
+            return Number.isFinite(parsed) ? parsed : 0;
+        }
+
+        function shouldIgnoreIncomingDealsPayload(payload, incomingDeals, hadDealsBeforeFetch, force, sourceLabel) {
+            return !DealHunterFeed.shouldAccept(lastDealsPayload, payload, sourceLabel);
         }
 
         function normalizeDealLink(link) {
@@ -189,12 +449,242 @@
             if (!trimmed) return null;
             try {
                 const url = new URL(trimmed);
-                url.search = '';
+                for (const key of [...url.searchParams.keys()]) {
+                    if (/^(utm_|snr$)/i.test(key)) url.searchParams.delete(key);
+                }
                 url.hash = '';
                 return url.toString().replace(/\/$/, '');
             } catch (_) {
                 return trimmed.split('?')[0].replace(/\/$/, '');
             }
+        }
+
+        function getWidgetPlatformKey(platform) {
+            const p = String(platform || '').toLowerCase();
+            if (p.includes('epic')) return 'Epic Games';
+            if (p.includes('steam')) return 'Steam';
+            if (p.includes('gog')) return 'GOG';
+            if (p.includes('itch')) return 'Itch.io';
+            if (p.includes('google') || p.includes('apple') || p.includes('mobile')) return 'Mobile';
+            return platform || 'Other';
+        }
+
+        function buildWidgetDealsPayload(deals) {
+            const now = Date.now();
+            const platformOrder = ['Epic Games', 'Steam', 'GOG', 'Itch.io', 'Mobile'];
+
+            const candidates = (deals || [])
+                .map((deal) => {
+                    const parsedExpiry = parseDealExpiry(deal?.expiryDate);
+                    if (!deal?.title || !deal?.platform || !deal?.link || !parsedExpiry) return null;
+                    const expiryMs = parsedExpiry.getTime();
+                    const remainingMs = expiryMs - now;
+                    if (remainingMs <= 0) return null;
+                    return {
+                        title: deal.title,
+                        platform: getWidgetPlatformKey(deal.platform),
+                        expiryMs,
+                        link: deal.link,
+                        imageUrl: deal.imageUrl || '',
+                        originalPrice: deal.originalPrice || '',
+                        currentPrice: deal.currentPrice || 'FREE'
+                    };
+                })
+                .filter(Boolean)
+                .sort((a, b) => a.expiryMs - b.expiryMs || a.title.localeCompare(b.title));
+
+            const perPlatform = new Map();
+            candidates.forEach((deal) => {
+                if (!perPlatform.has(deal.platform)) {
+                    perPlatform.set(deal.platform, deal);
+                }
+            });
+
+            const ordered = [];
+            platformOrder.forEach((platform) => {
+                const match = perPlatform.get(platform);
+                if (match) ordered.push(match);
+            });
+            perPlatform.forEach((deal, platform) => {
+                if (!platformOrder.includes(platform)) ordered.push(deal);
+            });
+
+            return ordered.slice(0, 8);
+        }
+
+        async function syncWidgetSnapshot() {
+            const widgetPlugin = getDealHunterWidgetPlugin();
+            if (!isNativeCapacitor || !widgetPlugin) return;
+            try {
+                const deals = buildWidgetDealsPayload(allDeals);
+                if (widgetPlugin.syncWidgetSnapshot) {
+                    await widgetPlugin.syncWidgetSnapshot({ deals, payload: lastDealsPayload });
+                }
+            } catch (error) {
+                console.error('Failed syncing widget snapshot:', error);
+            }
+        }
+
+        async function consumeNativeWidgetLaunchTarget() {
+            const widgetPlugin = getDealHunterWidgetPlugin();
+            if (!isNativeCapacitor || !widgetPlugin?.consumeLaunchTarget) return null;
+            try {
+                const result = await Promise.race([
+                    widgetPlugin.consumeLaunchTarget(),
+                    new Promise((resolve) => setTimeout(() => resolve(null), 700))
+                ]);
+                if (!result?.hasTarget || !result?.link) return null;
+                pendingWidgetFocus = {
+                    link: normalizeDealLink(result.link) || result.link,
+                    platform: result.platform || ''
+                };
+                return pendingWidgetFocus;
+            } catch (error) {
+                console.error('Failed consuming widget launch target:', error);
+                return null;
+            }
+        }
+
+        function findRenderedDealCard(normalizedLink) {
+            if (!normalizedLink) return null;
+            return Array.from(document.querySelectorAll('[data-deal-link]'))
+                .find((el) => el.getAttribute('data-deal-link') === normalizedLink) || null;
+        }
+
+        function highlightDealCard(card) {
+            if (!card) return;
+            card.classList.add('ring-2', 'ring-yellow-400', 'ring-offset-2', 'ring-offset-slate-950');
+            setTimeout(() => {
+                card.classList.remove('ring-2', 'ring-yellow-400', 'ring-offset-2', 'ring-offset-slate-950');
+            }, 2600);
+        }
+
+        function applyPendingWidgetFocus() {
+            if (!pendingWidgetFocus?.link || !Array.isArray(allDeals) || allDeals.length === 0) return false;
+
+            const targetDeal = allDeals.find((deal) => normalizeDealLink(deal.link) === pendingWidgetFocus.link);
+            if (!targetDeal) return false;
+
+            const targetFilter = getWidgetPlatformKey(targetDeal.platform || pendingWidgetFocus.platform);
+            if (targetFilter && currentFilter !== targetFilter) {
+                currentFilter = targetFilter;
+                updateFilterButtonState();
+                filterAndDisplay();
+            }
+
+            const targetLink = pendingWidgetFocus.link;
+            requestAnimationFrame(() => {
+                const card = findRenderedDealCard(targetLink);
+                if (!card) return;
+                card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                highlightDealCard(card);
+            });
+
+            pendingWidgetFocus = null;
+            return true;
+        }
+
+        function hydrateDealsFromPayload(payload, sourceOverride = null) {
+            DealHunterFeed.validatePayload(payload);
+            const deals = payload?.deals || (Array.isArray(payload) ? payload : []);
+            if (!Array.isArray(deals)) return false;
+
+            allDeals = deals;
+            reconcileClaimedSavings();
+            lastDealsPayload = sourceOverride
+                ? { ...payload, source: sourceOverride, deals }
+                : (payload || { deals });
+            renderLastUpdated(lastDealsPayload);
+            filterAndDisplay();
+            syncWidgetSnapshot();
+            applyPendingWidgetFocus();
+            return true;
+        }
+
+        function bootstrapDealsFromCache() {
+            const cached = loadCachedDealsPayload();
+            if (!cached) return false;
+            const cachedDeals = cached?.deals || [];
+            if (!Array.isArray(cachedDeals) || cachedDeals.length === 0) return false;
+            return hydrateDealsFromPayload(cached, cached.source || 'cached');
+        }
+
+        function setDealsContainerLayout(container, mode) {
+            if (!container) return;
+            container.className = mode === 'compact'
+                ? 'space-y-3 hidden'
+                : 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 hidden';
+        }
+
+        function applyStatsCollapseState() {
+            if (!statsShell || !stats) return;
+            statsShell.dataset.collapsed = statsCollapsed ? 'true' : 'false';
+            stats.classList.toggle('hidden', statsCollapsed);
+        }
+
+        function toggleStatsPanel() {
+            statsCollapsed = !statsCollapsed;
+            localStorage.setItem(statsCollapsedStorageKey, String(statsCollapsed));
+            applyStatsCollapseState();
+        }
+
+        function getExpiryMsFromDeal(deal) {
+            const parsedExpiry = parseDealExpiry(deal?.expiryDate);
+            return parsedExpiry ? parsedExpiry.getTime() : Number.POSITIVE_INFINITY;
+        }
+
+        function sortDealsForCompactFeed(deals) {
+            return [...(deals || [])].sort((a, b) => {
+                const expiryA = getExpiryMsFromDeal(a);
+                const expiryB = getExpiryMsFromDeal(b);
+                if (expiryA !== expiryB) return expiryA - expiryB;
+                return String(a?.title || '').localeCompare(String(b?.title || ''));
+            });
+        }
+
+        function renderCompactLeadSection(orderedDeals) {
+            if (!compactLeadSection || !compactLeadList || !compactLeadMeta || !compactLeadTitle) return;
+
+            if (layoutMode !== 'compact' || !orderedDeals || orderedDeals.length === 0) {
+                compactLeadSection.classList.add('hidden');
+                compactLeadList.innerHTML = '';
+                return;
+            }
+
+            const leadDeals = orderedDeals.slice(0, 3);
+            compactLeadTitle.textContent = currentFilter === 'all' ? 'Ending Soon' : `${currentFilter} Ending Soon`;
+            compactLeadMeta.textContent = `${leadDeals.length} Priority ${leadDeals.length === 1 ? 'Deal' : 'Deals'}`;
+            compactLeadList.innerHTML = '';
+            leadDeals.forEach((deal) => {
+                compactLeadList.appendChild(createCompactDealCard(deal, false, true));
+            });
+            compactLeadSection.classList.remove('hidden');
+        }
+
+        function applyLayoutModeUI() {
+            document.querySelectorAll('.layout-toggle-btn').forEach((btn) => {
+                btn.classList.remove('bg-blue-600', 'text-white');
+                btn.classList.add('text-slate-400');
+            });
+
+            const activeBtn = document.getElementById(layoutMode === 'compact' ? 'layout-compact' : 'layout-grid');
+            if (activeBtn) {
+                activeBtn.classList.remove('text-slate-400');
+                activeBtn.classList.add('bg-blue-600', 'text-white');
+            }
+
+            setDealsContainerLayout(dealsGrid, layoutMode);
+            setDealsContainerLayout(watchlistGrid, layoutMode);
+        }
+
+        function setLayoutMode(mode) {
+            if (mode !== 'grid' && mode !== 'compact') return;
+            if (layoutMode === mode) return;
+            layoutMode = mode;
+            localStorage.setItem(layoutModeStorageKey, layoutMode);
+            applyLayoutModeUI();
+            filterAndDisplay();
+            if (!watchlistSection.classList.contains('hidden')) updateWatchlistUI();
         }
 
         function isClaimed(link) {
@@ -247,7 +737,7 @@
                 }
             }
 
-            if (changed) saveClaimedDeals();
+            if (changed) saveJsonStorage(claimedDealsStorageKey, claimedDeals);
         }
 
         function getTotalSavedAmount() {
@@ -301,32 +791,141 @@
                 title: sourceDeal?.title || '',
                 savedAmount
             };
-            saveClaimedDeals();
+            saveJsonStorage(claimedDealsStorageKey, claimedDeals);
+        }
+
+        function isAndroidDevice() {
+            return /android/i.test(navigator.userAgent || '');
+        }
+
+        function buildPreferredClaimTarget(link, deal) {
+            const fallback = String(link || '').trim();
+            if (!fallback) return { primary: '', fallback: '' };
+
+            const platformText = String(deal?.platform || '').toLowerCase();
+            const categoryText = String(deal?.category || '').toLowerCase();
+            const isSteamDeal =
+                isNativeCapacitor &&
+                isAndroidDevice() &&
+                /store\.steampowered\.com/i.test(fallback) &&
+                platformText.includes('steam');
+            const isEpicMobileDeal =
+                isNativeCapacitor &&
+                isAndroidDevice() &&
+                /epicgames\.com/i.test(fallback) &&
+                (platformText.includes('epic') || platformText.includes('mobile') || categoryText.includes('mobile'));
+
+            if (isSteamDeal) {
+                return {
+                    primary: `steam://openurl/${fallback}`,
+                    fallback
+                };
+            }
+
+            if (isEpicMobileDeal) {
+                const intentUrl = `intent://${fallback.replace(/^https?:\/\//i, '')}#Intent;scheme=https;package=com.epicgames.portal;S.browser_fallback_url=${encodeURIComponent(fallback)};end`;
+                return { primary: intentUrl, fallback };
+            }
+
+            return { primary: fallback, fallback };
+        }
+
+        function openDealTarget(link, deal) {
+            const target = buildPreferredClaimTarget(link, deal);
+            if (!target.primary) return;
+
+            if (isNativeCapacitor && (/^intent:\/\//i.test(target.primary) || /^steam:\/\//i.test(target.primary))) {
+                window.location.href = target.primary;
+                if (target.fallback) {
+                    setTimeout(() => {
+                        if (document.visibilityState === 'visible') {
+                            window.open(target.fallback, '_blank', 'noopener,noreferrer');
+                        }
+                    }, 1200);
+                }
+                return;
+            }
+
+            window.open(target.primary, '_blank', 'noopener,noreferrer');
         }
 
         function handleClaimClick(event, encodedLink) {
             event.preventDefault();
             const link = decodeURIComponent(encodedLink || '');
             if (!link) return;
+            const sourceDeal = allDeals.find(d => normalizeDealLink(d.link) === normalizeDealLink(link)) ||
+                               watchlist.find(d => normalizeDealLink(d.link) === normalizeDealLink(link));
 
-            const normalizedLink = normalizeDealLink(link);
-            if (!isClaimed(link)) {
-                markDealAsClaimed(link);
-                filterAndDisplay();
-                if (!watchlistSection.classList.contains('hidden')) updateWatchlistUI();
-
-                const sourceDeal = allDeals.find(d => normalizeDealLink(d.link) === normalizedLink) ||
-                                   watchlist.find(d => normalizeDealLink(d.link) === normalizedLink);
-                const title = sourceDeal?.title ? sourceDeal.title : 'Deal';
-                showUiToast(`Claimed: ${title}`, 'success');
-            } else {
-                const sourceDeal = allDeals.find(d => normalizeDealLink(d.link) === normalizedLink) ||
-                                   watchlist.find(d => normalizeDealLink(d.link) === normalizedLink);
-                const title = sourceDeal?.title ? sourceDeal.title : 'Deal';
-                showUiToast(`Already Claimed: ${title}`, 'warn');
+            if (isClaimed(link)) {
+                showUiToast('Already Claimed', 'warn');
+                openDealTarget(link, sourceDeal);
+                return;
             }
 
-            window.open(link, '_blank', 'noopener,noreferrer');
+            markDealAsClaimed(link);
+            filterAndDisplay();
+            if (!watchlistSection.classList.contains('hidden')) updateWatchlistUI();
+
+            const title = sourceDeal?.title ? sourceDeal.title : 'Deal';
+            showUiToast(`Claimed: ${title}`, 'success');
+            openDealTarget(link, sourceDeal);
+        }
+
+        function hashStringToNotificationId(input) {
+            let hash = 0;
+            const text = String(input || '');
+            for (let i = 0; i < text.length; i++) {
+                hash = ((hash << 5) - hash) + text.charCodeAt(i);
+                hash |= 0;
+            }
+            return Math.abs(hash % 2147483000) + 1;
+        }
+
+        function buildNativeExpiryReminderPayloads(deals) {
+            const now = Date.now();
+            const payloads = [];
+            const seen = new Set();
+
+            for (const deal of (deals || [])) {
+                if (!deal?.title || !deal?.link || !deal?.expiryDate) continue;
+                const parsedExpiry = parseDealExpiry(deal.expiryDate);
+                if (!parsedExpiry) continue;
+                const expiryMs = parsedExpiry.getTime();
+                if (expiryMs <= now) continue;
+                if (expiryMs - now > nativeExpiryScheduleHorizonMs) continue;
+
+                const reminders = [
+                    { key: 'd24', offsetMs: 24 * 60 * 60 * 1000, bodyPrefix: 'Ends in about 24 hours' }
+                ];
+
+                for (const reminder of reminders) {
+                    const fireAtMs = expiryMs - reminder.offsetMs;
+                    if (fireAtMs <= now + 15 * 1000) continue;
+                    const normalizedLink = normalizeDealLink(deal.link) || deal.link;
+                    const token = `${normalizedLink}|${parsedExpiry.toISOString()}|${reminder.key}`;
+                    const id = hashStringToNotificationId(token);
+                    if (seen.has(id)) continue;
+                    seen.add(id);
+
+                    payloads.push({
+                        id,
+                        atIso: new Date(fireAtMs).toISOString(),
+                        dealLink: normalizedLink,
+                        title: deal.title,
+                        platform: deal.platform || 'Store',
+                        notification: {
+                            id,
+                            title: `${deal.title}`,
+                            body: `${reminder.bodyPrefix} on ${deal.platform || 'store'}. Claim before it expires.`,
+                            schedule: { at: new Date(fireAtMs), allowWhileIdle: true },
+                            channelId: 'dealhunter-alerts',
+                            extra: { link: normalizedLink, expiryDate: parsedExpiry.toISOString(), reminder: reminder.key }
+                        }
+                    });
+                }
+            }
+
+            return payloads;
         }
 
         function parseDealExpiry(value) {
@@ -336,7 +935,7 @@
             if (!Number.isNaN(direct.getTime())) return direct;
 
             const clean = value.replace(/\s+/g, ' ').trim().toLowerCase();
-            const utcStyleMatch = clean.match(/^(\d{1,2})\s+([a-z]{3,9})\s+(\d{4})\s*[–-]\s*(\d{1,2}):(\d{2}):(\d{2})\s*utc$/i);
+            const utcStyleMatch = clean.match(/^(\d{1,2})\s+([a-z]{3,9})\s+(\d{4})\s*[â€“-]\s*(\d{1,2}):(\d{2}):(\d{2})\s*utc$/i);
             if (utcStyleMatch) {
                 const months = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, sept: 8, oct: 9, nov: 10, dec: 11 };
                 const day = Number(utcStyleMatch[1]);
@@ -376,11 +975,92 @@
             const now = new Date();
             let year = now.getFullYear();
             let parsed = new Date(year, month, day, hour24, minute, 0, 0);
-            if (parsed.getTime() < now.getTime() - (24 * 60 * 60 * 1000)) {
-                year += 1;
-                parsed = new Date(year, month, day, hour24, minute, 0, 0);
+            // Only roll to next year near year boundary (e.g., now Dec and expiry text is Jan).
+            if (parsed.getTime() < now.getTime()) {
+                const isYearBoundaryForward = now.getMonth() >= 10 && month <= 1;
+                if (isYearBoundaryForward) {
+                    year += 1;
+                    parsed = new Date(year, month, day, hour24, minute, 0, 0);
+                }
             }
             return Number.isNaN(parsed.getTime()) ? null : parsed;
+        }
+
+        function mergeUniqueNumericIds(...sources) {
+            const set = new Set();
+            sources.forEach((src) => {
+                (src || []).forEach((value) => {
+                    const num = Number(value);
+                    if (Number.isFinite(num)) set.add(num);
+                });
+            });
+            return Array.from(set.values());
+        }
+
+        function loadNativeExpiryAllIds() {
+            return loadJsonStorage(nativeExpiryScheduleAllIdsStorageKey, []);
+        }
+
+        function saveNativeExpiryAllIds(ids) {
+            saveJsonStorage(nativeExpiryScheduleAllIdsStorageKey, mergeUniqueNumericIds(ids));
+        }
+
+        function buildNativeRealtimeCountdownCandidate(deals) {
+            const now = Date.now();
+            if (!Array.isArray(deals) || deals.length === 0) return null;
+
+            let bestDeal = null;
+            let bestExpiryMs = Number.POSITIVE_INFINITY;
+            deals.forEach((deal) => {
+                if (!deal?.title || !deal?.link || !deal?.expiryDate) return;
+                const parsedExpiry = parseDealExpiry(deal.expiryDate);
+                if (!parsedExpiry) return;
+                const expiryMs = parsedExpiry.getTime();
+                if (expiryMs <= now) return;
+                if (expiryMs - now > 24 * 60 * 60 * 1000) return;
+                if (expiryMs < bestExpiryMs) {
+                    bestExpiryMs = expiryMs;
+                    bestDeal = deal;
+                }
+            });
+
+            if (!bestDeal || !Number.isFinite(bestExpiryMs)) return null;
+
+            const startAtMs = Math.max(now + 5000, bestExpiryMs - 60 * 60 * 1000);
+            if (startAtMs >= bestExpiryMs - 1000) return null;
+
+            const normalizedLink = normalizeDealLink(bestDeal.link) || bestDeal.link;
+            const id = hashStringToNotificationId(`countdown|${normalizedLink}|${new Date(bestExpiryMs).toISOString()}`);
+
+            return {
+                id,
+                title: bestDeal.title,
+                platform: bestDeal.platform || 'Store',
+                link: normalizedLink,
+                startAtMs,
+                expiryAtMs: bestExpiryMs
+            };
+        }
+
+        async function clearNativeRealtimeCountdownNotification() {
+            const countdownPlugin = getDealHunterCountdownPlugin();
+            if (!isNativeCapacitor || !countdownPlugin?.clearCountdown) return;
+            try {
+                await countdownPlugin.clearCountdown();
+            } catch (error) {
+                console.error('Failed clearing realtime countdown notification:', error);
+            }
+        }
+
+        async function syncNativeRealtimeCountdownNotification() {
+            const countdownPlugin = getDealHunterCountdownPlugin();
+            if (!notificationsEnabled || !isNativeCapacitor || !countdownPlugin?.syncCountdown) return;
+            const candidate = buildNativeRealtimeCountdownCandidate(allDeals);
+            try {
+                await countdownPlugin.syncCountdown({ payload: candidate });
+            } catch (error) {
+                console.error('Failed syncing realtime countdown notification:', error);
+            }
         }
 
         searchInput.addEventListener('input', (e) => {
@@ -402,7 +1082,7 @@
                             suggestions = data.map(g => g.external);
                         }
                     } else {
-                        const response = await fetch(`./api/suggestions?q=${encodeURIComponent(query)}`);
+                        const response = await fetch(`${buildApiUrl('/api/suggestions')}?q=${encodeURIComponent(query)}`);
                         if (response.ok) {
                             suggestions = await response.json();
                         } else {
@@ -453,12 +1133,14 @@
                 watchlistCount.classList.add('hidden');
                 emptyWatchlist.classList.remove('hidden');
             }
-            
+
             watchlistGrid.innerHTML = '';
+            setDealsContainerLayout(watchlistGrid, layoutMode);
             watchlist.forEach(deal => {
-                const card = createDealCard(deal, true);
+                const card = layoutMode === 'compact' ? createCompactDealCard(deal, true) : createDealCard(deal, true);
                 watchlistGrid.appendChild(card);
             });
+            updateCountdown();
         }
 
         function toggleWatchlist() {
@@ -482,33 +1164,222 @@
             } else {
                 watchlist.push(deal);
             }
-            
+
             localStorage.setItem('watchlist', JSON.stringify(watchlist));
             updateWatchlistUI();
             filterAndDisplay(); // Refresh main grid to update star icons
         }
 
-        async function toggleNotifications() {
-            if (!("Notification" in window)) {
-                alert("This browser does not support desktop notification");
+        async function createNativeNotificationChannel() {
+            const localNotificationsPlugin = getLocalNotificationsPlugin();
+            if (!isNativeCapacitor || !localNotificationsPlugin?.createChannel) return;
+            try {
+                await localNotificationsPlugin.createChannel({
+                    id: 'dealhunter-alerts',
+                    name: 'DealHunter Alerts',
+                    description: 'New free deals and expiry reminders',
+                    importance: 4,
+                    visibility: 1
+                });
+            } catch (error) {
+                console.error('Failed to create notification channel:', error);
+            }
+        }
+
+        async function ensureNotificationPermission() {
+            const localNotificationsPlugin = getLocalNotificationsPlugin();
+            if (isNativeCapacitor && localNotificationsPlugin) {
+                try {
+                    const perm = await localNotificationsPlugin.checkPermissions();
+                    if (perm?.display === 'granted') return true;
+                    const requested = await localNotificationsPlugin.requestPermissions();
+                    if (requested?.display === 'granted') return true;
+
+                    // Some Android launchers/settings flows can report stale state briefly.
+                    // Re-check once more before declaring failure.
+                    const recheck = await localNotificationsPlugin.checkPermissions();
+                    return recheck?.display === 'granted';
+                } catch (error) {
+                    console.error('Native notification permission error:', error);
+                    return false;
+                }
+            }
+            if (isNativeCapacitor && !localNotificationsPlugin) return false;
+
+            if (!("Notification" in window)) return false;
+            if (Notification.permission === "granted") return true;
+            if (Notification.permission === "denied") return false;
+            const permission = await Notification.requestPermission();
+            return permission === "granted";
+        }
+
+        async function clearNativeExpiryNotifications() {
+            const localNotificationsPlugin = getLocalNotificationsPlugin();
+            if (!isNativeCapacitor || !localNotificationsPlugin?.cancel) {
+                saveJsonStorage(nativeExpiryScheduleStorageKey, {});
+                saveNativeExpiryAllIds([]);
+                return;
+            }
+            try {
+                const previous = loadJsonStorage(nativeExpiryScheduleStorageKey, {});
+                const previousIds = Object.keys(previous).map(v => Number(v));
+                const knownIds = loadNativeExpiryAllIds();
+                const ids = mergeUniqueNumericIds(previousIds, knownIds);
+                if (ids.length > 0) {
+                    await localNotificationsPlugin.cancel({
+                        notifications: ids.map(id => ({ id }))
+                    });
+                }
+                if (localNotificationsPlugin.removeAllDeliveredNotifications) {
+                    await localNotificationsPlugin.removeAllDeliveredNotifications();
+                }
+                saveJsonStorage(nativeExpiryScheduleStorageKey, {});
+                saveNativeExpiryAllIds([]);
+            } catch (error) {
+                console.error('Failed clearing native expiry notifications:', error);
+            }
+        }
+
+        async function syncNativeExpiryNotifications() {
+            const localNotificationsPlugin = getLocalNotificationsPlugin();
+            if (!notificationsEnabled || !isNativeCapacitor || !localNotificationsPlugin?.schedule) return;
+            if (!Array.isArray(allDeals)) return;
+            if (allDeals.length === 0) {
+                await clearNativeExpiryNotifications();
+                await clearNativeRealtimeCountdownNotification();
                 return;
             }
 
-            if (Notification.permission === "default") {
-                const permission = await Notification.requestPermission();
-                if (permission !== "granted") return;
+            try {
+                const desired = buildNativeExpiryReminderPayloads(allDeals);
+                const desiredMap = {};
+                desired.forEach(entry => {
+                    desiredMap[String(entry.id)] = {
+                        atIso: entry.atIso,
+                        title: entry.title,
+                        link: entry.dealLink
+                    };
+                });
+
+                const previous = loadJsonStorage(nativeExpiryScheduleStorageKey, {});
+                const previousIds = Object.keys(previous).map(id => Number(id));
+                const knownIds = loadNativeExpiryAllIds();
+                let pendingIds = [];
+                if (localNotificationsPlugin.getPending) {
+                    try {
+                        const pending = await localNotificationsPlugin.getPending();
+                        pendingIds = (pending?.notifications || []).map((n) => Number(n?.id));
+                    } catch (pendingError) {
+                        console.error('Failed reading pending notifications:', pendingError);
+                    }
+                }
+                const desiredIds = Object.keys(desiredMap).map(id => Number(id));
+                const desiredIdSet = new Set(desiredIds);
+                const allKnownBeforeSync = mergeUniqueNumericIds(previousIds, knownIds, pendingIds);
+                const toCancel = allKnownBeforeSync.filter((id) => !desiredIdSet.has(id));
+
+                if (toCancel.length > 0 && localNotificationsPlugin.cancel) {
+                    await localNotificationsPlugin.cancel({
+                        notifications: toCancel.map(id => ({ id }))
+                    });
+                }
+
+                const toSchedule = desired
+                    .filter(entry => {
+                        const prev = previous[String(entry.id)];
+                        return !prev || prev.atIso !== entry.atIso || prev.title !== entry.title;
+                    })
+                    .slice(0, 120);
+
+                if (toSchedule.length > 0) {
+                    await localNotificationsPlugin.schedule({
+                        notifications: toSchedule.map(entry => entry.notification)
+                    });
+                }
+
+                saveJsonStorage(nativeExpiryScheduleStorageKey, desiredMap);
+                saveNativeExpiryAllIds(desiredIds);
+                await syncNativeRealtimeCountdownNotification();
+            } catch (error) {
+                console.error('Failed syncing native expiry notifications:', error);
+            }
+        }
+
+        async function notifyUser({ title, body }) {
+            if (!notificationsEnabled || !title) return;
+
+            const localNotificationsPlugin = getLocalNotificationsPlugin();
+            if (isNativeCapacitor && localNotificationsPlugin) {
+                const id = Math.floor((Date.now() + Math.random() * 1000) % 2147483000);
+                try {
+                    await localNotificationsPlugin.schedule({
+                        notifications: [
+                            {
+                                id,
+                                title,
+                                body: body || '',
+                                schedule: { at: new Date(Date.now() + 1000) },
+                                channelId: 'dealhunter-alerts'
+                            }
+                        ]
+                    });
+                } catch (error) {
+                    console.error('Native notification schedule failed:', error);
+                }
+                return;
             }
 
-            notificationsEnabled = !notificationsEnabled;
-            localStorage.setItem('notificationsEnabled', notificationsEnabled);
-            updateNotifyUI();
-
-            if (notificationsEnabled) {
-                new Notification("DealHunter Notifications Active!", {
-                    body: "We'll notify you daily about new 100% off deals and expiring games.",
+            if ("Notification" in window && Notification.permission === "granted") {
+                new Notification(title, {
+                    body: body || '',
                     icon: "https://cdn-icons-png.flaticon.com/512/3081/3081840.png"
                 });
+            }
+        }
+
+        async function toggleNotifications() {
+            if (!notificationsEnabled) {
+                if (isNativeCapacitor && !getLocalNotificationsPlugin()) {
+                    await refreshNotificationStatus();
+                    alert("Native notification bridge is not loaded. Reinstall the latest APK and try again.");
+                    return;
+                }
+                const allowed = await ensureNotificationPermission();
+                if (!allowed) {
+                    const wantsOpenSettings = confirm("Notification permission is required. Open app settings now?");
+                    if (wantsOpenSettings && isNativeCapacitor) {
+                        try {
+                            const appPlugin = getAppPlugin();
+                            if (appPlugin?.openSettings) {
+                                await appPlugin.openSettings();
+                            }
+                        } catch (error) {
+                            console.error('Failed to open settings:', error);
+                        }
+                    }
+                    await refreshNotificationStatus();
+                    return;
+                }
+                await createNativeNotificationChannel();
+                notificationsEnabled = true;
+            } else {
+                notificationsEnabled = false;
+                await clearNativeExpiryNotifications();
+                await clearNativeRealtimeCountdownNotification();
+            }
+
+            localStorage.setItem('notificationsEnabled', notificationsEnabled);
+            updateNotifyUI();
+            await refreshNotificationStatus();
+
+            if (notificationsEnabled) {
+                await notifyUser({
+                    title: "DealHunter Notifications Active",
+                    body: "You will get new deal alerts, last-day warnings, and final-hour countdown reminders."
+                });
                 scheduleDailyCheck();
+                checkAndNotify({ forceTreatAsUpdate: false });
+                await syncNativeExpiryNotifications();
             }
         }
 
@@ -533,27 +1404,99 @@
         }
 
         function scheduleDailyCheck() {
-            // Simple daily check: check every 12 hours
-            setInterval(checkAndNotify, 12 * 60 * 60 * 1000);
-            // Also run once now if enabled
-            if (notificationsEnabled) checkAndNotify();
+            if (dailyCheckIntervalStarted) return;
+            dailyCheckIntervalStarted = true;
+            setInterval(() => checkAndNotify({ forceTreatAsUpdate: false }), 30 * 60 * 1000);
+            if (notificationsEnabled) checkAndNotify({ forceTreatAsUpdate: false });
         }
 
-        function checkAndNotify() {
+        async function checkAndNotify(options = {}) {
             if (!notificationsEnabled || allDeals.length === 0) return;
+            const forceTreatAsUpdate = Boolean(options.forceTreatAsUpdate);
+            const now = Date.now();
 
-            const now = dayjs();
-            const expiringSoon = allDeals.filter(d => {
-                if (!d.expiryDate) return false;
-                const end = dayjs(d.expiryDate);
-                return end.isValid() && end.diff(now, 'hour') < 24 && end.isAfter(now);
+            const knownLinks = new Set(loadJsonStorage(knownDealsStorageKey, []));
+            const currentLinks = allDeals.map(d => d?.link).filter(Boolean);
+            const expiryAlerts = loadJsonStorage(expiryAlertStorageKey, {});
+            let expiryAlertsChanged = false;
+
+            const currentLinkSet = new Set(currentLinks);
+            Object.keys(expiryAlerts).forEach((key) => {
+                const baseKey = key.includes(':') ? key.split(':')[1] : key;
+                const linkPart = baseKey.split('|')[0];
+                if (!currentLinkSet.has(linkPart)) {
+                    delete expiryAlerts[key];
+                    expiryAlertsChanged = true;
+                }
             });
 
-            if (expiringSoon.length > 0) {
-                new Notification("Deals Expiring Soon!", {
-                    body: `${expiringSoon.length} games are expiring within 24 hours. Claim them now!`,
-                    icon: "https://cdn-icons-png.flaticon.com/512/3081/3081840.png"
+            const isFirstSnapshot = knownLinks.size === 0;
+            const shouldReportNewDeals = !isFirstSnapshot || forceTreatAsUpdate;
+            const newDeals = shouldReportNewDeals
+                ? allDeals.filter(d => d?.link && !knownLinks.has(d.link))
+                : [];
+            const hasNativeRealtimeCountdown = isNativeCapacitor && Boolean(getDealHunterCountdownPlugin());
+
+            const expiringWithinHour = allDeals.filter((deal) => {
+                if (!deal?.expiryDate || !deal?.link) return false;
+                const parsed = parseDealExpiry(deal.expiryDate);
+                if (!parsed) return false;
+                const diffMs = parsed.getTime() - now;
+                if (diffMs <= 0 || diffMs > 60 * 60 * 1000) return false;
+
+                const key = `hour:${deal.link}|${parsed.toISOString()}`;
+                if (expiryAlerts[key]) return false;
+                expiryAlerts[key] = Date.now();
+                expiryAlertsChanged = true;
+                return true;
+            });
+
+            const expiringWithinDay = allDeals.filter((deal) => {
+                if (!deal?.expiryDate || !deal?.link) return false;
+                const parsed = parseDealExpiry(deal.expiryDate);
+                if (!parsed) return false;
+                const diffMs = parsed.getTime() - now;
+                if (diffMs <= 60 * 60 * 1000 || diffMs > 24 * 60 * 60 * 1000) return false;
+
+                const key = `day:${deal.link}|${parsed.toISOString()}`;
+                if (expiryAlerts[key]) return false;
+                expiryAlerts[key] = Date.now();
+                expiryAlertsChanged = true;
+                return true;
+            });
+
+            if (newDeals.length > 0) {
+                const names = newDeals.slice(0, 2).map(d => d.title).filter(Boolean);
+                const more = newDeals.length > names.length ? ` +${newDeals.length - names.length} more` : '';
+                await notifyUser({
+                    title: `New Free Deals: ${newDeals.length}`,
+                    body: `${names.join(', ')}${more}`
                 });
+            }
+
+            if (!hasNativeRealtimeCountdown && expiringWithinHour.length > 0) {
+                const names = expiringWithinHour.slice(0, 2).map(d => d.title).filter(Boolean);
+                const more = expiringWithinHour.length > names.length ? ` +${expiringWithinHour.length - names.length} more` : '';
+                await notifyUser({
+                    title: `Expiring In Under 1 Hour`,
+                    body: `${names.join(', ')}${more}`
+                });
+            }
+
+            if (expiringWithinDay.length > 0) {
+                const names = expiringWithinDay.slice(0, 2).map(d => d.title).filter(Boolean);
+                const more = expiringWithinDay.length > names.length ? ` +${expiringWithinDay.length - names.length} more` : '';
+                await notifyUser({
+                    title: `Expiring Within 24 Hours`,
+                    body: `${names.join(', ')}${more}`
+                });
+            }
+
+            if (currentLinks.length > 0) {
+                saveJsonStorage(knownDealsStorageKey, currentLinks);
+            }
+            if (expiryAlertsChanged) {
+                saveJsonStorage(expiryAlertStorageKey, expiryAlerts);
             }
         }
 
@@ -575,7 +1518,11 @@
         function createDealCard(deal, isWatchlistCard = false) {
             const card = document.createElement('div');
             card.className = 'bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 flex flex-col deal-card shadow-2xl';
-            
+            const normalizedLink = normalizeDealLink(deal.link) || deal.link || '';
+            if (normalizedLink) {
+                card.setAttribute('data-deal-link', normalizedLink);
+            }
+
             const platformClass = getPlatformClass(deal.platform);
             const saved = isSaved(deal.link);
             const claimed = isClaimed(deal.link);
@@ -587,7 +1534,7 @@
                 : 'bg-yellow-500 hover:bg-yellow-400 text-slate-950 active:scale-95';
             const encodedLink = encodeURIComponent(deal.link);
             const discountBadge = deal.discountPct ? `<span class="bg-emerald-600/20 text-emerald-400 border border-emerald-600/30 text-[9px] px-2 py-0.5 rounded font-black uppercase tracking-wider mt-2 inline-block">${deal.discountPct}</span>` : '';
-            
+
             // Add Subscription Required badge if needed
             let subBadge = '';
             if (deal.category === "Subscription Required") {
@@ -596,8 +1543,8 @@
 
             card.innerHTML = `
                 <div class="h-44 bg-slate-800 relative overflow-hidden group">
-                    ${deal.imageUrl ? 
-                        `<img src="${deal.imageUrl}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" onerror="this.src='https://via.placeholder.com/400x200/1e293b/64748b?text=Image+Unavailable'">` : 
+                    ${deal.imageUrl ?
+                        `<img src="${deal.imageUrl}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" onerror="this.src='https://via.placeholder.com/400x200/1e293b/64748b?text=Image+Unavailable'">` :
                         `<div class="w-full h-full flex items-center justify-center bg-slate-800"><i class="fas fa-gamepad text-4xl text-slate-700"></i></div>`
                     }
                     <div class="absolute top-4 left-4 flex flex-col gap-2">
@@ -640,6 +1587,108 @@
             return card;
         }
 
+        function escapeHtml(value) {
+            return String(value ?? '')
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+        }
+
+        function showCompactTitlePreview(event, titleEl) {
+            event.stopPropagation();
+
+            const previousTimer = Number(titleEl.dataset.previewTimer || '0');
+            if (previousTimer) {
+                clearTimeout(previousTimer);
+            }
+
+            titleEl.classList.remove('truncate');
+            titleEl.classList.add('whitespace-normal');
+
+            const timerId = window.setTimeout(() => {
+                titleEl.classList.add('truncate');
+                titleEl.classList.remove('whitespace-normal');
+                delete titleEl.dataset.previewTimer;
+            }, 5000);
+
+            titleEl.dataset.previewTimer = String(timerId);
+        }
+
+        function createCompactDealCard(deal, isWatchlistCard = false, isLeadCard = false) {
+            const card = document.createElement('div');
+            card.className = `compact-deal-card bg-slate-900/90 rounded-[28px] overflow-hidden border shadow-xl ${isLeadCard ? 'border-blue-500/20' : 'border-slate-800'}`;
+            const normalizedLink = normalizeDealLink(deal.link) || deal.link || '';
+            if (normalizedLink) {
+                card.setAttribute('data-deal-link', normalizedLink);
+            }
+
+            const platformClass = getPlatformClass(deal.platform);
+            const claimed = isClaimed(deal.link);
+            const displayPrice = deal.currentPrice || 'FREE';
+            const isFreeDeal = displayPrice.toUpperCase().includes('FREE') || displayPrice === '$0' || displayPrice === '0';
+            const actionText = claimed ? 'Claimed' : (isFreeDeal ? 'Claim' : 'View');
+            const claimBtnClass = claimed
+                ? 'bg-emerald-700 hover:bg-emerald-600 text-white opacity-95'
+                : 'bg-blue-600 hover:bg-blue-500 text-white active:scale-95';
+            const encodedLink = encodeURIComponent(deal.link);
+            const discountBadge = deal.discountPct ? `<span class="bg-emerald-600/20 text-emerald-400 border border-emerald-600/30 text-[9px] px-2 py-0.5 rounded font-black uppercase tracking-wider">${deal.discountPct}</span>` : '';
+            const subBadge = deal.category === 'Subscription Required'
+                ? `<span class="bg-indigo-600/20 text-indigo-400 border border-indigo-600/30 text-[9px] px-2 py-0.5 rounded font-black uppercase tracking-wider">Subscription</span>`
+                : '';
+            const buttonIcon = claimed
+                ? '<i class="fas fa-check"></i>'
+                : '<i class="fas fa-download"></i>';
+            const cardPadding = isLeadCard ? 'p-3' : 'p-3.5';
+            const priceSummary = `${displayPrice}${deal.originalPrice && deal.originalPrice !== 'N/A' ? ` • Was ${deal.originalPrice}` : ''}`;
+            const claimedBadge = claimed
+                ? '<span class="inline-flex items-center rounded-full border border-emerald-500/30 bg-emerald-500/12 px-2 py-0.5 text-[0.62rem] font-black uppercase tracking-[0.12em] text-emerald-300">Claimed</span>'
+                : '';
+
+            card.innerHTML = `
+                <div class="${cardPadding}">
+                    <div class="flex items-stretch gap-3">
+                        <div class="compact-thumb relative shrink-0 rounded-[20px] overflow-hidden bg-slate-800 border border-slate-700">
+                            ${deal.imageUrl ?
+                                `<img src="${deal.imageUrl}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/400x240/0f172a/64748b?text=DealHunter'">` :
+                                `<div class="w-full h-full flex items-center justify-center bg-slate-800"><i class="fas fa-gamepad text-2xl text-slate-700"></i></div>`
+                            }
+                            <div class="absolute left-1.5 bottom-1.5">
+                                <span class="platform-badge ${platformClass}">${deal.platform}</span>
+                            </div>
+                        </div>
+                        <div class="min-w-0 flex-1 flex min-h-full flex-col justify-between py-0.5">
+                            <div class="flex items-start gap-2">
+                                <div class="compact-title-shell min-w-0 flex-1 relative">
+                                    <h3 onclick="showCompactTitlePreview(event, this)" data-full-title="${escapeHtml(deal.title)}" class="cursor-pointer truncate text-[1rem] sm:text-[1.02rem] font-black uppercase tracking-tight leading-[1.02]">${deal.title}</h3>
+                                    <div class="mt-1 flex flex-wrap gap-1.5 items-center">
+                                        <span class="text-[9px] font-black uppercase compact-meta-label text-slate-500">Ends In</span>
+                                        ${subBadge}
+                                        ${discountBadge}
+                                    </div>
+                                </div>
+                                <button
+                                    onclick="handleClaimClick(event, '${encodedLink}')"
+                                    class="${claimBtnClass} h-10 w-10 rounded-[16px] font-black text-base transition-all shrink-0 shadow-lg mt-0.5"
+                                    title="${actionText}"
+                                >${buttonIcon}</button>
+                            </div>
+                            <div class="mt-1.5">
+                                <span class="countdown-timer compact-time-value whitespace-nowrap text-[1.12rem] sm:text-[1.24rem] leading-none font-black text-blue-400 tracking-tight inline-block" data-expiry="${deal.expiryDate || ''}">${deal.expiryDate ? '--:--:--' : 'LIVE'}</span>
+                                <div class="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1">
+                                    <p class="text-[0.76rem] text-slate-300 font-bold leading-none">${priceSummary}</p>
+                                    ${claimedBadge}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            return card;
+        }
+
         async function performSearch(query) {
             if (!query || query.length < 2) return;
 
@@ -657,7 +1706,7 @@
                 if (isStaticMode) {
                     results = await performCheapSharkSearch(query);
                 } else {
-                    const response = await fetch(`./api/search?q=${encodeURIComponent(query)}`);
+                    const response = await fetch(`${buildApiUrl('/api/search')}?q=${encodeURIComponent(query)}`);
                     if (response.ok) {
                         results = await response.json();
                     } else {
@@ -794,18 +1843,32 @@
             return map[filter] || `filter-${String(filter || '').toLowerCase().replace(/[^a-z0-9]+/g, '')}`;
         }
 
-        function setFilter(filter) {
-            currentFilter = filter;
+        function updateFilterButtonState() {
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.classList.remove('bg-yellow-500', 'text-slate-950');
                 btn.classList.add('text-slate-400');
             });
-            const activeBtn = document.getElementById(getFilterButtonId(filter));
+            const activeBtn = document.getElementById(getFilterButtonId(currentFilter));
             if (activeBtn) {
                 activeBtn.classList.remove('text-slate-400');
                 activeBtn.classList.add('bg-yellow-500', 'text-slate-950');
+                activeBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
             }
+        }
+
+        function setFilter(filter) {
+            if (currentFilter === filter) return;
+            filterScrollPositions[currentFilter] = window.scrollY || document.documentElement.scrollTop || 0;
+            currentFilter = filter;
+            updateFilterButtonState();
             filterAndDisplay();
+            const hasSavedScroll = Object.prototype.hasOwnProperty.call(filterScrollPositions, filter);
+            requestAnimationFrame(() => {
+                window.scrollTo({
+                    top: hasSavedScroll ? filterScrollPositions[filter] : 0,
+                    behavior: 'auto'
+                });
+            });
         }
 
         function renderLastUpdated(payload) {
@@ -819,13 +1882,125 @@
             lastUpdated.textContent = `${relative}${source}`;
         }
 
+        function isAdCurrentlyActive(ad) {
+            if (!ad) return false;
+            if (String(ad.status || 'active').toLowerCase() !== 'active') return false;
+            if (!ad.id || !ad.title || !ad.link) return false;
+
+            const now = new Date();
+            const startsAt = ad.startsAt ? new Date(ad.startsAt) : null;
+            const endsAt = ad.endsAt ? new Date(ad.endsAt) : null;
+            if (startsAt && !Number.isNaN(startsAt.getTime()) && startsAt > now) return false;
+            if (endsAt && !Number.isNaN(endsAt.getTime()) && endsAt <= now) return false;
+            return true;
+        }
+
+        function buildAdClickUrl(ad) {
+            if (!ad || !ad.id) return '#';
+            if (!canUseLiveApi()) return ad.link;
+            return `${buildApiUrl('/api/ads/click')}/${encodeURIComponent(ad.id)}`;
+        }
+
+        async function trackAdImpression(adId) {
+            if (!adId || !canUseLiveApi() || adImpressionCache.has(adId)) return;
+            adImpressionCache.add(adId);
+            try {
+                await fetch(buildApiUrl('/api/ads/impression'), {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ adId })
+                });
+            } catch (error) {
+                console.error('Ad impression tracking failed:', error);
+            }
+        }
+
+        function renderMonetization(payload) {
+            const disclosureText = payload?.disclosure || '';
+            if (disclosureText) {
+                monetizationDisclosure.textContent = disclosureText;
+                monetizationDisclosure.classList.remove('hidden');
+            } else {
+                monetizationDisclosure.classList.add('hidden');
+            }
+
+            const banner = payload?.enabled ? payload?.slots?.topBanner : null;
+            if (!isAdCurrentlyActive(banner)) {
+                adBannerSlot.classList.add('hidden');
+                adBannerSlot.innerHTML = '';
+                return;
+            }
+
+            const safeCta = banner.cta || 'Learn More';
+            const safeDesc = banner.description || 'Sponsored placement';
+            const safeImage = banner.imageUrl || '';
+            const clickUrl = buildAdClickUrl(banner);
+            adBannerSlot.innerHTML = `
+                <article class="relative overflow-hidden rounded-2xl border border-yellow-500/30 bg-slate-900/70 shadow-xl">
+                    <div class="absolute inset-0 bg-gradient-to-r from-yellow-500/10 via-transparent to-transparent pointer-events-none"></div>
+                    <div class="relative p-5 sm:p-6 flex flex-col sm:flex-row sm:items-center gap-5">
+                        ${safeImage ? `<img src="${safeImage}" alt="Sponsored" class="w-full sm:w-32 h-20 object-cover rounded-lg border border-slate-700">` : ''}
+                        <div class="flex-1 min-w-0">
+                            <span class="inline-flex items-center px-2 py-1 rounded border border-yellow-500/30 bg-yellow-500/10 text-yellow-400 text-[9px] font-black uppercase tracking-widest">Sponsored</span>
+                            <h3 class="mt-2 text-sm sm:text-base font-black uppercase tracking-tight text-slate-100">${banner.title}</h3>
+                            <p class="mt-1 text-xs text-slate-400">${safeDesc}</p>
+                        </div>
+                        <a href="${clickUrl}" target="_blank" rel="noopener noreferrer sponsored"
+                           class="shrink-0 bg-yellow-500 hover:bg-yellow-400 text-slate-950 px-4 py-2 rounded-lg font-black uppercase text-[10px] tracking-widest transition-colors">
+                            ${safeCta}
+                        </a>
+                    </div>
+                </article>
+            `;
+            adBannerSlot.classList.remove('hidden');
+            trackAdImpression(banner.id);
+        }
+
+        async function fetchMonetization() {
+            try {
+                const cacheBust = `t=${Date.now()}`;
+                let payload;
+
+                if (canUseLiveApi()) {
+                    const response = await fetch(`${buildApiUrl('/api/ads')}?${cacheBust}`);
+                    if (!response.ok) throw new Error(`Monetization API failed: ${response.status}`);
+                    payload = await response.json();
+                } else {
+                    const response = await fetch(`./data/ads.json?${cacheBust}`);
+                    if (!response.ok) {
+                        renderMonetization({ enabled: false, disclosure: '' });
+                        return;
+                    }
+                    const raw = await response.json();
+                    const rawAds = Array.isArray(raw?.ads) ? raw.ads : [];
+                    const topBanner = rawAds.find(a => a.slot === 'topBanner' && isAdCurrentlyActive(a)) || null;
+                    payload = {
+                        enabled: raw?.enabled !== false,
+                        disclosure: raw?.disclosure || '',
+                        slots: { topBanner }
+                    };
+                }
+
+                renderMonetization(payload);
+            } catch (error) {
+                console.error('Failed to fetch monetization settings:', error);
+                renderMonetization({ enabled: false, disclosure: '' });
+            }
+        }
+
         async function fetchDeals(options = {}) {
+            if (activeDealsFetchPromise) {
+                return activeDealsFetchPromise;
+            }
+
+            activeDealsFetchPromise = (async () => {
             const force = Boolean(options.force);
             const silent = Boolean(options.silent);
+            const keepLoadingOnFailure = Boolean(options.keepLoadingOnFailure);
+            const hadDealsBeforeFetch = Array.isArray(allDeals) && allDeals.length > 0;
 
             if (!silent) {
-                loading.classList.remove('hidden');
-                dealsGrid.classList.add('hidden');
+                loading.classList.toggle('hidden', hadDealsBeforeFetch);
                 noDeals.classList.add('hidden');
                 refreshBtn.disabled = true;
                 refreshIcon.classList.add('animate-spin');
@@ -836,45 +2011,82 @@
                 let data;
 
                 // In server mode, API handles cache and scheduled refresh. Force=true requests a fresh scan.
-                if (!isStaticMode) {
+                if (canUseLiveApi()) {
                     const forceQuery = force ? '&force=1' : '';
-                    const liveResponse = await fetch('/api/deals?' + cacheBust + forceQuery);
-                    if (liveResponse.ok) {
-                        data = await liveResponse.json();
-                    } else {
-                        throw new Error(`Live API failed with status ${liveResponse.status}`);
-                    }
+                    data = await DealHunterFeed.fetchSnapshot(`${buildApiUrl('/api/deals')}?${cacheBust}${forceQuery}`);
+                    data.source = 'live-api';
                 } else {
-                    const response = await fetch('./data/deals.json?' + cacheBust);
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
+                    const candidateFeeds = [];
+                    resolvedDealsFeeds.forEach((feed) => {
+                        if (feed) candidateFeeds.push(`${feed}?${cacheBust}`);
+                    });
+                    candidateFeeds.push('./data/deals.json?' + cacheBust);
+
+                    let lastFeedError = null;
+                    for (const feedUrl of candidateFeeds) {
+                        try {
+                            const snapshot = await DealHunterFeed.fetchSnapshot(feedUrl);
+                            if (shouldIgnoreIncomingDealsPayload(snapshot, snapshot.deals, hadDealsBeforeFetch, force,
+                                feedUrl.includes('github') ? 'github-feed' : 'local-bundle')) continue;
+                            data = snapshot;
+                            if (data && typeof data === 'object') {
+                                data.source = feedUrl.includes('github.io') ? 'github-feed' : (data.source || 'local-bundle');
+                            }
+                            break;
+                        } catch (feedError) {
+                            lastFeedError = feedError;
+                        }
                     }
-                    data = await response.json();
+                    if (!data) {
+                        throw lastFeedError || new Error('No static deals feed available');
+                    }
                 }
 
-                allDeals = data.deals || (Array.isArray(data) ? data : []);
-                lastDealsPayload = data;
-                reconcileClaimedSavings();
-                renderLastUpdated(data);
+                const incomingDeals = data?.deals || (Array.isArray(data) ? data : []);
+                if (shouldIgnoreIncomingDealsPayload(data, incomingDeals, hadDealsBeforeFetch, force, data?.source)) {
+                    console.warn('Ignoring stale or empty deals payload during non-forced refresh.');
+                    return;
+                }
 
-                filterAndDisplay(); // Use the function that applies the current filter
+                hydrateDealsFromPayload(data);
+                saveCachedDealsPayload({
+                    lastUpdated: data?.lastUpdated || new Date().toISOString(),
+                    source: data?.source || (canUseLiveApi() ? 'live-api' : 'static-feed'),
+                    deals: allDeals
+                });
+                if (notificationsEnabled) checkAndNotify({ forceTreatAsUpdate: true });
+                if (notificationsEnabled) syncNativeExpiryNotifications().catch(console.error);
             } catch (error) {
                 console.error("Error fetching deals:", error);
                 // Fallback to static JSON when API is unavailable.
                 try {
-                    const fallback = await fetch('./data/deals.json?t=' + Date.now());
-                    if (!fallback.ok) throw new Error('Fallback static file unavailable');
-                    const fallbackData = await fallback.json();
-                    allDeals = fallbackData.deals || (Array.isArray(fallbackData) ? fallbackData : []);
-                    lastDealsPayload = {
+                    const fallbackData = await DealHunterFeed.fetchSnapshot('./data/deals.json?t=' + Date.now());
+                    const fallbackDeals = fallbackData?.deals || (Array.isArray(fallbackData) ? fallbackData : []);
+                    if (shouldIgnoreIncomingDealsPayload(fallbackData, fallbackDeals, hadDealsBeforeFetch, force, 'static-fallback')) {
+                        console.warn('Ignoring stale or empty fallback deals payload during non-forced refresh.');
+                        return;
+                    }
+                    saveCachedDealsPayload({
+                        lastUpdated: fallbackData?.lastUpdated || new Date().toISOString(),
+                        source: 'static-fallback',
+                        deals: fallbackDeals
+                    });
+                    if (!hasConfiguredApiBase) isStaticMode = true;
+                    hydrateDealsFromPayload({
                         ...fallbackData,
-                        source: 'static-fallback'
-                    };
-                    renderLastUpdated(lastDealsPayload);
-                    isStaticMode = true;
-                    filterAndDisplay();
+                        source: 'static-fallback',
+                        deals: fallbackDeals
+                    });
+                    if (notificationsEnabled) checkAndNotify({ forceTreatAsUpdate: true });
+                    if (notificationsEnabled) syncNativeExpiryNotifications().catch(console.error);
                 } catch (fallbackError) {
                     console.error("Fallback error:", fallbackError);
+                    if (allDeals.length > 0) return;
+                    if (keepLoadingOnFailure) {
+                        dealsGrid.classList.add('hidden');
+                        noDeals.classList.add('hidden');
+                        return;
+                    }
                     dealsGrid.classList.add('hidden');
                     noDeals.classList.remove('hidden');
                     const noDealsMsg = noDeals.querySelector('p');
@@ -883,11 +2095,67 @@
                     }
                 }
             } finally {
+                if (allDeals.length > 0) filterAndDisplay();
                 if (!silent) {
-                    loading.classList.add('hidden');
-                    refreshBtn.disabled = false;
-                    refreshIcon.classList.remove('animate-spin');
+                    const shouldKeepLoadingVisible = keepLoadingOnFailure && allDeals.length === 0;
+                    if (!shouldKeepLoadingVisible) {
+                        loading.classList.add('hidden');
+                        refreshBtn.disabled = false;
+                        refreshIcon.classList.remove('animate-spin');
+                    }
                 }
+                fetchMonetization();
+            }
+            })();
+
+            try {
+                return await activeDealsFetchPromise;
+            } finally {
+                activeDealsFetchPromise = null;
+            }
+        }
+
+        async function ensureDealsLoadedOnLaunch() {
+            const bootstrappedFromCache = bootstrapDealsFromCache();
+            consumeNativeWidgetLaunchTarget().then(applyPendingWidgetFocus);
+            const widgetPlugin = getDealHunterWidgetPlugin();
+            if (isNativeCapacitor && widgetPlugin?.getCachedDeals) {
+                // The native worker can have a newer snapshot than the WebView storage.
+                widgetPlugin.getCachedDeals().then(({ payload }) => {
+                    if (payload && DealHunterFeed.shouldAccept(lastDealsPayload, payload, 'native-cache')) {
+                        hydrateDealsFromPayload(payload, 'native-cache');
+                        saveCachedDealsPayload(payload);
+                    }
+                }).catch(console.warn);
+            }
+            if (bootstrappedFromCache) {
+                applyPendingWidgetFocus();
+            }
+
+            if (bootstrappedFromCache) {
+                await fetchDeals({ force: false, silent: true });
+                applyPendingWidgetFocus();
+                if (allDeals.length > 0) return;
+            }
+
+            const startupAttempts = [
+                { delayMs: 0, keepLoadingOnFailure: true },
+                { delayMs: 2000, keepLoadingOnFailure: true },
+                { delayMs: 5000, keepLoadingOnFailure: false }
+            ];
+
+            for (const attempt of startupAttempts) {
+                if (allDeals.length > 0) break;
+                if (attempt.delayMs > 0) {
+                    await new Promise((resolve) => setTimeout(resolve, attempt.delayMs));
+                    if (allDeals.length > 0) break;
+                }
+                await fetchDeals({
+                    force: true,
+                    silent: false,
+                    keepLoadingOnFailure: attempt.keepLoadingOnFailure
+                });
+                applyPendingWidgetFocus();
             }
         }
 
@@ -897,8 +2165,6 @@
             if (p.includes('steam')) return 'steam';
             if (p.includes('gog')) return 'gog';
             if (p.includes('itch')) return 'itch';
-            if (p.includes('humble')) return 'other';
-            if (p.includes('fanatical')) return 'other';
             if (p.includes('playstation')) return 'playstation';
             if (p.includes('xbox')) return 'xbox';
             if (p.includes('nintendo')) return 'nintendo';
@@ -912,19 +2178,31 @@
         }
 
         function updateCountdown() {
+            const viewportHeight = window.innerHeight || document.documentElement.clientHeight || 0;
             document.querySelectorAll('.countdown-timer').forEach(el => {
                 const expiry = el.getAttribute('data-expiry');
                 if (!expiry) return;
-                
+
+                const rect = el.getBoundingClientRect();
+                if (viewportHeight > 0 && (rect.bottom < -120 || rect.top > viewportHeight + 120)) return;
+
                 const parsedExpiry = parseDealExpiry(expiry);
                 const end = parsedExpiry ? dayjs(parsedExpiry.toISOString()) : dayjs(expiry);
-                
+
                 if (parsedExpiry || end.isValid()) {
                     const now = dayjs();
                     const diff = end.diff(now);
-                    
+
                     if (diff <= 0) {
-                        el.innerHTML = '<span class="text-red-500">EXPIRED</span>';
+                        if (el.dataset.renderedText !== 'EXPIRED') {
+                            el.textContent = 'EXPIRED';
+                            el.dataset.renderedText = 'EXPIRED';
+                        }
+                        if (el.dataset.renderedTone !== 'expired') {
+                            el.classList.remove('text-emerald-400', 'text-lime-400', 'text-yellow-500', 'text-orange-400', 'text-red-500', 'text-blue-400');
+                            el.classList.add('text-red-500');
+                            el.dataset.renderedTone = 'expired';
+                        }
                         return;
                     }
 
@@ -933,11 +2211,54 @@
                     const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
                     const secs = Math.floor((diff % (1000 * 60)) / 1000);
 
-                    el.innerHTML = `${days}d ${hours}h ${mins}m ${secs}s`;
+                    let tone = 'safe';
+                    if (diff <= 15 * 60 * 1000) {
+                        tone = 'critical';
+                    } else if (diff <= 60 * 60 * 1000) {
+                        tone = 'warning';
+                    } else if (diff <= 6 * 60 * 60 * 1000) {
+                        tone = 'soon';
+                    } else if (diff <= 24 * 60 * 60 * 1000) {
+                        tone = 'upcoming';
+                    } else {
+                        tone = 'safe';
+                    }
+
+                    if (el.dataset.renderedTone !== tone) {
+                        el.classList.remove('text-emerald-400', 'text-lime-400', 'text-yellow-500', 'text-orange-400', 'text-red-500', 'text-blue-400');
+                        if (tone === 'critical') {
+                            el.classList.add('text-red-500');
+                        } else if (tone === 'warning') {
+                            el.classList.add('text-orange-400');
+                        } else if (tone === 'soon') {
+                            el.classList.add('text-yellow-500');
+                        } else if (tone === 'upcoming') {
+                            el.classList.add('text-lime-400');
+                        } else if (layoutMode === 'compact') {
+                            el.classList.add('text-blue-400');
+                        } else {
+                            el.classList.add('text-emerald-400');
+                        }
+                        el.dataset.renderedTone = tone;
+                    }
+
+                    const nextText = layoutMode === 'compact'
+                        ? `${days}d ${hours}h ${mins}m ${secs}s`
+                        : `${days}d ${hours}h ${mins}m ${secs}s`;
+                    if (el.dataset.renderedText !== nextText) {
+                        el.textContent = nextText;
+                        el.dataset.renderedText = nextText;
+                    }
                 } else {
-                    el.innerHTML = expiry;
-                    el.classList.remove('text-yellow-500');
-                    el.classList.add('text-slate-300');
+                    if (el.dataset.renderedText !== expiry) {
+                        el.textContent = expiry;
+                        el.dataset.renderedText = expiry;
+                    }
+                    if (el.dataset.renderedTone !== 'raw') {
+                        el.classList.remove('text-emerald-400', 'text-lime-400', 'text-yellow-500', 'text-orange-400', 'text-red-500', 'text-blue-400');
+                        el.classList.add('text-slate-300');
+                        el.dataset.renderedTone = 'raw';
+                    }
                 }
             });
         }
@@ -962,32 +2283,45 @@
 
         function displayDeals(deals) {
             loading.classList.add('hidden');
-            
+
             if (!deals || deals.length === 0) {
                 dealsGrid.classList.add('hidden');
                 noDeals.classList.remove('hidden');
                 stats.innerHTML = '';
+                statsShell.classList.add('hidden');
+                compactLeadSection.classList.add('hidden');
                 return;
             }
 
+            const orderedDeals = layoutMode === 'compact' ? sortDealsForCompactFeed(deals) : [...deals];
             dealsGrid.innerHTML = '';
+            setDealsContainerLayout(dealsGrid, layoutMode);
             dealsGrid.classList.remove('hidden');
             noDeals.classList.add('hidden');
+            renderCompactLeadSection(orderedDeals);
 
             const platformCounts = {};
-            
-            deals.forEach(deal => {
+
+            let appendedCards = 0;
+            orderedDeals.forEach((deal, index) => {
                 platformCounts[deal.platform] = (platformCounts[deal.platform] || 0) + 1;
-                const card = createDealCard(deal);
+                if (layoutMode === 'compact' && index < 3) return;
+                const card = layoutMode === 'compact' ? createCompactDealCard(deal) : createDealCard(deal);
                 dealsGrid.appendChild(card);
+                appendedCards += 1;
             });
+            if (layoutMode === 'compact' && appendedCards === 0) {
+                dealsGrid.classList.add('hidden');
+            }
+            updateCountdown();
 
             stats.innerHTML = '';
+            statsShell.classList.remove('hidden');
             const allBtn = document.createElement('div');
             allBtn.className = 'bg-slate-900 px-4 py-2 rounded-lg border border-slate-800 flex items-center space-x-3 shadow-lg';
             allBtn.innerHTML = `
                 <span class="text-[10px] font-black text-slate-500 uppercase tracking-widest">Total Found</span>
-                <span class="text-lg font-black text-yellow-500">${deals.length}</span>
+                <span class="text-lg font-black text-yellow-500">${orderedDeals.length}</span>
             `;
             stats.appendChild(allBtn);
 
@@ -1014,12 +2348,45 @@
         }
 
         refreshBtn.addEventListener('click', () => fetchDeals({ force: true }));
+        if (statsToggleBtn) {
+            statsToggleBtn.addEventListener('click', toggleStatsPanel);
+        }
         setInterval(updateCountdown, 1000);
-        fetchDeals({ force: false });
+        applyLayoutModeUI();
+        applyStatsCollapseState();
+        updateFilterButtonState();
+        ensureDealsLoadedOnLaunch();
         setInterval(() => fetchDeals({ silent: true }), 5 * 60 * 1000);
-        setFilter('all');
         updateNotifyUI();
+        refreshNotificationStatus();
         if (notificationsEnabled) scheduleDailyCheck();
+
+        window.addEventListener('online', () => {
+            if (allDeals.length === 0) {
+                fetchDeals({ force: true, silent: false });
+            } else {
+                fetchDeals({ force: false, silent: true });
+            }
+        });
+
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState !== 'visible') return;
+            fetchDeals({ silent: allDeals.length > 0 });
+        });
+
+        const appPlugin = getAppPlugin();
+        if (isNativeCapacitor && appPlugin?.addListener) {
+            appPlugin.addListener('appStateChange', async ({ isActive }) => {
+                if (!isActive) return;
+                fetchDeals({ silent: allDeals.length > 0 });
+                await refreshNotificationStatus();
+                await consumeNativeWidgetLaunchTarget();
+                applyPendingWidgetFocus();
+                if (notificationsEnabled) {
+                    await syncNativeExpiryNotifications();
+                }
+            });
+        }
     </script>
 </body>
 </html>

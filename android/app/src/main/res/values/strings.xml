@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DealHunter</string>
+    <string name="title_activity_main">DealHunter</string>
+    <string name="package_name">com.milak.dealhunterfresh</string>
+    <string name="custom_url_scheme">com.milak.dealhunterfresh</string>
+</resources>

@@ -2,18 +2,31 @@
   "name": "freedealscanner",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test tests/*.test.js",
+    "start": "node server.js",
+    "mobile:prepare": "node ./scripts/prepare-mobile-web.js",
+    "mobile:init": "npm run mobile:prepare && npx cap init \"DealHunter\" \"com.milak.dealhunterfresh\" --web-dir=mobile_web",
+    "mobile:sync": "npm run mobile:prepare && npx cap sync android && node ./scripts/fix-capacitor-java.js",
+    "mobile:open:android": "npx cap open android"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@capacitor/android": "^7.6.5",
+    "@capacitor/app": "^7.0.2",
+    "@capacitor/core": "^7.6.5",
+    "@capacitor/local-notifications": "^7.0.2",
     "axios": "^1.13.6",
     "axios-retry": "^4.5.0",
     "cheerio": "^1.2.0",
     "cors": "^2.8.6",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.6.5",
+    "jsdom": "^26.1.0"
   }
 }

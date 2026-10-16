@@ -12,9 +12,6 @@ function isDealActive(deal, now = new Date()) {
 async function updateData() {
     console.log('[scan] Starting scheduled deal scan...');
     try {
-        const deals = await getAllDeals();
-        const normalizedDeals = Array.isArray(deals) ? deals : [];
-
         const dataPath = path.join(__dirname, 'data');
         const outputPath = path.join(dataPath, 'deals.json');
         let previousDeals = [];
@@ -32,6 +29,8 @@ async function updateData() {
             fs.mkdirSync(dataPath, { recursive: true });
         }
 
+        const deals = await getAllDeals({ previousDeals });
+        const normalizedDeals = Array.isArray(deals) ? deals : [];
         const activePreviousDeals = previousDeals.filter(d => isDealActive(d));
         const finalDeals = normalizedDeals.length > 0 ? normalizedDeals : activePreviousDeals;
 

@@ -1,5 +1,5 @@
 {
-  "name": "Deal Hunter",
+  "name": "DealHunter",
   "short_name": "DealHunter",
   "description": "The ultimate free games and price comparison tracker.",
   "start_url": "./",
@@ -8,10 +8,10 @@
   "theme_color": "#eab308",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081840.png",
-      "sizes": "512x512",
+      "src": "./assets/icons/dealhunter.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
