@@ -5,6 +5,7 @@ The website and Android app share one interface: compact and grid layouts,
 countdowns, a watchlist, claimed-game tracking, savings, and a folding scan summary.
 
 - [Open the website](https://milak-web.github.io/Deal-Hunter/)
+- [Open the app-style Compact interface](https://milak-web.github.io/Deal-Hunter/?layout=compact&v=1.3.1)
 - [Android downloads](https://github.com/milak-web/Deal-Hunter/releases)
 - [1.3.0 changes and verification](docs/release-1.3.0.md)
 

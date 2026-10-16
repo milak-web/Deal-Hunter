@@ -14,19 +14,19 @@ const fixture = {
 };
 const settle = () => new Promise(resolve => setTimeout(resolve, 60));
 
-function createApp({ cached, reply = fixture } = {}) {
+function createApp({ cached, reply = fixture, url = 'https://localhost', native = true, mobile = true, savedLayout } = {}) {
     const dom = new JSDOM(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), {
-        url: 'https://localhost', runScripts: 'outside-only', pretendToBeVisual: true
+        url, runScripts: 'outside-only', pretendToBeVisual: true
     });
     const w = dom.window;
     const requests = [];
     const errors = [];
     w.console.error = (...args) => errors.push(args);
     w.console.warn = () => {};
-    w.matchMedia = () => ({ matches: true });
+    w.matchMedia = () => ({ matches: mobile });
     w.HTMLElement.prototype.scrollIntoView = () => {};
     w.scrollTo = () => {};
-    w.Capacitor = { isNativePlatform: () => true, Plugins: {
+    w.Capacitor = { isNativePlatform: () => native, Plugins: {
         DealHunterWidget: {
             consumeLaunchTarget: async () => ({ hasTarget: false }),
             getCachedDeals: async () => ({ payload: null }),
@@ -36,6 +36,7 @@ function createApp({ cached, reply = fixture } = {}) {
         App: { addListener: () => {} }
     } };
     if (cached) w.localStorage.setItem('dealhunter_cached_deals_payload_v1', JSON.stringify(cached));
+    if (savedLayout) w.localStorage.setItem('dealhunter_layout_mode_v1', savedLayout);
     w.fetch = async url => {
         requests.push(String(url));
         if (String(url).includes('ads')) return { ok: true, json: async () => ({ enabled: false }) };
@@ -65,6 +66,36 @@ test('cold Android launch loads actual cards automatically from the remote feed'
         assert.equal(app.w.document.getElementById('compactLeadSection').classList.contains('hidden'), false);
         assert.equal(app.w.document.getElementById('noDeals').classList.contains('hidden'), true);
         assert.equal(app.errors.length, 0);
+    } finally { app.dom.window.close(); }
+});
+
+test('GitHub Pages opens the app-style compact feed on a desktop browser', async () => {
+    const app = createApp({ url: 'https://milak-web.github.io/Deal-Hunter/', native: false, mobile: false });
+    try {
+        await settle();
+        assert.equal(app.w.document.getElementById('compactLeadSection').classList.contains('hidden'), false);
+        assert.ok(!app.requests.some(url => url.startsWith('/api/')));
+        assert.match(app.w.document.getElementById('stats').textContent, /You Saved/);
+        assert.equal(app.errors.length, 0);
+    } finally { app.dom.window.close(); }
+});
+
+test('the website preserves an explicitly saved Grid preference', async () => {
+    const app = createApp({ url: 'https://milak-web.github.io/Deal-Hunter/', native: false, savedLayout: 'grid' });
+    try {
+        await settle();
+        assert.equal(app.w.document.getElementById('compactLeadSection').classList.contains('hidden'), true);
+        assert.equal(app.w.document.getElementById('dealsGrid').classList.contains('hidden'), false);
+        assert.ok(app.w.document.getElementById('dealsGrid').children.length > 0);
+    } finally { app.dom.window.close(); }
+});
+
+test('a Compact link overrides a saved Grid preference without erasing it', async () => {
+    const app = createApp({ url: 'https://milak-web.github.io/Deal-Hunter/?layout=compact', native: false, savedLayout: 'grid' });
+    try {
+        await settle();
+        assert.equal(app.w.document.getElementById('compactLeadSection').classList.contains('hidden'), false);
+        assert.equal(app.w.localStorage.getItem('dealhunter_layout_mode_v1'), 'grid');
     } finally { app.dom.window.close(); }
 });
 
