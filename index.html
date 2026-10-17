@@ -363,6 +363,10 @@
             return window.Capacitor?.Plugins?.DealHunterCountdown || null;
         }
 
+        function getDealHunterNotificationsPlugin() {
+            return window.Capacitor?.Plugins?.DealHunterNotifications || null;
+        }
+
         function getAppPlugin() {
             return window.Capacitor?.Plugins?.App || null;
         }
@@ -917,6 +921,8 @@
                         dealLink: normalizedLink,
                         title: deal.title,
                         platform: deal.platform || 'Store',
+                        imageUrl: deal.imageUrl || '',
+                        expiryAtMs: expiryMs,
                         notification: {
                             id,
                             title: `${deal.title}`,
@@ -1041,6 +1047,7 @@
                 title: bestDeal.title,
                 platform: bestDeal.platform || 'Store',
                 link: normalizedLink,
+                imageUrl: bestDeal.imageUrl || '',
                 startAtMs,
                 expiryAtMs: bestExpiryMs
             };
@@ -1175,6 +1182,11 @@
         }
 
         async function createNativeNotificationChannel() {
+            const richNotifications = getDealHunterNotificationsPlugin();
+            if (isNativeCapacitor && richNotifications?.configure) {
+                await richNotifications.configure();
+                return;
+            }
             const localNotificationsPlugin = getLocalNotificationsPlugin();
             if (!isNativeCapacitor || !localNotificationsPlugin?.createChannel) return;
             try {
@@ -1218,6 +1230,11 @@
         }
 
         async function clearNativeExpiryNotifications() {
+            const richNotifications = getDealHunterNotificationsPlugin();
+            if (isNativeCapacitor && richNotifications?.syncReminders) {
+                await richNotifications.syncReminders({ notifications: [] });
+                if (richNotifications.clearAlerts) await richNotifications.clearAlerts();
+            }
             const localNotificationsPlugin = getLocalNotificationsPlugin();
             if (!isNativeCapacitor || !localNotificationsPlugin?.cancel) {
                 saveJsonStorage(nativeExpiryScheduleStorageKey, {});
@@ -1234,8 +1251,8 @@
                         notifications: ids.map(id => ({ id }))
                     });
                 }
-                if (localNotificationsPlugin.removeAllDeliveredNotifications) {
-                    await localNotificationsPlugin.removeAllDeliveredNotifications();
+                if (ids.length > 0 && localNotificationsPlugin.removeDeliveredNotifications) {
+                    await localNotificationsPlugin.removeDeliveredNotifications({ notifications: ids.map(id => ({ id })) });
                 }
                 saveJsonStorage(nativeExpiryScheduleStorageKey, {});
                 saveNativeExpiryAllIds([]);
@@ -1246,6 +1263,22 @@
 
         async function syncNativeExpiryNotifications() {
             const localNotificationsPlugin = getLocalNotificationsPlugin();
+            const richNotifications = getDealHunterNotificationsPlugin();
+            if (notificationsEnabled && isNativeCapacitor && richNotifications?.syncReminders) {
+                const legacyIds = mergeUniqueNumericIds(loadNativeExpiryAllIds(), Object.keys(loadJsonStorage(nativeExpiryScheduleStorageKey, {})));
+                if (legacyIds.length && localNotificationsPlugin?.cancel) {
+                    await localNotificationsPlugin.cancel({ notifications: legacyIds.map(id => ({ id })) });
+                    saveNativeExpiryAllIds([]);
+                    saveJsonStorage(nativeExpiryScheduleStorageKey, {});
+                }
+                await richNotifications.syncReminders({ notifications: buildNativeExpiryReminderPayloads(allDeals).map(entry => ({
+                    id: entry.id, atMs: Date.parse(entry.atIso), expiryAtMs: entry.expiryAtMs,
+                    title: entry.title, body: entry.notification.body, platform: entry.platform,
+                    link: entry.dealLink, imageUrl: entry.imageUrl
+                })) });
+                await syncNativeRealtimeCountdownNotification();
+                return;
+            }
             if (!notificationsEnabled || !isNativeCapacitor || !localNotificationsPlugin?.schedule) return;
             if (!Array.isArray(allDeals)) return;
             if (allDeals.length === 0) {
@@ -1309,8 +1342,19 @@
             }
         }
 
-        async function notifyUser({ title, body }) {
+        async function notifyUser({ title, body, deal = null, id = null }) {
             if (!notificationsEnabled || !title) return;
+
+            const richNotifications = getDealHunterNotificationsPlugin();
+            if (isNativeCapacitor && richNotifications?.showAlert) {
+                await richNotifications.showAlert({ payload: {
+                    id: id || hashStringToNotificationId(`alert|${title}|${deal?.link || Date.now()}`),
+                    title, body: body || '', platform: deal?.platform || 'Deal Hunter',
+                    link: deal?.link || '', imageUrl: deal?.imageUrl || '',
+                    expiryAtMs: parseDealExpiry(deal?.expiryDate)?.getTime() || 0
+                } });
+                return;
+            }
 
             const localNotificationsPlugin = getLocalNotificationsPlugin();
             if (isNativeCapacitor && localNotificationsPlugin) {
@@ -1336,7 +1380,8 @@
             if ("Notification" in window && Notification.permission === "granted") {
                 new Notification(title, {
                     body: body || '',
-                    icon: "https://cdn-icons-png.flaticon.com/512/3081/3081840.png"
+                    icon: deal?.imageUrl || './assets/icons/dealhunter.png',
+                    image: deal?.imageUrl || undefined
                 });
             }
         }
@@ -1470,11 +1515,10 @@
             });
 
             if (newDeals.length > 0) {
-                const names = newDeals.slice(0, 2).map(d => d.title).filter(Boolean);
-                const more = newDeals.length > names.length ? ` +${newDeals.length - names.length} more` : '';
                 await notifyUser({
-                    title: `New Free Deals: ${newDeals.length}`,
-                    body: `${names.join(', ')}${more}`
+                    title: newDeals[0].title,
+                    body: `Free on ${newDeals[0].platform || 'store'}${newDeals.length > 1 ? `, plus ${newDeals.length - 1} more new deals` : ''}. Tap to view.`,
+                    deal: newDeals[0]
                 });
             }
 
@@ -1483,16 +1527,18 @@
                 const more = expiringWithinHour.length > names.length ? ` +${expiringWithinHour.length - names.length} more` : '';
                 await notifyUser({
                     title: `Expiring In Under 1 Hour`,
-                    body: `${names.join(', ')}${more}`
+                    body: `${names.join(', ')}${more}`,
+                    deal: expiringWithinHour[0]
                 });
             }
 
             if (expiringWithinDay.length > 0) {
-                const names = expiringWithinDay.slice(0, 2).map(d => d.title).filter(Boolean);
-                const more = expiringWithinDay.length > names.length ? ` +${expiringWithinDay.length - names.length} more` : '';
+                const more = expiringWithinDay.length > 1 ? ` +${expiringWithinDay.length - 1} more` : '';
                 await notifyUser({
-                    title: `Expiring Within 24 Hours`,
-                    body: `${names.join(', ')}${more}`
+                    title: expiringWithinDay[0].title,
+                    body: `Ends within 24 hours on ${expiringWithinDay[0].platform || 'store'}${more}. Tap to view.`,
+                    deal: expiringWithinDay[0],
+                    id: hashStringToNotificationId(`${normalizeDealLink(expiringWithinDay[0].link)}|${parseDealExpiry(expiringWithinDay[0].expiryDate).toISOString()}|d24`)
                 });
             }
 

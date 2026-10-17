@@ -43,8 +43,10 @@ public class DealHunterCountdownPlugin extends Plugin {
         String title = payload.optString("title", "Deal expiring soon");
         String platform = payload.optString("platform", "Store");
         String link = payload.optString("link", "");
+        String imageUrl = payload.optString("imageUrl", "");
 
-        clearCountdownInternal();
+        if (prefs().getInt(KEY_NOTIFICATION_ID, -1) != notificationId) clearCountdownInternal();
+        DealHunterNotifications.IMAGES.execute(() -> DealHunterNotificationArtwork.prepare(getContext(), imageUrl));
 
         if (expiryAtMs <= now + 1000) {
             JSObject ret = new JSObject();
@@ -61,7 +63,8 @@ public class DealHunterCountdownPlugin extends Plugin {
             expiryAtMs,
             title,
             platform,
-            link
+            link,
+            imageUrl
         );
 
         if (startAtMs <= now + 2000) {
@@ -71,7 +74,8 @@ public class DealHunterCountdownPlugin extends Plugin {
                 expiryAtMs,
                 title,
                 platform,
-                link
+                link,
+                imageUrl
             );
         } else {
             AlarmManager alarmManager = (AlarmManager) getContext().getSystemService(Context.ALARM_SERVICE);
@@ -112,7 +116,7 @@ public class DealHunterCountdownPlugin extends Plugin {
 
         AlarmManager alarmManager = (AlarmManager) getContext().getSystemService(Context.ALARM_SERVICE);
         if (alarmManager != null && alarmRequestId >= 0) {
-            PendingIntent cancelIntent = buildAlarmPendingIntent(notificationId, alarmRequestId, 0, "", "", "");
+            PendingIntent cancelIntent = buildAlarmPendingIntent(notificationId, alarmRequestId, 0, "", "", "", "");
             alarmManager.cancel(cancelIntent);
             cancelIntent.cancel();
         }
@@ -136,7 +140,8 @@ public class DealHunterCountdownPlugin extends Plugin {
         long expiryAtMs,
         String title,
         String platform,
-        String link
+        String link,
+        String imageUrl
     ) {
         Intent intent = new Intent(getContext(), DealHunterCountdownReceiver.class);
         intent.putExtra(DealHunterCountdownReceiver.EXTRA_NOTIFICATION_ID, notificationId);
@@ -144,6 +149,7 @@ public class DealHunterCountdownPlugin extends Plugin {
         intent.putExtra(DealHunterCountdownReceiver.EXTRA_TITLE, title);
         intent.putExtra(DealHunterCountdownReceiver.EXTRA_PLATFORM, platform);
         intent.putExtra(DealHunterCountdownReceiver.EXTRA_LINK, link);
+        intent.putExtra(DealHunterCountdownReceiver.EXTRA_IMAGE_URL, imageUrl);
 
         int flags = PendingIntent.FLAG_UPDATE_CURRENT;
         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.M) {

@@ -8,6 +8,7 @@ countdowns, a watchlist, claimed-game tracking, savings, and a folding scan summ
 - [Open the app-style Compact interface](https://milak-web.github.io/Deal-Hunter/?layout=compact&v=1.3.1)
 - [Android downloads](https://github.com/milak-web/Deal-Hunter/releases)
 - [1.3.0 changes and verification](docs/release-1.3.0.md)
+- [Rich notifications in Android 1.4.0](docs/release-1.4.0.md)
 
 ## How Updates Work
 

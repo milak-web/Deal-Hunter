@@ -14,7 +14,7 @@ const fixture = {
 };
 const settle = () => new Promise(resolve => setTimeout(resolve, 60));
 
-function createApp({ cached, reply = fixture, url = 'https://localhost', native = true, mobile = true, savedLayout } = {}) {
+function createApp({ cached, reply = fixture, url = 'https://localhost', native = true, mobile = true, savedLayout, richNotifications } = {}) {
     const dom = new JSDOM(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), {
         url, runScripts: 'outside-only', pretendToBeVisual: true
     });
@@ -35,6 +35,10 @@ function createApp({ cached, reply = fixture, url = 'https://localhost', native 
         LocalNotifications: { checkPermissions: async () => ({ display: 'granted' }) },
         App: { addListener: () => {} }
     } };
+    if (richNotifications) {
+        w.Capacitor.Plugins.DealHunterNotifications = richNotifications;
+        w.localStorage.setItem('notificationsEnabled', 'true');
+    }
     if (cached) w.localStorage.setItem('dealhunter_cached_deals_payload_v1', JSON.stringify(cached));
     if (savedLayout) w.localStorage.setItem('dealhunter_layout_mode_v1', savedLayout);
     w.fetch = async url => {
@@ -133,4 +137,37 @@ test('a newer authoritative empty feed removes expired or withdrawn listings', (
 test('a stalled network request times out instead of blocking every later refresh', async () => {
     await assert.rejects(feed.fetchSnapshot('https://example.test/feed', (_url, { signal }) =>
         new Promise((_resolve, reject) => signal.addEventListener('abort', () => reject(new Error('aborted')))), 15), /aborted/);
+});
+
+test('native game alerts carry the game artwork, store, link and expiry to the rich renderer', async () => {
+    const shown = [];
+    const app = createApp({ richNotifications: {
+        showAlert: async ({ payload }) => shown.push(payload),
+        syncReminders: async () => {}, configure: async () => {}
+    } });
+    try {
+        await settle();
+        const deal = { ...fixture.deals[0], imageUrl: 'https://example.test/game.jpg' };
+        await app.w.notifyUser({ title: 'Artwork route test', body: 'Free game available', deal });
+        const notification = shown.find(payload => payload.title === 'Artwork route test');
+        assert.equal(notification.imageUrl, deal.imageUrl);
+        assert.equal(notification.link, deal.link);
+        assert.equal(notification.platform, 'Steam');
+        assert.equal(notification.expiryAtMs, Date.parse(deal.expiryDate));
+    } finally { app.dom.window.close(); }
+});
+
+test('day reminders and final-hour countdowns preserve artwork in their native payloads', async () => {
+    const app = createApp();
+    try {
+        await settle();
+        const deal = { ...fixture.deals[0], imageUrl: 'https://example.test/game.jpg', expiryDate: new Date(Date.now() + 2 * 86400000).toISOString() };
+        const reminder = app.w.buildNativeExpiryReminderPayloads([deal])[0];
+        assert.equal(reminder.imageUrl, deal.imageUrl);
+        assert.equal(reminder.expiryAtMs, Date.parse(deal.expiryDate));
+        deal.expiryDate = new Date(Date.now() + 1800000).toISOString();
+        const countdown = app.w.buildNativeRealtimeCountdownCandidate([deal]);
+        assert.equal(countdown.imageUrl, deal.imageUrl);
+        assert.equal(countdown.expiryAtMs, Date.parse(deal.expiryDate));
+    } finally { app.dom.window.close(); }
 });

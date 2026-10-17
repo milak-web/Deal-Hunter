@@ -19,6 +19,8 @@ public class DealHunterBootReceiver extends BroadcastReceiver {
         }
 
         if (Intent.ACTION_LOCKED_BOOT_COMPLETED.equals(action)) return;
+        DealHunterNotifications.ensureChannels(context);
+        DealHunterNotifications.restoreReminders(context);
         DealHunterRefreshService.schedule(context, true);
         AppWidgetManager manager = AppWidgetManager.getInstance(context);
         ComponentName componentName = new ComponentName(context, DealHunterWidgetProvider.class);

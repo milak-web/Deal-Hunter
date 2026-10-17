@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="64dp" android:orientation="horizontal" android:gravity="center_vertical">
+        <ImageView android:id="@+id/notification_game_thumbnail" android:layout_width="48dp" android:layout_height="44dp" android:layout_marginEnd="8dp"
+            android:scaleType="centerCrop" android:src="@mipmap/ic_launcher" android:contentDescription="@string/notification_artwork_description" />
+        <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
+            <TextView android:id="@+id/notification_game_title" style="@style/TextAppearance.Compat.Notification.Title"
+                android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="2" android:ellipsize="end" android:textSize="15sp" />
+            <TextView android:id="@+id/notification_game_store" style="@style/TextAppearance.Compat.Notification.Line2"
+                android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:ellipsize="end" android:textSize="12sp" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="8dp" android:orientation="vertical" android:gravity="end">
+            <Chronometer android:id="@+id/notification_live_timer" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:fontFamily="monospace" android:textSize="32sp" android:textStyle="bold" android:textColor="@color/notification_urgent" />
+            <TextView android:id="@+id/notification_static_timer" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textSize="24sp" android:textStyle="bold" android:textColor="@color/notification_urgent" android:visibility="gone" />
+            <TextView style="@style/TextAppearance.Compat.Notification.Line2" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/notification_time_left" android:textSize="11sp" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@+id/notification_game_artwork" android:layout_width="match_parent" android:layout_height="128dp"
+        android:layout_marginTop="8dp" android:scaleType="centerCrop" android:contentDescription="@string/notification_artwork_description" />
+    <TextView style="@style/TextAppearance.Compat.Notification.Line2" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="6dp" android:text="@string/notification_claim_hint" android:textSize="12sp" android:maxLines="1" android:ellipsize="end" />
+</LinearLayout>

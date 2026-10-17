@@ -12,7 +12,9 @@ public class MainActivity extends BridgeActivity {
     public void onCreate(Bundle savedInstanceState) {
         registerPlugin(DealHunterCountdownPlugin.class);
         registerPlugin(DealHunterWidgetPlugin.class);
+        registerPlugin(DealHunterNotificationsPlugin.class);
         super.onCreate(savedInstanceState);
+        DealHunterNotifications.ensureChannels(this);
         DealHunterRefreshService.schedule(this, true);
 
         if (getBridge() != null && getBridge().getWebView() != null) {

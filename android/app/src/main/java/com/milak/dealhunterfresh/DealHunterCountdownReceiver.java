@@ -1,14 +1,10 @@
 package com.milak.dealhunterfresh;
 
-import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.os.Build;
-
-import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
 public class DealHunterCountdownReceiver extends BroadcastReceiver {
@@ -17,8 +13,7 @@ public class DealHunterCountdownReceiver extends BroadcastReceiver {
     public static final String EXTRA_TITLE = "dh_countdown_title";
     public static final String EXTRA_PLATFORM = "dh_countdown_platform";
     public static final String EXTRA_LINK = "dh_countdown_link";
-
-    private static final String CHANNEL_ID = "dealhunter-alerts";
+    public static final String EXTRA_IMAGE_URL = "dh_countdown_image_url";
 
     @Override
     public void onReceive(Context context, Intent intent) {
@@ -35,7 +30,8 @@ public class DealHunterCountdownReceiver extends BroadcastReceiver {
             return;
         }
 
-        showCountdownNotification(context, notificationId, expiryAtMs, title, platform, link);
+        PendingResult pending = goAsync();
+        showCountdownNotification(context, notificationId, expiryAtMs, title, platform, link, intent.getStringExtra(EXTRA_IMAGE_URL), pending::finish);
     }
 
     public static void showCountdownNotification(
@@ -44,56 +40,42 @@ public class DealHunterCountdownReceiver extends BroadcastReceiver {
         long expiryAtMs,
         String title,
         String platform,
-        String link
+        String link,
+        String imageUrl
     ) {
-        Intent openIntent = context.getPackageManager().getLaunchIntentForPackage(context.getPackageName());
-        if (openIntent != null) {
-            openIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP | Intent.FLAG_ACTIVITY_CLEAR_TOP);
-            if (link != null && !link.isEmpty()) {
-                openIntent.putExtra("deal_link", link);
-            }
-        } else {
-            openIntent = new Intent();
+        showCountdownNotification(context, notificationId, expiryAtMs, title, platform, link, imageUrl, null);
+    }
+
+    private static void showCountdownNotification(Context context, int notificationId, long expiryAtMs, String title,
+        String platform, String link, String imageUrl, Runnable finished) {
+        if (!DealHunterNotifications.allowed(context) || expiryAtMs <= System.currentTimeMillis()) {
+            if (finished != null) finished.run();
+            return;
         }
-
-        int flags = PendingIntent.FLAG_UPDATE_CURRENT;
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-            flags |= PendingIntent.FLAG_IMMUTABLE;
-        }
-        PendingIntent contentIntent = PendingIntent.getActivity(context, Math.abs(notificationId), openIntent, flags);
-
-        long now = System.currentTimeMillis();
-        long timeoutMs = Math.max(5000L, (expiryAtMs - now) + 4000L);
-        String body = "Claim on " + platform + " before the timer reaches 0:00.";
-
-        NotificationCompat.Builder builder = new NotificationCompat.Builder(context, CHANNEL_ID)
-            .setSmallIcon(R.mipmap.ic_launcher)
-            .setContentTitle(title)
-            .setContentText(body)
-            .setStyle(new NotificationCompat.BigTextStyle().bigText(body))
-            .setCategory(NotificationCompat.CATEGORY_REMINDER)
-            .setPriority(NotificationCompat.PRIORITY_HIGH)
-            .setOnlyAlertOnce(true)
-            .setSilent(true)
-            .setAutoCancel(false)
-            .setOngoing(true)
-            .setContentIntent(contentIntent)
-            .setWhen(expiryAtMs)
-            .setShowWhen(true)
-            .setUsesChronometer(true)
-            .setSubText("Final hour countdown");
-
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-            builder.setChronometerCountDown(true);
-        }
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            builder.setTimeoutAfter(timeoutMs);
-        }
-
-        Notification notification = builder.build();
+        DealHunterNotifications.ensureChannels(context);
         NotificationManager notificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
         if (notificationManager != null) {
-            notificationManager.notify(notificationId, notification);
+            android.graphics.Bitmap cached = DealHunterNotificationArtwork.cached(context, imageUrl);
+            notificationManager.notify(notificationId, DealHunterNotifications.buildCountdown(context, notificationId,
+                expiryAtMs, title, platform, link, cached));
+            if (cached == null && imageUrl != null && !imageUrl.isEmpty()) {
+                DealHunterNotifications.IMAGES.execute(() -> {
+                    try {
+                        android.graphics.Bitmap artwork = DealHunterNotificationArtwork.prepare(context, imageUrl);
+                        if (artwork != null && DealHunterNotifications.allowed(context) && expiryAtMs > System.currentTimeMillis()) {
+                            for (android.service.notification.StatusBarNotification active : notificationManager.getActiveNotifications()) {
+                                if (active.getId() == notificationId) {
+                                    notificationManager.notify(notificationId, DealHunterNotifications.buildCountdown(context,
+                                        notificationId, expiryAtMs, title, platform, link, artwork));
+                                    break;
+                                }
+                            }
+                        }
+                    } finally { if (finished != null) finished.run(); }
+                });
+                return;
+            }
         }
+        if (finished != null) finished.run();
     }
 }
