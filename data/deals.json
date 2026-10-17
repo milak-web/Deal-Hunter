@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T09:32:40.532Z",
+  "lastUpdated": "2026-10-17T13:23:05.490Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -94,15 +94,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
     },
     {
-      "title": "Task Treasurer",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tarclaiborne.itch.io/task-treasurer",
-      "category": "Game",
-      "expiryDate": "2026-11-13T06:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:26:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Task Treasurer",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tarclaiborne.itch.io/task-treasurer",
+      "category": "Game",
+      "expiryDate": "2026-11-13T06:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
     },
     {
       "title": "HELLBREAKERS",
@@ -157,6 +157,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
       "title": "SignalLost",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -166,13 +175,14 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTAyMTk1LnBuZw==/315x250%23c/oP3LJd.png"
     },
     {
-      "title": "Cherophobia",
+      "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
+      "link": "https://thethil.itch.io/devyard",
       "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "See Through Static",
@@ -193,15 +203,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Devyard",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
-    },
-    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -217,7 +218,8 @@
       "link": "https://evekehat.itch.io/tea-party-for-4",
       "category": "Game",
       "expiryDate": "2026-10-20T07:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Ward Zero",
@@ -229,24 +231,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyODEzNjU1LnBuZw==/315x250%23c/pvKAHw.png"
     },
     {
-      "title": "River Behind Us",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ninfixestudio.itch.io/river-behind-us",
-      "category": "Game",
-      "expiryDate": "2026-10-18T12:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png"
-    },
-    {
-      "title": "Still Alive",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://0zanm.itch.io/still-alive",
-      "category": "Game",
-      "expiryDate": "2026-10-17T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzMTE0NTQ0LnBuZw==/315x250%23c/GVWdcu.png"
-    },
-    {
       "title": "GO FETCH THE CLOTHES [STEALTH]",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -254,6 +238,15 @@
       "category": "Game",
       "expiryDate": "2026-10-29T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
+    },
+    {
+      "title": "River Behind Us",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ninfixestudio.itch.io/river-behind-us",
+      "category": "Game",
+      "expiryDate": "2026-10-25T12:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png"
     },
     {
       "title": "Sleep in Fear",
@@ -272,6 +265,15 @@
       "category": "Game",
       "expiryDate": "2026-10-20T01:28:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png"
+    },
+    {
+      "title": "The Last Silence",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zachariah69.itch.io/the-last-silence",
+      "category": "Game",
+      "expiryDate": "2026-10-31T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNjUwNjg3LnBuZw==/315x250%23c/VYUu7m.png"
     },
     {
       "title": "Agent A: A puzzle in disguise",
