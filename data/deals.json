@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T16:32:59.888Z",
+  "lastUpdated": "2026-10-17T18:57:40.998Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -76,6 +76,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
+      "title": "Trox The Reversal",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://troj4nblazing.itch.io/trox-the-reversal",
+      "category": "Game",
+      "expiryDate": "2026-10-31T13:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
       "title": "Seventy Steps",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -103,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-10-24T17:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "Task Treasurer",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,15 +128,6 @@
       "category": "Game",
       "expiryDate": "2026-11-13T06:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
-    },
-    {
-      "title": "HELLBREAKERS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://rob6b.itch.io/hellbreakers",
-      "category": "Game",
-      "expiryDate": "2026-10-31T03:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODk5MTc3LnBuZw==/315x250%23c/hVc%2BGV.png"
     },
     {
       "title": "Cherophobia",
@@ -157,6 +157,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
     },
     {
+      "title": "HELLBREAKERS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob6b.itch.io/hellbreakers",
+      "category": "Game",
+      "expiryDate": "2026-10-31T03:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODk5MTc3LnBuZw==/315x250%23c/hVc%2BGV.png"
+    },
+    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -173,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-10-19T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "See Through Static",
@@ -193,24 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTAyMTk1LnBuZw==/315x250%23c/oP3LJd.png"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-10-24T17:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "GO FETCH THE CLOTHES [STEALTH]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-project.itch.io/go-fetch-the-clothes",
-      "category": "Game",
-      "expiryDate": "2026-10-29T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
-    },
-    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -218,15 +218,6 @@
       "category": "Game",
       "expiryDate": "2026-11-01T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
-    },
-    {
-      "title": "Ward Zero",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zachariah69.itch.io/ward-zero",
-      "category": "Game",
-      "expiryDate": "2026-10-31T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyODEzNjU1LnBuZw==/315x250%23c/pvKAHw.png"
     },
     {
       "title": "Tea Party For 4",
@@ -238,6 +229,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
+      "title": "GO FETCH THE CLOTHES [STEALTH]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://one-project.itch.io/go-fetch-the-clothes",
+      "category": "Game",
+      "expiryDate": "2026-10-29T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
+    },
+    {
+      "title": "Ward Zero",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://zachariah69.itch.io/ward-zero",
+      "category": "Game",
+      "expiryDate": "2026-10-31T19:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyODEzNjU1LnBuZw==/315x250%23c/pvKAHw.png"
+    },
+    {
       "title": "River Behind Us",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -245,6 +254,15 @@
       "category": "Game",
       "expiryDate": "2026-10-25T12:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Sleep in Fear",
@@ -263,24 +281,6 @@
       "category": "Game",
       "expiryDate": "2026-10-22T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTQxOTI3LnBuZw==/315x250%23c/DTmd18.png"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "The Last Silence",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://zachariah69.itch.io/the-last-silence",
-      "category": "Game",
-      "expiryDate": "2026-10-31T19:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjUwNjg3LnBuZw==/315x250%23c/VYUu7m.png"
     },
     {
       "title": "Agent A: A puzzle in disguise",
