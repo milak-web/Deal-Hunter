@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T00:19:12.712Z",
+  "lastUpdated": "2026-10-19T05:00:34.916Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -28,7 +28,8 @@
       "link": "https://notsospecialgames.itch.io/party-line",
       "category": "Game",
       "expiryDate": "2026-10-24T20:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODYyMzE4LnBuZw==/315x250%23c/qHkm4c.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODYyMzE4LnBuZw==/315x250%23c/qHkm4c.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "PARTY LINE: RECLASSIFIED",
@@ -37,7 +38,8 @@
       "link": "https://notsospecialgames.itch.io/party-line-reclassified",
       "category": "Game",
       "expiryDate": "2026-10-24T20:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Fear Assessment",
@@ -46,16 +48,8 @@
       "link": "https://alexander-wiseman.itch.io/fear-assessment",
       "category": "Game",
       "expiryDate": "2026-11-01T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "The Black Within",
@@ -70,6 +64,15 @@
       "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -77,16 +80,6 @@
       "category": "Game",
       "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg",
       "verificationStatus": "cached-after-provider-error"
     },
     {
@@ -105,18 +98,16 @@
       "link": "https://nney.itch.io/family-manners",
       "category": "Game",
       "expiryDate": "2026-10-26T13:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTU0MjI3LnBuZw==/315x250%23c/L6NDxI.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTU0MjI3LnBuZw==/315x250%23c/L6NDxI.png"
     },
     {
-      "title": "Quiet West: Butcher noose",
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Lost In Transit",
@@ -128,6 +119,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -135,73 +135,6 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:26:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Seventy Steps",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://digitaldro.itch.io/seventy-steps",
-      "category": "Game",
-      "expiryDate": "2026-10-25T16:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-10-20T22:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
-      "title": "Devyard",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Move the Mountain with a Spoon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png",
-      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "The Green Light",
@@ -216,14 +149,67 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Move the Mountain with a Spoon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
       "category": "Game",
-      "expiryDate": "2026-10-21T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png",
-      "verificationStatus": "cached-after-provider-error"
+      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
+    },
+    {
+      "title": "Seventy Steps",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://digitaldro.itch.io/seventy-steps",
+      "category": "Game",
+      "expiryDate": "2026-10-25T16:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
+    },
+    {
+      "title": "Devyard",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/devyard",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-10-20T22:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -233,15 +219,6 @@
       "category": "Game",
       "expiryDate": "2026-10-22T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-10-27T12:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "iSLAUGHTER",
@@ -260,25 +237,26 @@
       "link": "https://valentynnemichev.itch.io/the-resonance",
       "category": "Game",
       "expiryDate": "2026-10-19T20:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTk5ODYxLnBuZw==/315x250%23c/lPOcAj.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTk5ODYxLnBuZw==/315x250%23c/lPOcAj.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
-      "title": "HELLBREAKERS",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://rob6b.itch.io/hellbreakers",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-10-31T03:53:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODk5MTc3LnBuZw==/315x250%23c/hVc%2BGV.png"
+      "expiryDate": "2026-10-21T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "GO FETCH THE CLOTHES [STEALTH]",
+      "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://one-project.itch.io/go-fetch-the-clothes",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
       "category": "Game",
-      "expiryDate": "2026-10-29T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
+      "expiryDate": "2026-10-27T12:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Flunked",
@@ -288,78 +266,6 @@
       "category": "Game",
       "expiryDate": "2026-11-01T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
-    },
-    {
-      "title": "Tea Party For 4",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://evekehat.itch.io/tea-party-for-4",
-      "category": "Game",
-      "expiryDate": "2026-10-20T07:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
-    },
-    {
-      "title": "River Behind Us",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ninfixestudio.itch.io/river-behind-us",
-      "category": "Game",
-      "expiryDate": "2026-10-25T12:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png"
-    },
-    {
-      "title": "SignalLost",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://vagabundosdev.itch.io/signallost",
-      "category": "Game",
-      "expiryDate": "2026-10-21T00:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTAyMTk1LnBuZw==/315x250%23c/oP3LJd.png"
-    },
-    {
-      "title": "CULT OF FLIES",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
-      "category": "Game",
-      "expiryDate": "2026-11-01T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
-    },
-    {
-      "title": "Sleep in Fear",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bennyboygames.itch.io/sleep-in-fear",
-      "category": "Game",
-      "expiryDate": "2026-10-29T15:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Task Treasurer",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tarclaiborne.itch.io/task-treasurer",
-      "category": "Game",
-      "expiryDate": "2026-11-13T06:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png"
     },
     {
       "title": "Agent A: A puzzle in disguise",
@@ -384,6 +290,106 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/castlevania-40th-anniversary-mobile-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via App Store and Google Play before the offer expires.\r\n3. That´s it! Have fun!"
+    },
+    {
+      "title": "HELLBREAKERS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rob6b.itch.io/hellbreakers",
+      "category": "Game",
+      "expiryDate": "2026-10-31T03:53:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODk5MTc3LnBuZw==/315x250%23c/hVc%2BGV.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "GO FETCH THE CLOTHES [STEALTH]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://one-project.itch.io/go-fetch-the-clothes",
+      "category": "Game",
+      "expiryDate": "2026-10-29T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-10-20T07:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "River Behind Us",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ninfixestudio.itch.io/river-behind-us",
+      "category": "Game",
+      "expiryDate": "2026-10-25T12:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "SignalLost",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://vagabundosdev.itch.io/signallost",
+      "category": "Game",
+      "expiryDate": "2026-10-21T00:23:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTAyMTk1LnBuZw==/315x250%23c/oP3LJd.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "CULT OF FLIES",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
+      "category": "Game",
+      "expiryDate": "2026-11-01T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Sleep in Fear",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bennyboygames.itch.io/sleep-in-fear",
+      "category": "Game",
+      "expiryDate": "2026-10-29T15:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Task Treasurer",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tarclaiborne.itch.io/task-treasurer",
+      "category": "Game",
+      "expiryDate": "2026-11-13T06:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Lights On My Screen",
