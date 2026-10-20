@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T05:35:10.256Z",
+  "lastUpdated": "2026-10-20T10:43:27.548Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -100,6 +100,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Trox The Reversal",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://troj4nblazing.itch.io/trox-the-reversal",
+      "category": "Game",
+      "expiryDate": "2026-10-31T13:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif"
+    },
+    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,13 +118,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Trox The Reversal",
+      "title": "Smiling Terror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://troj4nblazing.itch.io/trox-the-reversal",
+      "link": "https://poisonicestudios.itch.io/smiling-terror",
       "category": "Game",
-      "expiryDate": "2026-10-31T13:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif"
+      "expiryDate": "2026-11-04T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
       "title": "Lost In Transit",
@@ -136,15 +145,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-10-24T17:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -152,6 +152,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Devyard",
@@ -172,24 +181,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Move the Mountain with a Spoon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
-    },
-    {
-      "title": "Seventy Steps",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://digitaldro.itch.io/seventy-steps",
-      "category": "Game",
-      "expiryDate": "2026-10-25T16:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
-    },
-    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -197,6 +188,15 @@
       "category": "Game",
       "expiryDate": "2026-10-20T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Move the Mountain with a Spoon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -208,15 +208,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "iSLAUGHTER",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kziira.itch.io/islaughter",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTcyODAzLnBuZw==/315x250%23c/nhzKZW.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -226,6 +217,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "Seventy Steps",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://digitaldro.itch.io/seventy-steps",
+      "category": "Game",
+      "expiryDate": "2026-10-25T16:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -233,6 +242,24 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "iSLAUGHTER",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kziira.itch.io/islaughter",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTcyODAzLnBuZw==/315x250%23c/nhzKZW.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-21T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "CRYPT",
@@ -250,27 +277,7 @@
       "link": "https://oledeye.itch.io/flunked",
       "category": "Game",
       "expiryDate": "2026-11-01T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-21T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-10-22T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
     },
     {
       "title": "Rust 3D",
@@ -280,15 +287,6 @@
       "category": "Game",
       "expiryDate": "2026-10-20T20:58:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTI0MDYzLnBuZw==/315x250%23c/7ssFVu.png"
-    },
-    {
-      "title": "GO FETCH THE CLOTHES [STEALTH]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://one-project.itch.io/go-fetch-the-clothes",
-      "category": "Game",
-      "expiryDate": "2026-10-29T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
     },
     {
       "title": "Guess My Monster: Blood Market",
@@ -309,6 +307,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
+      "title": "GO FETCH THE CLOTHES [STEALTH]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://one-project.itch.io/go-fetch-the-clothes",
+      "category": "Game",
+      "expiryDate": "2026-10-29T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
+    },
+    {
       "title": "Tea Party For 4",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -316,6 +323,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T07:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
+    },
+    {
+      "title": "Silent Decay",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xevorastudio.itch.io/silent-decay",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
     },
     {
       "title": "DON’T DO IT",
@@ -327,13 +343,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Silent Decay",
+      "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://xevorastudio.itch.io/silent-decay",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
       "category": "Game",
-      "expiryDate": "2026-10-31T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+      "expiryDate": "2026-10-22T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "GetHigh.EXE",
@@ -370,26 +386,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/castlevania-40th-anniversary-mobile-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via App Store and Google Play before the offer expires.\r\n3. That´s it! Have fun!"
-    },
-    {
-      "title": "Snakehead",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://woodchair.itch.io/snakehead",
-      "category": "Game",
-      "expiryDate": "2026-10-20T10:48:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "River Behind Us",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ninfixestudio.itch.io/river-behind-us",
-      "category": "Game",
-      "expiryDate": "2026-10-25T12:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png",
-      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
