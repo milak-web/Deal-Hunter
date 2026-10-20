@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T10:43:27.548Z",
+  "lastUpdated": "2026-10-20T15:30:00.394Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -20,6 +20,18 @@
       "startDate": "2026-10-15T15:00:00.000Z",
       "expiryDate": "2026-10-22T15:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
+    },
+    {
+      "title": "The Green Light",
+      "platform": "Itch.io",
+      "originalPrice": "$9.99",
+      "link": "https://waleedzo.itch.io/the-green-light",
+      "category": "Game",
+      "expiryDate": "2026-10-29T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "PARTY LINE: RECLASSIFIED",
@@ -76,19 +88,7 @@
       "link": "https://nney.itch.io/family-manners",
       "category": "Game",
       "expiryDate": "2026-10-26T13:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTU0MjI3LnBuZw==/315x250%23c/L6NDxI.png"
-    },
-    {
-      "title": "The Green Light",
-      "platform": "Itch.io",
-      "originalPrice": "$9.99",
-      "link": "https://waleedzo.itch.io/the-green-light",
-      "category": "Game",
-      "expiryDate": "2026-10-29T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -98,15 +98,6 @@
       "category": "Game",
       "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Trox The Reversal",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://troj4nblazing.itch.io/trox-the-reversal",
-      "category": "Game",
-      "expiryDate": "2026-10-31T13:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -163,15 +154,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "Devyard",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -186,17 +168,17 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-10-20T22:42:00.000Z",
+      "expiryDate": "2026-10-22T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Move the Mountain with a Spoon",
+      "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
+      "link": "https://thethil.itch.io/devyard",
       "category": "Game",
-      "expiryDate": "2026-10-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
     },
     {
       "title": "Backrooms Crawlers",
@@ -206,6 +188,15 @@
       "category": "Game",
       "expiryDate": "2026-10-27T12:08:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
+      "title": "Move the Mountain with a Spoon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -224,6 +215,15 @@
       "category": "Game",
       "expiryDate": "2026-10-25T16:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-23T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -251,15 +251,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTcyODAzLnBuZw==/315x250%23c/nhzKZW.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-21T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "CRYPT",
@@ -298,6 +289,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMDUxNDQ3LnBuZw==/315x250%23c/JuaEip.png"
     },
     {
+      "title": "Silent Decay",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xevorastudio.itch.io/silent-decay",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+    },
+    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -325,15 +325,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
-      "title": "Silent Decay",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xevorastudio.itch.io/silent-decay",
-      "category": "Game",
-      "expiryDate": "2026-10-31T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
-    },
-    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -341,6 +332,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "CODEX: 111 — The Last Ember",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xor-11.itch.io/codex-111",
+      "category": "Game",
+      "expiryDate": "2026-10-20T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
