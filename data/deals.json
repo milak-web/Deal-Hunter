@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T15:30:00.394Z",
+  "lastUpdated": "2026-10-20T19:30:55.955Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -100,15 +100,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "Smiling Terror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -116,6 +107,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Lost In Transit",
@@ -190,6 +190,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-23T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
       "title": "Move the Mountain with a Spoon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -215,15 +224,6 @@
       "category": "Game",
       "expiryDate": "2026-10-25T16:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-23T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -298,6 +298,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
     },
     {
+      "title": "GO FETCH THE CLOTHES [STEALTH]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://one-project.itch.io/go-fetch-the-clothes",
+      "category": "Game",
+      "expiryDate": "2026-10-29T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
+    },
+    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -307,13 +316,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
-      "title": "GO FETCH THE CLOTHES [STEALTH]",
+      "title": "CODEX: 111 — The Last Ember",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://one-project.itch.io/go-fetch-the-clothes",
+      "link": "https://xor-11.itch.io/codex-111",
       "category": "Game",
-      "expiryDate": "2026-10-29T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
+      "expiryDate": "2026-10-26T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png"
     },
     {
       "title": "Tea Party For 4",
@@ -332,15 +341,6 @@
       "category": "Game",
       "expiryDate": "2026-10-22T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "CODEX: 111 — The Last Ember",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xor-11.itch.io/codex-111",
-      "category": "Game",
-      "expiryDate": "2026-10-20T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
