@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T12:07:39.819Z",
+  "lastUpdated": "2026-10-21T17:28:15.884Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -91,15 +91,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwODYyMzE4LnBuZw==/315x250%23c/qHkm4c.png"
     },
     {
-      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kripkode.itch.io/rubys-trick-or-treat",
-      "category": "Game",
-      "expiryDate": "2026-10-25T16:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -107,6 +98,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kripkode.itch.io/rubys-trick-or-treat",
+      "category": "Game",
+      "expiryDate": "2026-10-25T16:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png"
     },
     {
       "title": "Smiling Terror",
@@ -159,7 +159,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-10-22T22:42:00.000Z",
+      "expiryDate": "2026-10-23T22:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
@@ -217,6 +217,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
       "title": "Spirit Box",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -224,6 +233,15 @@
       "category": "Game",
       "expiryDate": "2026-11-01T05:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Move the Mountain with a Spoon",
@@ -235,24 +253,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-23T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
       "title": "Seventy Steps",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -262,15 +262,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
     },
     {
-      "title": "CRYPT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://weramilykh.itch.io/crypt",
-      "category": "Game",
-      "expiryDate": "2026-10-24T06:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png"
-    },
-    {
       "title": "Silent Decay",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -278,6 +269,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+    },
+    {
+      "title": "CRYPT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://weramilykh.itch.io/crypt",
+      "category": "Game",
+      "expiryDate": "2026-10-24T06:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png"
     },
     {
       "title": "CODEX: 111 — The Last Ember",
@@ -298,15 +298,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMDUxNDQ3LnBuZw==/315x250%23c/JuaEip.png"
     },
     {
-      "title": "Rust 3D",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://weramilykh.itch.io/rust-3d",
-      "category": "Game",
-      "expiryDate": "2026-10-24T06:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTI0MDYzLnBuZw==/315x250%23c/7ssFVu.png"
-    },
-    {
       "title": "Flunked",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -316,6 +307,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
     },
     {
+      "title": "Rust 3D",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://weramilykh.itch.io/rust-3d",
+      "category": "Game",
+      "expiryDate": "2026-10-24T06:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTI0MDYzLnBuZw==/315x250%23c/7ssFVu.png"
+    },
+    {
       "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -323,6 +323,15 @@
       "category": "Game",
       "expiryDate": "2026-11-01T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
+    },
+    {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "iSLAUGHTER",
@@ -350,15 +359,6 @@
       "category": "Game",
       "expiryDate": "2026-10-29T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5OTM0NTk3LnBuZw==/315x250%23c/qjeS0x.png"
-    },
-    {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
     },
     {
       "title": "DON’T DO IT",
