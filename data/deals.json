@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T22:50:58.274Z",
+  "lastUpdated": "2026-10-21T01:09:51.078Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -341,6 +341,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "River Behind Us",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ninfixestudio.itch.io/river-behind-us",
+      "category": "Game",
+      "expiryDate": "2026-10-25T12:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png"
     },
     {
       "title": "GetHigh.EXE",
