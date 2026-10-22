@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T08:09:47.927Z",
+  "lastUpdated": "2026-10-22T13:58:01.471Z",
   "deals": [
     {
       "title": "Bad Cheese",
@@ -73,15 +73,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
     },
     {
-      "title": "PARTY LINE: RECLASSIFIED",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/party-line-reclassified",
-      "category": "Game",
-      "expiryDate": "2026-10-25T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
-    },
-    {
       "title": "PARTY LINE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -89,6 +80,15 @@
       "category": "Game",
       "expiryDate": "2026-10-25T18:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwODYyMzE4LnBuZw==/315x250%23c/qHkm4c.png"
+    },
+    {
+      "title": "PARTY LINE: RECLASSIFIED",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/party-line-reclassified",
+      "category": "Game",
+      "expiryDate": "2026-10-25T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
     },
     {
       "title": "Smiling Terror",
@@ -100,15 +100,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
-      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kripkode.itch.io/rubys-trick-or-treat",
-      "category": "Game",
-      "expiryDate": "2026-10-25T16:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -116,6 +107,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kripkode.itch.io/rubys-trick-or-treat",
+      "category": "Game",
+      "expiryDate": "2026-10-25T16:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -163,15 +163,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -179,6 +170,15 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:26:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -208,15 +208,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
       "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -224,6 +215,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
+    },
+    {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -235,15 +235,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Silent Decay",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xevorastudio.itch.io/silent-decay",
-      "category": "Game",
-      "expiryDate": "2026-10-31T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -251,6 +242,15 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Silent Decay",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://xevorastudio.itch.io/silent-decay",
+      "category": "Game",
+      "expiryDate": "2026-10-31T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
     },
     {
       "title": "CODEX: 111 — The Last Ember",
@@ -271,15 +271,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
-      "title": "Seventy Steps",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://digitaldro.itch.io/seventy-steps",
-      "category": "Game",
-      "expiryDate": "2026-10-25T16:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
-    },
-    {
       "title": "Move the Mountain with a Spoon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -289,13 +280,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
     },
     {
-      "title": "Concrete Veil",
+      "title": "Seventy Steps",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
+      "link": "https://digitaldro.itch.io/seventy-steps",
       "category": "Game",
-      "expiryDate": "2026-10-22T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png"
+      "expiryDate": "2026-10-25T16:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
     },
     {
       "title": "CRYPT",
@@ -307,15 +298,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png"
     },
     {
-      "title": "Guess My Monster: Blood Market",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://silentdks.itch.io/guess-my-monster",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDUxNDQ3LnBuZw==/315x250%23c/JuaEip.png"
-    },
-    {
       "title": "Sleep in Fear",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -325,13 +307,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
     },
     {
-      "title": "Rust 3D",
+      "title": "Guess My Monster: Blood Market",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://weramilykh.itch.io/rust-3d",
+      "link": "https://silentdks.itch.io/guess-my-monster",
       "category": "Game",
-      "expiryDate": "2026-10-24T06:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTI0MDYzLnBuZw==/315x250%23c/7ssFVu.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDUxNDQ3LnBuZw==/315x250%23c/JuaEip.png"
     },
     {
       "title": "Terraspace",
