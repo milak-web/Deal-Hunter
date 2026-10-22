@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-10-22T13:58:01.471Z",
+  "lastUpdated": "2026-10-22T18:18:42.918Z",
   "deals": [
     {
-      "title": "Bad Cheese",
+      "title": "Sker Ritual",
       "platform": "Epic Games",
-      "originalPrice": "$12.99",
-      "link": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
+      "originalPrice": "$24.99",
+      "link": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
       "category": "Game",
-      "startDate": "2026-10-15T15:00:00.000Z",
-      "expiryDate": "2026-10-22T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png"
+      "startDate": "2026-10-22T15:00:00.000Z",
+      "expiryDate": "2026-10-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1cyza.png"
     },
     {
-      "title": "Agent A: A puzzle in disguise",
+      "title": "Home - A Unique Horror Adventure",
       "platform": "Epic Games",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
+      "originalPrice": "$4.99",
+      "link": "https://store.epicgames.com/en-US/p/home-19212a",
       "category": "Game",
-      "startDate": "2026-10-15T15:00:00.000Z",
-      "expiryDate": "2026-10-22T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
+      "startDate": "2026-10-22T15:00:00.000Z",
+      "expiryDate": "2026-10-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
     },
     {
       "title": "The Green Light",
@@ -82,15 +82,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwODYyMzE4LnBuZw==/315x250%23c/qHkm4c.png"
     },
     {
-      "title": "PARTY LINE: RECLASSIFIED",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/party-line-reclassified",
-      "category": "Game",
-      "expiryDate": "2026-10-25T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
-    },
-    {
       "title": "Smiling Terror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -107,6 +98,15 @@
       "category": "Game",
       "expiryDate": "2026-10-22T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "PARTY LINE: RECLASSIFIED",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/party-line-reclassified",
+      "category": "Game",
+      "expiryDate": "2026-10-25T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
     },
     {
       "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
@@ -190,15 +190,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Spirit Box",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tattershallstudios.itch.io/spirit-box",
-      "category": "Game",
-      "expiryDate": "2026-11-01T05:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
-    },
-    {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -208,13 +199,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "Devyard",
+      "title": "Spirit Box",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
+      "link": "https://tattershallstudios.itch.io/spirit-box",
       "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
+      "expiryDate": "2026-11-01T05:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -224,6 +215,15 @@
       "category": "Game",
       "expiryDate": "2026-11-05T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "Devyard",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://thethil.itch.io/devyard",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -271,15 +271,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
-      "title": "Move the Mountain with a Spoon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
-    },
-    {
       "title": "Seventy Steps",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -289,13 +280,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png"
     },
     {
-      "title": "CRYPT",
+      "title": "Move the Mountain with a Spoon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://weramilykh.itch.io/crypt",
+      "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
       "category": "Game",
-      "expiryDate": "2026-10-24T06:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png"
+      "expiryDate": "2026-10-31T18:21:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
     },
     {
       "title": "Sleep in Fear",
@@ -307,13 +298,61 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
     },
     {
-      "title": "Guess My Monster: Blood Market",
+      "title": "A Backrooms Escape",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://silentdks.itch.io/guess-my-monster",
+      "link": "https://rabbit3d-studio-games.itch.io/a-backrooms-escape",
       "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDUxNDQ3LnBuZw==/315x250%23c/JuaEip.png"
+      "expiryDate": "2026-10-23T13:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png"
+    },
+    {
+      "title": "DON’T DO IT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
+    },
+    {
+      "title": "See Through Static",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/see-through-static",
+      "category": "Game",
+      "expiryDate": "2026-10-23T08:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
+    },
+    {
+      "title": "Flunked",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://oledeye.itch.io/flunked",
+      "category": "Game",
+      "expiryDate": "2026-11-01T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
+    },
+    {
+      "title": "CRYPT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://weramilykh.itch.io/crypt",
+      "category": "Game",
+      "expiryDate": "2026-10-24T06:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png"
+    },
+    {
+      "title": "Home",
+      "platform": "Mobile",
+      "originalPrice": "$4.99",
+      "link": "https://store.epicgames.com/p/home-19212a",
+      "category": "Mobile",
+      "expiryDate": "2026-10-29T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/home.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/home",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "Terraspace",
@@ -337,18 +376,6 @@
       "imageUrl": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg",
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Agent A: A puzzle in disguise",
-      "platform": "Mobile",
-      "originalPrice": "$19.99",
-      "link": "https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f",
-      "category": "Mobile",
-      "expiryDate": "2026-10-22T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ad0eb85db498.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/agent-a-a-puzzle-in-disguise-epic-games-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
