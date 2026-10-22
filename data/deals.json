@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T18:18:42.918Z",
+  "lastUpdated": "2026-10-22T21:48:44.452Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -91,15 +91,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-10-22T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "PARTY LINE: RECLASSIFIED",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -127,15 +118,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -143,6 +125,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
       "title": "Final Witness",
@@ -199,15 +190,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
-      "title": "Spirit Box",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://tattershallstudios.itch.io/spirit-box",
-      "category": "Game",
-      "expiryDate": "2026-11-01T05:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -215,6 +197,15 @@
       "category": "Game",
       "expiryDate": "2026-11-05T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
+      "title": "Spirit Box",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tattershallstudios.itch.io/spirit-box",
+      "category": "Game",
+      "expiryDate": "2026-11-01T05:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
     },
     {
       "title": "Devyard",
@@ -253,6 +244,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
     },
     {
+      "title": "See Through Static",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://stefano-gaming.itch.io/see-through-static",
+      "category": "Game",
+      "expiryDate": "2026-10-23T08:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
+    },
+    {
       "title": "CODEX: 111 — The Last Ember",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -286,7 +286,8 @@
       "link": "https://barhe.itch.io/move-the-mountain-with-a-spoon",
       "category": "Game",
       "expiryDate": "2026-10-31T18:21:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc5ODQ3LnBuZw==/315x250%23c/8Foe9X.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Sleep in Fear",
@@ -314,33 +315,6 @@
       "category": "Game",
       "expiryDate": "2026-11-05T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "See Through Static",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stefano-gaming.itch.io/see-through-static",
-      "category": "Game",
-      "expiryDate": "2026-10-23T08:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3MTkyNDA1LnBuZw==/315x250%23c/HB4LNx.png"
-    },
-    {
-      "title": "Flunked",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://oledeye.itch.io/flunked",
-      "category": "Game",
-      "expiryDate": "2026-11-01T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
-    },
-    {
-      "title": "CRYPT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://weramilykh.itch.io/crypt",
-      "category": "Game",
-      "expiryDate": "2026-10-24T06:29:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png"
     },
     {
       "title": "Home",
@@ -389,6 +363,26 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/castlevania-40th-anniversary-mobile-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via App Store and Google Play before the offer expires.\r\n3. That´s it! Have fun!"
+    },
+    {
+      "title": "Flunked",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://oledeye.itch.io/flunked",
+      "category": "Game",
+      "expiryDate": "2026-11-01T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "CRYPT",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://weramilykh.itch.io/crypt",
+      "category": "Game",
+      "expiryDate": "2026-10-24T06:29:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png",
+      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
