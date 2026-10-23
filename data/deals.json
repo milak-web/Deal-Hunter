@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T19:23:39.981Z",
+  "lastUpdated": "2026-10-23T22:26:49.104Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -61,7 +61,8 @@
       "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
       "expiryDate": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Family Manners",
@@ -100,15 +101,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -116,6 +108,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-11-06T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
@@ -136,15 +137,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-10-24T17:26:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +146,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-10-24T17:26:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
       "title": "PARTY LINE: RECLASSIFIED",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -161,15 +162,6 @@
       "category": "Game",
       "expiryDate": "2026-10-25T18:10:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-11-04T12:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
       "title": "Apartment №202",
@@ -190,6 +182,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-11-04T12:08:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -197,15 +198,6 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
-    },
-    {
-      "title": "Devyard",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://thethil.itch.io/devyard",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
     },
     {
       "title": "At Sixes And Sevens Case I",
@@ -217,13 +209,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
-      "title": "Spirit Box",
+      "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://tattershallstudios.itch.io/spirit-box",
+      "link": "https://thethil.itch.io/devyard",
       "category": "Game",
-      "expiryDate": "2026-11-01T05:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
     },
     {
       "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
@@ -244,6 +236,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
+      "title": "Spirit Box",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://tattershallstudios.itch.io/spirit-box",
+      "category": "Game",
+      "expiryDate": "2026-11-01T05:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
+    },
+    {
       "title": "Chalupacabras",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -253,13 +254,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzNTk1MTE2LnBuZw==/315x250%23c/bcBR7P.png"
     },
     {
-      "title": "Silent Decay",
+      "title": "CULT OF FLIES",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://xevorastudio.itch.io/silent-decay",
+      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
       "category": "Game",
-      "expiryDate": "2026-10-31T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+      "expiryDate": "2026-11-01T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
     },
     {
       "title": "A Backrooms Escape",
@@ -271,13 +272,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png"
     },
     {
-      "title": "CULT OF FLIES",
+      "title": "Silent Decay",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/cult-of-flies",
+      "link": "https://xevorastudio.itch.io/silent-decay",
       "category": "Game",
-      "expiryDate": "2026-11-01T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png"
+      "expiryDate": "2026-10-31T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
     },
     {
       "title": "UNARRİVED",
@@ -296,6 +297,15 @@
       "category": "Game",
       "expiryDate": "2026-10-25T05:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
+    },
+    {
+      "title": "Flunked",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://oledeye.itch.io/flunked",
+      "category": "Game",
+      "expiryDate": "2026-11-01T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
     },
     {
       "title": "Home",
