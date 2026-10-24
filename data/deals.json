@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T22:26:49.104Z",
+  "lastUpdated": "2026-10-24T00:54:32.220Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -61,8 +61,7 @@
       "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
       "expiryDate": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Family Manners",
@@ -171,15 +170,6 @@
       "category": "Game",
       "expiryDate": "2026-10-24T17:26:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-10-23T22:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "Backrooms Crawlers",
@@ -306,6 +296,24 @@
       "category": "Game",
       "expiryDate": "2026-11-01T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
+    },
+    {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "Tea Party For 4",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://evekehat.itch.io/tea-party-for-4",
+      "category": "Game",
+      "expiryDate": "2026-10-25T08:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif"
     },
     {
       "title": "Home",
