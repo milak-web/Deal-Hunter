@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T19:36:56.089Z",
+  "lastUpdated": "2026-10-24T22:09:20.967Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -154,6 +154,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzM1NDkwLmdpZg==/315x250%23c/KDy%2BwH.gif"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-27T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -172,13 +181,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
       "category": "Game",
-      "expiryDate": "2026-10-27T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
       "title": "PARTY LINE: RECLASSIFIED",
@@ -190,15 +199,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
     },
     {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
       "title": "Infernal Power Co.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -208,15 +208,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMjQ2Njc1LnBuZw==/315x250%23c/6lmKzD.png"
     },
     {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "Chalupacabras",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -224,6 +215,15 @@
       "category": "Game",
       "expiryDate": "2026-10-27T00:03:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzNTk1MTE2LnBuZw==/315x250%23c/bcBR7P.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
     },
     {
       "title": "UNARRİVED",
@@ -262,6 +262,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png"
     },
     {
+      "title": "Dream Holiday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://baris1.itch.io/dream-holiday",
+      "category": "Game",
+      "expiryDate": "2026-10-25T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MDE2NDkzLnBuZw==/315x250%23c/EJ%2FlbA.png"
+    },
+    {
       "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -287,15 +296,6 @@
       "category": "Game",
       "expiryDate": "2026-11-01T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4NDI4OTEyLnBuZw==/315x250%23c/t3oOZ7.png"
-    },
-    {
-      "title": "Dream Holiday",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://baris1.itch.io/dream-holiday",
-      "category": "Game",
-      "expiryDate": "2026-10-25T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5MDE2NDkzLnBuZw==/315x250%23c/EJ%2FlbA.png"
     },
     {
       "title": "Silent Decay",
