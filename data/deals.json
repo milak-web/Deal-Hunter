@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T17:43:46.452Z",
+  "lastUpdated": "2026-10-25T20:12:03.438Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -106,15 +106,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
       "title": "Family Manners",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -122,6 +113,15 @@
       "category": "Game",
       "expiryDate": "2026-10-26T13:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-11-06T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -142,6 +142,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMjMxOTM2LnBuZw==/315x250%23c/tR%2FVcE.png"
     },
     {
+      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kripkode.itch.io/rubys-trick-or-treat",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png"
+    },
+    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -149,6 +158,15 @@
       "category": "Game",
       "expiryDate": "2026-11-08T08:46:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-10-28T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Devyard",
@@ -167,42 +185,6 @@
       "category": "Game",
       "expiryDate": "2026-11-05T22:54:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
-    },
-    {
-      "title": "Infernal Power Co.",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wgnspear.itch.io/infernal-power-co",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMjQ2Njc1LnBuZw==/315x250%23c/6lmKzD.png"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-11-04T12:08:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-10-28T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "MAFIA HOTEL",
