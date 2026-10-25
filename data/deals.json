@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T22:09:20.967Z",
+  "lastUpdated": "2026-10-25T00:25:11.021Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -45,14 +45,11 @@
     {
       "title": "The Black Within",
       "platform": "Itch.io",
-      "originalPrice": "$5.99",
+      "originalPrice": "N/A",
       "link": "https://waleedzo.itch.io/the-black-within",
       "category": "Game",
-      "expiryDate": "2026-10-24T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
+      "expiryDate": "2026-10-31T20:55:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
       "title": "Sabado: Day One",
@@ -145,6 +142,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "AeroAge",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://momoawa0702.itch.io/aeroage",
+      "category": "Game",
+      "expiryDate": "2026-10-30T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMjMxOTM2LnBuZw==/315x250%23c/tR%2FVcE.png"
+    },
+    {
       "title": "Devyard",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -172,6 +178,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "PARTY LINE: RECLASSIFIED",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://notsospecialgames.itch.io/party-line-reclassified",
+      "category": "Game",
+      "expiryDate": "2026-10-25T18:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
+    },
+    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -188,15 +203,6 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "PARTY LINE: RECLASSIFIED",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://notsospecialgames.itch.io/party-line-reclassified",
-      "category": "Game",
-      "expiryDate": "2026-10-25T18:10:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzMzNTQ4LnBuZw==/315x250%23c/nLPlXe.png"
     },
     {
       "title": "Infernal Power Co.",
@@ -253,6 +259,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png"
     },
     {
+      "title": "Sleep in Fear",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bennyboygames.itch.io/sleep-in-fear",
+      "category": "Game",
+      "expiryDate": "2026-10-25T05:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
+    },
+    {
       "title": "Spirit Box",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -280,15 +295,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Sleep in Fear",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bennyboygames.itch.io/sleep-in-fear",
-      "category": "Game",
-      "expiryDate": "2026-10-25T05:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
-    },
-    {
       "title": "Flunked",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -305,6 +311,18 @@
       "category": "Game",
       "expiryDate": "2026-10-31T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5ODg4MjMyLnBuZw==/315x250%23c/BroL97.png"
+    },
+    {
+      "title": "MAFIA HOTEL",
+      "platform": "Epic Games",
+      "originalPrice": "$1.99",
+      "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
+      "category": "Game",
+      "expiryDate": "2026-11-01T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6add376bc36a0.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/mafia-hotel-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "Home",
@@ -341,18 +359,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Castlevania: 40th Anniversary",
-      "platform": "Mobile",
-      "originalPrice": "N/A",
-      "link": "https://www.konami.com/games/castlevania/us/en-us/fc_free_app",
-      "category": "Mobile",
-      "expiryDate": "2026-10-24T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ab6470a4ddf0.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/castlevania-40th-anniversary-mobile-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via App Store and Google Play before the offer expires.\r\n3. That´s it! Have fun!"
     }
   ]
 }
