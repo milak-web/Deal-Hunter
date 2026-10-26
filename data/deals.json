@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T00:54:10.334Z",
+  "lastUpdated": "2026-10-26T05:38:52.093Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -43,15 +43,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "The Black Within",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waleedzo.itch.io/the-black-within",
-      "category": "Game",
-      "expiryDate": "2026-10-31T20:55:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
-    },
-    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -59,6 +50,15 @@
       "category": "Game",
       "expiryDate": "2026-10-29T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
+      "title": "The Black Within",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waleedzo.itch.io/the-black-within",
+      "category": "Game",
+      "expiryDate": "2026-10-31T20:55:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
       "title": "Final Witness",
@@ -97,24 +97,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
       "title": "Late Order",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -122,15 +104,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMzEzNjEwLnBuZw==/315x250%23c/Eci0N6.png"
-    },
-    {
-      "title": "Family Manners",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://nney.itch.io/family-manners",
-      "category": "Game",
-      "expiryDate": "2026-10-26T13:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -142,6 +115,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-11-06T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
       "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -151,31 +133,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
-      "title": "AeroAge",
+      "title": "Cherophobia",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://momoawa0702.itch.io/aeroage",
+      "link": "https://worsteventgames.itch.io/cherophobia",
       "category": "Game",
-      "expiryDate": "2026-10-30T17:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMjMxOTM2LnBuZw==/315x250%23c/tR%2FVcE.png"
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-11-08T08:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kripkode.itch.io/rubys-trick-or-treat",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png"
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -187,13 +151,40 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Midnight Visitor",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://altf4-games.itch.io/midnight-visitor",
       "category": "Game",
-      "expiryDate": "2026-10-28T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc2MjQ2NzcucG5n/315x250%23c/g5kgej.png"
+    },
+    {
+      "title": "Assassin at Crimson Keep",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE5MTIyMjE0LnBuZw==/315x250%23c/RyQVe5.png"
+    },
+    {
+      "title": "Ronald Mcdonalds 2",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://rightardev.itch.io/ronald-mcdonalds-2",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE0NTkyMTAyLmpwZw==/315x250%23c/rIrUJE.jpg"
+    },
+    {
+      "title": "AeroAge",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://momoawa0702.itch.io/aeroage",
+      "category": "Game",
+      "expiryDate": "2026-10-30T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMjMxOTM2LnBuZw==/315x250%23c/tR%2FVcE.png"
     },
     {
       "title": "MAFIA HOTEL",
