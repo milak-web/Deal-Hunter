@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T01:45:23.733Z",
+  "lastUpdated": "2026-10-27T07:07:10.600Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -27,8 +27,26 @@
       "originalPrice": "N/A",
       "link": "https://alexander-wiseman.itch.io/fear-assessment",
       "category": "Game",
-      "expiryDate": "2026-11-01T04:59:00.000Z",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-10-30T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "The Green Light",
@@ -43,22 +61,13 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
-      "title": "Sabado: Day One",
+      "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
       "category": "Game",
-      "expiryDate": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-10-30T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Smiling Terror",
@@ -77,15 +86,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMzEzNjEwLnBuZw==/315x250%23c/Eci0N6.png"
-    },
-    {
-      "title": "The Lost Apartment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sdevscares.itch.io/the-lost-apartment",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "The Black Within",
@@ -124,15 +124,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -140,6 +131,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
