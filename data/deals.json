@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T22:48:01.032Z",
+  "lastUpdated": "2026-10-27T01:45:23.733Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -57,17 +57,8 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-10-28T23:42:00.000Z",
+      "expiryDate": "2026-10-30T23:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
-      "title": "The Black Within",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://waleedzo.itch.io/the-black-within",
-      "category": "Game",
-      "expiryDate": "2026-10-31T20:55:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
       "title": "Smiling Terror",
@@ -95,6 +86,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
+    },
+    {
+      "title": "The Black Within",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://waleedzo.itch.io/the-black-within",
+      "category": "Game",
+      "expiryDate": "2026-10-31T20:55:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -160,22 +160,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzc2MjQ2NzcucG5n/315x250%23c/g5kgej.png"
     },
     {
-      "title": "Cherophobia",
+      "title": "Assassin at Crimson Keep",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
-    },
-    {
-      "title": "Fractured: Roadwood Stop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
+      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMzExNDQwLnBuZw==/315x250%23c/UL7Y1f.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzE5MTIyMjE0LnBuZw==/315x250%23c/RyQVe5.png"
     },
     {
       "title": "Paranormal Place",
@@ -187,13 +178,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3MDUzMzk4LnBuZw==/315x250%23c/k0SRDU.png"
     },
     {
-      "title": "Assassin at Crimson Keep",
+      "title": "Fractured: Roadwood Stop",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE5MTIyMjE0LnBuZw==/315x250%23c/RyQVe5.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMzExNDQwLnBuZw==/315x250%23c/UL7Y1f.png"
     },
     {
       "title": "Ronald Mcdonalds 2",
@@ -203,6 +194,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE0NTkyMTAyLmpwZw==/315x250%23c/rIrUJE.jpg"
+    },
+    {
+      "title": "Cherophobia",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/cherophobia",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg"
     },
     {
       "title": "MAFIA HOTEL",
