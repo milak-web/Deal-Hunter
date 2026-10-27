@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T18:49:00.393Z",
+  "lastUpdated": "2026-10-27T22:46:34.069Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -70,15 +70,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
       "title": "The Black Within",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -86,6 +77,15 @@
       "category": "Game",
       "expiryDate": "2026-10-31T20:55:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Late Order",
@@ -124,15 +124,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Paranormal Place",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -140,6 +131,15 @@
       "category": "Game",
       "expiryDate": "2026-11-01T09:02:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE3MDUzMzk4LnBuZw==/315x250%23c/k0SRDU.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -176,6 +176,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMzExNDQwLnBuZw==/315x250%23c/UL7Y1f.png"
+    },
+    {
+      "title": "Beside Myself",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://askgames.itch.io/beside-myself",
+      "category": "Game",
+      "expiryDate": "2026-11-01T09:02:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzY2MDcyMjguanBn/315x250%23c/2%2BoXK8.jpg"
     },
     {
       "title": "MAFIA HOTEL",
