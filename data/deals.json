@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T14:43:42.212Z",
+  "lastUpdated": "2026-10-28T20:00:08.667Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -61,15 +61,6 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
-      "title": "Smiling Terror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://poisonicestudios.itch.io/smiling-terror",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
-    },
-    {
       "title": "Late Order",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -77,6 +68,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMzEzNjEwLnBuZw==/315x250%23c/Eci0N6.png"
+    },
+    {
+      "title": "Smiling Terror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://poisonicestudios.itch.io/smiling-terror",
+      "category": "Game",
+      "expiryDate": "2026-11-04T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -97,6 +97,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
+      "title": "Solace Inc.",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/solace-inc",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -115,15 +124,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
-      "title": "Solace Inc.",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/solace-inc",
-      "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
-    },
-    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -140,33 +140,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5MTIyMjE0LnBuZw==/315x250%23c/RyQVe5.png"
-    },
-    {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
-      "title": "Midnight Visitor",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/midnight-visitor",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzc2MjQ2NzcucG5n/315x250%23c/g5kgej.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "MAFIA HOTEL",
