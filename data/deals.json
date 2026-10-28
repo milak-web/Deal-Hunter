@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T07:51:17.946Z",
+  "lastUpdated": "2026-10-28T14:43:42.212Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -9,7 +9,7 @@
       "category": "Game",
       "startDate": "2026-10-22T15:00:00.000Z",
       "expiryDate": "2026-10-29T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1cyza.png"
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
     },
     {
       "title": "Home - A Unique Horror Adventure",
@@ -115,6 +115,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png"
     },
     {
+      "title": "Solace Inc.",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/solace-inc",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
       "title": "Pigeon West: Johnny the Pigeon",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -158,24 +167,6 @@
       "category": "Game",
       "expiryDate": "2026-10-31T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Solace Inc.",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/solace-inc",
-      "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
-    },
-    {
-      "title": "Fractured: Roadwood Stop",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://fenixapple.itch.io/fractured-roadwood-stop",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMzExNDQwLnBuZw==/315x250%23c/UL7Y1f.png"
     },
     {
       "title": "MAFIA HOTEL",
