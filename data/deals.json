@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T01:56:24.713Z",
+  "lastUpdated": "2026-10-28T07:51:17.946Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -22,6 +22,15 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
     },
     {
+      "title": "Fear Assessment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+    },
+    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -31,13 +40,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Fear Assessment",
+      "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "The Green Light",
@@ -50,15 +59,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "The Lost Apartment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sdevscares.itch.io/the-lost-apartment",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Smiling Terror",
@@ -106,15 +106,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
-      "title": "Paranormal Place",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://askgames.itch.io/paranorm-place",
-      "category": "Game",
-      "expiryDate": "2026-11-01T09:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE3MDUzMzk4LnBuZw==/315x250%23c/k0SRDU.png"
-    },
-    {
       "title": "The Black Within",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -151,13 +142,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Beside Myself",
+      "title": "Midnight Visitor",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://askgames.itch.io/beside-myself",
+      "link": "https://altf4-games.itch.io/midnight-visitor",
       "category": "Game",
-      "expiryDate": "2026-11-01T09:02:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzY2MDcyMjguanBn/315x250%23c/2%2BoXK8.jpg"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzc2MjQ2NzcucG5n/315x250%23c/g5kgej.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -169,13 +160,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Midnight Visitor",
+      "title": "Solace Inc.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://altf4-games.itch.io/midnight-visitor",
+      "link": "https://aplovestudio.itch.io/solace-inc",
       "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzc2MjQ2NzcucG5n/315x250%23c/g5kgej.png"
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
     },
     {
       "title": "Fractured: Roadwood Stop",
