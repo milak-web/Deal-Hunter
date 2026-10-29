@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T17:20:45.349Z",
+  "lastUpdated": "2026-10-29T21:54:48.244Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -35,7 +35,7 @@
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-10-30T23:42:00.000Z",
+      "expiryDate": "2026-11-01T23:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
@@ -90,15 +90,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png"
     },
     {
-      "title": "Night Clerk",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -106,6 +97,15 @@
       "category": "Game",
       "expiryDate": "2026-11-06T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Night Clerk",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://grantrimi.itch.io/night-clerk",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Buckler 2",
@@ -120,16 +120,22 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "Assassin at Crimson Keep",
+      "title": "Aestheta",
       "platform": "Itch.io",
-      "originalPrice": "$4.99",
-      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/aestheta",
       "category": "Game",
-      "expiryDate": "2026-11-04T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Roseblight",
@@ -144,22 +150,16 @@
       "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "title": "Assassin at Crimson Keep",
       "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "originalPrice": "$4.99",
+      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
       "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Aestheta",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/aestheta",
-      "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
+      "expiryDate": "2026-11-04T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
       "title": "Hexologic",
