@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T04:05:44.221Z",
+  "lastUpdated": "2026-10-29T10:59:40.857Z",
   "deals": [
     {
       "title": "Sker Ritual",
@@ -31,15 +31,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-10-30T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
       "title": "Solace Inc.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,6 +38,15 @@
       "category": "Game",
       "expiryDate": "2026-11-05T03:13:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-10-30T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "The Lost Apartment",
@@ -70,6 +70,18 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
+      "title": "Project Malice",
+      "platform": "Itch.io",
+      "originalPrice": "$9.99",
+      "link": "https://aplovestudio.itch.io/malice",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
       "title": "Late Order",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -86,18 +98,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
-    },
-    {
-      "title": "Project Malice",
-      "platform": "Itch.io",
-      "originalPrice": "$9.99",
-      "link": "https://aplovestudio.itch.io/malice",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
       "title": "Night Clerk",
@@ -149,6 +149,27 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/roseblight",
       "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
+    },
+    {
+      "title": "Buckler 2",
+      "platform": "Itch.io",
+      "originalPrice": "$3.99",
+      "link": "https://aplovestudio.itch.io/buckler2",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Aestheta",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/aestheta",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
       "title": "The Black Within",
@@ -305,18 +326,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Buckler 2",
-      "platform": "Itch.io",
-      "originalPrice": "$3.99",
-      "link": "https://aplovestudio.itch.io/buckler2",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     }
   ]
 }
