@@ -1,25 +1,15 @@
 {
-  "lastUpdated": "2026-10-29T10:59:40.857Z",
+  "lastUpdated": "2026-10-29T17:20:45.349Z",
   "deals": [
     {
-      "title": "Sker Ritual",
+      "title": "Sorry We're Closed",
       "platform": "Epic Games",
       "originalPrice": "$24.99",
-      "link": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
+      "link": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
       "category": "Game",
-      "startDate": "2026-10-22T15:00:00.000Z",
-      "expiryDate": "2026-10-29T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
-    },
-    {
-      "title": "Home - A Unique Horror Adventure",
-      "platform": "Epic Games",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/en-US/p/home-19212a",
-      "category": "Game",
-      "startDate": "2026-10-22T15:00:00.000Z",
-      "expiryDate": "2026-10-29T15:00:00.000Z",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
+      "startDate": "2026-10-19T15:00:00.000Z",
+      "expiryDate": "2026-11-02T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-16sj7.png"
     },
     {
       "title": "Fear Assessment",
@@ -82,15 +72,6 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "Late Order",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://glodory-studio.itch.io/late-night",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png"
-    },
-    {
       "title": "Smiling Terror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -98,6 +79,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
+      "title": "Late Order",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://glodory-studio.itch.io/late-night",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png"
     },
     {
       "title": "Night Clerk",
@@ -118,13 +108,16 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "title": "Buckler 2",
       "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "originalPrice": "$3.99",
+      "link": "https://aplovestudio.itch.io/buckler2",
       "category": "Game",
-      "expiryDate": "2026-10-31T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
       "title": "Assassin at Crimson Keep",
@@ -151,16 +144,13 @@
       "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
-      "title": "Buckler 2",
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
-      "originalPrice": "$3.99",
-      "link": "https://aplovestudio.itch.io/buckler2",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
       "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+      "expiryDate": "2026-10-31T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "Aestheta",
@@ -172,16 +162,28 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
-      "title": "The Black Within",
-      "platform": "Itch.io",
-      "originalPrice": "$5.99",
-      "link": "https://waleedzo.itch.io/the-black-within",
+      "title": "Hexologic",
+      "platform": "Steam",
+      "originalPrice": "$4.99",
+      "link": "https://store.steampowered.com/app/785890/Hexologic",
       "category": "Game",
-      "expiryDate": "2026-10-31T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
+      "expiryDate": "2026-10-31T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae37c96c0b45.jpg",
       "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
+      "sourceUrl": "https://www.gamerpower.com/hexologic-steam-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
+    },
+    {
+      "title": "Galaxy Kart",
+      "platform": "Mobile",
+      "originalPrice": "$4.99",
+      "link": "https://store.epicgames.com/mobile?lang=en-US",
+      "category": "Mobile",
+      "expiryDate": "2026-11-05T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae3661d090e9.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/galaxy-kart-mobile-giveaway",
+      "requirements": "1. Click the button using your phone to visit the Epic Games Store mobile page.\r\n2. Install the Epic Games Store App on your Android or iOS device.\r\n3. Open the App, scroll down to the \"Free Games\" section and click on the giveaway banner.\r\n4. Install the game and have fun!"
     },
     {
       "title": "Free itch.io Games Bundle",
@@ -244,18 +246,6 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
-      "title": "Home",
-      "platform": "Mobile",
-      "originalPrice": "$4.99",
-      "link": "https://store.epicgames.com/p/home-19212a",
-      "category": "Mobile",
-      "expiryDate": "2026-10-29T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/home.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/home",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
       "title": "GetHigh.EXE",
       "platform": "Epic Games",
       "originalPrice": "$1.99",
@@ -266,6 +256,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+    },
+    {
+      "title": "The Black Within",
+      "platform": "Itch.io",
+      "originalPrice": "$5.99",
+      "link": "https://waleedzo.itch.io/the-black-within",
+      "category": "Game",
+      "expiryDate": "2026-10-31T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
+      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Liminal Space Holiday",
