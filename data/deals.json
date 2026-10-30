@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T21:54:48.244Z",
+  "lastUpdated": "2026-10-30T01:28:30.086Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -72,6 +72,18 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
+      "title": "Roseblight",
+      "platform": "Itch.io",
+      "originalPrice": "$7.99",
+      "link": "https://aplovestudio.itch.io/roseblight",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/roseblight",
+      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
+    },
+    {
       "title": "Smiling Terror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -79,24 +91,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
-    },
-    {
-      "title": "Late Order",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://glodory-studio.itch.io/late-night",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Night Clerk",
@@ -138,16 +132,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Roseblight",
+      "title": "Late Order",
       "platform": "Itch.io",
-      "originalPrice": "$7.99",
-      "link": "https://aplovestudio.itch.io/roseblight",
+      "originalPrice": "N/A",
+      "link": "https://glodory-studio.itch.io/late-night",
       "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/roseblight",
-      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-11-06T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Assassin at Crimson Keep",
@@ -160,6 +160,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "The Black Within",
+      "platform": "Itch.io",
+      "originalPrice": "$5.99",
+      "link": "https://waleedzo.itch.io/the-black-within",
+      "category": "Game",
+      "expiryDate": "2026-10-31T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
+      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Hexologic",
@@ -256,18 +268,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "The Black Within",
-      "platform": "Itch.io",
-      "originalPrice": "$5.99",
-      "link": "https://waleedzo.itch.io/the-black-within",
-      "category": "Game",
-      "expiryDate": "2026-10-31T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Liminal Space Holiday",
