@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T14:43:38.645Z",
+  "lastUpdated": "2026-10-30T19:47:25.028Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -28,6 +28,15 @@
       "category": "Game",
       "expiryDate": "2026-11-05T03:13:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-11-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Final Witness",
@@ -123,25 +132,28 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "title": "Asleep: Act 1",
+      "platform": "Steam",
+      "originalPrice": "$9.99",
+      "link": "https://store.steampowered.com/app/1583850/Asleep_Act_1",
       "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+      "expiryDate": "2026-11-02T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae4ceb2e38bb.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/asleep-act-1-steam-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
     },
     {
-      "title": "Assassin at Crimson Keep",
-      "platform": "Itch.io",
-      "originalPrice": "$4.99",
-      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "title": "A New Beginning: Final Cut",
+      "platform": "GOG",
+      "originalPrice": "$9.99",
+      "link": "https://www.gog.com/en/game/a_new_beginning",
       "category": "Game",
-      "expiryDate": "2026-11-04T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
+      "expiryDate": "2026-11-02T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae4af4cbf862.jpg",
       "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+      "sourceUrl": "https://www.gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
+      "requirements": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game."
     },
     {
       "title": "Hexologic",
@@ -310,6 +322,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Assassin at Crimson Keep",
+      "platform": "Itch.io",
+      "originalPrice": "$4.99",
+      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "category": "Game",
+      "expiryDate": "2026-11-04T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     }
   ]
 }
