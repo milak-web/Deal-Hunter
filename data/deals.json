@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T02:35:32.696Z",
+  "lastUpdated": "2026-10-31T09:07:47.322Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -39,6 +39,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-11-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
       "title": "Project Malice",
       "platform": "Itch.io",
       "originalPrice": "$9.99",
@@ -51,13 +60,13 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "Sabado: Day One",
+      "title": "CTHON",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "link": "https://gravitygames.itch.io/cthon",
       "category": "Game",
-      "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+      "expiryDate": "2026-11-02T06:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
     },
     {
       "title": "Roseblight",
@@ -105,15 +114,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
-      "title": "CTHON",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gravitygames.itch.io/cthon",
-      "category": "Game",
-      "expiryDate": "2026-11-02T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -151,15 +151,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Asleep: Act 1",
