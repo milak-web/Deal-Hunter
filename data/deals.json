@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T19:25:39.666Z",
+  "lastUpdated": "2026-10-31T22:39:38.019Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -28,6 +28,15 @@
       "category": "Game",
       "expiryDate": "2026-11-05T03:13:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "Sabado: Day One",
@@ -67,27 +76,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
-      "title": "The Green Light",
-      "platform": "Itch.io",
-      "originalPrice": "$9.99",
-      "link": "https://waleedzo.itch.io/the-green-light",
-      "category": "Game",
-      "expiryDate": "2026-10-31T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Roseblight",
@@ -132,13 +120,37 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
-      "title": "Smiling Terror",
+      "title": "Requiem Station",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://poisonicestudios.itch.io/smiling-terror",
+      "link": "https://batpan-games.itch.io/requiem-station",
       "category": "Game",
-      "expiryDate": "2026-11-04T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MDI2LnBuZw==/315x250%23c/C3XUQi.png"
+    },
+    {
+      "title": "Gladiator: Blades of Fury",
+      "platform": "Epic Games",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b",
+      "category": "Game",
+      "expiryDate": "2026-11-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae6414cb0f67.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/gladiator-blades-of-fury-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+    },
+    {
+      "title": "Quiztopia: The Ultimate Trivia",
+      "platform": "Epic Games",
+      "originalPrice": "$7.99",
+      "link": "https://store.epicgames.com/p/quiztopia-the-ultimate-trivia-6d42e0",
+      "category": "Game",
+      "expiryDate": "2026-11-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae64030ca5f5.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/quiztopia-the-ultimate-trivia-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "Asleep: Act 1",
@@ -163,18 +175,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
       "requirements": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game."
-    },
-    {
-      "title": "Hexologic",
-      "platform": "Steam",
-      "originalPrice": "$4.99",
-      "link": "https://store.steampowered.com/app/785890/Hexologic",
-      "category": "Game",
-      "expiryDate": "2026-10-31T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae37c96c0b45.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/hexologic-steam-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
     },
     {
       "title": "Galaxy Kart",
@@ -271,6 +271,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
       "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "The Green Light",
+      "platform": "Itch.io",
+      "originalPrice": "$9.99",
+      "link": "https://waleedzo.itch.io/the-green-light",
+      "category": "Game",
+      "expiryDate": "2026-10-31T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Liminal Space Holiday",
