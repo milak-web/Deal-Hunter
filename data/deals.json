@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T15:26:01.856Z",
+  "lastUpdated": "2026-10-31T19:25:39.666Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -39,6 +39,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
+      "title": "CTHON",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gravitygames.itch.io/cthon",
+      "category": "Game",
+      "expiryDate": "2026-11-02T06:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
+    },
+    {
       "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -60,25 +69,13 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "CTHON",
+      "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://gravitygames.itch.io/cthon",
+      "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-11-02T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
-    },
-    {
-      "title": "Roseblight",
-      "platform": "Itch.io",
-      "originalPrice": "$7.99",
-      "link": "https://aplovestudio.itch.io/roseblight",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/roseblight",
-      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "The Green Light",
@@ -93,13 +90,16 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
-      "title": "Final Witness",
+      "title": "Roseblight",
       "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
+      "originalPrice": "$7.99",
+      "link": "https://aplovestudio.itch.io/roseblight",
       "category": "Game",
-      "expiryDate": "2026-11-01T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/roseblight",
+      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
       "title": "Night Clerk",
@@ -109,15 +109,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
-    },
-    {
-      "title": "Aestheta",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/aestheta",
-      "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
       "title": "Buckler 2",
@@ -130,6 +121,15 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Aestheta",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/aestheta",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
       "title": "Smiling Terror",
