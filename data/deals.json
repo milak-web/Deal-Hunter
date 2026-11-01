@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T19:50:23.704Z",
+  "lastUpdated": "2026-11-01T23:15:26.859Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -21,15 +21,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MDI2LnBuZw==/315x250%23c/C3XUQi.png"
     },
     {
-      "title": "Fear Assessment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://alexander-wiseman.itch.io/fear-assessment",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
       "title": "Slasher Circus",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -37,6 +28,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNjIwODU4LnBuZw==/315x250%23c/o%2F2k4O.png"
+    },
+    {
+      "title": "Fear Assessment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alexander-wiseman.itch.io/fear-assessment",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
       "title": "CTHON",
@@ -48,15 +48,6 @@
       "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
     },
     {
-      "title": "Solace Inc.",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/solace-inc",
-      "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
-    },
-    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -64,15 +55,6 @@
       "category": "Game",
       "expiryDate": "2026-11-29T16:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
-      "title": "The Lost Apartment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sdevscares.itch.io/the-lost-apartment",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Final Witness",
@@ -84,13 +66,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Night Clerk",
+      "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://grantrimi.itch.io/night-clerk",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
+    },
+    {
+      "title": "Solace Inc.",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/solace-inc",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
+      "title": "Aestheta",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/aestheta",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
       "title": "Jam and the Mystery of the Mysteriously Spooky Mansion",
@@ -114,13 +114,13 @@
       "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
-      "title": "Aestheta",
+      "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/aestheta",
+      "link": "https://grantrimi.itch.io/night-clerk",
       "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
       "title": "Smiling Terror",
@@ -130,6 +130,18 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
+      "title": "Horse Racing",
+      "platform": "Epic Games",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/p/horse-racing-4192a0",
+      "category": "Game",
+      "expiryDate": "2026-11-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae7b210288b2.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/horse-racing-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "Epic World - Hunt For Quest",
