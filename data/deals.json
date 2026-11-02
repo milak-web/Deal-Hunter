@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T10:22:03.544Z",
+  "lastUpdated": "2026-11-02T20:26:45.569Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -7,18 +7,9 @@
       "originalPrice": "$24.99",
       "link": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
       "category": "Game",
-      "startDate": "2026-10-19T15:00:00.000Z",
-      "expiryDate": "2026-11-02T16:00:00.000Z",
+      "startDate": "2026-10-29T15:00:00.000Z",
+      "expiryDate": "2026-11-05T16:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-16sj7.png"
-    },
-    {
-      "title": "Requiem Station",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://batpan-games.itch.io/requiem-station",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzE1MTU1LmpwZWc=/315x250%23c/a5X44%2B.jpeg"
     },
     {
       "title": "Slasher Circus",
@@ -28,6 +19,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNjIwODU4LnBuZw==/315x250%23c/o%2F2k4O.png"
+    },
+    {
+      "title": "Requiem Station",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://batpan-games.itch.io/requiem-station",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzE1MTU1LmpwZWc=/315x250%23c/a5X44%2B.jpeg"
     },
     {
       "title": "Fear Assessment",
@@ -66,6 +66,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
       "title": "Solace Inc.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -84,15 +93,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
       "title": "Night Clerk",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,6 +109,42 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
+      "title": "Buckler 2",
+      "platform": "Itch.io",
+      "originalPrice": "$3.99",
+      "link": "https://aplovestudio.itch.io/buckler2",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Project Malice",
+      "platform": "Itch.io",
+      "originalPrice": "$9.99",
+      "link": "https://aplovestudio.itch.io/malice",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Roseblight",
+      "platform": "Itch.io",
+      "originalPrice": "$7.99",
+      "link": "https://aplovestudio.itch.io/roseblight",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/roseblight",
+      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
       "title": "Highway Driving",
@@ -183,30 +219,6 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
-      "title": "Asleep: Act 1",
-      "platform": "Steam",
-      "originalPrice": "$9.99",
-      "link": "https://store.steampowered.com/app/1583850/Asleep_Act_1",
-      "category": "Game",
-      "expiryDate": "2026-11-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae4ceb2e38bb.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/asleep-act-1-steam-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
-    },
-    {
-      "title": "A New Beginning: Final Cut",
-      "platform": "GOG",
-      "originalPrice": "$9.99",
-      "link": "https://www.gog.com/en/game/a_new_beginning",
-      "category": "Game",
-      "expiryDate": "2026-11-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae4af4cbf862.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
-      "requirements": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game."
-    },
-    {
       "title": "Galaxy Kart",
       "platform": "Mobile",
       "originalPrice": "$4.99",
@@ -267,18 +279,6 @@
       "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
-      "title": "GetHigh.EXE",
-      "platform": "Epic Games",
-      "originalPrice": "$1.99",
-      "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
-      "category": "Game",
-      "expiryDate": "2026-11-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
       "title": "Very Realistic Game Dev Simulator",
       "platform": "Itch.io",
       "originalPrice": "$1.99",
@@ -327,40 +327,17 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "Project Malice",
-      "platform": "Itch.io",
-      "originalPrice": "$9.99",
-      "link": "https://aplovestudio.itch.io/malice",
+      "title": "GetHigh.EXE",
+      "platform": "Epic Games",
+      "originalPrice": "$1.99",
+      "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
       "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
+      "expiryDate": "2026-11-02T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg",
       "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Buckler 2",
-      "platform": "Itch.io",
-      "originalPrice": "$3.99",
-      "link": "https://aplovestudio.itch.io/buckler2",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Roseblight",
-      "platform": "Itch.io",
-      "originalPrice": "$7.99",
-      "link": "https://aplovestudio.itch.io/roseblight",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/roseblight",
-      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
+      "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
+      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
