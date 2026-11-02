@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T23:15:26.859Z",
+  "lastUpdated": "2026-11-02T02:39:16.063Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -48,24 +48,6 @@
       "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
     },
     {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
       "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,6 +55,15 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
+    },
+    {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-11-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Solace Inc.",
@@ -84,6 +75,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
     },
     {
+      "title": "Jam and the Mystery of the Mysteriously Spooky Mansion",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion",
+      "category": "Game",
+      "expiryDate": "2026-11-02T06:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzEzNTM3Mjg2LnBuZw==/315x250%23c/EG0AEp.png"
+    },
+    {
       "title": "Aestheta",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -93,13 +93,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
-      "title": "Jam and the Mystery of the Mysteriously Spooky Mansion",
+      "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion",
+      "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-11-02T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzNTM3Mjg2LnBuZw==/315x250%23c/EG0AEp.png"
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "Roseblight",
@@ -130,6 +130,30 @@
       "category": "Game",
       "expiryDate": "2026-11-04T23:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
+      "title": "Highway Driving",
+      "platform": "Epic Games",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/p/highway-driving-140121",
+      "category": "Game",
+      "expiryDate": "2026-11-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae7cab593610.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/highway-driving-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+    },
+    {
+      "title": "Dark Mystery",
+      "platform": "Epic Games",
+      "originalPrice": "$7.99",
+      "link": "https://store.epicgames.com/p/dark-mystery-baf914",
+      "category": "Game",
+      "expiryDate": "2026-11-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae7c63220dc4.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/dark-mystery-epic-games-giveaway",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "Horse Racing",
@@ -262,18 +286,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/heirloom-itch-io-giveaway",
       "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "MAFIA HOTEL",
-      "platform": "Epic Games",
-      "originalPrice": "$1.99",
-      "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
-      "category": "Game",
-      "expiryDate": "2026-11-01T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6add376bc36a0.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/mafia-hotel-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "GetHigh.EXE",
