@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T02:39:16.063Z",
+  "lastUpdated": "2026-11-02T10:22:03.544Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -18,7 +18,7 @@
       "link": "https://batpan-games.itch.io/requiem-station",
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MDI2LnBuZw==/315x250%23c/C3XUQi.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzE1MTU1LmpwZWc=/315x250%23c/a5X44%2B.jpeg"
     },
     {
       "title": "Slasher Circus",
@@ -48,15 +48,6 @@
       "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
     },
     {
-      "title": "The Lost Apartment",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://sdevscares.itch.io/the-lost-apartment",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
-    },
-    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -66,6 +57,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
+      "title": "The Lost Apartment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
+    },
+    {
       "title": "Solace Inc.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,15 +73,6 @@
       "category": "Game",
       "expiryDate": "2026-11-05T03:13:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
-    },
-    {
-      "title": "Jam and the Mystery of the Mysteriously Spooky Mansion",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion",
-      "category": "Game",
-      "expiryDate": "2026-11-02T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzEzNTM3Mjg2LnBuZw==/315x250%23c/EG0AEp.png"
     },
     {
       "title": "Aestheta",
@@ -100,18 +91,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
-      "title": "Roseblight",
-      "platform": "Itch.io",
-      "originalPrice": "$7.99",
-      "link": "https://aplovestudio.itch.io/roseblight",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/roseblight",
-      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
       "title": "Night Clerk",
@@ -370,6 +349,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Roseblight",
+      "platform": "Itch.io",
+      "originalPrice": "$7.99",
+      "link": "https://aplovestudio.itch.io/roseblight",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/roseblight",
+      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     }
   ]
 }
