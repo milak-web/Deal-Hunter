@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T20:26:45.569Z",
+  "lastUpdated": "2026-11-03T02:30:56.163Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -66,15 +66,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
       "title": "Solace Inc.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -102,6 +93,27 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
+      "title": "Project Malice",
+      "platform": "Itch.io",
+      "originalPrice": "$9.99",
+      "link": "https://aplovestudio.itch.io/malice",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-07T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
       "title": "Smiling Terror",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -123,18 +135,6 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "Project Malice",
-      "platform": "Itch.io",
-      "originalPrice": "$9.99",
-      "link": "https://aplovestudio.itch.io/malice",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
       "title": "Roseblight",
       "platform": "Itch.io",
       "originalPrice": "$7.99",
@@ -145,6 +145,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/roseblight",
       "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
+    },
+    {
+      "title": "Assassin at Crimson Keep",
+      "platform": "Itch.io",
+      "originalPrice": "$4.99",
+      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "category": "Game",
+      "expiryDate": "2026-11-04T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
       "title": "Highway Driving",
@@ -313,31 +325,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Assassin at Crimson Keep",
-      "platform": "Itch.io",
-      "originalPrice": "$4.99",
-      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "GetHigh.EXE",
-      "platform": "Epic Games",
-      "originalPrice": "$1.99",
-      "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
-      "category": "Game",
-      "expiryDate": "2026-11-02T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
-      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
