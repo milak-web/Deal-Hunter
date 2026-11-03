@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T10:20:27.066Z",
+  "lastUpdated": "2026-11-03T17:57:10.888Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -12,13 +12,16 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-16sj7.png"
     },
     {
-      "title": "Requiem Station",
+      "title": "MOLOKAUST",
       "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://batpan-games.itch.io/requiem-station",
+      "originalPrice": "$10.00",
+      "link": "https://elp3luca.itch.io/molokaust",
       "category": "Game",
-      "expiryDate": "2026-11-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzE1MTU1LmpwZWc=/315x250%23c/a5X44%2B.jpeg"
+      "expiryDate": "2026-11-04T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6ae25ef1a9917.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/molokaust-itch-io-giveaway",
+      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Slasher Circus",
@@ -30,6 +33,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNjIwODU4LnBuZw==/315x250%23c/o%2F2k4O.png"
     },
     {
+      "title": "Requiem Station",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://batpan-games.itch.io/requiem-station",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzE1MTU1LmpwZWc=/315x250%23c/a5X44%2B.jpeg"
+    },
+    {
       "title": "Fear Assessment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -37,15 +49,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
-    },
-    {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "CTHON",
@@ -57,6 +60,15 @@
       "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
     },
     {
+      "title": "Sabado: Day One",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
+      "category": "Game",
+      "expiryDate": "2026-11-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
       "title": "The Lost Apartment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -64,15 +76,6 @@
       "category": "Game",
       "expiryDate": "2026-11-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
-    },
-    {
-      "title": "Solace Inc.",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/solace-inc",
-      "category": "Game",
-      "expiryDate": "2026-11-05T03:13:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
     },
     {
       "title": "Aestheta",
@@ -84,6 +87,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
     },
     {
+      "title": "Solace Inc.",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/solace-inc",
+      "category": "Game",
+      "expiryDate": "2026-11-05T03:13:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -91,6 +103,15 @@
       "category": "Game",
       "expiryDate": "2026-11-07T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Kinstead",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://alindamian98.itch.io/kinstead",
+      "category": "Game",
+      "expiryDate": "2026-11-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzE1MDM4LnBuZw==/315x250%23c/awSxm%2F.png"
     },
     {
       "title": "Night Clerk",
@@ -123,18 +144,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
-      "title": "Roseblight",
-      "platform": "Itch.io",
-      "originalPrice": "$7.99",
-      "link": "https://aplovestudio.itch.io/roseblight",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/roseblight",
-      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
-    },
-    {
       "title": "Buckler 2",
       "platform": "Itch.io",
       "originalPrice": "$3.99",
@@ -145,6 +154,18 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Roseblight",
+      "platform": "Itch.io",
+      "originalPrice": "$7.99",
+      "link": "https://aplovestudio.itch.io/roseblight",
+      "category": "Game",
+      "expiryDate": "2026-11-05T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/roseblight",
+      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
       "title": "Assassin at Crimson Keep",
@@ -253,18 +274,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/free-itch-io-games-bundle",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!"
-    },
-    {
-      "title": "MOLOKAUST",
-      "platform": "Itch.io",
-      "originalPrice": "$10.00",
-      "link": "https://elp3luca.itch.io/molokaust",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae25ef1a9917.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/molokaust-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
     },
     {
       "title": "Octane100",
