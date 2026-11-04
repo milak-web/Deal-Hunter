@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:07:56.051Z",
+  "lastUpdated": "2026-11-04T23:49:55.516Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -60,15 +60,6 @@
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
-      "title": "Smiling Terror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://poisonicestudios.itch.io/smiling-terror",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
-    },
-    {
       "title": "Roseblight",
       "platform": "Itch.io",
       "originalPrice": "$7.99",
@@ -91,6 +82,15 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-06T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -121,15 +121,6 @@
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-07T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -201,6 +192,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "Penance",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pehriska.itch.io/penance",
+      "category": "Game",
+      "expiryDate": "2026-11-11T16:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
+    },
+    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -228,6 +228,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
     },
     {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-11-08T08:46:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+    },
+    {
       "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -246,13 +255,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png"
     },
     {
-      "title": "Apartment №202",
+      "title": "DON’T DO IT",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "link": "https://worsteventgames.itch.io/dont-do-it",
       "category": "Game",
-      "expiryDate": "2026-11-08T08:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
       "title": "THE NIGHT TICKLER",
@@ -264,24 +273,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MjM3LmpwZw==/315x250%23c/E2rBAR.jpg"
     },
     {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
-      "title": "Pumpkill Remastered",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cosmicraycast.itch.io/pumpkill",
-      "category": "Game",
-      "expiryDate": null,
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMjA2OTc1LnBuZw==/315x250%23c/HRxhpB.png"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -289,6 +280,33 @@
       "category": "Game",
       "expiryDate": "2026-11-08T08:46:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "Pumpkill Remastered",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://cosmicraycast.itch.io/pumpkill",
+      "category": "Game",
+      "expiryDate": "2026-11-05T06:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMjA2OTc1LnBuZw==/315x250%23c/HRxhpB.png"
+    },
+    {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-11-09T06:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
+    },
+    {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-11-10T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Letter Quest: Grimm's Journey Remastered Steam",
@@ -397,42 +415,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/free-itch-io-games-bundle",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!"
-    },
-    {
-      "title": "MOLOKAUST",
-      "platform": "Itch.io",
-      "originalPrice": "$10.00",
-      "link": "https://elp3luca.itch.io/molokaust",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae25ef1a9917.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/molokaust-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Heirloom",
-      "platform": "Itch.io",
-      "originalPrice": "$0.99",
-      "link": "https://atticusfinn.itch.io/heirloom",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae257b2d5ad9.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/heirloom-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Assassin at Crimson Keep",
-      "platform": "Itch.io",
-      "originalPrice": "$4.99",
-      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     }
   ]
 }
