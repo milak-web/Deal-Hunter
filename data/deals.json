@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T02:50:46.859Z",
+  "lastUpdated": "2026-11-04T10:14:05.962Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -126,6 +126,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NzYzMjQzLnBuZw==/315x250%23c/UfaGgC.png"
     },
     {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-07T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Smiling Terror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://poisonicestudios.itch.io/smiling-terror",
+      "category": "Game",
+      "expiryDate": "2026-11-04T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
       "title": "Roseblight",
       "platform": "Itch.io",
       "originalPrice": "$7.99",
@@ -138,22 +156,16 @@
       "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!"
     },
     {
-      "title": "Smiling Terror",
+      "title": "Assassin at Crimson Keep",
       "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://poisonicestudios.itch.io/smiling-terror",
+      "originalPrice": "$4.99",
+      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
       "category": "Game",
-      "expiryDate": "2026-11-04T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-07T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+      "expiryDate": "2026-11-04T23:59:59.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
+      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
       "title": "Buckler 2",
@@ -165,18 +177,6 @@
       "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Assassin at Crimson Keep",
-      "platform": "Itch.io",
-      "originalPrice": "$4.99",
-      "link": "https://shadowglass.itch.io/assassin-at-crimson-keep",
-      "category": "Game",
-      "expiryDate": "2026-11-04T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/62e41a3c35b09.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/assassin-at-crimson-keep",
       "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game."
     },
     {
