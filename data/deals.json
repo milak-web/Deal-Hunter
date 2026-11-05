@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T04:29:55.459Z",
+  "lastUpdated": "2026-11-05T12:40:09.042Z",
   "deals": [
     {
       "title": "Sorry We're Closed",
@@ -12,22 +12,14 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-16sj7.png"
     },
     {
-      "title": "CTHON",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://gravitygames.itch.io/cthon",
-      "category": "Game",
-      "expiryDate": "2026-11-05T06:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png"
-    },
-    {
       "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
       "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -56,18 +48,8 @@
       "originalPrice": "N/A",
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
-      "expiryDate": "2026-11-06T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+      "expiryDate": "2026-11-18T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Very Realistic Game Dev Simulator",
@@ -92,6 +74,15 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -130,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
-    },
-    {
       "title": "At Sixes And Sevens Case I",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -148,6 +130,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-11-05T22:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png"
+    },
+    {
       "title": "The Noise Inside",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -155,6 +146,15 @@
       "category": "Game",
       "expiryDate": "2026-11-12T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
+    },
+    {
+      "title": "Octane100",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://murchikstudio.itch.io/octane100",
+      "category": "Game",
+      "expiryDate": "2026-12-01T08:49:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png"
     },
     {
       "title": "Late Pizza Delivery",
@@ -181,8 +181,7 @@
       "link": "https://ravenhome.itch.io/liminal-lane",
       "category": "Game",
       "expiryDate": "2026-11-30T12:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "DON’T DO IT",
@@ -203,13 +202,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png"
     },
     {
-      "title": "Apartment №202",
+      "title": "Static Voice",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "link": "https://kadderagames.itch.io/static-voice",
       "category": "Game",
-      "expiryDate": "2026-11-08T08:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+      "expiryDate": "2026-11-09T06:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
       "title": "THE NIGHT TICKLER",
@@ -221,14 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MjM3LmpwZw==/315x250%23c/E2rBAR.jpg"
     },
     {
-      "title": "Static Voice",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://kadderagames.itch.io/static-voice",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-11-09T06:04:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png",
-      "verificationStatus": "cached-after-provider-error"
+      "expiryDate": "2026-11-08T08:46:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Burnt",
@@ -237,7 +235,17 @@
       "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
       "expiryDate": "2026-11-10T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-11-08T08:46:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
       "title": "Letter Quest: Grimm's Journey Remastered Steam",
@@ -394,26 +402,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/solace-inc-itchio-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-11-08T08:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Pumpkill Remastered",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://cosmicraycast.itch.io/pumpkill",
-      "category": "Game",
-      "expiryDate": "2026-11-05T06:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMjA2OTc1LnBuZw==/315x250%23c/HRxhpB.png",
-      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
