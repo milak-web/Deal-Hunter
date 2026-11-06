@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T20:25:19.939Z",
+  "lastUpdated": "2026-11-06T01:00:31.693Z",
   "deals": [
     {
       "title": "Idle Champions of the Forgotten Realms",
@@ -22,13 +22,89 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg"
     },
     {
-      "title": "At Sixes And Sevens Case I",
+      "title": "Sabado: Day One",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+      "expiryDate": "2026-11-29T16:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "THE MIDNIGHT BUS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://itandfeel.itch.io/the-midnight-bus",
+      "category": "Game",
+      "expiryDate": "2026-11-18T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "Penance",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pehriska.itch.io/penance",
+      "category": "Game",
+      "expiryDate": "2026-11-11T16:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
+    },
+    {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-06T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-11-07T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "The Noise Inside",
@@ -46,16 +122,8 @@
       "link": "https://murchikstudio.itch.io/octane100",
       "category": "Game",
       "expiryDate": "2026-12-01T08:49:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-11-07T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Late Pizza Delivery",
@@ -94,15 +162,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
-      "title": "DON’T DO IT",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/dont-do-it",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
-    },
-    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -119,6 +178,15 @@
       "category": "Game",
       "expiryDate": "2026-11-08T00:26:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MjM3LmpwZw==/315x250%23c/E2rBAR.jpg"
+    },
+    {
+      "title": "Dummy ER: Ragdoll Physics Game",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
+      "category": "Game",
+      "expiryDate": null,
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
     },
     {
       "title": "Lost In Transit",
@@ -139,13 +207,23 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
+      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "category": "Game",
+      "expiryDate": "2026-11-30T12:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png"
+    },
+    {
       "title": "Liho",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://merai.itch.io/liho",
       "category": "Game",
       "expiryDate": "2026-11-06T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0NzE5NTc1LmdpZg==/315x250%23c/gtPhq2.gif"
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NzE5NTc1LmdpZg==/315x250%23c/gtPhq2.gif",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Dot spot",
@@ -157,22 +235,26 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png"
     },
     {
-      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
-      "category": "Game",
-      "expiryDate": "2026-11-30T12:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png"
-    },
-    {
       "title": "EvsE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://gkolberg.itch.io/evse",
       "category": "Game",
       "expiryDate": "2026-11-10T22:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNTI5NTA4LnBuZw==/315x250%23c/jmlbXw.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNTI5NTA4LnBuZw==/315x250%23c/jmlbXw.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "GMH - Good Morning Human (Epic Games) Giveaways",
+      "platform": "Epic Games",
+      "originalPrice": "$9.99",
+      "link": "https://store.epicgames.com/p/good-morning-human-6d0b45",
+      "category": "Game",
+      "expiryDate": "2026-11-08T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6aed159f0ca1d.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/gmh-good-morning-human-epic-games-giveaways",
+      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     },
     {
       "title": "Chants of Sennaar",
@@ -281,185 +363,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/free-itch-io-games-bundle",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!"
-    },
-    {
-      "title": "Very Realistic Game Dev Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "$1.99",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:35.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6946b7c157bca.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/very-realistic-game-dev-simulator-itch-io-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game."
-    },
-    {
-      "title": "Cherophobia",
-      "platform": "Itch.io",
-      "originalPrice": "$1.99",
-      "link": "https://worsteventgames.itch.io/cherophobia",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/698fa7369c1f5.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/cherophobia-itch-io-giveaway",
-      "requirements": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Log in to your itch.io account to access the game."
-    },
-    {
-      "title": "Sabado: Day One",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "category": "Game",
-      "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "THE MIDNIGHT BUS",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://itandfeel.itch.io/the-midnight-bus",
-      "category": "Game",
-      "expiryDate": "2026-11-18T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "$2.99",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6946b8c46bc9b.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game.",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-06T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Penance",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://pehriska.itch.io/penance",
-      "category": "Game",
-      "expiryDate": "2026-11-11T16:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-11-05T22:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Project Malice",
-      "platform": "Itch.io",
-      "originalPrice": "$9.99",
-      "link": "https://aplovestudio.itch.io/malice",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639e763b0c618.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game.",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Buckler 2",
-      "platform": "Itch.io",
-      "originalPrice": "$3.99",
-      "link": "https://aplovestudio.itch.io/buckler2",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/639f704bc35bc.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
-      "requirements": "1. Click the button \"Download or Claim\" before the offer expires.\r\n2. Login into your itch.io account to access the game.",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Roseblight",
-      "platform": "Itch.io",
-      "originalPrice": "$7.99",
-      "link": "https://aplovestudio.itch.io/roseblight",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:59.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/61c3b92ec8e9f.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/roseblight",
-      "requirements": "1. Download directly via itch.io before the offer expires.\r\n2. Enjoy the game!",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Solace Inc. (itchio)",
-      "platform": "Itch.io",
-      "originalPrice": "$3.99",
-      "link": "https://aplovestudio.itch.io/solace-inc",
-      "category": "Game",
-      "expiryDate": "2026-11-05T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/684151ffd5fd6.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/solace-inc-itchio-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game.",
-      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
