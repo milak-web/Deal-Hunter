@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T21:00:08.699Z",
+  "lastUpdated": "2026-11-07T00:45:15.891Z",
   "deals": [
     {
       "title": "Idle Champions of the Forgotten Realms",
@@ -28,8 +28,7 @@
       "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
       "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
     },
     {
       "title": "Penance",
@@ -38,8 +37,7 @@
       "link": "https://pehriska.itch.io/penance",
       "category": "Game",
       "expiryDate": "2026-11-11T16:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -57,8 +55,7 @@
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
       "expiryDate": "2026-11-18T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -88,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-09T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -104,6 +92,15 @@
       "category": "Game",
       "expiryDate": "2026-11-10T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "Final Witness",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/final-witness",
+      "category": "Game",
+      "expiryDate": "2026-11-09T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "The Noise Inside",
@@ -159,7 +156,8 @@
       "link": "https://northsignal.itch.io/the-killer-bunny",
       "category": "Game",
       "expiryDate": "2026-11-09T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "CREAK",
@@ -177,16 +175,8 @@
       "link": "https://ravenhome.itch.io/liminal-lane",
       "category": "Game",
       "expiryDate": "2026-11-30T12:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
-    },
-    {
-      "title": "Dummy ER: Ragdoll Physics Game",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
-      "category": "Game",
-      "expiryDate": "2026-11-29T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "THE NIGHT TICKLER",
@@ -198,12 +188,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTk5MjM3LmpwZw==/315x250%23c/E2rBAR.jpg"
     },
     {
+      "title": "Dummy ER: Ragdoll Physics Game",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
+      "category": "Game",
+      "expiryDate": "2026-11-29T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
       "title": "Deal or Force",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://bayte-realization.itch.io/deal-or-force",
       "category": "Game",
-      "expiryDate": null,
+      "expiryDate": "2026-11-14T21:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png"
     },
     {
@@ -213,8 +213,7 @@
       "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
       "expiryDate": "2026-11-10T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Apartment №202",
@@ -223,8 +222,7 @@
       "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
       "expiryDate": "2026-11-08T08:46:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Dot spot",
@@ -242,8 +240,7 @@
       "link": "https://murchikstudio.itch.io/octane100",
       "category": "Game",
       "expiryDate": "2026-12-01T08:49:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png"
     },
     {
       "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
@@ -252,16 +249,8 @@
       "link": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
       "category": "Game",
       "expiryDate": "2026-11-30T12:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png"
-    },
-    {
-      "title": "Remote Control",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://canteengames.itch.io/remote-control",
-      "category": "Game",
-      "expiryDate": "2026-12-04T16:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0Mzk1MDQ3LnBuZw==/315x250%23c/lUG6%2FC.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "EvsE",
@@ -271,6 +260,15 @@
       "category": "Game",
       "expiryDate": "2026-11-10T22:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTI5NTA4LnBuZw==/315x250%23c/jmlbXw.png"
+    },
+    {
+      "title": "Remote Control",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://canteengames.itch.io/remote-control",
+      "category": "Game",
+      "expiryDate": "2026-12-04T16:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0Mzk1MDQ3LnBuZw==/315x250%23c/lUG6%2FC.png"
     },
     {
       "title": "GMH - Good Morning Human (Epic Games) Giveaways",
@@ -295,18 +293,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/chants-of-sennaar-mobile-giveaway",
       "requirements": "1. Click the button using your phone to visit the Epic Games Store mobile page.\r\n2. Install the Epic Games Store App on your Android or iOS device.\r\n3. Open the App, scroll down to the \"Free Games\" section and click on the giveaway banner.\r\n4. Install the game and have fun!"
-    },
-    {
-      "title": "Letter Quest: Grimm's Journey Remastered Steam",
-      "platform": "Fanatical",
-      "originalPrice": "$6.99",
-      "link": "https://www.fanatical.com/en/game/letter-quest-grimms-journey-remastered",
-      "category": "Game",
-      "expiryDate": "2026-11-06T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6aeb27dbc0e38.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/letter-quest-grimm-s-journey-remastered-steam-key-giveaway",
-      "requirements": "1. Login into your Fanatical account and subscribe to their newsletter\r\n2. Link a valid Steam account and unlock your Steam key!\r\n3. Launch the Steam client and click the Games menu option.\r\n4. Choose \"Activate a Product on Steam\" to redeem your Steam key."
     },
     {
       "title": "Highway Driving",
