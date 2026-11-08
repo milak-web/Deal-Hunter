@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T15:27:22.924Z",
+  "lastUpdated": "2026-11-08T19:52:01.622Z",
   "deals": [
     {
       "title": "Idle Champions of the Forgotten Realms",
@@ -85,15 +85,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "The Noise Inside",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/the-noise-inside",
-      "category": "Game",
-      "expiryDate": "2026-11-12T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -110,6 +101,15 @@
       "category": "Game",
       "expiryDate": "2026-11-10T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+    },
+    {
+      "title": "The Noise Inside",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bubu07.itch.io/the-noise-inside",
+      "category": "Game",
+      "expiryDate": "2026-11-12T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
     },
     {
       "title": "It's Not Human",
@@ -139,6 +139,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
+      "title": "Mosslight Hollow",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://epicurusgames.itch.io/mosslight-hollow",
+      "category": "Game",
+      "expiryDate": "2026-11-10T14:34:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif"
+    },
+    {
       "title": "DEAD AIR",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -157,6 +166,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
     },
     {
+      "title": "Last Light",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://digitaldro.itch.io/last-light",
+      "category": "Game",
+      "expiryDate": "2026-11-13T09:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODQxOTM2LmdpZg==/315x250%23c/Pb9GJe.gif"
+    },
+    {
       "title": "Late Pizza Delivery",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -164,6 +182,15 @@
       "category": "Game",
       "expiryDate": "2026-11-12T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
+    },
+    {
+      "title": "Kill The Creator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deeplookgames.itch.io/kill-the-creator",
+      "category": "Game",
+      "expiryDate": "2026-12-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
     },
     {
       "title": "The Killer Bunny",
@@ -184,24 +211,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png"
     },
     {
-      "title": "RC Flyer: Model Plane & Helicopter Simulator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://emberlineworld.itch.io/rc-flyer-model-plane-helicopter-simulator",
-      "category": "Game",
-      "expiryDate": "2026-11-23T04:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODEzODY5LnBuZw==/315x250%23c/1cXkd2.png"
-    },
-    {
-      "title": "Flintlock Fast-Food",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://caynman.itch.io/flintlock-fast-food",
-      "category": "Game",
-      "expiryDate": "2026-11-09T13:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png"
-    },
-    {
       "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -211,49 +220,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "Kill The Creator",
+      "title": "RC Flyer: Model Plane & Helicopter Simulator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/kill-the-creator",
+      "link": "https://emberlineworld.itch.io/rc-flyer-model-plane-helicopter-simulator",
       "category": "Game",
-      "expiryDate": "2026-12-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
-    },
-    {
-      "title": "Don't Come First",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scrap-yard-games.itch.io/dont-come-first",
-      "category": "Game",
-      "expiryDate": "2026-11-30T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzY2ODIzLnBuZw==/315x250%23c/y1A9KW.png"
-    },
-    {
-      "title": "Remote Control",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://canteengames.itch.io/remote-control",
-      "category": "Game",
-      "expiryDate": "2026-12-04T16:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0Mzk1MDQ3LnBuZw==/315x250%23c/lUG6%2FC.png"
-    },
-    {
-      "title": "Dot spot",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wolfteng-studio.itch.io/dot-spot",
-      "category": "Game",
-      "expiryDate": "2026-11-27T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png"
-    },
-    {
-      "title": "Octane100",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://murchikstudio.itch.io/octane100",
-      "category": "Game",
-      "expiryDate": "2026-12-01T08:49:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png"
+      "expiryDate": "2026-11-23T04:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODEzODY5LnBuZw==/315x250%23c/1cXkd2.png"
     },
     {
       "title": "Burnt",
@@ -265,6 +238,24 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
+      "title": "Flintlock Fast-Food",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://caynman.itch.io/flintlock-fast-food",
+      "category": "Game",
+      "expiryDate": "2026-11-09T13:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png"
+    },
+    {
+      "title": "Remote Control",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://canteengames.itch.io/remote-control",
+      "category": "Game",
+      "expiryDate": "2026-12-04T16:50:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0Mzk1MDQ3LnBuZw==/315x250%23c/lUG6%2FC.png"
+    },
+    {
       "title": "Syntra",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -272,6 +263,42 @@
       "category": "Game",
       "expiryDate": "2026-11-14T22:37:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png"
+    },
+    {
+      "title": "Don't Come First",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://scrap-yard-games.itch.io/dont-come-first",
+      "category": "Game",
+      "expiryDate": "2026-11-30T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzY2ODIzLnBuZw==/315x250%23c/y1A9KW.png"
+    },
+    {
+      "title": "Dot spot",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wolfteng-studio.itch.io/dot-spot",
+      "category": "Game",
+      "expiryDate": "2026-11-27T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png"
+    },
+    {
+      "title": "Family Manners",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://nney.itch.io/family-manners",
+      "category": "Game",
+      "expiryDate": "2026-11-21T20:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
+    },
+    {
+      "title": "Octane100",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://murchikstudio.itch.io/octane100",
+      "category": "Game",
+      "expiryDate": "2026-12-01T08:49:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png"
     },
     {
       "title": "GMH - Good Morning Human (Epic Games) Giveaways",
