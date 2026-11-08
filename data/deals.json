@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T19:52:01.622Z",
+  "lastUpdated": "2026-11-08T23:19:58.883Z",
   "deals": [
     {
       "title": "Idle Champions of the Forgotten Realms",
@@ -121,15 +121,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg"
     },
     {
-      "title": "Agnadul",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://leshii413.itch.io/agnadulofficial",
-      "category": "Game",
-      "expiryDate": "2026-11-09T00:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODk4NjIzLnBuZw==/315x250%23c/psGi0V.png"
-    },
-    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -137,6 +128,15 @@
       "category": "Game",
       "expiryDate": "2026-11-09T23:42:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Agnadul",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://leshii413.itch.io/agnadulofficial",
+      "category": "Game",
+      "expiryDate": "2026-11-09T00:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwODk4NjIzLnBuZw==/315x250%23c/psGi0V.png"
     },
     {
       "title": "Mosslight Hollow",
@@ -148,58 +148,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif"
     },
     {
-      "title": "DEAD AIR",
+      "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://digitaldro.itch.io/dead-air",
+      "link": "https://ravenhome.itch.io/liminal-lane",
       "category": "Game",
-      "expiryDate": "2026-11-08T23:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODQzMjkzLmdpZg==/315x250%23c/to9BoJ.gif"
-    },
-    {
-      "title": "Dummy ER: Ragdoll Physics Game",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
-      "category": "Game",
-      "expiryDate": "2026-11-29T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
-    },
-    {
-      "title": "Last Light",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://digitaldro.itch.io/last-light",
-      "category": "Game",
-      "expiryDate": "2026-11-13T09:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODQxOTM2LmdpZg==/315x250%23c/Pb9GJe.gif"
-    },
-    {
-      "title": "Late Pizza Delivery",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/late-pizza-delivery",
-      "category": "Game",
-      "expiryDate": "2026-11-12T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
-    },
-    {
-      "title": "Kill The Creator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/kill-the-creator",
-      "category": "Game",
-      "expiryDate": "2026-12-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
-    },
-    {
-      "title": "The Killer Bunny",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://northsignal.itch.io/the-killer-bunny",
-      "category": "Game",
-      "expiryDate": "2026-11-09T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png"
+      "expiryDate": "2026-11-30T12:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "Deal or Force",
@@ -211,13 +166,14 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png"
     },
     {
-      "title": "Liminal Lane",
+      "title": "Flintlock Fast-Food",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
+      "link": "https://caynman.itch.io/flintlock-fast-food",
       "category": "Game",
-      "expiryDate": "2026-11-30T12:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+      "expiryDate": "2026-11-09T13:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "RC Flyer: Model Plane & Helicopter Simulator",
@@ -229,22 +185,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODEzODY5LnBuZw==/315x250%23c/1cXkd2.png"
     },
     {
-      "title": "Burnt",
+      "title": "Syntra",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://sleepycatstudio.itch.io/burnt",
+      "link": "https://syntra.itch.io/syntra",
       "category": "Game",
-      "expiryDate": "2026-11-10T21:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
-    },
-    {
-      "title": "Flintlock Fast-Food",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://caynman.itch.io/flintlock-fast-food",
-      "category": "Game",
-      "expiryDate": "2026-11-09T13:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png"
+      "expiryDate": "2026-11-14T22:37:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png"
     },
     {
       "title": "Remote Control",
@@ -256,13 +203,14 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI0Mzk1MDQ3LnBuZw==/315x250%23c/lUG6%2FC.png"
     },
     {
-      "title": "Syntra",
+      "title": "Dot spot",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://syntra.itch.io/syntra",
+      "link": "https://wolfteng-studio.itch.io/dot-spot",
       "category": "Game",
-      "expiryDate": "2026-11-14T22:37:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png"
+      "expiryDate": "2026-11-27T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Don't Come First",
@@ -274,22 +222,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNzY2ODIzLnBuZw==/315x250%23c/y1A9KW.png"
     },
     {
-      "title": "Dot spot",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://wolfteng-studio.itch.io/dot-spot",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-11-27T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png"
-    },
-    {
-      "title": "Family Manners",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://nney.itch.io/family-manners",
-      "category": "Game",
-      "expiryDate": "2026-11-21T20:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
+      "expiryDate": "2026-11-22T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Octane100",
@@ -298,7 +237,17 @@
       "link": "https://murchikstudio.itch.io/octane100",
       "category": "Game",
       "expiryDate": "2026-12-01T08:49:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "category": "Game",
+      "expiryDate": "2026-11-30T12:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png"
     },
     {
       "title": "GMH - Good Morning Human (Epic Games) Giveaways",
@@ -407,6 +356,76 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/free-itch-io-games-bundle",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!"
+    },
+    {
+      "title": "Dummy ER: Ragdoll Physics Game",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
+      "category": "Game",
+      "expiryDate": "2026-11-29T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Last Light",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://digitaldro.itch.io/last-light",
+      "category": "Game",
+      "expiryDate": "2026-11-13T09:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODQxOTM2LmdpZg==/315x250%23c/Pb9GJe.gif",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Late Pizza Delivery",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bubu07.itch.io/late-pizza-delivery",
+      "category": "Game",
+      "expiryDate": "2026-11-12T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Kill The Creator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deeplookgames.itch.io/kill-the-creator",
+      "category": "Game",
+      "expiryDate": "2026-12-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "The Killer Bunny",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://northsignal.itch.io/the-killer-bunny",
+      "category": "Game",
+      "expiryDate": "2026-11-09T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-11-10T21:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Family Manners",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://nney.itch.io/family-manners",
+      "category": "Game",
+      "expiryDate": "2026-11-21T20:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
+      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
