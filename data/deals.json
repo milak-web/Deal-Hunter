@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T23:19:58.883Z",
+  "lastUpdated": "2026-11-09T02:50:53.828Z",
   "deals": [
     {
       "title": "Idle Champions of the Forgotten Realms",
@@ -40,15 +40,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
     },
     {
-      "title": "Penance",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://pehriska.itch.io/penance",
-      "category": "Game",
-      "expiryDate": "2026-11-11T16:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -56,6 +47,15 @@
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Penance",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pehriska.itch.io/penance",
+      "category": "Game",
+      "expiryDate": "2026-11-11T16:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -76,15 +76,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
       "title": "Quiet West: Butcher noose",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -94,13 +85,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
       "category": "Game",
-      "expiryDate": "2026-11-10T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "The Noise Inside",
@@ -109,7 +100,8 @@
       "link": "https://bubu07.itch.io/the-noise-inside",
       "category": "Game",
       "expiryDate": "2026-11-12T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "It's Not Human",
@@ -118,25 +110,8 @@
       "link": "https://deeplookgames.itch.io/its-not-human",
       "category": "Game",
       "expiryDate": "2026-12-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg"
-    },
-    {
-      "title": "Final Witness",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/final-witness",
-      "category": "Game",
-      "expiryDate": "2026-11-09T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
-    },
-    {
-      "title": "Agnadul",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://leshii413.itch.io/agnadulofficial",
-      "category": "Game",
-      "expiryDate": "2026-11-09T00:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODk4NjIzLnBuZw==/315x250%23c/psGi0V.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Mosslight Hollow",
@@ -148,13 +123,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif"
     },
     {
-      "title": "Liminal Lane",
+      "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
+      "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-11-30T12:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+      "expiryDate": "2026-11-09T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
+    },
+    {
+      "title": "Last Light",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://digitaldro.itch.io/last-light",
+      "category": "Game",
+      "expiryDate": "2026-11-13T09:44:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODQxOTM2LmdpZg==/315x250%23c/Pb9GJe.gif"
     },
     {
       "title": "Deal or Force",
@@ -166,14 +150,23 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png"
     },
     {
-      "title": "Flintlock Fast-Food",
+      "title": "Syntra",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://caynman.itch.io/flintlock-fast-food",
+      "link": "https://syntra.itch.io/syntra",
       "category": "Game",
-      "expiryDate": "2026-11-09T13:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
+      "expiryDate": "2026-11-14T22:37:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png",
       "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-11-30T12:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "RC Flyer: Model Plane & Helicopter Simulator",
@@ -182,16 +175,8 @@
       "link": "https://emberlineworld.itch.io/rc-flyer-model-plane-helicopter-simulator",
       "category": "Game",
       "expiryDate": "2026-11-23T04:50:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODEzODY5LnBuZw==/315x250%23c/1cXkd2.png"
-    },
-    {
-      "title": "Syntra",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://syntra.itch.io/syntra",
-      "category": "Game",
-      "expiryDate": "2026-11-14T22:37:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODEzODY5LnBuZw==/315x250%23c/1cXkd2.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Remote Control",
@@ -201,34 +186,6 @@
       "category": "Game",
       "expiryDate": "2026-12-04T16:50:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI0Mzk1MDQ3LnBuZw==/315x250%23c/lUG6%2FC.png"
-    },
-    {
-      "title": "Dot spot",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wolfteng-studio.itch.io/dot-spot",
-      "category": "Game",
-      "expiryDate": "2026-11-27T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Don't Come First",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://scrap-yard-games.itch.io/dont-come-first",
-      "category": "Game",
-      "expiryDate": "2026-11-30T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzY2ODIzLnBuZw==/315x250%23c/y1A9KW.png"
-    },
-    {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-11-22T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Octane100",
@@ -241,25 +198,32 @@
       "verificationStatus": "cached-after-provider-error"
     },
     {
-      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-11-30T12:54:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png"
+      "expiryDate": "2026-11-22T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
-      "title": "GMH - Good Morning Human (Epic Games) Giveaways",
-      "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/p/good-morning-human-6d0b45",
+      "title": "Don't Come First",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://scrap-yard-games.itch.io/dont-come-first",
       "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6aed159f0ca1d.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/gmh-good-morning-human-epic-games-giveaways",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+      "expiryDate": "2026-11-30T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzY2ODIzLnBuZw==/315x250%23c/y1A9KW.png"
+    },
+    {
+      "title": "Static Voice",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kadderagames.itch.io/static-voice",
+      "category": "Game",
+      "expiryDate": "2026-11-09T06:04:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png"
     },
     {
       "title": "Chants of Sennaar",
@@ -274,78 +238,6 @@
       "requirements": "1. Click the button using your phone to visit the Epic Games Store mobile page.\r\n2. Install the Epic Games Store App on your Android or iOS device.\r\n3. Open the App, scroll down to the \"Free Games\" section and click on the giveaway banner.\r\n4. Install the game and have fun!"
     },
     {
-      "title": "Highway Driving",
-      "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/p/highway-driving-140121",
-      "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae7cab593610.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/highway-driving-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Dark Mystery",
-      "platform": "Epic Games",
-      "originalPrice": "$7.99",
-      "link": "https://store.epicgames.com/p/dark-mystery-baf914",
-      "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae7c63220dc4.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/dark-mystery-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Horse Racing",
-      "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/p/horse-racing-4192a0",
-      "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae7b210288b2.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/horse-racing-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Epic World - Hunt For Quest",
-      "platform": "Epic Games",
-      "originalPrice": "$6.99",
-      "link": "https://store.epicgames.com/p/epic-world-hunt-for-quest-4500b1",
-      "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae74d1a29ca6.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/epic-world-hunt-for-quest-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Gladiator: Blades of Fury",
-      "platform": "Epic Games",
-      "originalPrice": "$9.99",
-      "link": "https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b",
-      "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae6414cb0f67.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/gladiator-blades-of-fury-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "Quiztopia: The Ultimate Trivia",
-      "platform": "Epic Games",
-      "originalPrice": "$7.99",
-      "link": "https://store.epicgames.com/p/quiztopia-the-ultimate-trivia-6d42e0",
-      "category": "Game",
-      "expiryDate": "2026-11-08T23:59:00.000Z",
-      "imageUrl": "https://www.gamerpower.com/offers/1/6ae64030ca5f5.jpg",
-      "source": "GamerPower",
-      "sourceUrl": "https://www.gamerpower.com/quiztopia-the-ultimate-trivia-epic-games-giveaway",
-      "requirements": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
       "title": "Free itch.io Games Bundle",
       "platform": "Itch.io",
       "originalPrice": "$384.00",
@@ -358,6 +250,46 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!"
     },
     {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-11-10T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Flintlock Fast-Food",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://caynman.itch.io/flintlock-fast-food",
+      "category": "Game",
+      "expiryDate": "2026-11-09T13:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Dot spot",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://wolfteng-studio.itch.io/dot-spot",
+      "category": "Game",
+      "expiryDate": "2026-11-27T20:40:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "category": "Game",
+      "expiryDate": "2026-11-30T12:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
       "title": "Dummy ER: Ragdoll Physics Game",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -365,16 +297,6 @@
       "category": "Game",
       "expiryDate": "2026-11-29T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Last Light",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://digitaldro.itch.io/last-light",
-      "category": "Game",
-      "expiryDate": "2026-11-13T09:44:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODQxOTM2LmdpZg==/315x250%23c/Pb9GJe.gif",
       "verificationStatus": "cached-after-provider-error"
     },
     {
