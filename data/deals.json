@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T10:42:08.874Z",
+  "lastUpdated": "2026-11-09T21:13:14.356Z",
   "deals": [
     {
       "title": "Idle Champions of the Forgotten Realms",
@@ -28,7 +28,16 @@
       "link": "https://kiwidreams-01.itch.io/sabado-day-one",
       "category": "Game",
       "expiryDate": "2026-11-29T16:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg"
+    },
+    {
+      "title": "Penance",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://pehriska.itch.io/penance",
+      "category": "Game",
+      "expiryDate": "2026-11-11T16:45:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
       "verificationStatus": "cached-after-provider-error"
     },
     {
@@ -42,24 +51,13 @@
       "verificationStatus": "cached-after-provider-error"
     },
     {
-      "title": "Penance",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://pehriska.itch.io/penance",
-      "category": "Game",
-      "expiryDate": "2026-11-11T16:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -68,7 +66,8 @@
       "link": "https://itandfeel.itch.io/the-midnight-bus",
       "category": "Game",
       "expiryDate": "2026-11-18T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -77,8 +76,7 @@
       "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
     },
     {
       "title": "Mosslight Hollow",
@@ -87,7 +85,8 @@
       "link": "https://epicurusgames.itch.io/mosslight-hollow",
       "category": "Game",
       "expiryDate": "2026-11-10T14:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -96,8 +95,16 @@
       "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "It's Not Human",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deeplookgames.itch.io/its-not-human",
+      "category": "Game",
+      "expiryDate": "2026-12-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg"
     },
     {
       "title": "The Noise Inside",
@@ -115,18 +122,7 @@
       "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "It's Not Human",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/its-not-human",
-      "category": "Game",
-      "expiryDate": "2026-12-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Final Witness",
@@ -145,7 +141,8 @@
       "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
       "expiryDate": "2026-11-10T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Chants of Sennaar",
@@ -262,16 +259,6 @@
       "verificationStatus": "cached-after-provider-error"
     },
     {
-      "title": "Flintlock Fast-Food",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://caynman.itch.io/flintlock-fast-food",
-      "category": "Game",
-      "expiryDate": "2026-11-09T13:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
       "title": "Dot spot",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -319,16 +306,6 @@
       "category": "Game",
       "expiryDate": "2026-12-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "The Killer Bunny",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://northsignal.itch.io/the-killer-bunny",
-      "category": "Game",
-      "expiryDate": "2026-11-09T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png",
       "verificationStatus": "cached-after-provider-error"
     },
     {
