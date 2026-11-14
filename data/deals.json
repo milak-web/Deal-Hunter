@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T20:11:46.154Z",
+  "lastUpdated": "2026-11-14T00:57:01.423Z",
   "deals": [
     {
       "title": "Knightica",
@@ -30,15 +30,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
     },
     {
-      "title": "The Last Laugh",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ji10-games.itch.io/the-last-laugh",
-      "category": "Game",
-      "expiryDate": "2026-11-30T04:06:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyMDkxOTMxLnBuZw==/315x250%23c/MYzBlN.png"
-    },
-    {
       "title": "THE MIDNIGHT BUS",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -46,6 +37,15 @@
       "category": "Game",
       "expiryDate": "2026-11-18T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
+    },
+    {
+      "title": "The Last Laugh",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ji10-games.itch.io/the-last-laugh",
+      "category": "Game",
+      "expiryDate": "2026-11-30T04:06:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMDkxOTMxLnBuZw==/315x250%23c/MYzBlN.png"
     },
     {
       "title": "Final Witness",
@@ -57,15 +57,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-11-21T08:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -73,6 +64,15 @@
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-11-21T08:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -102,15 +102,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Family Manners",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://nney.itch.io/family-manners",
-      "category": "Game",
-      "expiryDate": "2026-11-21T20:05:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -120,6 +111,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
+      "title": "Family Manners",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://nney.itch.io/family-manners",
+      "category": "Game",
+      "expiryDate": "2026-11-21T20:05:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
+    },
+    {
       "title": "Kill The Creator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -127,15 +127,6 @@
       "category": "Game",
       "expiryDate": "2026-12-04T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
-    },
-    {
-      "title": "At Sixes And Sevens Case I",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "category": "Game",
-      "expiryDate": "2026-11-25T05:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
     },
     {
       "title": "Cherophobia",
@@ -156,6 +147,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
     },
     {
+      "title": "At Sixes And Sevens Case I",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "category": "Game",
+      "expiryDate": "2026-11-25T05:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png"
+    },
+    {
       "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -165,15 +165,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
-      "title": "Sleep in Fear",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bennyboygames.itch.io/sleep-in-fear",
-      "category": "Game",
-      "expiryDate": "2026-11-23T15:09:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -181,6 +172,15 @@
       "category": "Game",
       "expiryDate": "2026-11-22T10:57:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
+      "title": "Sleep in Fear",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bennyboygames.itch.io/sleep-in-fear",
+      "category": "Game",
+      "expiryDate": "2026-11-23T15:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
     },
     {
       "title": "LIMINAL STATE",
@@ -201,24 +201,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Cosmic Zephyr DX / 宇宙の風DX",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dylancassidy.itch.io/cosmic-zephyr",
-      "category": "Game",
-      "expiryDate": "2026-11-16T05:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzM3Mjc3NjIucG5n/315x250%23c/1zhVlZ.png"
-    },
-    {
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "category": "Game",
-      "expiryDate": "2026-11-25T05:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
-    },
-    {
       "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -235,6 +217,33 @@
       "category": "Game",
       "expiryDate": "2026-12-12T12:46:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMyMTE0Mjc3LnBuZw==/315x250%23c/L7VVtH.png"
+    },
+    {
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "category": "Game",
+      "expiryDate": "2026-11-25T05:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg"
+    },
+    {
+      "title": "Very Realistic Game Dev Simulator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "category": "Game",
+      "expiryDate": "2026-11-25T05:25:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+    },
+    {
+      "title": "Fainted Memories - The Third Line",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://elacior.itch.io/faintedmemories",
+      "category": "Game",
+      "expiryDate": "2026-11-15T17:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png"
     },
     {
       "title": "Dreadwick",
@@ -255,13 +264,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI1NDk4ODU5LnBuZw==/315x250%23c/lnPQmw.png"
     },
     {
-      "title": "Very Realistic Game Dev Simulator",
+      "title": "Cosmic Zephyr DX / 宇宙の風DX",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "link": "https://dylancassidy.itch.io/cosmic-zephyr",
       "category": "Game",
-      "expiryDate": "2026-11-25T05:25:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png"
+      "expiryDate": "2026-11-16T05:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzM3Mjc3NjIucG5n/315x250%23c/1zhVlZ.png"
     },
     {
       "title": "Feeling Tanky",
@@ -271,15 +280,6 @@
       "category": "Game",
       "expiryDate": "2026-11-17T04:59:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMyMDQ5NDAwLnBuZw==/315x250%23c/ByfFj9.png"
-    },
-    {
-      "title": "A Starspangled Zephyr / 星条旗の風",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dylancassidy.itch.io/a-starspangled-zephyr",
-      "category": "Game",
-      "expiryDate": "2026-11-16T05:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1hZ2UvMTYzNDkvNjQyOTMucG5n/315x250%23c/D3arZg.png"
     },
     {
       "title": "Concrete Veil",
@@ -298,6 +298,15 @@
       "category": "Game",
       "expiryDate": "2026-11-29T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
+    },
+    {
+      "title": "A Starspangled Zephyr / 星条旗の風",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://dylancassidy.itch.io/a-starspangled-zephyr",
+      "category": "Game",
+      "expiryDate": "2026-11-16T05:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvMTYzNDkvNjQyOTMucG5n/315x250%23c/D3arZg.png"
     },
     {
       "title": "Knightica",
