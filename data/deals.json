@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T08:50:03.429Z",
+  "lastUpdated": "2026-11-16T19:06:23.927Z",
   "deals": [
     {
       "title": "Knightica",
@@ -48,15 +48,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
     },
     {
-      "title": "Penance",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://pehriska.itch.io/penance",
-      "category": "Game",
-      "expiryDate": "2026-11-16T16:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
-    },
-    {
       "title": "It's Not Human",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -84,13 +75,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
     },
     {
-      "title": "Kill The Creator",
+      "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/kill-the-creator",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
       "category": "Game",
-      "expiryDate": "2026-12-04T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
+      "expiryDate": "2026-11-18T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -102,13 +93,31 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "Lord of Chaos",
+      "title": "Night Maniac",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "link": "https://noxusgamesstudio.itch.io/nightmaniac",
       "category": "Game",
-      "expiryDate": "2026-11-18T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
+      "expiryDate": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4Mzc4MTc2LnBuZw==/315x250%23c/A3Kk1l.png"
+    },
+    {
+      "title": "Kill The Creator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deeplookgames.itch.io/kill-the-creator",
+      "category": "Game",
+      "expiryDate": "2026-12-04T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
+    },
+    {
+      "title": "The Noise Inside",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bubu07.itch.io/the-noise-inside",
+      "category": "Game",
+      "expiryDate": "2026-12-01T16:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -120,6 +129,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
+      "title": "Night Maniac 2: The Legacy Of Blood",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://noxusgamesstudio.itch.io/nightmaniac2",
+      "category": "Game",
+      "expiryDate": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMTQxMjEzLmpwZw==/315x250%23c/muT17v.jpg"
+    },
+    {
       "title": "Backrooms Crawlers",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -127,15 +145,6 @@
       "category": "Game",
       "expiryDate": "2026-11-21T08:07:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
-    },
-    {
-      "title": "The Noise Inside",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/the-noise-inside",
-      "category": "Game",
-      "expiryDate": "2026-12-01T16:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -165,6 +174,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
+      "title": "Fainted Memories - The Third Line",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://elacior.itch.io/faintedmemories",
+      "category": "Game",
+      "expiryDate": "2026-11-22T17:10:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png"
+    },
+    {
       "title": "LIMINAL STATE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -183,24 +201,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-11-22T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
-      "title": "Night Maniac",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://noxusgamesstudio.itch.io/nightmaniac",
-      "category": "Game",
-      "expiryDate": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4Mzc4MTc2LnBuZw==/315x250%23c/A3Kk1l.png"
-    },
-    {
       "title": "Liminal Lane",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -210,13 +210,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "Vanguard: Zero-G Protocol",
+      "title": "Apartment №202",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://gamedevunique.itch.io/vanguard-zero-g-protocol",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
       "category": "Game",
-      "expiryDate": "2026-11-21T06:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyMTE2MjE5LnBuZw==/315x250%23c/%2FHBQp%2B.png"
+      "expiryDate": "2026-11-22T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Concrete Veil",
@@ -237,6 +237,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
     },
     {
+      "title": "Vanguard: Zero-G Protocol",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://gamedevunique.itch.io/vanguard-zero-g-protocol",
+      "category": "Game",
+      "expiryDate": "2026-11-21T06:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMTE2MjE5LnBuZw==/315x250%23c/%2FHBQp%2B.png"
+    },
+    {
       "title": "Sleep in Fear",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -246,13 +255,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
     },
     {
-      "title": "Night Maniac 2: The Legacy Of Blood",
+      "title": "Dummy ER: Ragdoll Physics Game",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://noxusgamesstudio.itch.io/nightmaniac2",
+      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
       "category": "Game",
-      "expiryDate": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMTQxMjEzLmpwZw==/315x250%23c/muT17v.jpg"
+      "expiryDate": "2026-11-29T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
+    },
+    {
+      "title": "Burnt",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sleepycatstudio.itch.io/burnt",
+      "category": "Game",
+      "expiryDate": "2026-11-18T05:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Sillwalker",
@@ -262,6 +280,24 @@
       "category": "Game",
       "expiryDate": "2026-12-12T12:46:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMyMjYwNzA3LnBuZw==/315x250%23c/ekC7GS.png"
+    },
+    {
+      "title": "Last Friday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://reganc.itch.io/last-friday",
+      "category": "Game",
+      "expiryDate": "2026-11-18T22:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMjU4MDUxLmdpZg==/315x250%23c/PwGKuS.gif"
+    },
+    {
+      "title": "Shoku Pain",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://archille.itch.io/shoku-pain",
+      "category": "Game",
+      "expiryDate": "2026-12-12T15:54:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5MjM1MTI2LnBuZw==/315x250%23c/xOE05e.png"
     },
     {
       "title": "Knightica",
