@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T02:32:49.309Z",
+  "lastUpdated": "2026-11-17T11:22:48.159Z",
   "deals": [
     {
       "title": "Knightica",
@@ -10,24 +10,6 @@
       "startDate": "2026-11-12T16:00:00.000Z",
       "expiryDate": "2026-11-19T16:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1xc3d.png"
-    },
-    {
-      "title": "Don't Fix Her Pipes",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/dont-fix-her-pipes",
-      "category": "Game",
-      "expiryDate": "2026-11-18T18:23:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNzAwMzUyLmpwZw==/315x250%23c/2w7wDb.jpg"
-    },
-    {
-      "title": "Fix Her Pipes",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/fix-her-pipes",
-      "category": "Game",
-      "expiryDate": "2026-11-19T21:34:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyMjQ0ODM2LmdpZg==/315x250%23c/ehOGF8.gif"
     },
     {
       "title": "Night Maniac 2: The Legacy Of Blood",
@@ -80,7 +62,7 @@
       "originalPrice": "N/A",
       "link": "https://deeplookgames.itch.io/its-not-human",
       "category": "Game",
-      "expiryDate": "2026-12-04T18:00:00.000Z",
+      "expiryDate": "2026-11-24T10:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg"
     },
     {
@@ -102,15 +84,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
     },
     {
-      "title": "The Noise Inside",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/the-noise-inside",
-      "category": "Game",
-      "expiryDate": "2026-12-01T16:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
-    },
-    {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -120,12 +93,21 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
+      "title": "The Noise Inside",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bubu07.itch.io/the-noise-inside",
+      "category": "Game",
+      "expiryDate": "2026-12-01T16:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
+    },
+    {
       "title": "Kill The Creator",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://deeplookgames.itch.io/kill-the-creator",
       "category": "Game",
-      "expiryDate": "2026-12-04T18:00:00.000Z",
+      "expiryDate": "2026-11-24T10:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
     },
     {
@@ -138,15 +120,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-11-21T08:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
-    },
-    {
       "title": "Pigeon West: El Diablo",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -154,6 +127,15 @@
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-11-21T08:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
     },
     {
       "title": "Pigeon West: Johnny the Pigeon",
@@ -174,15 +156,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxNzY1NDQ3LnBuZw==/315x250%23c/MXfRuT.png"
     },
     {
-      "title": "Late Pizza Delivery",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/late-pizza-delivery",
-      "category": "Game",
-      "expiryDate": "2026-12-01T16:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
-    },
-    {
       "title": "Lost In Transit",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -192,13 +165,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
-      "title": "Liminal Lane",
+      "title": "Late Pizza Delivery",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
+      "link": "https://bubu07.itch.io/late-pizza-delivery",
       "category": "Game",
-      "expiryDate": "2026-11-30T12:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
+      "expiryDate": "2026-12-01T16:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
     },
     {
       "title": "The Copper Hill",
@@ -208,6 +181,24 @@
       "category": "Game",
       "expiryDate": "2026-12-09T00:52:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
+    },
+    {
+      "title": "Last Breath",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://molotov-kittens.itch.io/last-breath",
+      "category": "Game",
+      "expiryDate": "2026-11-23T10:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
+    },
+    {
+      "title": "Liminal Lane",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://ravenhome.itch.io/liminal-lane",
+      "category": "Game",
+      "expiryDate": "2026-11-30T12:56:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
       "title": "Concrete Veil",
@@ -237,13 +228,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png"
     },
     {
-      "title": "Last Breath",
+      "title": "Burnt",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://molotov-kittens.itch.io/last-breath",
+      "link": "https://sleepycatstudio.itch.io/burnt",
       "category": "Game",
-      "expiryDate": "2026-11-23T10:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
+      "expiryDate": "2026-11-18T05:20:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png"
     },
     {
       "title": "Vanguard: Zero-G Protocol",
@@ -271,6 +262,15 @@
       "category": "Game",
       "expiryDate": "2026-12-08T20:45:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif"
+    },
+    {
+      "title": "Dummy ER: Ragdoll Physics Game",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
+      "category": "Game",
+      "expiryDate": "2026-11-29T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
     },
     {
       "title": "Last Friday",
