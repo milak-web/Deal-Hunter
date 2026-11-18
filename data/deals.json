@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T10:26:42.518Z",
+  "lastUpdated": "2026-11-18T18:57:10.628Z",
   "deals": [
     {
       "title": "Knightica",
@@ -39,15 +39,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
-      "title": "It's Not Human",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/its-not-human",
-      "category": "Game",
-      "expiryDate": "2026-11-24T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg"
-    },
-    {
       "title": "Family Manners",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -55,6 +46,15 @@
       "category": "Game",
       "expiryDate": "2026-11-21T20:05:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
+    },
+    {
+      "title": "It's Not Human",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deeplookgames.itch.io/its-not-human",
+      "category": "Game",
+      "expiryDate": "2026-11-24T10:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg"
     },
     {
       "title": "The Noise Inside",
@@ -84,15 +84,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
-      "title": "Kill The Creator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://deeplookgames.itch.io/kill-the-creator",
-      "category": "Game",
-      "expiryDate": "2026-11-24T10:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
-    },
-    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -109,6 +100,15 @@
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Kill The Creator",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://deeplookgames.itch.io/kill-the-creator",
+      "category": "Game",
+      "expiryDate": "2026-11-24T10:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg"
     },
     {
       "title": "Backrooms Crawlers",
@@ -138,6 +138,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png"
     },
     {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-11-22T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+    },
+    {
       "title": "LIMINAL STATE",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -156,15 +165,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png"
     },
     {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-11-22T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
       "title": "Late Pizza Delivery",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -172,6 +172,15 @@
       "category": "Game",
       "expiryDate": "2026-12-01T16:20:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg"
+    },
+    {
+      "title": "Snakehead",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://woodchair.itch.io/snakehead",
+      "category": "Game",
+      "expiryDate": "2026-11-23T19:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif"
     },
     {
       "title": "NIGHT DUTY",
@@ -219,15 +228,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif"
     },
     {
-      "title": "Snakehead",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://woodchair.itch.io/snakehead",
-      "category": "Game",
-      "expiryDate": "2026-11-23T19:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif"
-    },
-    {
       "title": "Dummy ER: Ragdoll Physics Game",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -235,6 +235,24 @@
       "category": "Game",
       "expiryDate": "2026-11-29T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg"
+    },
+    {
+      "title": "Sleep in Fear",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://bennyboygames.itch.io/sleep-in-fear",
+      "category": "Game",
+      "expiryDate": "2026-11-23T15:09:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif"
+    },
+    {
+      "title": "Last Friday",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://reganc.itch.io/last-friday",
+      "category": "Game",
+      "expiryDate": "2026-11-26T22:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMjU4MDUxLmdpZg==/315x250%23c/PwGKuS.gif"
     },
     {
       "title": "Contractor: The Clean Up Part 2",
