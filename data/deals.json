@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T22:38:14.061Z",
+  "lastUpdated": "2026-11-22T02:45:39.788Z",
   "deals": [
     {
       "title": "Mark of the Deep",
@@ -10,70 +10,6 @@
       "startDate": "2026-11-19T16:00:00.000Z",
       "expiryDate": "2026-11-26T16:00:00.000Z",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-12-05T08:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png"
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-12-03T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
-    },
-    {
-      "title": "White Static",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://valentynnemichev.itch.io/white-static",
-      "category": "Game",
-      "expiryDate": "2026-11-22T02:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyNTU1NzExLnBuZw==/315x250%23c/oduZ2X.png"
-    },
-    {
-      "title": "NIGHT DUTY",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kyezdev.itch.io/night-duty",
-      "category": "Game",
-      "expiryDate": "2026-12-17T05:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTI0MDkzLnBuZw==/315x250%23c/AcUIP1.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-12-03T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
-    },
-    {
-      "title": "Last Breath",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://molotov-kittens.itch.io/last-breath",
-      "category": "Game",
-      "expiryDate": "2026-11-23T10:30:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png"
     },
     {
       "title": "Lonesome Village",
@@ -110,6 +46,66 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/free-itch-io-games-bundle",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Backrooms Crawlers",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "category": "Game",
+      "expiryDate": "2026-12-05T08:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Lost In Transit",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/lost-in-transit",
+      "category": "Game",
+      "expiryDate": "2026-12-03T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "NIGHT DUTY",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://kyezdev.itch.io/night-duty",
+      "category": "Game",
+      "expiryDate": "2026-12-17T05:01:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwNTI0MDkzLnBuZw==/315x250%23c/AcUIP1.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-12-03T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png",
+      "verificationStatus": "cached-after-provider-error"
+    },
+    {
+      "title": "Last Breath",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://molotov-kittens.itch.io/last-breath",
+      "category": "Game",
+      "expiryDate": "2026-11-23T10:30:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png",
+      "verificationStatus": "cached-after-provider-error"
     },
     {
       "title": "Final Witness",
@@ -259,16 +255,6 @@
       "category": "Game",
       "expiryDate": "2026-11-30T12:56:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Strings Of Malakai",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://stringsofmalakai.itch.io/strings-of-malakai",
-      "category": "Game",
-      "expiryDate": "2026-11-21T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png",
       "verificationStatus": "cached-after-provider-error"
     }
   ]
