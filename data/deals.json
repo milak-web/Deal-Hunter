@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T11:06:15.726Z",
+  "lastUpdated": "2026-11-27T20:06:49.766Z",
   "deals": [
     {
       "title": "Firestone – Idle Clicker Online RPG",
@@ -22,15 +22,6 @@
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-pr4o2.jpg"
     },
     {
-      "title": "Smiling Terror",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://poisonicestudios.itch.io/smiling-terror",
-      "category": "Game",
-      "expiryDate": "2026-12-31T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
-    },
-    {
       "title": "Fear Assessment",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -40,14 +31,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxMTk0MDU2LmdpZg==/315x250%23c/C%2BuC%2FL.gif"
     },
     {
+      "title": "Smiling Terror",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://poisonicestudios.itch.io/smiling-terror",
+      "category": "Game",
+      "expiryDate": "2026-12-31T23:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
+    },
+    {
       "title": "Final Witness",
       "platform": "Itch.io",
       "originalPrice": "N/A",
       "link": "https://hexnut-studios.itch.io/final-witness",
       "category": "Game",
-      "expiryDate": "2026-11-27T23:42:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png",
-      "verificationStatus": "cached-after-provider-error"
+      "expiryDate": "2026-11-29T23:42:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png"
     },
     {
       "title": "MOLOKAUST",
@@ -56,8 +55,16 @@
       "link": "https://elp3luca.itch.io/molokaust",
       "category": "Game",
       "expiryDate": "2026-12-20T16:18:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI2MjU0MzkyLmpwZw==/315x250%23c/c8KbYq.jpg",
-      "verificationStatus": "cached-after-provider-error"
+      "imageUrl": "https://img.itch.zone/aW1nLzI2MjU0MzkyLmpwZw==/315x250%23c/c8KbYq.jpg"
+    },
+    {
+      "title": "Lord of Chaos",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
+      "category": "Game",
+      "expiryDate": "2026-11-30T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Pigeon West: Call Of Gun. ISEKAI",
@@ -74,17 +81,8 @@
       "originalPrice": "N/A",
       "link": "https://nney.itch.io/family-manners",
       "category": "Game",
-      "expiryDate": "2026-11-27T20:05:00.000Z",
+      "expiryDate": "2026-11-30T17:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
-    },
-    {
-      "title": "Lord of Chaos",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://hexnut-studios.itch.io/lord-of-chaos",
-      "category": "Game",
-      "expiryDate": "2026-11-28T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
       "title": "Quiet West: Butcher noose",
@@ -112,6 +110,15 @@
       "category": "Game",
       "expiryDate": "2026-11-30T02:38:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "The Lost Apartment",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://sdevscares.itch.io/the-lost-apartment",
+      "category": "Game",
+      "expiryDate": "2026-12-02T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
       "title": "Pigeon West: El Diablo",
@@ -150,6 +157,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
     },
     {
+      "title": "Slasher Circus",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://redwolfstudios-deg.itch.io/slasher-circus",
+      "category": "Game",
+      "expiryDate": "2026-12-02T18:00:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxODY1MjYwLnBuZw==/315x250%23c/IC%2Ff5K.png"
+    },
+    {
       "title": "The Noise Inside",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -159,13 +175,22 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
     },
     {
-      "title": "Slasher Circus",
+      "title": "Solace Inc.",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://redwolfstudios-deg.itch.io/slasher-circus",
+      "link": "https://aplovestudio.itch.io/solace-inc",
       "category": "Game",
-      "expiryDate": "2026-12-02T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODY1MjYwLnBuZw==/315x250%23c/IC%2Ff5K.png"
+      "expiryDate": "2026-11-29T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
+      "title": "Apartment №202",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "category": "Game",
+      "expiryDate": "2026-12-03T10:57:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Teddy Tragedy",
@@ -177,13 +202,28 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIxOTk5MDI5LnBuZw==/315x250%23c/61c8La.png"
     },
     {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
+      "title": "Dead Age 2",
+      "platform": "GOG",
+      "originalPrice": "$17.99",
+      "link": "https://www.gog.com/en/game/dead_age_2",
       "category": "Game",
-      "expiryDate": "2026-12-03T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
+      "expiryDate": "2026-11-30T14:40:09.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6b0969de22e37.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/dead-age-2-gog-giveaway",
+      "requirements": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game."
+    },
+    {
+      "title": "Vertical Drop Heroes HD Steam",
+      "platform": "Fanatical",
+      "originalPrice": "$6.99",
+      "link": "https://www.fanatical.com/en/game/vertical-drop-heroes-hd",
+      "category": "Game",
+      "expiryDate": "2026-11-28T23:59:00.000Z",
+      "imageUrl": "https://www.gamerpower.com/offers/1/6b0967296e680.jpg",
+      "source": "GamerPower",
+      "sourceUrl": "https://www.gamerpower.com/vertical-drop-heroes-hd-steam-key-giveaway",
+      "requirements": "1. Login into your Fanatical account and subscribe to their newsletter\r\n2. Link a valid Steam account and unlock your Steam key!\r\n3. Launch the Steam client and click the Games menu option.\r\n4. Choose \"activate a Product on Steam\" to redeem your Steam key."
     },
     {
       "title": "A Tiny Sticker Tale",
@@ -208,166 +248,6 @@
       "source": "GamerPower",
       "sourceUrl": "https://www.gamerpower.com/contractor-the-clean-up-part-2-epic-games-giveaway",
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    },
-    {
-      "title": "NIGHTMART",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://undyingmistake.itch.io/nightmart",
-      "category": "Game",
-      "expiryDate": "2026-12-01T16:35:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyNTM0MzMzLmdpZg==/315x250%23c/iEWom8.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "NIGHT DUTY",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://kyezdev.itch.io/night-duty",
-      "category": "Game",
-      "expiryDate": "2026-12-17T05:01:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTI0MDkzLnBuZw==/315x250%23c/AcUIP1.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "B1t Machine",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://madcoder1.itch.io/b1tmachine",
-      "category": "Game",
-      "expiryDate": "2026-12-20T09:47:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI0OTg5Mjk4LnBuZw==/315x250%23c/YoQ8Z1.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Liminal Lane",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://ravenhome.itch.io/liminal-lane",
-      "category": "Game",
-      "expiryDate": "2026-11-30T12:56:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwNTkyMzIzLmdpZg==/315x250%23c/Nq10eL.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "The Copper Hill",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/the-copper-hill",
-      "category": "Game",
-      "expiryDate": "2026-12-09T00:52:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Tunnel Rat",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://slaughtergamesstudio.itch.io/tunnel-rat",
-      "category": "Game",
-      "expiryDate": "2026-12-01T18:22:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyNTg5OTczLmdpZg==/315x250%23c/C8P2HI.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Late Pizza Delivery",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/late-pizza-delivery",
-      "category": "Game",
-      "expiryDate": "2026-12-01T16:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Evergreen Meadows",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://dreamdev1.itch.io/evergreen-meadows",
-      "category": "Game",
-      "expiryDate": "2026-11-29T23:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyNzY3OTQ1LnBuZw==/315x250%23c/FNTduF.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "The end of Childhood",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://xeniaexe.itch.io/the-end-of-childhood",
-      "category": "Game",
-      "expiryDate": "2026-12-02T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxMjA3NjcwLnBuZw==/315x250%23c/aNxiAd.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Concrete Veil",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://p3trol.itch.io/concrete-veil",
-      "category": "Game",
-      "expiryDate": "2026-12-09T00:52:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Tiny Tails: The Whale’s Tale",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://al7ussain.itch.io/whale-game",
-      "category": "Game",
-      "expiryDate": "2026-12-08T20:45:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Backrooms Crawlers",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "category": "Game",
-      "expiryDate": "2026-12-05T08:07:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Dot spot",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://wolfteng-studio.itch.io/dot-spot",
-      "category": "Game",
-      "expiryDate": "2026-11-27T20:40:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyODQ4MTYxLnBuZw==/315x250%23c/nycKO3.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Immaginification",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://theeagle-games.itch.io/immaginification",
-      "category": "Game",
-      "expiryDate": "2026-12-23T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI3OTM4MTg4LnBuZw==/315x250%23c/3lLJML.png",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Sleep in Fear",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bennyboygames.itch.io/sleep-in-fear",
-      "category": "Game",
-      "expiryDate": "2026-11-27T15:43:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
-      "verificationStatus": "cached-after-provider-error"
-    },
-    {
-      "title": "Dummy ER: Ragdoll Physics Game",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
-      "category": "Game",
-      "expiryDate": "2026-11-29T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
-      "verificationStatus": "cached-after-provider-error"
     }
   ]
 }
