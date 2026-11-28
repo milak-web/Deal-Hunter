@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T02:51:34.847Z",
+  "lastUpdated": "2026-11-28T11:12:30.113Z",
   "deals": [
     {
       "title": "Firestone – Idle Clicker Online RPG",
@@ -40,6 +40,15 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif"
     },
     {
+      "title": "Solace Inc.",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/solace-inc",
+      "category": "Game",
+      "expiryDate": "2026-11-29T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+    },
+    {
       "title": "MOLOKAUST",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -47,15 +56,6 @@
       "category": "Game",
       "expiryDate": "2026-12-20T16:18:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzI2MjU0MzkyLmpwZw==/315x250%23c/c8KbYq.jpg"
-    },
-    {
-      "title": "Pigeon West: Call Of Gun. ISEKAI",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "The Lost Apartment",
@@ -67,13 +67,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png"
     },
     {
-      "title": "Solace Inc.",
+      "title": "Pigeon West: Call Of Gun. ISEKAI",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/solace-inc",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
       "category": "Game",
-      "expiryDate": "2026-11-29T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png"
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzA1NjU5LmpwZw==/315x250%23c/1wj2sv.jpg"
     },
     {
       "title": "THE MIDNIGHT BUS",
@@ -83,33 +83,6 @@
       "category": "Game",
       "expiryDate": "2026-12-03T20:40:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png"
-    },
-    {
-      "title": "Quiet West: Butcher noose",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
-    },
-    {
-      "title": "Pigeon West: Johnny the Pigeon",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
-    },
-    {
-      "title": "Pigeon West: El Diablo",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-      "category": "Game",
-      "expiryDate": "2026-11-30T02:38:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
     },
     {
       "title": "Final Witness",
@@ -133,6 +106,51 @@
       "requirements": "1. Click the button to visit the giveaway page.\r\n2. Download directly via itch.io before the offer expires.\r\n3. It´s that easy! Enjoy the game!"
     },
     {
+      "title": "Quiet West: Butcher noose",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwODU3NjI3LmpwZw==/315x250%23c/h98Oi8.jpg"
+    },
+    {
+      "title": "Pigeon West: Johnny the Pigeon",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzE1NDI3NTA2LnBuZw==/315x250%23c/E0ZkTJ.png"
+    },
+    {
+      "title": "Family Manners",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://nney.itch.io/family-manners",
+      "category": "Game",
+      "expiryDate": "2026-12-12T04:07:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png"
+    },
+    {
+      "title": "Pigeon West: El Diablo",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+      "category": "Game",
+      "expiryDate": "2026-11-30T02:38:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIwMzIyOTU4LnBuZw==/315x250%23c/9PMidy.png"
+    },
+    {
+      "title": "Aestheta",
+      "platform": "Itch.io",
+      "originalPrice": "N/A",
+      "link": "https://aplovestudio.itch.io/aestheta",
+      "category": "Game",
+      "expiryDate": "2026-11-29T04:59:00.000Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
+    },
+    {
       "title": "Lord of Chaos",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -142,22 +160,13 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI3Nzc1Mjk3LnBuZw==/315x250%23c/GZMMek.png"
     },
     {
-      "title": "That Christmas Night",
+      "title": "Rotten",
       "platform": "Itch.io",
       "originalPrice": "N/A",
-      "link": "https://redwolfstudios-deg.itch.io/that-christmas-night",
+      "link": "https://redwolfstudios-deg.itch.io/rotten",
       "category": "Game",
       "expiryDate": "2026-12-02T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI1MTc1OTQzLnBuZw==/315x250%23c/BjZxSK.png"
-    },
-    {
-      "title": "Lost In Transit",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/lost-in-transit",
-      "category": "Game",
-      "expiryDate": "2026-12-03T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png"
     },
     {
       "title": "Slasher Circus",
@@ -178,15 +187,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzI4MjUwNTYwLnBuZw==/315x250%23c/ygqxhZ.png"
     },
     {
-      "title": "The Broken Elevator",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://mandotaria.itch.io/the-broken-elevator",
-      "category": "Game",
-      "expiryDate": "2026-12-02T18:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyOTIyNjA0LmpwZWc=/315x250%23c/8E6tOx.jpeg"
-    },
-    {
       "title": "Penance",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -196,33 +196,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png"
     },
     {
-      "title": "Aestheta",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://aplovestudio.itch.io/aestheta",
-      "category": "Game",
-      "expiryDate": "2026-11-29T04:59:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png"
-    },
-    {
-      "title": "I'm Not A Customer",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://palesignal.itch.io/im-not-a-costumer",
-      "category": "Game",
-      "expiryDate": "2026-12-20T13:00:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyODg1Njc4LmdpZg==/315x250%23c/Chu5xg.gif"
-    },
-    {
-      "title": "The Noise Inside",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://bubu07.itch.io/the-noise-inside",
-      "category": "Game",
-      "expiryDate": "2026-12-01T16:20:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg"
-    },
-    {
       "title": "Assassin at Crimson Keep",
       "platform": "Itch.io",
       "originalPrice": "N/A",
@@ -230,15 +203,6 @@
       "category": "Game",
       "expiryDate": "2026-12-02T18:00:00.000Z",
       "imageUrl": "https://img.itch.zone/aW1nLzE5MTIyMjE0LnBuZw==/315x250%23c/RyQVe5.png"
-    },
-    {
-      "title": "Apartment №202",
-      "platform": "Itch.io",
-      "originalPrice": "N/A",
-      "link": "https://boxer-gaming.itch.io/apartment-202",
-      "category": "Game",
-      "expiryDate": "2026-12-03T10:57:00.000Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png"
     },
     {
       "title": "Lonely in the Winter",
